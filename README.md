@@ -3,19 +3,19 @@
 تعريب عربي غير رسمي مع مثبت بواجهة عربية، وفحص للإصدار، ونسخة احتياطية واسترجاع.
 يدعم إصدار Steam الخاص بـWindows، ونسخته العاملة عبر Proton على Linux وSteam Deck.
 
-[![الإصدار](https://img.shields.io/badge/release-v0.2.0--beta.1-ea8c35)](https://github.com/exelight7/metro-exodus-arabic/releases/tag/v0.2.0-beta.1)
+[![الإصدار](https://img.shields.io/badge/release-v0.2.0--beta.2-ea8c35)](https://github.com/exelight7/metro-exodus-arabic/releases/tag/v0.2.0-beta.2)
 [![الحالة](https://img.shields.io/badge/status-public_beta-orange)](https://github.com/exelight7/metro-exodus-arabic/releases)
 
 ## التنزيل
 
 | النظام | الملف |
 |---|---|
-| Windows x86_64 | [مثبت EXE](https://github.com/exelight7/metro-exodus-arabic/releases/download/v0.2.0-beta.1/Metro-Arabic-Installer-Windows.exe) |
-| Linux وSteam Deck — لعبة Windows عبر Proton | [مثبت AppImage](https://github.com/exelight7/metro-exodus-arabic/releases/download/v0.2.0-beta.1/Metro-Arabic-Installer-Proton-x86_64.AppImage) |
-| المصدر والفروقات | [المشروع كاملًا ZIP](https://github.com/exelight7/metro-exodus-arabic/releases/download/v0.2.0-beta.1/Metro-Exodus-Arabic-v0.2.0-beta.1-Full-Project.zip) |
-| التحقق من التنزيل | [SHA256SUMS.txt](https://github.com/exelight7/metro-exodus-arabic/releases/download/v0.2.0-beta.1/SHA256SUMS.txt) |
+| Windows x86_64 | [مثبت EXE](https://github.com/exelight7/metro-exodus-arabic/releases/download/v0.2.0-beta.2/Metro-Arabic-Installer-Windows.exe) |
+| Linux وSteam Deck — لعبة Windows عبر Proton | [مثبت AppImage](https://github.com/exelight7/metro-exodus-arabic/releases/download/v0.2.0-beta.2/Metro-Arabic-Installer-Proton-x86_64.AppImage) |
+| المصدر والفروقات | [المشروع كاملًا ZIP](https://github.com/exelight7/metro-exodus-arabic/releases/download/v0.2.0-beta.2/Metro-Exodus-Arabic-v0.2.0-beta.2-Full-Project.zip) |
+| التحقق من التنزيل | [SHA256SUMS.txt](https://github.com/exelight7/metro-exodus-arabic/releases/download/v0.2.0-beta.2/SHA256SUMS.txt) |
 
-**[صفحة الإصدار](https://github.com/exelight7/metro-exodus-arabic/releases/tag/v0.2.0-beta.1) · [شرح التثبيت وProton](docs/INSTALLATION_AR.md)**
+**[صفحة الإصدار](https://github.com/exelight7/metro-exodus-arabic/releases/tag/v0.2.0-beta.2) · [شرح التثبيت وProton](docs/INSTALLATION_AR.md)**
 
 ![واجهة مثبت التعريب](assets/installer-preview.png)
 
@@ -52,7 +52,7 @@ Steam Deck وحل عدم توفر FUSE موجود في [دليل التثبيت]
 
 - [دليل المصدر واستعادة بيئة العمل](docs/FULL_PROJECT_AR.md)
 - [Skill حوارات 4A](skills/foura-dialogue/SKILL.md) · [التوافق وحدود الدعم](skills/foura-dialogue/references/formats.md)
-- [تحميل Skill جاهز](https://github.com/exelight7/metro-exodus-arabic/releases/download/v0.2.0-beta.1/FourA-Dialogue-Skill.zip) · [تحميل الأدوات مستقلة](https://github.com/exelight7/metro-exodus-arabic/releases/download/v0.2.0-beta.1/FourA-Dialogue-Toolkit.zip)
+- [تحميل Skill جاهز](https://github.com/exelight7/metro-exodus-arabic/releases/download/v0.2.0-beta.2/FourA-Dialogue-Skill.zip) · [تحميل الأدوات مستقلة](https://github.com/exelight7/metro-exodus-arabic/releases/download/v0.2.0-beta.2/FourA-Dialogue-Toolkit.zip)
 
 استعادة المشروع تقرأ ملفات اللعبة الأصلية محليًا وتتحقق من البصمات؛ لا توزّع
 أرشيفات اللعبة أو ملفاتها التنفيذية. ملفات المثبّت في هذا الإصدار مطابقة لنسخة

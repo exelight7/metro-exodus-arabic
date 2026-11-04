@@ -1,5 +1,5 @@
 {
-  "tag": "v0.2.0-beta.1",
+  "tag": "v0.2.0-beta.2",
   "scope": "All shareable authoring sources; originals recovered locally",
   "excluded": [
     "01_original/",
@@ -25,8 +25,8 @@
       "sha256": "640f6677f1c2cc61bb80675f735fa8d8b9a3ca7740cdc3bc5c171b5ed70ca276"
     },
     "CHANGELOG.md": {
-      "bytes": 1535,
-      "sha256": "5906b9846cacb3ed65704d0a2abec59a8cb411fb62fb0feecdc017c2188db472"
+      "bytes": 2389,
+      "sha256": "8cfe6e1ed9f6fb09bcd9ea81ce6d34261b1dc21d667805b7150105540b1c6a7c"
     },
     "LICENSE": {
       "bytes": 1089,
@@ -34,11 +34,11 @@
     },
     "project.json": {
       "bytes": 5488,
-      "sha256": "fd1a93b0cd12e854abf6944c34c3bc65a3a601b0947e48d7800c433a13b709ef"
+      "sha256": "feebed627c21385bba640b07d70bcaaab79b473de66d24a5a22258aceb6fc5e2"
     },
     "README.md": {
       "bytes": 6114,
-      "sha256": "c300d62ffcae03cb58f3eb3b237587106be983be245685bf7d9ead109cd90dff"
+      "sha256": "91813eeac957b9b4f283bc7e44967e1e69ed648057676da08c468966bc1f4805"
     },
     "requirements-project.txt": {
       "bytes": 221,
@@ -186,11 +186,11 @@
     },
     "docs/FULL_PROJECT_AR.md": {
       "bytes": 5164,
-      "sha256": "5bac3a9ed6f56fb91bf644291425152b0582a444fd797e73c0643900bf6ac370"
+      "sha256": "44adf0d81b6400c2c32499ff547831fa6295b84227e32073fe053a42e2b674b0"
     },
     "docs/INSTALLATION_AR.md": {
       "bytes": 4281,
-      "sha256": "45ad3cb6c003457796f026c3346ad48b2c5bf15e490410d7855633550690ff84"
+      "sha256": "6be71ca321da63dc030a87026dfc4695c40241293c6f47b3557cc3fbf88d48ab"
     },
     "docs/QA.md": {
       "bytes": 975,
@@ -405,8 +405,8 @@
       "sha256": "d1c8958d6f9c5efa57045904391532811151d5eea28fa5cd5548499682598e8b"
     },
     "tools/prepare_full_project_release.py": {
-      "bytes": 22578,
-      "sha256": "2d3f1e6aa62a810a93001bd8ce5866be8a904cce0f41d53f1131d3f849af93b5"
+      "bytes": 23128,
+      "sha256": "24def6ed74be11333330bb9ae30e058171a4cccbb2e42e159c617e8fe2681049"
     },
     "tools/prepare_public_release.py": {
       "bytes": 22561,
@@ -421,8 +421,8 @@
       "sha256": "451ed3d2e3dbb4183f5c64ed9ceb9ff2b87c814a4f48a1e8fcae4ecd9761058f"
     },
     "tools/publish_github_release.py": {
-      "bytes": 8681,
-      "sha256": "f6201ba10494369f4e9da127b73475e1067fa4ae51416ac73406fecc4616f5d1"
+      "bytes": 9612,
+      "sha256": "19025b6bbfc833e14aa55940589ffa47ad4f5ae6bd82170882edc2645a7feece"
     },
     "tools/rebuild_text.py": {
       "bytes": 3232,
@@ -489,8 +489,8 @@
       "sha256": "647fc5df725aaf3fc97a805d164184867587ba3331ba426c5420b88268336003"
     },
     "tools/verify_github_release.py": {
-      "bytes": 3641,
-      "sha256": "59ee77b2f50d821a328651501891c0a3267f5b9aa611ea9659882ce6620a6846"
+      "bytes": 3657,
+      "sha256": "f567a45fad9f2f61d47db333bbc91cd2f0a6ff39f42445b5dec8e3f34d3d1a6f"
     },
     "tools/verify_graphics_fonts.py": {
       "bytes": 4228,
@@ -963,6 +963,10 @@
     "08_qa/audit/github_publication_verified.json": {
       "bytes": 2722,
       "sha256": "87cc325ad8f06c0324c25ac32ff683e4ef13efdf389ec7dbf6883844e8173d47"
+    },
+    "08_qa/audit/github_publication_verified_v0.2.0-beta.1.json": {
+      "bytes": 3450,
+      "sha256": "fddd7d5bf42b43d8fa5e4a71508552a89989235556268af1f91844c1ef400b24"
     },
     "08_qa/audit/graphics_label_r1.json": {
       "bytes": 552,

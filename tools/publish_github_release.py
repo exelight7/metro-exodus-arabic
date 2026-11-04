@@ -40,7 +40,7 @@ class GitHub:
         # Child-only Git config avoids tokens in command lines, URLs and files.
         env['GIT_CONFIG_COUNT']='1';env['GIT_CONFIG_KEY_0']='http.https://github.com/.extraheader'
         env['GIT_CONFIG_VALUE_0']='Authorization: Basic '+base64.b64encode(('x-access-token:'+self.token).encode()).decode()
-        r=subprocess.run(['git','-C',str(CHECKOUT),*args],env=env,text=True,capture_output=True,timeout=180)
+        r=subprocess.run(['git','-C',str(CHECKOUT),*args],env=env,text=True,encoding='utf-8',capture_output=True,timeout=180)
         if r.returncode:raise RuntimeError('Git operation failed: '+r.stderr.replace(self.token,'[redacted]')[-1800:])
         return r.stdout.strip()
     def upload(self,release_id,path):
@@ -78,13 +78,26 @@ def publish():
     g.git('fetch','origin','main');assert g.git('rev-parse','HEAD')==g.git('rev-parse','origin/main'), 'Remote branch changed; review before publishing'
     g.git('config','user.name','exelight7');g.git('config','user.email','183371784+exelight7@users.noreply.github.com')
     roots=['README.md','.gitignore','CHANGELOG.md','installer','translations','docs','assets']
-    if TAG=='v0.2.0-beta.1':roots+=['.gitattributes','AGENTS.md','project.json','requirements-project.txt','03_translation','04_fonts','05_media','08_qa','project_seed','tools','skills']
+    if TAG.startswith('v0.2.0-beta.'):roots+=['.gitattributes','LICENSE','AGENTS.md','project.json','requirements-project.txt','03_translation','04_fonts','05_media','08_qa','project_seed','tools','skills']
     g.git('add','--',*roots)
+    # Re-read old tracked files after disabling newline conversion. Git's cached
+    # stat information otherwise leaves pre-existing normalized blobs unchanged.
+    if TAG.startswith('v0.2.0-beta.'):
+        g.git('add','--renormalize','--',*roots)
+        tree={}
+        for record in g.git('ls-files','--stage','-z').split('\0'):
+            if not record:continue
+            metadata,name=record.split('\t',1);tree[name]=metadata.split()[1]
+        source_manifest=json.loads((CHECKOUT/'docs/SOURCE_MANIFEST.json').read_text(encoding='utf-8'))
+        for name,entry in source_manifest['files'].items():
+            raw=(CHECKOUT/name).read_bytes()
+            assert hashlib.sha256(raw).hexdigest()==entry['sha256'],name
+            assert tree.get(name)==hashlib.sha1(b'blob '+str(len(raw)).encode()+b'\0'+raw).hexdigest(), 'Staged source bytes differ: '+name
     staged=g.git('diff','--cached','--name-only').splitlines();assert staged
     allowed=tuple(n+'/' for n in roots if (CHECKOUT/n).is_dir())
     assert all(n in roots or n.startswith(allowed) for n in staged)
     assert not any(n.lower().endswith(('.exe','.vfs0','.vfx','.appimage','.dll','.pyd')) for n in staged)
-    title='Publish full authoring project and 4A dialogue Skill/toolkit' if TAG=='v0.2.0-beta.1' else 'Publish Arabic patch sources and Windows/Proton installer beta'
+    title='Publish full authoring project and 4A dialogue Skill/toolkit' if TAG.startswith('v0.2.0-beta.') else 'Publish Arabic patch sources and Windows/Proton installer beta'
     g.git('commit','-m',title)
     commit=g.git('rev-parse','HEAD');print('Publishing source commit',commit,flush=True)
     g.git('push','origin','main')
@@ -110,7 +123,7 @@ def publish():
 
 if __name__=='__main__':
     if hasattr(sys.stdout,'reconfigure'):sys.stdout.reconfigure(encoding='utf-8')
-    parser=argparse.ArgumentParser(description=__doc__);parser.add_argument('--publish',action='store_true');parser.add_argument('--tag',default=TAG,choices=['v0.1.0-beta.1','v0.2.0-beta.1']);args=parser.parse_args()
+    parser=argparse.ArgumentParser(description=__doc__);parser.add_argument('--publish',action='store_true');parser.add_argument('--tag',default=TAG,choices=['v0.1.0-beta.1','v0.2.0-beta.1','v0.2.0-beta.2']);args=parser.parse_args()
     TAG=args.tag;RELEASE=ROOT/'09_release'/TAG
     if args.publish:publish()
     else:info()

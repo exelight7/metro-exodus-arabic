@@ -1,0 +1,76 @@
+{
+  "url": "https://github.com/exelight7/metro-exodus-arabic/releases/tag/v0.2.0-beta.1",
+  "tag": "v0.2.0-beta.1",
+  "commit": "0fd31431d8735cf04fb5cdb10586c1974192911d",
+  "public_release": true,
+  "prerelease": true,
+  "asset_count": 9,
+  "all_server_digests_match": true,
+  "public_guide_download_verified": true,
+  "public_skill_download_verified": true,
+  "assets": [
+    {
+      "id": 709162202,
+      "name": "FourA-Dialogue-Skill.zip",
+      "size": 19240,
+      "digest": "sha256:209dd11961ce956ae5f86aae93e633fd3f54d5db5f139ef95568b564620a6894",
+      "browser_download_url": "https://github.com/exelight7/metro-exodus-arabic/releases/download/v0.2.0-beta.1/FourA-Dialogue-Skill.zip"
+    },
+    {
+      "id": 709162292,
+      "name": "FourA-Dialogue-Toolkit.zip",
+      "size": 16366,
+      "digest": "sha256:d33c034b050fb0008e8f716e16e147f0048ad700a56552609f0f2b8e17ffa8fb",
+      "browser_download_url": "https://github.com/exelight7/metro-exodus-arabic/releases/download/v0.2.0-beta.1/FourA-Dialogue-Toolkit.zip"
+    },
+    {
+      "id": 709162379,
+      "name": "FULL_PROJECT_AR.md",
+      "size": 5164,
+      "digest": "sha256:5bac3a9ed6f56fb91bf644291425152b0582a444fd797e73c0643900bf6ac370",
+      "browser_download_url": "https://github.com/exelight7/metro-exodus-arabic/releases/download/v0.2.0-beta.1/FULL_PROJECT_AR.md"
+    },
+    {
+      "id": 709162432,
+      "name": "INSTALLATION_AR.md",
+      "size": 4281,
+      "digest": "sha256:45ad3cb6c003457796f026c3346ad48b2c5bf15e490410d7855633550690ff84",
+      "browser_download_url": "https://github.com/exelight7/metro-exodus-arabic/releases/download/v0.2.0-beta.1/INSTALLATION_AR.md"
+    },
+    {
+      "id": 709161212,
+      "name": "Metro-Arabic-Installer-Proton-x86_64.AppImage",
+      "size": 119773688,
+      "digest": "sha256:02f071edda49cadb64f0b92cce7e088e70cdc9b772e2129cb71184c672188b68",
+      "browser_download_url": "https://github.com/exelight7/metro-exodus-arabic/releases/download/v0.2.0-beta.1/Metro-Arabic-Installer-Proton-x86_64.AppImage"
+    },
+    {
+      "id": 709160947,
+      "name": "Metro-Arabic-Installer-Windows.exe",
+      "size": 43075872,
+      "digest": "sha256:e8f23bc3f45984582d0c09781f68a06ce0791167ab0de2009192251edb21bee8",
+      "browser_download_url": "https://github.com/exelight7/metro-exodus-arabic/releases/download/v0.2.0-beta.1/Metro-Arabic-Installer-Windows.exe"
+    },
+    {
+      "id": 709162065,
+      "name": "Metro-Exodus-Arabic-v0.2.0-beta.1-Full-Project.zip",
+      "size": 19601562,
+      "digest": "sha256:2f2c9884264765ce93c0cf384819476c09fc2dbe8a20681ccc3dd6fc091828c9",
+      "browser_download_url": "https://github.com/exelight7/metro-exodus-arabic/releases/download/v0.2.0-beta.1/Metro-Exodus-Arabic-v0.2.0-beta.1-Full-Project.zip"
+    },
+    {
+      "id": 709162546,
+      "name": "QA.json",
+      "size": 3656,
+      "digest": "sha256:1c6bbe1901646eb26c991eb1a17bd5e65eff6762418dd22a60307932b145ad17",
+      "browser_download_url": "https://github.com/exelight7/metro-exodus-arabic/releases/download/v0.2.0-beta.1/QA.json"
+    },
+    {
+      "id": 709162637,
+      "name": "SHA256SUMS.txt",
+      "size": 758,
+      "digest": "sha256:52a7606420bbe7e2f545fc3657533cfa0e94e3b712a37df4efe1f171027801d3",
+      "browser_download_url": "https://github.com/exelight7/metro-exodus-arabic/releases/download/v0.2.0-beta.1/SHA256SUMS.txt"
+    }
+  ]
+}

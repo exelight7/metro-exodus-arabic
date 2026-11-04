@@ -4,7 +4,7 @@ import collections, csv, hashlib, json, re, shutil, zipfile
 
 ROOT = Path(__file__).resolve().parents[1]
 REPO = ROOT/'06_build/github_publish'
-TAG = 'v0.2.0-beta.1'
+TAG = 'v0.2.0-beta.2'
 OUT = ROOT/'09_release'/TAG
 BASE = 'https://github.com/exelight7/metro-exodus-arabic'
 DOWNLOAD = BASE+'/releases/download/'+TAG
@@ -193,8 +193,11 @@ VFX 1 و2 لهما اختبارات اصطناعية فقط. QuickLZ القدي�
 - Translation source/context is included for editing this localization; Metro Exodus text and game resources remain the property of their respective owners. The project license does not relicense the game.
 ''')
     guide=(REPO/'docs/INSTALLATION_AR.md').read_text(encoding='utf-8').replace('v0.1.0-beta.1',TAG)
+    guide=re.sub(r'v0\.2\.0-beta\.\d+',TAG,guide)
     write(REPO/'docs/INSTALLATION_AR.md',guide);write(OUT/'INSTALLATION_AR.md',guide)
     readme=(REPO/'README.md').read_text(encoding='utf-8').replace('v0.1.0-beta.1',TAG).replace('v0.1.0--beta.1',TAG.replace('-','--'))
+    readme=re.sub(r'v0\.2\.0-beta\.\d+',TAG,readme)
+    readme=re.sub(r'v0\.2\.0--beta\.\d+',TAG.replace('-','--'),readme)
     readme=readme.replace('Metro-Exodus-Arabic-'+TAG+'-Source.zip','Metro-Exodus-Arabic-'+TAG+'-Full-Project.zip')
     readme=readme.replace('Source ZIP','المشروع كاملًا ZIP')
     readme=readme.replace(TAG+' المختبرة؛ الإضافات','v0.1.0-beta.1 المختبرة؛ الإضافات')
@@ -225,6 +228,10 @@ v0.1.0-beta.1 المختبرة؛ الإضافات هنا للمصدر وأدوا
 - المثبتان والحزمة العربية مطابقان للإصدار السابق، مع بقاء قيود الجودة المعلنة.
 ''')
     write(REPO/'CHANGELOG.md',changelog)
+    if TAG=='v0.2.0-beta.2':
+        text=(REPO/'CHANGELOG.md').read_text(encoding='utf-8')
+        text=text.replace('## '+TAG+' — 2026-11-04\n','## '+TAG+' — 2026-11-04\n\n- توحيد بايتات الملفات القديمة بين المستودع وحزمة المصدر؛ فحص بصمات كل ملف قبل النشر.\n')
+        write(REPO/'CHANGELOG.md',text)
     write(REPO/'.gitignore','''__pycache__/
 *.pyc
 .venv/

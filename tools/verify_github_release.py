@@ -35,4 +35,4 @@ def main():
     (ROOT/'08_qa/audit'/('github_publication_verified.json' if TAG=='v0.1.0-beta.1' else 'github_publication_verified_'+TAG+'.json')).write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding='utf-8')
     print(json.dumps(dict(url=report['url'],public=True,assets=len(assets),digests_verified=True,download_verified=True)))
 if __name__=='__main__':
-    parser=argparse.ArgumentParser();parser.add_argument('--tag',default=TAG,choices=['v0.1.0-beta.1','v0.2.0-beta.1']);TAG=parser.parse_args().tag;main()
+    parser=argparse.ArgumentParser();parser.add_argument('--tag',default=TAG,choices=['v0.1.0-beta.1','v0.2.0-beta.1','v0.2.0-beta.2']);TAG=parser.parse_args().tag;main()
