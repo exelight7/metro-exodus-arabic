@@ -1,0 +1,12 @@
+{
+  "game_dir": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Metro Exodus",
+  "original_index_sha256": "19d953db824e487f63f3a15f7a95883d1706470c09aa45ecfc490765438f13b4",
+  "files": {
+    "patch_04.vfx": "85e5b2924d4b4891ece33f71a54bdb0fd102a9cf8e57d8c530dd74aedf914afe",
+    "metro_arabic.vfs0": "f8bf09066b91d3174cbaea104eae47765b0a58068acac68f7df8fdd88eeecf27"
+  },
+  "redirected_entries": 11,
+  "runtime_tested": false,
+  "translation_quality": "machine_draft_with_reviewed_ui",
+  "untranslated_entries": 941
+}

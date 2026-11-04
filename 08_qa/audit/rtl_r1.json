@@ -1,0 +1,41 @@
+{
+  "total": 38221,
+  "statuses": {
+    "draft": 37061,
+    "skip": 840,
+    "reviewed": 320
+  },
+  "origins": {
+    "machine_draft": 37061,
+    "preserved": 840,
+    "reviewed": 320
+  },
+  "original_characters": 203,
+  "built_characters": 427,
+  "roundtrip_original_sha256": "edc121baec72a2c173045df267e52c283f780a07e6ef879386c98b57e90e2786",
+  "built_sha256": "969e7fe498ee4f34736b0eac3526ad1a7d0a67c40a8252b139ebb0826fe385fd",
+  "issues": [],
+  "subtitle_layout": {
+    "integrated_speaker_entries": 10758,
+    "timed_entries": 39
+  },
+  "runtime_tested": false,
+  "render_mode": "visual_assumed_unverified",
+  "timed_entries_verified": 39,
+  "translated_cues_verified": 311,
+  "verified_speaker_lines": 10699,
+  "packaged_ascii_checks": 496,
+  "complementary_font_masks_verified": true,
+  "menu_records_preserved": 210,
+  "native_subtitle_control_count": 2,
+  "native_overlay_subscription_verified": false,
+  "rtl_layout_entries": 32482,
+  "right_aligned_native_advances": true,
+  "rtl_animation_supported": false,
+  "right_alignment_profile_entries": 31787,
+  "right_alignment_unresolved_entries": 695,
+  "unbreakable_overwidth_entries": 0,
+  "live_install_hashes_verified": true,
+  "independent_install_restore_verified": true,
+  "game_launched": false
+}

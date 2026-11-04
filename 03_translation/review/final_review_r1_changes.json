@@ -1,0 +1,68 @@
+[
+  {
+    "id": "ACH_iron_man",
+    "source": "Iron Mode",
+    "before": "وضع الحديد",
+    "target": "وضع الرجل الحديدي"
+  },
+  {
+    "id": "general_hint_91_2034",
+    "source": "Reports of a massive bear-like mutant in the old city center have spread through Metro. Watchmen have been seen trying to attack it, but it generally will leave humans alone unless threatened.",
+    "before": "انتشرت التقارير عن وجود متحولة ضخمة تشبه الدب في وسط المدينة القديمة عبر مترو. لقد شوهد الحراس وهم يحاولون مهاجمته، لكنه بشكل عام سيترك البشر وشأنهم ما لم يتعرضوا للتهديد.",
+    "target": "انتشرت في المترو أخبار عن متحول ضخم يشبه الدب في وسط المدينة القديمة. وشوهدت مخلوقات «الحراس» تحاول مهاجمته، لكنه يترك البشر وشأنهم عادة ما لم يهددوه."
+  },
+  {
+    "id": "voices\\m3_13_dead_city\\nvs_007_firstwalkwithkirill_04_07",
+    "source": "<ffx:wonder_light>Green stuff? What's that? <ffx:neutral>",
+    "before": "<ffx:wonder_light>الأشياء الخضراء؟ ما هذا؟<ffx:neutral>",
+    "target": "<ffx:wonder_light>المادة الخضراء؟ ما هي؟ <ffx:neutral>"
+  },
+  {
+    "id": "ACH_iron_man_DESC_unlocked",
+    "source": "Completed the game in Iron Mode.",
+    "before": "أكملت اللعبة في وضع الحديد.",
+    "target": "أكملت اللعبة في وضع الرجل الحديدي."
+  },
+  {
+    "id": "video_optimal_settings",
+    "source": "Optimal video settings were applied automatically. Use Options > Video to modify these.",
+    "before": "تم تطبيق إعدادات الفيديو المثالية تلقائيًا. استخدم الخيارات > الفيديو لتعديلها.",
+    "target": "طبقت إعدادات الرسوميات المثلى تلقائيا. لتعديلها، انتقل إلى الإعدادات > الرسوميات."
+  },
+  {
+    "id": "auto_aim_border",
+    "source": "AUTO AIM BORDER",
+    "before": "حدود الهدف التلقائي",
+    "target": "حدود التصويب التلقائي"
+  },
+  {
+    "id": "ACH_iron_man_DESC",
+    "source": "Complete the game in Iron Mode.",
+    "before": "أكمل اللعبة في وضع الحديد.",
+    "target": "أكمل اللعبة في وضع الرجل الحديدي."
+  },
+  {
+    "id": "m3_special_ammo_hint_xbox",
+    "source": "Tikhar rifle can be loaded with Incendiary Ammunition. Open weapon inventory by holding <popup_equipment>",
+    "before": "يمكن تحميل بندقية تيخار بالذخيرة الحارقة. افتح قائمة الأسلحة بالضغط على <popup_equipment>",
+    "target": "يمكن تلقيم بندقية تيخار بذخيرة حارقة. اضغط باستمرار على <popup_equipment> لفتح قائمة الأسلحة."
+  },
+  {
+    "id": "menu_customize_barrel2_dsc",
+    "source": "Double barrels allow chambering two rounds, which can be shot in a salvo or separately.",
+    "before": "تتيح السبطانتان تحميل طلقتين يمكن إطلاقهما معا أو كل منهما على حدة.",
+    "target": "تتيح السبطانتان تلقيم طلقتين يمكن إطلاقهما معا أو كل منهما على حدة."
+  },
+  {
+    "id": "downloading",
+    "source": "DOWNLOADING...",
+    "before": "جارٍ التحميل...",
+    "target": "جارٍ التنزيل..."
+  },
+  {
+    "id": "quick_load_date",
+    "source": "QUICK LOAD (<quicksave_date> min ago)",
+    "before": "التحميل السريع (منذ دقيقة<quicksave_date>)",
+    "target": "التحميل السريع (منذ <quicksave_date> دقيقة)"
+  }
+]

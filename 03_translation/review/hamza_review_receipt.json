@@ -1,0 +1,242 @@
+[
+  {
+    "id": "voices\\universal_m3\\factions\\merc_2\\context\\context_alert_tank_02",
+    "source": "The tank over there! He's near it!",
+    "target": "الدبابة هناك! إنه بالقرب منها!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\tribal_3\\context\\context_alert_down_01",
+    "source": "See? He's down there! Down there!",
+    "target": "أترون؟ إنه هناك في الأسفل! في الأسفل!"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_022_sam_captured_boatride_arrival_03_01",
+    "source": "Look, it's the boss!",
+    "target": "انظروا، إنه الزعيم!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_2\\context\\context_alert_tree_01",
+    "source": "The tree! He's behind it!",
+    "target": "الشجرة! إنه خلفها!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_3\\context\\context_alert_barrels_02",
+    "source": "Guys! He's at the barrels!",
+    "target": "يا رفاق! إنه عند البراميل!"
+  },
+  {
+    "id": "voices\\m3_13_dead_city\\nvs_007_meetingkolya_05",
+    "source": "<ffx:anger_light>Artyom, don’t waste time! He'll get away! <ffx:neutral>",
+    "target": "<ffx:anger_light>أرتيوم، لا تضيع الوقت! سيفلت منا!<ffx:neutral>"
+  },
+  {
+    "id": "voices\\m3_dlc1\\dlc1_72_9_1_search_01_03",
+    "source": "Enough already! It's taking too long!",
+    "target": "كفى! لقد طال الأمر كثيرًا!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_3\\context\\context_alert_pass_02",
+    "source": "Got visual! He's in the pass!",
+    "target": "أراه! إنه في الممر!"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_150_audiolog_tomfan_vs_klimfan_01_02",
+    "source": "What do we need them for?! He's getting away! We gotta act! Let's get him with a pincer movement, just the two of us is enough!",
+    "target": "ما حاجتنا إليهم؟! إنه يفلت منا! علينا التحرك! لنحاصره من الجانبين، نحن الاثنان كافيان!"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_212_11_sniperbattle_attackingplayer_02_06",
+    "source": "He's fucking dead now!",
+    "target": "لقد مات اللعين الآن!"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_220_07_sam_captain_partyallnight_01_06",
+    "source": "He's going to become... A pirate! With nukes! And that's it!",
+    "target": "سيصبح... قرصانًا! بأسلحة نووية! وهذا كل شيء!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_1\\context\\context_alert_up_02",
+    "source": "Guys! Look up! He's up there!",
+    "target": "يا رفاق! انظروا إلى الأعلى! إنه هناك!"
+  },
+  {
+    "id": "voices\\m3_10_yamantau\\yam_099_cannibal_attack_02_04",
+    "source": "It's meeeeeat!",
+    "target": "إنه لحــــم!"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_020_portmissionoutcomegood_01",
+    "source": "Stay calm! It's us!",
+    "target": "اهدؤوا! نحن هنا!"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_120_taleoftwobrothers_brothes_reunion_01_13",
+    "source": "He's coming back soon... Then you'll see!",
+    "target": "سيعود قريبًا... وسترون حينها!"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_212_16_sniperbattle_searchforsam_01_04",
+    "source": "Find that fucker people! He's still here!",
+    "target": "اعثروا على ذلك اللعين يا رفاق! إنه ما زال هنا!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_1\\danger\\enemy_dead_animal_03",
+    "source": "It finally croaked!",
+    "target": "لقد مات أخيرًا!"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_040_07_portmission_annastealthupport_10",
+    "source": "He's going strainght for you, hide!",
+    "target": "إنه يتجه نحوك مباشرة، اختبئ!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_3\\context\\context_alert_slabs_03",
+    "source": "Guys! He's behind them slabs!",
+    "target": "يا رفاق! إنه خلف تلك الألواح!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_3\\context\\context_alert_logs_03",
+    "source": "Behind those logs! He's there!",
+    "target": "خلف تلك الجذوع! إنه هناك!"
+  },
+  {
+    "id": "voices\\m3_02_dead_moscow\\dmc_010_02_baseinfiltration_02_05",
+    "source": "<ffx:fear_light>Yes, sir! It's under constant watch! <ffx:neutral>",
+    "target": "<ffx:fear_light>نعم يا سيدي! إنها تحت المراقبة المستمرة!<ffx:neutral>"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_080_twoneutrals_seastories_02_06",
+    "source": "Of course! It's bullshit!",
+    "target": "بالطبع! هذا هراء!"
+  },
+  {
+    "id": "voices\\m3_13_dead_city\\nvs_011_driveback_21",
+    "source": "<ffx:wonder_strong>Get up! It's very close now!<ffx:neutral>",
+    "target": "<ffx:wonder_strong>انهض! إنها قريبة جدًا الآن!<ffx:neutral>"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\cannibal_3\\stunned\\stunned_found_02",
+    "source": "Whaaa? He's live! Hey! That rat just knocked our guy out!",
+    "target": "ماذا؟ إنه حي! مهلاً! لقد أفقد ذلك الجرذ رجلنا وعيه للتو!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\cannibal_3\\context\\context_alert_down_01",
+    "source": "There's the rat! He's down there!",
+    "target": "ها هو الجرذ! إنه هناك في الأسفل!"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_160_40_boatbase_outpost_01_02",
+    "source": "It's simple. They can be trained, with some effort, of course. The hardest part is teaching them not to jump at people without a command, but once they learn that, it's smooth sailing.",
+    "target": "الأمر بسيط. يمكن تدريبها ببعض الجهد طبعًا. أصعب ما في الأمر تعليمها ألا تنقض على الناس دون أمر، لكن ما إن تتعلم ذلك حتى تصبح الأمور سهلة."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\tribal_2\\uber_alert\\uber_alert_01",
+    "source": "He is here! He's close! Get him, make Myrza happy!",
+    "target": "إنه هنا! إنه قريب! أمسكوا به وأسعدوا ميرزا!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_3\\context\\context_alert_shack_03",
+    "source": "See him, guys! That shack! He's fucking there!",
+    "target": "أراه يا رفاق! ذلك الكوخ! اللعين هناك!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\cannibal_2\\uber_alert\\uber_alert_toomuchnoise_03",
+    "source": "he's here! Here! Here, everyone! I hear meat here!",
+    "target": "إنه هنا! هنا! تعالوا جميعًا! أسمع لحمًا هنا!"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_110_taleoftwobrothers_brother2_ranting_01_02",
+    "source": "He's insane! Completely off his rocker...",
+    "target": "إنه مجنون! لقد فقد صوابه تمامًا..."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\cannibal_3\\context\\context_alert_up_03",
+    "source": "He's up there! Look!",
+    "target": "إنه هناك في الأعلى! انظروا!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_1\\context\\context_alert_carriage_03",
+    "source": "Visual! See that carriage? He's there!",
+    "target": "أراه! أترون تلك العربة؟ إنه هناك!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_1\\context\\context_alert_pass_02",
+    "source": "See the enemy! He's in the pass!",
+    "target": "أرى العدو! إنه في الممر!"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_212_11_05_sniperbattle_secondwavespawn_01_04",
+    "source": "Guys, get the fucker! He's still alive!",
+    "target": "يا رفاق، أمسكوا باللعين! إنه ما زال حيًا!"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_045_dock_boatguards_01_13",
+    "source": "Well, she's all yours!",
+    "target": "حسنًا، إنها لكم!"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_656_60_assault_group_02_search_pillage_conversation_06",
+    "source": "Fuck no! It's ours! We're pirates, so start acting like one - take shit and kill all who interfere!",
+    "target": "كلا، تبًا! إنها لنا! نحن قراصنة، فتصرفوا كقراصنة: استولوا على ما تريدون واقتلوا كل من يعترضكم!"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_004_sam_captain_meeting_01_04",
+    "source": "Wow! A submarine! It's freaking huge!",
+    "target": "يا للروعة! غواصة! إنها ضخمة جدًا!"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_040_dock_04_guards_04_05",
+    "source": "It's just closed!",
+    "target": "إنها مغلقة فحسب!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_2\\uber_alert\\uber_alert_single_threat_notfound_03",
+    "source": "The fucking chickenshit! He's not here! Gotta look for him again! Shit!",
+    "target": "ذلك الجبان اللعين! إنه ليس هنا! علي البحث عنه من جديد! تبًا!"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_004_sam_captain_meeting_01_04_01",
+    "source": "Wow! A submarine! It's freaking huge! A nice ticket home...",
+    "target": "يا للروعة! غواصة! إنها ضخمة جدًا! وسيلة رائعة للعودة إلى الديار..."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_1\\context\\context_alert_pillar_03",
+    "source": "(whistle) Guys! That pillar! He's there!",
+    "target": "(صافرة) يا رفاق! ذلك العمود! إنه هناك!"
+  },
+  {
+    "id": "voices\\m3_dlc1\\dlc1_102_olkach_again_01_02",
+    "source": "Ah, she's dead...",
+    "target": "آه، لقد ماتت..."
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_024_tower_bandits_talk_03_02",
+    "source": "<ffx:wonder>Why? It's just lightning and mold here! <ffx:neutral>",
+    "target": "<ffx:wonder>لماذا؟ لا يوجد هنا سوى البرق والعفن!<ffx:neutral>"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_2\\danger\\enemy_dead_animal_03",
+    "source": "It croaked! Finally!",
+    "target": "لقد مات! أخيرًا!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_1\\uber_alert\\uber_alert_toomuchnoise_01",
+    "source": "I heard that, drifter! He's over here!",
+    "target": "سمعته أيها الجوال! إنه هنا!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\cannibal_1\\uber_alert\\uber_alert_enemy_human_01",
+    "source": "Aaaa! He's there!",
+    "target": "آآآه! إنه هناك!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_1\\uber_alert\\uber_alert_toomuchnoise_01",
+    "source": "Solid sound contact! He's over here!",
+    "target": "أسمعه بوضوح! إنه هنا!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_1\\context\\context_alert_warehouse_01",
+    "source": "The storage! He's in there!",
+    "target": "المخزن! إنه بالداخل!"
+  }
+]

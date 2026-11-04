@@ -1,0 +1,171 @@
+{
+  "revision": "formal_terms_r4",
+  "audited_rows": 38221,
+  "canonical_labels": 79,
+  "context_rules": 22,
+  "changed_entries": 31,
+  "unrelated_entries_preserved": 38192,
+  "forbidden_transliterations_remaining": [],
+  "other_payloads_identical": true,
+  "canonical_speaker_names_preserved": true,
+  "tags_and_timelines_preserved": true,
+  "runtime_tested": false,
+  "changes": [
+    {
+      "id": "m3_suit_upg_helm_3_desc",
+      "source": "Heavier variant of the standard Spartan helmet. It employs a more advanced composite material as its base, thus providing increased ballistic protection.",
+      "target": "نسخة أثقل من خوذة إسبرطة القياسية. صنعت من مادة مركبة أكثر تطورا لتوفير حماية أفضل من الرصاص."
+    },
+    {
+      "id": "m3_suit_upg_helm_11_desc",
+      "source": "External-wear plate carrier provides ballistic cloth-based protection for the wearer's front, back and sides. This protection can be enhanced by adding rigid armor plates.",
+      "target": "سترة لحمل صفائح التدريع ترتدى فوق الملابس، وتوفر حماية نسيجية من الرصاص للصدر والظهر والجانبين. ويمكن تعزيزها بإضافة صفائح تدريع صلبة."
+    },
+    {
+      "id": "m3_suit_upg_helm_7_desc",
+      "source": "Semi-rigid differentiated protection body armor, combining ballistic cloth with rigid protective plate reinforcing protection of the critical areas.",
+      "target": "درع يجمع بين نسيج واق من الرصاص وصفائح صلبة لتعزيز حماية المناطق الحيوية من الجسم."
+    },
+    {
+      "id": "ACH_kaleidoscope_DESC",
+      "source": "Kill 3 enemies using sniper scope while wearing the Gas mask and using the Night Vision goggles.",
+      "target": "اقتل 3 أعداء باستخدام منظار القنص، مع ارتداء قناع الغاز ونظارات الرؤية الليلية."
+    },
+    {
+      "id": "m3_suit_upg_helm_empty_name",
+      "source": "SPARTAN HELMET",
+      "target": "خوذة إسبرطة"
+    },
+    {
+      "id": "$general_hint_27",
+      "source": "Ammo may be scarce. Be sure to conserve your ammo and scavenge your surroundings for extra rounds.",
+      "target": "قد تشح الذخيرة؛ اقتصد في استخدامها، وفتش محيطك بحثا عن طلقات إضافية."
+    },
+    {
+      "id": "m3_dlc2_universaldetector_dsc",
+      "source": "The universal detector is capable of locating mines, traps and other dangers at a safe distance and provide accurate direction towards them. It can also locate other objects, such as unique weapons and upgrades.",
+      "target": "يكشف الكاشف الشامل الألغام والفخاخ والأخطار الأخرى من مسافة آمنة، ويحدد اتجاهها بدقة. كما يكشف أشياء أخرى، مثل الأسلحة الفريدة والترقيات."
+    },
+    {
+      "id": "ammo_12_70_dsc",
+      "source": "12x70mm. The casings of these shells may have seen better times and the shot inside them is home-made, but they still deliver a punch. ",
+      "target": "ذخيرة خرطوش من عيار 12x70 ملم. قد تكون أظرفها مهترئة وحبيباتها محلية الصنع، لكنها ما زالت تحدث ضررا كبيرا."
+    },
+    {
+      "id": "m3_general_hint_46",
+      "source": "Some monsters have quite strong shells - try shooting the unprotected sections of their bodies.",
+      "target": "تمتلك بعض الوحوش دروعا طبيعية شديدة الصلابة؛ حاول إصابة الأجزاء غير المحمية من أجسامها."
+    },
+    {
+      "id": "m3_suit_upg_unload_empty_name",
+      "source": "CARRIER VEST",
+      "target": "سترة حمل المعدات"
+    },
+    {
+      "id": "$game_difficulty_mutator_armored_mode_desc",
+      "source": "Human NPC’s are upgraded one level of armor across the game",
+      "target": "تزداد حماية جميع الأعداء البشر في اللعبة بمستوى تدريع واحد."
+    },
+    {
+      "id": "ACH_kaleidoscope_DESC_unlocked",
+      "source": "Killed 3 enemies using sniper scope while wearing the Gas mask and using the Night Vision goggles.",
+      "target": "قتلت 3 أعداء باستخدام منظار القنص، مع ارتداء قناع الغاز ونظارات الرؤية الليلية."
+    },
+    {
+      "id": "$wpn_upt_abzac_mag_dsc",
+      "source": "Holds twice the number of chain-linked shells, allowing for much longer sustained fire.",
+      "target": "يتسع لضعف عدد طلقات الخرطوش الموصولة في حزام، مما يتيح مواصلة إطلاق النار مدة أطول بكثير."
+    },
+    {
+      "id": "$vsv_dsc",
+      "source": "An accurate and powerful assault rifle good for medium-range combat. Its somewhat low muzzle velocity translates into lower noise and faster bullet drop.",
+      "target": "بندقية هجومية دقيقة وقوية تناسب القتال متوسط المدى. انخفاض سرعة المقذوف عند الفوهة يجعل صوتها أخفض، لكنه يزيد هبوط الرصاصة أثناء طيرانها."
+    },
+    {
+      "id": "ammo_0_44_apinc_dsc",
+      "source": "The Armor Piercing-Incendiary .44 Magnum rounds don't have the raw stopping power of the regular slugs, but far surpass them when used against armored targets.",
+      "target": "لا تملك طلقات ماغنوم الحارقة الخارقة للدروع من عيار .44 قوة إيقاف الرصاص العادي نفسها، لكنها تتفوق عليه كثيرا ضد الأهداف المدرعة."
+    },
+    {
+      "id": "m3_suit_upg_helm_9_desc",
+      "source": "Ballistic-cloth body armor provides less protection than standard body armor, but is much lighter and less restrictive.",
+      "target": "درع مصنوع من نسيج واق من الرصاص. يوفر حماية أقل من الدرع القياسي، لكنه أخف بكثير وأقل تقييدا للحركة."
+    },
+    {
+      "id": "m3_rad_watch_hint_light",
+      "source": "<time> RADIATION DETECTOR",
+      "target": "<time> عداد الإشعاع"
+    },
+    {
+      "id": "m3_dlc02_general_hint_4",
+      "source": "If your Universal Detector reports an object nearby, look around, it might be something useful.",
+      "target": "إذا أشار الكاشف الشامل إلى شيء قريب، فتفقد محيطك؛ فقد تجد شيئا مفيدا."
+    },
+    {
+      "id": "ammo_0_44_dsc",
+      "source": ".44 Magnum. Due to their substantial weight, the bullets in this caliber have great stopping power despite the cartridges being produced in the Metro.",
+      "target": "ذخيرة ماغنوم من عيار .44. يمنح وزن مقذوفاتها الكبير قدرة عالية على إيقاف الهدف، رغم صنع الطلقات في المترو."
+    },
+    {
+      "id": "m3_rad_watch_hint",
+      "source": "Press <time> to check the radiation detector on your wrist.",
+      "target": "اضغط على <time> لفحص عداد الإشعاع المثبت على معصمك."
+    },
+    {
+      "id": "m3_dlc02_general_hint_2",
+      "source": "Your Universal Detector can detect not only mines, but also different useful objects.",
+      "target": "يكشف الكاشف الشامل الألغام وأشياء مفيدة أخرى أيضا."
+    },
+    {
+      "id": "$general_hint_1",
+      "source": "Use the charger to charge up your nightvision goggles or to give a temporary power boost to your flashlight. Hold <wpn_light> to take it out.",
+      "target": "استخدم الشاحن لشحن نظارات الرؤية الليلية أو لزيادة قوة المصباح مؤقتا. اضغط باستمرار على <wpn_light> لإخراج الشاحن."
+    },
+    {
+      "id": "m3_suit_combat_desc",
+      "source": "Classic Spartan armor. A good defense from bullets and explosives.",
+      "target": "درع إسبرطي تقليدي يوفر حماية جيدة من الرصاص والمتفجرات."
+    },
+    {
+      "id": "m3_suit_upg_unload_empty_ranger_desc",
+      "source": "Costume designed for survival in wasteland. Provides extreme radiation resistance trading protection against mutants and bullets for it.",
+      "target": "بدلة مصممة للنجاة في الأراضي القاحلة. توفر مقاومة عالية جدا للإشعاع على حساب الحماية من المتحولين والرصاص."
+    },
+    {
+      "id": "ammo_15_sabot_dsc",
+      "source": "The main component of this Tikhar bullet is a small glass capsule, filled with a flammable substance ignited by the contact with air.",
+      "target": "المكون الأساسي في طلقة تيخار هذه كبسولة زجاجية صغيرة، مملوءة بمادة قابلة للاشتعال تشتعل عند ملامسة الهواء."
+    },
+    {
+      "id": "general_hint_74",
+      "source": "Spiderbugs have a hard, light-sensitive shell that will resist any projectile rounds. Use your flashlight to burn through it first, or make them flip over.",
+      "target": "للعناكب المتحولة درع صلب حساس للضوء يقاوم الطلقات. استخدم المصباح لإحراقه أولا، أو أجبرها على الانقلاب."
+    },
+    {
+      "id": "$general_hint_31",
+      "source": "To keep your nightvision and flashlight charged, hold down <wpn_light> to bring out the universal charger and press <wpn_fire> to charge it. Put it away again by holding <wpn_light>.",
+      "target": "لشحن نظارات الرؤية الليلية والمصباح، اضغط باستمرار على <wpn_light> لإخراج الشاحن، ثم اضغط على <wpn_fire> لتشغيله. اضغط باستمرار على <wpn_light> مجددا لإعادته."
+    },
+    {
+      "id": "ammo_12_70_name",
+      "source": "BUCKSHOT",
+      "target": "ذخيرة خرطوش"
+    },
+    {
+      "id": "m3_suit_upg_helm_8_desc",
+      "source": "Enhanced body armor, using rigid plates as primary protective elements. Provides excellent ballistic protection but is rather heavy, thus impacting movement speed and making it hard to walk silently. ",
+      "target": "درع معزز يعتمد على صفائح صلبة للحماية. يوفر حماية ممتازة من الرصاص، لكنه ثقيل، مما يبطئ الحركة ويصعب السير بصمت."
+    },
+    {
+      "id": "m3_dlc02_general_hint_1",
+      "source": "If your Universal Detector signals a danger nearby, be careful and watch your step.",
+      "target": "إذا نبهك الكاشف الشامل إلى خطر قريب، فاحذر وانتبه إلى موضع قدميك."
+    },
+    {
+      "id": "m3_dlc2_universaldetector_name",
+      "source": "UNIVERSAL DETECTOR",
+      "target": "الكاشف الشامل"
+    }
+  ],
+  "language_scope": "Whole-table terminology rules and contextual corrections; not a full manual sentence review."
+}

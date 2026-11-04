@@ -1,0 +1,23 @@
+{
+  "changed_loading_entries": 283,
+  "unrelated_strings_preserved": 37939,
+  "loading_profile_entries": 350,
+  "native_alignment": "right_1",
+  "no_padding": true,
+  "moscow_lines": 10,
+  "moscow_height_estimate": 260,
+  "moscow_rect_height": 280,
+  "loading_native_limit": 1033,
+  "actual_font_metrics_verified": true,
+  "loader_typing_animation_fixed": false,
+  "loader_timing_unchanged": true,
+  "runtime_tested": false,
+  "revision": "graphics_label_r1",
+  "other_label_changes": 1,
+  "changed_assets_from_loading_r1": [
+    "stable_us.lng"
+  ],
+  "live_hashes_verified": true,
+  "executable_unchanged": true,
+  "loading_runtime_issue_persists": true
+}

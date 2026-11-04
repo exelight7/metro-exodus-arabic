@@ -1,0 +1,877 @@
+[
+  {
+    "id": "voices\\m3_09_summer\\sum_006_afterparty_childrentalk_01_11",
+    "source": "<ffx:sadness_light>You said, envy was a bad thing, Nastya... <ffx:wonder>But what am I to do? <ffx:sadness>Your mom has you, but my Anna <ffx:smile_light>doesn't have a smart girl like you! <ffx:neutral>",
+    "target": "<ffx:sadness_light>لقد قلت إن الحسد أمر سيء يا ناستيا...<ffx:wonder>ولكن ماذا علي أن أفعل؟<ffx:sadness>والدتك تمتلكك، لكن آنا<ffx:smile_light>ليس لديها فتاة ذكية مثلك!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_2\\alert\\alert_gonnalook_02",
+    "source": "OK, you never know what could it be... But I still have to check it...",
+    "target": "حسنًا، أنت لا تعرف أبدًا ما يمكن أن يكون...ولكن لا يزال يتعين علي التحقق منه...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_040_dwellerglukhangst_01_10",
+    "source": "<ffx:disgust_strong>Come on, shoot me, you fucker! <ffx:sadness>",
+    "target": "<ffx:disgust_strong>هيا، أطلق النار علي، أيها اللعين!<ffx:sadness>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_m06_wagon_terminal_start_note",
+    "source": "I’m in the Terminal! Now I’ve got to find that railcar. I sure hope there is no Minotaur in this labyrinth... ",
+    "target": "أنا في المحطة! الآن علي أن أجد عربة القطار تلك. أتمنى ألا يكون هناك مينوتور في هذه المتاهة.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_1\\scared\\scared_now_01",
+    "source": "Fuck me... Fucking shit...",
+    "target": "اللعنة علي...اللعنة اللعنة...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_12_valley\\val_011_63_womanreactartyom_stealth_03_03",
+    "source": "<ffx:fear>I think, he went to the Church... <ffx:wonder>Go after him, <ffx:fear>don’t worry, I won’t raise an alarm... <ffx:smile_light>You didn’t bully me, after all... <ffx:neutral>",
+    "target": "<ffx:fear>أعتقد أنه ذهب إلى الكنيسة...<ffx:wonder>اتبعه،<ffx:fear>لا تقلق، لن أدق ناقوس الخطر...<ffx:smile_light>أنت لم تتنمر علي، بعد كل شيء...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_loader_diary_valley_04",
+    "source": "<tab>I had to find Alyosha as soon as possible... I heard the hunters say that he was alive and awaiting a session of some \"Forest Court\" in their main camp up the river. I had to free him before the verdict was passed.<br><br>",
+    "target": "<tab>كان علي أن أجد أليوشا في أسرع وقت ممكن... سمعت الصيادين يقولون إنه على قيد الحياة وينتظر جلسة لبعض \"محكمة الغابة\" في معسكرهم الرئيسي أعلى النهر. اضطررت إلى إطلاق سراحه قبل صدور الحكم.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_040_dwellerglukhangst_01_09",
+    "source": "<ffx:anger_strong>Fuck this life! Just shoot me already!",
+    "target": "<ffx:anger_strong>اللعنة على هذه الحياة! فقط أطلقوا النار علي بالفعل!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_09_summer\\sum_010_rearcarriagekrest_02_11",
+    "source": "<ffx:smile>Fell in love with the thing - and it’s no wonder, after all the effort! <ffx:sadness>Still, had to give it to one bastard in Astrakhan, <ffx:disgust>otherwise I would have just been killed right there, <ffx:sadness>and that’s if I got lucky... Yeah...<ffx:neutral>",
+    "target": "<ffx:smile>وقعت في حب هذا الشيء - ولا عجب، بعد كل هذا الجهد!<ffx:sadness>ومع ذلك، كان علي أن أعطيها لأحد الأوغاد في أستراخان،<ffx:disgust>وإلا كنت سأقتل هناك،<ffx:sadness>وهذا إذا حالفني الحظ... نعم...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_12_valley\\val_003_87_gardener_01_02",
+    "source": "<ffx:fear>I didn’t attack the intruders... first. <ffx:sadness>I only had to shot once, and I kept my eyes shut that time... <ffx:neutral>",
+    "target": "<ffx:fear>لم أهاجم المتسللين... أولاً.<ffx:sadness>كان علي أن أطلق النار مرة واحدة فقط، وأبقيت عيني مغمضتين تلك المرة...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_099_poker_game_aftermath_01_06",
+    "source": "<ffx:fear>I hope he don't shoot me... The bartender is supposed to live... <ffx:smile_light>The Bartender always lives... Yes... He won't shoot me.. No way he would...",
+    "target": "<ffx:fear>أتمنى ألا يطلق النار علي... من المفترض أن يعيش النادل...<ffx:smile_light>النادل يعيش دائمًا... نعم... لن يطلق النار علي.. مستحيل أن يفعل...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_1\\dog\\dog_smellcomment_04",
+    "source": "Does it smell like heresy to you? I see... It does for me, so go, root it out!",
+    "target": "هل تبدو لك رائحة الهرطقة؟ أرى... إنه ينطبق علي، لذا اذهب واقتلع جذوره!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_loader_diary_valley_07",
+    "source": "<tab>To reach the Dam, I had to cross a poisoned swamp, where the \"pirates\" had set up a veritable fortress to defend the Valley from the advancing mutants. I must give credit where credit is due, these people had courage to spare. They proudly stood in the way of implacable threat dead-set on destroying their tiny world... Just like our Order defending the Metro, losing people and ground, backing up ever further into the tunnels with every passing year, fully understanding the futility of our struggle but still refusing to surrender.<br><br>",
+    "target": "<tab>للوصول إلى السد، كان علي عبور مستنقع مسموم، حيث أقام \"القراصنة\" حصنًا حقيقيًا للدفاع عن الوادي من المتحولين المتقدمين. يجب أن أعطي الفضل حيث يستحق الفضل، هؤلاء الناس لديهم الشجاعة لتجنيبهم. لقد وقفوا بفخر في طريق التهديد العنيد العازمين على تدمير عالمهم الصغير... تمامًا مثل نظامنا الذي يدافع عن المترو، ويخسر الناس والأرض، ويتراجعون أكثر فأكثر في الأنفاق مع مرور كل عام، مدركين تمامًا عدم جدوى كفاحنا ولكنهم ما زالوا يرفضون الاستسلام.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_12_val_diary_20_dsc",
+    "source": "<tab>It’s so great we left that camp! This is the life! Yesterday, while the others were chasing rabbits, I shot a deer, and the Teacher commended me at the evening assembly! We’re finishing the smokehouse tomorrow, so we’re definitely not going to starve this winter. And next summer we’re gonna check if the city’s all right!",
+    "target": "<tab>إنه لأمر رائع أننا غادرنا هذا المعسكر! هذه هي الحياة! بالأمس، بينما كان الآخرون يطاردون الأرانب، قمت بإطلاق النار على غزال، وأثنى علي المعلم في اجتماع المساء! سننتهي من بناء المدخنة غدًا، لذلك بالتأكيد لن نموت جوعًا هذا الشتاء. وفي الصيف القادم سنتحقق مما إذا كانت المدينة بخير!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_1\\uber_alert\\uber_alert_single_takingcover_02",
+    "source": "Fuck me if I'm getting a bullet in my head over this shit!",
+    "target": "اللعنة علي إذا تلقيت رصاصة في رأسي بسبب هذا القرف!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_009_triptocommscenter_19",
+    "source": "Artyom! One, two... Testing! It's me, Damir. I hope you can hear me! I'm here, too! Giul nearly shot me, thought I was an enemy! Haha!",
+    "target": "أرتيوم! واحد، اثنان... اختبار! إنه أنا، دامير. أتمنى أن تسمعني! أنا هنا أيضا! كاد جيول أن يطلق النار علي، معتقدًا أنني عدو! هاها!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_1\\free\\free_unsafe_04",
+    "source": "This spot just sucks... Hate to ask the Boss for anything, but this time I just have to demand a different post...",
+    "target": "هذا المكان سيء للغاية... أكره أن أطلب من الرئيس أي شيء، لكن هذه المرة علي فقط أن أطلب وظيفة مختلفة...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_2\\surrender\\surrender_shout_02",
+    "source": "Hey! Don't shoot me! I give up!",
+    "target": "يا! لا تطلق النار علي! أستسلم!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_040_bridge_thinker_conversation_02_01",
+    "source": "<ffx:fear>Oh... My heart... See? <ffx:wonder>See what the True Faith can do? <ffx:smile>I have won over your temptation, I stand <ffx:wide_smile>firm! Ha ha! Satan, you have no power over me! <ffx:smile>No power over any true believer! <ffx:smile_light>",
+    "target": "<ffx:fear>أوه... قلبي... أرأيت؟<ffx:wonder>انظر ماذا يمكن أن يفعل الإيمان الحقيقي؟<ffx:smile>لقد انتصرت على إغرائك، وأنا أقف بثبات<ffx:wide_smile>! ها ها! أيها الشيطان، ليس لك سلطان علي!<ffx:smile>لا سلطان على أي مؤمن حقيقي!<ffx:smile_light>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_m06_scout_church_getout_note",
+    "source": "Looks like the cult does have some muscle... These guys are probably no match for our weapons and training, but I should still try sparing them by aiming for a silent getaway. <br>And, by the looks of it, I'd better get out fast. The best way to do it would be to use the boat I saw suspended from a gantry outside of the church...",
+    "target": "يبدو أن الطائفة لديها بعض العضلات... ربما لا يكون هؤلاء الرجال مناسبين لأسلحتنا وتدريبنا، لكن لا يزال يتعين علي أن أحاول الحفاظ عليهم من خلال استهداف الهروب الصامت.<br>، ومن خلال مظهره، من الأفضل أن أخرج بسرعة. أفضل طريقة للقيام بذلك هي استخدام القارب الذي رأيته معلقًا على جسر خارج الكنيسة...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_3\\alert\\alert_threat_switch_03",
+    "source": "Well, fuck me...",
+    "target": "حسناً، اللعنة علي...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_12_val_foundthefuel_note",
+    "source": "I have the fuel, now I just have to start the generator to open the way out.",
+    "target": "لدي الوقود، والآن علي فقط تشغيل المولد لفتح الطريق للخروج.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_2\\free\\free_safe_05",
+    "source": "Always the most boring detail possible... Well, at least I'm not getting shot at...",
+    "target": "دائمًا التفاصيل الأكثر مللًا الممكنة... حسنًا، على الأقل لن يتم إطلاق النار علي...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_059_insideoilrig_weaponstalk_16",
+    "source": "<ffx:smile>You can count on me, I'll get you a real gem! <ffx:neutral>",
+    "target": "<ffx:smile>يمكنك الاعتماد علي، سأحضر لك جوهرة حقيقية!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_059_insideoilrig_nobschat_03_08",
+    "source": "<ffx:wonder>But will you just look at me? <ffx:smile>Look at me! Ha-ha-ha! <ffx:wonder>Why would you need that dirty whore <ffx:smile>when you can have me, da-r-ling! <ffx:neutral>",
+    "target": "<ffx:wonder>لكن هل ستنظر إليّ فحسب؟<ffx:smile>انظر إلي! هاهاهاها!<ffx:wonder>لماذا تحتاج إلى تلك العاهرة القذرة<ffx:smile>عندما يمكنك الحصول علي يا دا-ر-لينج!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_2\\uber_alert\\uber_alert_single_threat_notfound_02",
+    "source": "Well, fuck me... The fucking bitch ran somewhere else... Not for long, not for long, mate...",
+    "target": "حسنًا، اللعنة علي... العاهرة اللعينة ركضت إلى مكان آخر... ليس لفترة طويلة، ليس لفترة طويلة، يا صديقي...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_12_val_cantclimbdam_note_2",
+    "source": "The Lumber Mill’s power supply is offline. I’ll need to find the generator and turn it all.",
+    "target": "انقطعت الكهرباء عن المنشرة. علي العثور على المولد وتشغيله.",
+    "status": "reviewed",
+    "translation_origin": "reviewed"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_000_narration_10_part1",
+    "source": "<tab>Even having repelled the Baron's attack, we’re still stuck in this desert until we get enough fuel. So, while the others are preparing the Aurora for departure, me, Giul and Damir must sneak into the oil terminal, and steal a railway tank full of fuel.<br><br>",
+    "target": "<tab>حتى بعد صد هجوم البارون، ما زلنا عالقين في هذه الصحراء حتى نحصل على ما يكفي من الوقود. لذا، بينما يقوم الآخرون بإعداد أورورا للمغادرة، يجب علي أنا وجيول ودامير التسلل إلى محطة النفط وسرقة خزان سكة حديد مليء بالوقود.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_13_dead_city\\nvs_000_narration_07_05",
+    "source": "<tab>Looks like I absorbed too much radiation and started hallucinating... Had to take the radio-protector now, even though I hoped I could save it for the return trip. Still, I have to survive until then, and right now I need to cross the Lenin square to reach the Institute building. <br><br>",
+    "target": "<tab>يبدو أنني امتصت الكثير من الإشعاع وبدأت بالهلوسة... كان علي أن آخذ واقي الراديو الآن، على الرغم من أنني كنت آمل أن أتمكن من الاحتفاظ به لرحلة العودة. ومع ذلك، لا بد لي من البقاء على قيد الحياة حتى ذلك الحين، والآن أحتاج إلى عبور ساحة لينين للوصول إلى مبنى المعهد.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_035_oasisfort_oasisguardstalk_01_05",
+    "source": "<ffx:anger>Well, fuck me! <ffx:sadness>I was fucking high, don’t remember shit... <ffx:wonder>So, how long do we have to stay put here then? <ffx:neutral>",
+    "target": "<ffx:anger>حسنًا، اللعنة علي!<ffx:sadness>لقد كنت منتشيًا للغاية، لا أتذكر القرف...<ffx:wonder>إذًا، إلى متى يجب أن نبقى هنا؟<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_008_prince_fish_01_11",
+    "source": "<ffx:smile>Here, though, we do have a chance of finding some loot! <ffx:wonder>There's this plane there... <ffx:smile_light>Just leave something for me, <ffx:sadness>I'll have to stay longer, I suspect... <ffx:neutral>",
+    "target": "<ffx:smile>هنا، على الرغم من ذلك، لدينا فرصة للعثور على بعض الغنائم!<ffx:wonder>هناك هذه الطائرة هناك...<ffx:smile_light>فقط اترك شيئًا لي،<ffx:sadness>أعتقد أنه سيتعين علي البقاء لفترة أطول...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_000_narration_02_a",
+    "source": "<tab>The locals were none too happy to see us here - looks like after the War they created a veritable technophobic cult here, and its leader managed to trap me in their half-flooded church. I've no idea what they'd done to me had they actually captured me, but with the aid from a woman called Katya the cultists had been keeping imprisoned here, I managed to give them the slip. Luckily, I was able to avoid casualties in the process. Katya mentioned an engineer called Krest, who's hiding from the cultists in the Port - he could help us fix the Aurora and cross the bridge. Now seems to be a good time to pay him a visit...<br><br>",
+    "target": "<tab>لم يكن السكان المحليون سعداء جدًا برؤيتنا هنا - يبدو أنه بعد الحرب أنشأوا طائفة حقيقية معادية للتكنولوجيا هنا، وتمكن زعيمها من محاصرة كنيستهم التي غمرتها المياه نصفها. ليس لدي أي فكرة عما فعلوه بي لو أنهم قبضوا علي بالفعل، ولكن بمساعدة امرأة تدعى كاتيا، كان الطائفيون مسجونين هنا، تمكنت من إعطائهم الفرصة. ولحسن الحظ، تمكنت من تجنب وقوع إصابات في هذه العملية. ذكرت كاتيا مهندسًا يُدعى كريست، والذي يختبئ من الطوائف في الميناء - يمكنه مساعدتنا في إصلاح أورورا وعبور الجسر. يبدو الآن أن الوقت مناسب لزيارته...<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_040_dwellerglukhangst_01_03",
+    "source": "<ffx:disgust>I wish you'd just shot me! <ffx:anger_light>",
+    "target": "<ffx:disgust>أتمنى لو أنك أطلقت النار علي!<ffx:anger_light>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_041_bfanatics_rave_monologue_03_01",
+    "source": "<ffx:wonder>God, save me from... erm... the hands of evil... and erm... from its sight and its... voice? That can't be right... Save me from the hands of evil, and the sight of evil, and the voice of God... <ffx:anger>Hell! Satan, of course... Can't recall shit... Anyhow, God, save me and take pity on me and give me your... flavor? Or favor? Better start again...<ffx:sadness>",
+    "target": "<ffx:wonder>يا الله أنقذني من...إم...أيادي الشر...وإم...من منظره و...صوته؟ لا يمكن أن يكون هذا صحيحًا... أنقذني من أيدي الشر، ومن منظر الشر، وصوت الله...<ffx:anger>الجحيم! الشيطان، بالطبع... لا أستطيع أن أتذكر القرف... على أي حال، يا إلهي، أنقذني وأشفق علي وأعطني... نكهتك؟ أو فضل؟ من الأفضل أن نبدأ من جديد...<ffx:sadness>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_059_insideoilrig_weaponstalk_02",
+    "source": "<ffx:anger>Will you stop bugging me? <ffx:neutral>",
+    "target": "<ffx:anger>هل ستتوقف عن التنصت علي؟<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_m10_ym_comeback_note",
+    "source": "The power is cut. All I need to do now is just catch up with the others. There should be an emergency descent somewhere.",
+    "target": "تم قطع الطاقة. كل ما علي فعله الآن هو اللحاق بالآخرين. يجب أن يكون هناك هبوط اضطراري في مكان ما.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_099_audiolog_bandits_01_11",
+    "source": "Maybe, like this... Fuck me if I know... Looks like this is doing nothing... Should we just swap it for something good with the boys? It does spin the tape and all...",
+    "target": "ربما، هكذا... اللعنة علي إذا كنت أعرف... يبدو أن هذا لا يفعل شيئًا... هل يجب أن نستبدله بشيء جيد مع الأولاد؟ يقوم بتدوير الشريط وكل شيء ...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_044_90_kosh_shiptalk_01_04",
+    "source": "<ffx:anger>What did you do? Why <ffx:disgust>did God give me a moron for a brother!?... <ffx:wonder>Do you have any idea, how many people want your job? I had <ffx:disgust_light>to go and ask Roast himself, I had to swear on my mother’s grave you were all right <ffx:sadness>since you were my half-brother... It’s been a year since I saw you last, so I<ffx:disgust> forgot you’re a spitting image of your slut of a mother!<ffx:neutral>",
+    "target": "<ffx:anger>ماذا فعلت؟ لماذا<ffx:disgust>هل أعطاني الله معتوهاً لأخي!؟...<ffx:wonder>هل لديك أي فكرة، كم عدد الأشخاص الذين يريدون وظيفتك؟ كان لدي<ffx:disgust_light>للذهاب واسأل روست بنفسه، كان علي أن أقسم على قبر أمي أنك بخير<ffx:sadness>منذ أن كنت أخي غير الشقيق... لقد مر عام منذ أن رأيتك آخر مرة، لذلك أنا<ffx:disgust>نسيت أنك صورة طبق الأصل لفاسقة أمك!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_040_dwellerglukhangst_01_02",
+    "source": "<ffx:anger>Well, just shoot me! Come on! <ffx:anger_light>",
+    "target": "<ffx:anger>حسنًا، فقط أطلق النار علي! تعال!<ffx:anger_light>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_3\\light_alert\\light_alert_gonnalook_02",
+    "source": "What the hell is this! Can't see shit, so now I have to walk over there... Sucks to be me...",
+    "target": "ما هذا بحق الجحيم! لا أستطيع رؤية الأشياء، لذا يجب علي الآن أن أسير هناك... من السيء أن أكون أنا...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_000_intro_narration_01_04",
+    "source": "Not mine, though. The hope that's been nagging on me for so long, now turned into an obsession, the purpose of my life. I had to go, and my friends who had long since become my family, understood.",
+    "target": "ليس لي، رغم ذلك. الأمل الذي كان يزعجني لفترة طويلة، تحول الآن إلى هاجس، وهو هدف حياتي. كان علي أن أذهب، وقد فهم أصدقائي الذين أصبحوا عائلتي منذ فترة طويلة.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_loader_diary_valley_07_peaceful",
+    "source": "<tab>However, they would attack anything that moved, and wouldn't hesitate to shoot the moment they saw me, so I had to be extremely careful. Luckily, I managed to pass through their fort unnoticed. Had I even won the fight against them all, what would happen to the valley without its defenders?<br><br>",
+    "target": "<tab>ومع ذلك، كانوا يهاجمون أي شيء يتحرك، ولن يترددوا في إطلاق النار في اللحظة التي يرونني فيها، لذلك كان علي أن أكون حذرًا للغاية. ولحسن الحظ، تمكنت من المرور عبر حصنهم دون أن يلاحظه أحد. لو أنني فزت في المعركة ضدهم جميعًا، ماذا سيحدث للوادي بدون المدافعين عنه؟<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_2\\uber_alert\\uber_alert_single_takingcover_05",
+    "source": "No fucking way I'm getting shot over this!",
+    "target": "من المستحيل أن يتم إطلاق النار علي بسبب هذا!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_009_spartanmissionnew_51",
+    "source": "<ffx:disgust_light>Don't worry about me... <ffx:smile_light>I'll be fine... <ffx:neutral>",
+    "target": "<ffx:disgust_light>لا تقلق علي...<ffx:smile_light>سأكون بخير...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_040_bridge_thinker_conversation_01_05",
+    "source": "<ffx:smile>Ah! Shine Lucifer's light upon me or something! <ffx:wide_smile>You'll see that our True Faith has steeled us against such temptations! <ffx:smile_light>",
+    "target": "<ffx:smile>آه! سلط ضوء لوسيفر علي أو شيء من هذا!<ffx:wide_smile>سترى أن إيماننا الحقيقي قد حصننا ضد مثل هذه الإغراءات!<ffx:smile_light>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_020_sam_captured_boatride_25",
+    "source": "I be damned... Listen up, Delivery!",
+    "target": "اللعنة علي... استمع يا توصيل!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_2\\wounded\\wounded_04",
+    "source": "Daaamn... He got me... This is bad... Shit...",
+    "target": "دامن...لقد حصل علي...هذا سيء...اللعنة...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_301_uber_alert_search_05",
+    "source": "<ffx:fear>What if there really are more here? Shit... Gotta stay sharp...<ffx:neutral>",
+    "target": "<ffx:fear>ماذا لو كان هناك المزيد هنا بالفعل؟ اللعنة...علي أن أبقى حادًا...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_000_narration_02_c",
+    "source": "<tab>The locals were none too happy to see us here - looks like after the War they created a veritable technophobic cult here, and its leader managed to trap me in their half-flooded church. I've no idea what they'd done to me had they actually captured me, but with the aid from a woman called Katya the cultists had been keeping imprisoned here, I managed to give them the slip. Luckily, I was able to avoid excessive casualties in the process. Katya mentioned an engineer called Krest, who's hiding from the cultists in the Port - he could help us fix the Aurora and cross the bridge. Now seems to be a good time to pay him a visit...<br><br>",
+    "target": "<tab>لم يكن السكان المحليون سعداء جدًا برؤيتنا هنا - يبدو أنه بعد الحرب أنشأوا طائفة حقيقية معادية للتكنولوجيا هنا، وتمكن زعيمها من محاصرة كنيستهم التي غمرتها المياه نصفها. ليس لدي أي فكرة عما فعلوه بي لو أنهم قبضوا علي بالفعل، ولكن بمساعدة امرأة تدعى كاتيا، كان الطائفيون مسجونين هنا، تمكنت من إعطائهم الفرصة. ولحسن الحظ، تمكنت من تجنب وقوع خسائر فادحة في هذه العملية. ذكرت كاتيا مهندسًا يُدعى كريست، والذي يختبئ من الطوائف في الميناء - يمكنه مساعدتنا في إصلاح أورورا وعبور الجسر. يبدو الآن أن الوقت مناسب لزيارته...<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_12_valley\\val_40_admiral_01_35",
+    "source": "<ffx:sadness_light>Yes... My boys did stay here! <ffx:smile>I had to do some persuading to make them stay, though... <ffx:anger_light>Even you were going to abandon your old friend, weren't you? <ffx:anger>Weren't you? <ffx:neutral>",
+    "target": "<ffx:sadness_light>نعم... أولادي بقوا هنا!<ffx:smile>كان علي أن أقوم ببعض الإقناع لإقناعهم بالبقاء، رغم ذلك...<ffx:anger_light>حتى أنك كنت ستتخلى عن صديقك القديم، أليس كذلك؟<ffx:anger>أليس كذلك؟<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_m08_des_water_11_task_note_1",
+    "source": "I’m going to an oasis to replenish our fresh water reserves, but first I’ve got to meet Damir at the rendezvous point marked by Giul.",
+    "target": "سأذهب إلى واحة لتجديد احتياطيات المياه العذبة لدينا، لكن يجب علي أولاً مقابلة دامير عند نقطة الالتقاء التي حددها جيول.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_000_narration_10",
+    "source": "<tab>Even having repelled the Baron's attack, we’re still stuck in this desert until we get enough fuel. So, while the others are preparing the Aurora for departure, me, Giul and Damir must sneak into the oil terminal, and steal a railway tank full of fuel.<br><br><tab>We must open the gate from the inside, so that our guys could hook the tank to the railcar and roll it out before any of the baron's men notice them. Giul and Damir are going to be waiting for me near the terminal.<br><br>",
+    "target": "<tab>حتى بعد صد هجوم البارون، ما زلنا عالقين في هذه الصحراء حتى نحصل على ما يكفي من الوقود. لذا، بينما يقوم الآخرون بإعداد أورورا للمغادرة، يجب علي أنا وجيول ودامير التسلل إلى محطة النفط وسرقة خزان سكة حديد مليء بالوقود.<br><br><tab>يجب أن نفتح البوابة من الداخل، حتى يتمكن رجالنا من ربط الخزان بعربة السكة الحديد وإخراجها قبل أن يلاحظهم أي من رجال البارون. جيول ودامير سينتظرانني بالقرب من المحطة.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_12_valley\\val_006_woundedtalk_01_03",
+    "source": "<ffx:anger>Well, shoot me!.. Or scram... <ffx:sadness>I gotta get ready... For the Final Exam... <ffx:wonder>Tell the teacher... <ffx:neutral>",
+    "target": "<ffx:anger>حسنًا، أطلق النار علي!.. أو انصرف...<ffx:sadness>يجب أن أستعد... للامتحان النهائي...<ffx:wonder>أخبر المعلم...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_loader_diary_desert_08_kill",
+    "source": "<tab>The bandits were guarding the spring quite well, and to take the truck out, we had to open the gate of the fort they built to protect it. The operation was complicated by the fact that besides the bandits the fort housed quite a few of their slaves, and some of them had to pay with their lives for our success... I had to do what I did, since in an \"us vs them\" situation I’m used to choosing \"us\".<br><br>",
+    "target": "<tab>كان قطاع الطرق يحرسون النبع جيدًا، ولإخراج الشاحنة، كان علينا أن نفتح بوابة الحصن الذي بنوه لحمايته. كانت العملية معقدة بسبب حقيقة أنه بالإضافة إلى قطاع الطرق، كان الحصن يؤوي عددًا لا بأس به من عبيدهم، وكان على بعضهم أن يدفعوا حياتهم ثمنًا لنجاحنا... كان علي أن أفعل ما فعلته، لأنه في موقف \"نحن ضدهم\" اعتدت على اختيار \"نحن\".<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\cannibal_3\\corpse\\corpse_found_foreveralone_02",
+    "source": "Ha, this one's dead! Alright, I'll gut him later - first I have to catch the meat that's still on the run!",
+    "target": "ها هذا مات! حسنًا، سأقتلعه لاحقًا - يجب علي أولاً أن ألتقط اللحم الذي لا يزال هاربًا!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_1\\uber_alert\\uber_alert_single_threat_notfound_03",
+    "source": "Hey! Where is that asshole? Do I really have to search again?",
+    "target": "يا! أين هو ذلك الأحمق؟ هل يجب علي حقا البحث مرة أخرى؟",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_000_narration_02_stun",
+    "source": "<tab>Passing through the desert, we noticed a car tailing the Aurora. The Colonel gave the order to stop and sent me and Damir to recon the area. On my way to the goal, I had to hide from a sandstorm in the ruins of a restaurant, where I was attacked by one of the local bandits.<br><br><tab>In the ensuing fight, I had to knock him out. The poor bastard will have a hell of a headache when he wakes up. I also took his car, so we can't really expect a warm welcome from his buddies, whoever they might be. My next goal is a lighthouse in the desert, near which Damir spotted some antennas. I hope, that’s where the satellite communications center is, with the maps we’re looking for.<br><br>",
+    "target": "<tab>أثناء مرورنا عبر الصحراء، لاحظنا سيارة تتخلف عن أورورا. أصدر العقيد الأمر بالتوقف وأرسلني أنا ودامير لاستطلاع المنطقة. وفي طريقي إلى الهدف، اضطررت للاختباء من عاصفة رملية في أنقاض أحد المطاعم، حيث هاجمني أحد قطاع الطرق المحليين.<br><br><tab>في المعركة التي تلت ذلك، كان علي أن أطرده. سيعاني اللقيط المسكين من صداع شديد عندما يستيقظ. لقد أخذت سيارته أيضًا، لذلك لا يمكننا أن نتوقع ترحيبًا حارًا من رفاقه، أيًا كانوا. هدفي التالي هو منارة في الصحراء، والتي رصد دمير بالقرب منها بعض الهوائيات. آمل أن يكون هذا هو المكان الذي يوجد فيه مركز الاتصالات عبر الأقمار الصناعية، مع الخرائط التي نبحث عنها.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_1\\surrender\\surrendered_02",
+    "source": "Shit... I just had to end up in this fucking mess...",
+    "target": "اللعنة... كان علي أن ينتهي بي الأمر في هذه الفوضى اللعينة...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_1\\uber_alert\\uber_alert_calmdown_foreveralone_02",
+    "source": "Well, fuck me... He got away...",
+    "target": "حسناً، اللعنة علي...لقد هرب...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_2\\alert\\alert_search_abort_03",
+    "source": "Nothing... Still better than someone shooting at me...",
+    "target": "لا شيء...لا يزال أفضل من أن يطلق شخص ما النار علي...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_099_audiolog_krest_01_01",
+    "source": "Well... Looks like I’m stuck here for good... Damn moronic fanatics... A single flashlight got them riled up enough to keep chasing me ever since. Had to make hideouts all over the place... Which is quite convenient in its own way! You never know where night is going to get you... I also know the place like the back of my hand now, and it sure seems interesting! There used to be a military stockpile of some kind here, for one. I didn’t go inside though, looks like there are some chemicals there... Then there’s this large house across the channel from here... It seems to be long abandoned, so something interesting might still be there. I can’t get to it without the boat, though... I guess I’ll have to do something about it soon. Anyway, life goes on, and that’s all in the news department for now.",
+    "target": "حسنًا... يبدو أنني عالق هنا إلى الأبد... أيها المتعصبون الأغبياء... لقد أثارهم مصباح يدوي واحد بما يكفي لمواصلة مطاردتي منذ ذلك الحين. اضطررت إلى إنشاء مخابئ في كل مكان... وهو أمر مريح جدًا بطريقته الخاصة! أنت لا تعرف أبدًا إلى أين سيأخذك الليل... أعرف أيضًا المكان مثل ظهر يدي الآن، ومن المؤكد أنه يبدو مثيرًا للاهتمام! كان هناك مخزون عسكري من نوع ما هنا، على سبيل المثال. بالرغم من ذلك، لم أذهب إلى الداخل، يبدو أن هناك بعض المواد الكيميائية هناك... ثم هناك هذا المنزل الكبير عبر القناة من هنا... يبدو أنه مهجور منذ فترة طويلة، لذلك ربما لا يزال هناك شيء مثير للاهتمام. ومع ذلك، لا أستطيع الوصول إليه بدون القارب... أعتقد أنه سيتعين علي أن أفعل شيئًا حيال ذلك قريبًا. على أية حال، الحياة مستمرة، وهذا كل ما في قسم الأخبار في الوقت الحالي.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_2\\surrender\\surrendered_02",
+    "source": "I hope he doesn't shoot me now...",
+    "target": "أتمنى أن لا يطلق النار علي الآن...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_06_diary_7_dsc",
+    "source": "<tab>To whoever may find this note - may the Lord bless you and absolve your sins, for you are most definitely worthier of divine help than I ever was... I have sinned by trying to achieve more than was ever expected of me, and I was punished for my folly. I should have exterminated the electrical demon as my penance commanded and my holy tools allowed me to, but I gave in to the sin of lust for greater glory and decided to lure it into this lair of the beastmen...<br><br><tab>The demon killed the godawful beasts, but now I can neither approach it nor escape this place which now must become my grave. My only regret is that my bones will remain here instead of being consumed by the Tsar-Fish cleansing my soul of sins, forever denying me right of passage through the Heavenly Gates, unless the faithful take pity on me one day and take them to the House of the Fish...<br><br><tab>In prayer for this I shall spend the remainder of my time in this mortal coil.<br><br><br><tab>Yuri S.,<br><br><tab>An unworthy servant of our Lord",
+    "target": "<tab>إلى من يجد هذه الملاحظة - ليباركك الرب ويغفر خطاياك، لأنك بالتأكيد تستحق المساعدة الإلهية أكثر من أي وقت مضى... لقد أخطأت بمحاولتي تحقيق أكثر مما كان متوقعًا مني، وعوقبت على حماقتي. كان ينبغي عليّ إبادة الشيطان الكهربائي كما أمرت تكفيري وأدواتي المقدسة بذلك، لكنني استسلمت لخطيئة الشهوة من أجل مجد أعظم وقررت استدراجها إلى مخبأ الوحوش هذا...<br><br><tab>لقد قتل الشيطان الوحوش المقدسة، لكن الآن لا أستطيع الاقتراب منها أو الهروب من هذا المكان الذي يجب أن يصبح الآن قبري. أسفي الوحيد هو أن عظامي ستبقى هنا بدلاً من أن تلتهمها سمكة القيصر التي تطهر روحي من الخطايا، وتحرمني إلى الأبد من حق المرور عبر البوابات السماوية، ما لم يشفق علي المؤمنون في يوم من الأيام ويأخذونها إلى بيت السمكة...<br><br><tab>في الصلاة من أجل هذا سأقضي ما تبقى من وقتي في هذا الملف المميت.<br><br><br><tab>يوري S.,<br><br><tab>خادم غير مستحق لربنا",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_loader_diary_desert_05_add_canyon_didnhelp",
+    "source": "<tab>But at that moment, I just couldn't take the risk. The fates of the Aurora's crew depended on me, and I had to choose between family and strangers...<br><br> ",
+    "target": "<tab>ولكن في تلك اللحظة، لم أستطع المخاطرة. كان مصير طاقم أورورا يعتمد عليّ، وكان علي الاختيار بين العائلة والغرباء...<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_022_infiltrationsuccess_04",
+    "source": "<ffx:disgust>So you got me, you damned heretics... You <ffx:anger>took Katya, and now you have me!",
+    "target": "<ffx:disgust>إذن، لقد قبضتم علي، أيها الزنادقة الملعونون... لقد أخذتم كاتيا<ffx:anger>، والآن حصلتم علي!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_171_barondouble_talk_01_idle_08",
+    "source": "<ffx:disgust>What the hell... <ffx:sadness>How much longer do I have to wait for that... <ffx:disgust>That cretin... <ffx:neutral>",
+    "target": "<ffx:disgust>ماذا بحق الجحيم...<ffx:sadness>كم من الوقت علي أن أنتظر ذلك...<ffx:disgust>هذا الحمق...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_1\\free\\free_unsafe_01",
+    "source": "Why do I have to stand here?... Stupid place...",
+    "target": "لماذا علي أن أقف هنا؟... مكان غبي...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_3\\wounded\\wounded_gravely_08",
+    "source": "Argh! Damn, he got me! The drifter got me!",
+    "target": "ارغ! اللعنة، لقد حصل علي! حصل لي التائه!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_spring\\spr_003_level1_04",
+    "source": "<ffx:wonder_light>I haven't decided where I'm going to work on the suits, <ffx:sadness_light>but I'll have to, and soon... <ffx:neutral>",
+    "target": "<ffx:wonder_light>لم أقرر أين سأعمل على البدلات،<ffx:sadness_light>لكن علي أن أفعل ذلك، وقريبًا...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\m3_dlc2_intro",
+    "source": "<tab>Saying my goodbyes to Dad before going to Russia, I promised him this was going to be my last tour of duty. Besides, I wasn't going to war, I expected a cushy job guarding the embassy. How could I know that, instead of a cushy job, waiting for me were mushroom clouds, desperate struggle, salvation and a tour of duty that would last twenty years!<br><br><tab>But as soon as Artyom's dogged determination to break out of the tunnels paid off the way it did, a hope to see my father again took root, and as we were going East, that hope grew. By the time we reached Novosibirsk, going home was the only thing I could think about. Only duty before my Commander and my friends kept me from leaving immediately. <br><br><tab>But my service with the Order came to an end on the shores of lake Baikal. There, on that hill, through the terrible pain of loss I could feel that my friends had also found... closure. Their journey was over. <br><br><tab>Not mine, though. The hope that's been nagging on me for so long, now turned into an obsession, the purpose of my life. I had to go, and my friends who had long since become my family, understood. <br><br><tab>As I'm entering the outskirts of Vladivostok, I know I was immensely lucky to have gotten even this far. But, since fate chose to take me here, to the Pacific, I must do everything I can to find a way home and see my old man again. <br><br>",
+    "target": "<tab>عندما قلت وداعًا لأبي قبل الذهاب إلى روسيا، وعدته بأن هذه ستكون آخر فترة لي في الخدمة. علاوة على ذلك، لم أكن سأذهب إلى الحرب، كنت أتوقع وظيفة مريحة في حراسة السفارة. كيف لي أن أعرف أنه بدلاً من الوظيفة المريحة، كان ينتظرني غيوم فطرية، ونضال يائس، وخلاص، ورحلة عمل قد تستمر عشرين عامًا!<br><br><tab>ولكن بمجرد أن أثمر تصميم أرتيوم العنيد على الخروج من الأنفاق بالطريقة التي نجح بها، ترسخ الأمل في رؤية والدي مرة أخرى، وبينما كنا متجهين شرقًا، نما هذا الأمل. بحلول الوقت الذي وصلنا فيه إلى نوفوسيبيرسك، كانت العودة إلى المنزل هي الشيء الوحيد الذي أمكنني التفكير فيه. الواجب الوحيد أمام قائدي وأصدقائي منعني من المغادرة على الفور.<br><br><tab>لكن خدمتي مع الأمر انتهت على ضفاف بحيرة بايكال. وهناك، على ذلك التل، ومن خلال الألم الفظيع الذي أصابني بسبب الخسارة، شعرت أن أصدقائي قد وجدوا أيضًا... الخاتمة. انتهت رحلتهم.<br><br><tab>لكن ليس لي. الأمل الذي كان يزعجني لفترة طويلة، تحول الآن إلى هاجس، وهو هدف حياتي. كان علي أن أذهب، وقد فهم أصدقائي الذين أصبحوا عائلتي منذ فترة طويلة.<br><br><tab>عندما أدخل ضواحي فلاديفوستوك، أعلم أنني كنت محظوظًا للغاية لأنني وصلت إلى هذا الحد. لكن، بما أن القدر اختار أن يأخذني إلى هنا، إلى المحيط الهادئ، فيجب أن أفعل كل ما بوسعي للعثور على طريق إلى المنزل ورؤية والدي مرة أخرى.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_12_valley\\val_004_alyoshalog_03",
+    "source": "The locals are impressive, I didn't notice them until they were all over me when they nabbed me. I didn't start shooting, and it was a good call - they just took me to their camp... Nice guys, really... <pause - the girl is near him> And girls... Especially girls...",
+    "target": "السكان المحليون مثيرون للإعجاب، ولم ألاحظهم حتى هاجموني عندما قبضوا علي. لم أبدأ في إطلاق النار، وكانت مكالمة جيدة - لقد أخذوني للتو إلى معسكرهم... شباب لطيفون، حقًا...<pause - the girl is near him>والفتيات... وخاصة الفتيات...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_1\\danger\\enemy_dead_animal_01",
+    "source": "Fuck me, it's ugly...",
+    "target": "اللعنة علي ، إنه قبيح ...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_02_05_samalyosha_06",
+    "source": "<ffx:wonder>Me? Haha! <ffx:smile>I had to take a short stroll at night, and walking <ffx:wonder_light>past the Old Man's compartment I heard him mumbling... <ffx:fear_light>It was, like, 3 a.m., and <ffx:wonder_light>he was there talking to himself! <ffx:smile_light>That's overheating, man!<ffx:neutral>",
+    "target": "<ffx:wonder>أنا؟ هاها!<ffx:smile>كان علي أن أقوم بنزهة قصيرة في الليل، وعندما كنت أسير في<ffx:wonder_light>بجوار مقصورة الرجل العجوز، سمعته يتمتم...<ffx:fear_light>كانت الساعة الثالثة صباحًا تقريبًا، و<ffx:wonder_light>كان هناك يتحدث إلى نفسه!<ffx:smile_light>هذا ارتفاع درجة الحرارة يا رجل!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_06_diary_1_dsc",
+    "source": "<tab>Jul 12, 2028<br><br><tab>They say any landing you walk away from is good enough, but what about my case? Could have been worse, of course - the other three can’t even move... Shura and Nick got away with just bruises, though. Nick made a splint for me and more or less put the leg together. It sure hurts like hell...<br><br><br><tab>Jul 13, 2028<br><br><tab>We’re in a tight spot - with bogs all around we sure are not walking to that village Shura said he saw until we at least have a path laid out... Looks like we’re settling here for the time being. The good thing is that we managed to build a camp and get everyone there. The bad thing is that the plane is leaking fuel badly, so we must be quick with getting our stuff out before it catches fire or something. An unexpected bonus: there are no mosquitos here, which is weird...<br><br><br><tab>Jul 14, 2028<br><br><tab>There are other things... They left tracks in the muck last night, which don’t look like anything we’ve ever seen. Glad we have the guns - who knows what those things were... Better get some power in case they come at night. I wonder if we could drive that ram turbine with that bike we had in the luggage...<br><br><br><tab>Jul 15, 2028<br><br><tab>Oh my God! They got Nick! He went to take that ram turbine and they got him! Huge, greenish-grey praying mantis-like monsters! The shotgun did nothing, Shura fired both barrels, but shot just bounced off! They were perfectly hidden, as if they knew where to wait for him! Fucking monsters! Nick... We should have stayed home...<br><br><br><tab>Jul 16, 2028<br><br><tab>We have two options... Try to get help from the village now, or wait till the food runs out and try then. At least, we have time to think about it - it looks like the monsters are afraid of fire and don’t approach our camp while the fire’s going. Shura says it’s up to me, as the others are mostly drifting in and out of conscience, but... How can he be so calm - I still can’t get over what happened to Nick... And this fever...<br><br><br><tab>Jul 17, 2028<br><br><tab>Shura left... His message... Still, that’s bullshit! Just let him get to the dry land, please...<br><br><br><tab>Jul 18, 2028<br><br><tab>They are crawling around at night, clicking their mandibles, what an awful sound... Can’t sleep, have to keep the fire going. Luckily, Shura left enough firewood... The others can’t move at all, but my fever is a little lower now, so...<br><br><br><tab>Jul 20, 2028<br><br><tab>I can’t stand it anymore... Can’t sleep... Will try walking tomorrow - I need some more firewood, at least...<br><br><br><tab>Jul 21, 2028<br><br><tab>Shura... God damn it... Fucking beasts! I found his backpack less than a hundred meters from the camp... Took all my speed to hobble back before they noticed me... Fucking monsters...<br><br><br><tab>Jul 22, 2028<br><br><tab>They’re crawling around, splashing in the mud, clicking their claws... The sound... It’s driving me nuts... Lucky the guys are passed out most of the time, don’t bother them so much... My fever is back... Don’t know if I’ll be able to keep this up...<br><br><br><tab>Jul 23, 2028<br><br><tab>It’s not so bad with the fire crackling, really... The fever is getting worse...<br><br><br><tab>Don’t know the date... The leg is all black, can’t write... Sharpened a couple of sticks and gave them to the guys, hope they can hold them... The monsters are getting closer...<br><br><br><tab>I just can’t anymore...<br><br><br><tab>Jul 17, 2028<br><br><tab>Torn note<br><br><tab>Dima, you know I have to try - I’m the only one left who can move, and we have to get help! Otherwise, the guys are as good as dead! Sit tight and don’t you dare pull a typical you like back then! See ya around!",
+    "target": "<tab>12 يوليو 2028<br><br><tab>يقولون إن أي هبوط تبتعد عنه يعد جيدًا بدرجة كافية، ولكن ماذا عن حالتي؟ كان من الممكن أن يكون الأمر أسوأ، بالطبع - الثلاثة الآخرون لا يستطيعون حتى التحرك... شورا ونيك أفلتوا من كدمات فقط. صنع نيك جبيرة لي وقام بتجميع ساقي بشكل أو بآخر. من المؤكد أن الأمر مؤلم للغاية ...<br><br><br><tab>13 يوليو 2028<br><br><tab>نحن في موقف حرج - مع وجود المستنقعات في كل مكان، نحن بالتأكيد لن نسير إلى تلك القرية، قال شورى إنه رأى حتى يكون لدينا على الأقل طريق محدد... يبدو أننا نستقر هنا لبعض الوقت يجري. الشيء الجيد هو أننا تمكنا من بناء معسكر وإحضار الجميع إليه. الأمر السيئ هو أن الطائرة تتسرب من الوقود بشكل سيء، لذا يجب أن نسرع ​​في إخراج أمتعتنا قبل أن تشتعل فيها النيران أو شيء من هذا القبيل. مكافأة غير متوقعة: لا يوجد بعوض هنا، وهو أمر غريب...<br><br><br><tab>14 يوليو 2028<br><br><tab>هناك أشياء أخرى... لقد تركوا آثارًا في الوحل الليلة الماضية، والتي لا تبدو مثل أي شيء رأيناه من قبل. أنا سعيد لأن لدينا الأسلحة - من يعرف ما هي تلك الأشياء... من الأفضل أن تحصل على بعض القوة في حالة قدومها ليلاً. أتساءل عما إذا كان بإمكاننا قيادة هذا التوربين بهذه الدراجة التي كانت لدينا في الأمتعة ...<br><br><br><tab>15 يوليو 2028<br><br><tab>يا إلهي! لقد حصلوا على نيك! لقد ذهب ليأخذ تلك التوربينة الكبشية وقد قبضوا عليه! وحوش ضخمة تشبه فرس النبي ذات لون رمادي مخضر! لم تفعل البندقية شيئًا، أطلق شورى كلا البرميلين، لكن الرصاصة ارتدت للتو! لقد كانوا مختبئين تماما، كما لو كانوا يعرفون أين ينتظرونه! الوحوش اللعينة! نيك... كان يجب أن نبقى في المنزل...<br><br><br><tab>16 يوليو 2028<br><br><tab>لدينا خياران... حاول الحصول على المساعدة من القرية الآن، أو انتظر حتى نفاد الطعام وحاول بعد ذلك. على الأقل، لدينا الوقت للتفكير في الأمر - يبدو أن الوحوش تخاف من النار ولا تقترب من معسكرنا أثناء اشتعال النار. يقول شورى إن الأمر متروك لي، لأن الآخرين في الغالب ينجرفون داخل وخارج الضمير، ولكن... كيف يمكن أن يكون هادئًا جدًا - ما زلت لا أستطيع التغلب على ما حدث لنيك... وهذه الحمى...<br><br><br><tab>17 يوليو 2028<br><br><tab>شورا غادر... رسالته... ومع ذلك، هذا هراء! فقط دعه يصل إلى الأرض الجافة، من فضلك...<br><br><br><tab>18 يوليو 2028<br><br><tab>إنهم يزحفون في الليل، وينقرون على الفك السفلي، يا له من صوت فظيع... لا أستطيع النوم، يجب أن أبقي النار مشتعلة. لحسن الحظ، ترك شورى ما يكفي من الحطب... لا يستطيع الآخرون التحرك على الإطلاق، لكن الحمى لدي أقل قليلاً الآن، لذا...<br><br><br><tab>20 يوليو 2028<br><br><tab>لا أستطيع التحمل بعد الآن... لا أستطيع النوم... سأحاول المشي غدًا - أحتاج المزيد من الحطب، على الأقل...<br><br><br><tab>21 يوليو 2028<br><br><tab>الشورى... لعنة الله... الوحوش اللعينة! لقد وجدت حقيبة ظهره على بعد أقل من مائة متر من المعسكر... أخذت كل سرعتي للرجوع قبل أن يلاحظوني... الوحوش اللعينة...<br><br><br><tab>22 يوليو 2028<br><br><tab>إنهم يزحفون في الأنحاء، ويرشون في الوحل، وينقرون بمخالبهم... الصوت... إنه يقودني إلى الجنون... محظوظ أن الرجال يفقدون الوعي في معظم الأوقات، لا تزعجهم كثيرًا... لقد عادت الحمى... لا أعرف إذا كنت سأتمكن من الاستمرار على هذا النحو...<br><br><br><tab>23 يوليو 2028<br><br><tab>إنه ليس سيئًا للغاية مع طقطقة النار، حقًا... الحمى تزداد سوءًا...<br><br><br><tab>لا أعرف التاريخ... الساق كلها سوداء، لا أستطيع الكتابة... شحذت بعض العصي وأعطتها للرجال، آمل أن يتمكنوا من الإمساك بها... الوحوش تقترب...<br><br><br><tab>لا أستطيع بعد الآن...<br><br><br><tab>17 يوليو 2028<br><br><tab>ملاحظة ممزقة<br><br><tab>ديما، أنت تعلم أنه يجب علي المحاولة - أنا الوحيد المتبقي الذي يمكنه التحرك، وعلينا الحصول على المساعدة! وإلا فإن الرجال جيدون مثل الموتى! اجلس جيدًا ولا تجرؤ على سحب النموذج الذي تفضله في ذلك الوقت! أراك في الجوار!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_3\\uber_alert\\uber_alert_toomuchnoise_01",
+    "source": "Well, fuck me if I didnt just hear you loud and clear, ha-ha-ha!",
+    "target": "حسنًا، اللعنة علي إذا لم أسمعك بصوت عالٍ وواضح، ها ها ها!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_05_winter\\win_003_radiogameprogress_44",
+    "source": "<ffx:sadness_strong>Even though they'd shoot me on sight if I returned now, <ffx:anger>it doesn't matter. Too many lives are at stake!",
+    "target": "<ffx:sadness_strong>على الرغم من أنهم سيطلقون النار علي إذا عدت الآن،<ffx:anger>لا يهم. الكثير من الأرواح على المحك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\slave_2\\uber_alert\\uber_alert_enemynear_04",
+    "source": "Please, don’t shoot me! I am good slave, I obey! Please, myrza!",
+    "target": "من فضلك لا تطلق النار علي! أنا العبد الصالح، أطيع! من فضلك يا ميرزا!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_000_narration_02_part2_b",
+    "source": "<tab>I've no idea what they'd done to me had they actually captured me, but with the aid from a woman called Katya the cultists had been keeping imprisoned here, I managed to break out. There was some shooting, but at least I got out alive.<br><br>",
+    "target": "<tab>ليس لدي أي فكرة عما فعلوه بي لو أنهم قبضوا علي بالفعل، ولكن بمساعدة امرأة تدعى كاتيا، كان الطائفيون مسجونين هنا، تمكنت من الهروب. كان هناك بعض إطلاق النار، ولكن على الأقل خرجت على قيد الحياة.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_07_yam_diary_2_dsc",
+    "source": "<tab>Everyone just sits still... The stomach doesn’t even bother me anymore... Good thing I didn’t listen to the fools about drinking a lot - will last at least a week more. Joints swollen, hard to write.<br><br><br><tab>I don’t think I can write about this... But I must. They made soup a week ago. Five idiots in the barrack keeled over at once, they gobbled it up and burst their gut... I couldn’t touch it for a day. Then I tasted a bit at night, and hurled immediately...  But in the morning... It tasted like chicken... At least, I can write again. Thought I was a goner for sure...",
+    "target": "<tab>الجميع يجلس ساكنًا... لم تعد معدتي تزعجني بعد الآن... من الجيد أنني لم أستمع إلى الحمقى بشأن شرب الكثير - سوف يستمر لمدة أسبوع آخر على الأقل. تورم المفاصل، وصعوبة الكتابة.<br><br><br><tab>لا أعتقد أنني أستطيع الكتابة عن هذا... لكن يجب علي ذلك. لقد صنعوا الحساء منذ أسبوع. انهار خمسة أغبياء في الثكنة في الحال، والتهموها وفجروا أحشائهم... لم أستطع لمسها ليوم واحد. ثم ذقت قليلا في الليل، وقذفت على الفور... ولكن في الصباح... كان طعمه مثل الدجاج... على الأقل أستطيع أن أكتب مرة أخرى. اعتقدت أنني كنت هالكًا بالتأكيد ...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_2\\free\\free_safe_04",
+    "source": "Why do I have to waste my time here?... Nothing even happens... Well, I guess the instructor knows what he’s doing...",
+    "target": "لماذا علي أن أضيع وقتي هنا؟... لم يحدث شيء حتى... حسنًا، أعتقد أن المدرب يعرف ما يفعله...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_003_70_sam_captain_confrontation_01_06_karmabad",
+    "source": "<gradually catching breath breathing after the fight>I'll be damned... All right, what now?",
+    "target": "<gradually catching breath breathing after the fight>اللعنة علي... حسنًا، ماذا الآن؟",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_1\\knife\\uber_alert__seen_knife_reaction_05",
+    "source": "Aha... Knives... Well, you can keep throwing those, make it easier for me to find you, scum!",
+    "target": "آها... السكاكين... حسنًا، يمكنك الاستمرار في رميها، مما يسهل علي العثور عليك، أيها الحثالة!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_085_copisland_conversation_01_03",
+    "source": "Hey, why do I always have to run around?",
+    "target": "مهلا، لماذا يجب علي دائما أن أركض؟",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_044_dock_06_incomingships_b_01_03",
+    "source": "I still have to enter you all in the book!",
+    "target": "لا يزال يتعين علي إدخالكم جميعًا في الكتاب!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_000_narration_02_part2_stun",
+    "source": "<tab>In the ensuing fight, I had to knock him out. The poor bastard will have a hell of a headache when he wakes up. I also took his car, so we can't really expect a warm welcome from his buddies, whoever they might be. My next goal is a lighthouse in the desert, near which Damir spotted some antennas. I hope, that’s where the satellite communications center is, with the maps we’re looking for.<br><br>",
+    "target": "<tab>في المعركة التي تلت ذلك، كان علي أن أطرده. سيعاني اللقيط المسكين من صداع شديد عندما يستيقظ. لقد أخذت سيارته أيضًا، لذلك لا يمكننا أن نتوقع ترحيبًا حارًا من رفاقه، أيًا كانوا. هدفي التالي هو منارة في الصحراء، والتي رصد دمير بالقرب منها بعض الهوائيات. آمل أن يكون هذا هو المكان الذي يوجد فيه مركز الاتصالات عبر الأقمار الصناعية، مع الخرائط التي نبحث عنها.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_12_valley\\val_011_trappertalk_01_05",
+    "source": "<ffx:wonder_strong>So, I made a mistake! Do I have to sit here for the rest of my life now? <ffx:disgust_light>Was all the time getting those badges wasted? <ffx:neutral>",
+    "target": "<ffx:wonder_strong>لذا، لقد ارتكبت خطأ! هل يجب علي الجلوس هنا لبقية حياتي الآن؟<ffx:disgust_light>هل كان الحصول على تلك الشارات يضيع طوال الوقت؟<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_40_5_oasisfort_towerradiotalk_01_11",
+    "source": "<ffx:wonder>I see... Well, I'll catch some z's here, <ffx:smile>don't dry up on me in the meantime! <ffx:neutral>",
+    "target": "<ffx:wonder>أرى... حسنًا، سألتقط بعض Z هنا،<ffx:smile>لا تجف علي في هذه الأثناء!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_spring\\spr_005_level2_04_03",
+    "source": "<ffx:wonder>She used to be afraid of the dark, <ffx:sadness_light>I always had to leave a candle by her bed... <ffx:neutral>",
+    "target": "<ffx:wonder>كانت تخاف من الظلام،<ffx:sadness_light>كان علي دائمًا أن أترك شمعة بجوار سريرها...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_1\\free\\free_safe_09",
+    "source": "Shit, why did I have to get so wasted... The hangover's fucking killing me here...",
+    "target": "اللعنة، لماذا كان علي أن أضيع إلى هذا الحد... إن المخلفات تقتلني هنا...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_1\\uber_alert\\uber_alert_single_threat_notfound_01",
+    "source": "Damn! He's gone... I'll have to look for him again now...",
+    "target": "اللعنة! لقد رحل...علي أن أبحث عنه مرة أخرى الآن...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_loader_diary_valley_01_03_enteredcamp",
+    "source": "<tab>Not far from the place where I woke up, there were ruins of a children's summer camp. Despite its sorry state, the camp was not completely abandoned, as there I walked into some locals. Luckily, they didn't mistake me for a bandit and shoot me.<br><br>",
+    "target": "<tab>ليس بعيدًا عن المكان الذي استيقظت فيه، كانت هناك أنقاض معسكر صيفي للأطفال. على الرغم من حالته المؤسفة، لم يكن المخيم مهجورًا تمامًا، حيث مررت هناك ببعض السكان المحليين. لحسن الحظ، لم يظنوا أنني قاطع طريق وأطلقوا النار علي.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_2\\uber_alert\\uber_alert_single_threat_notfound_03",
+    "source": "The fucking chickenshit! He's not here! Gotta look for him again! Shit!",
+    "target": "ذلك الجبان اللعين! إنه ليس هنا! علي البحث عنه من جديد! تبًا!",
+    "status": "reviewed",
+    "translation_origin": "reviewed"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_2\\uber_alert\\uber_alert_single_threat_notfound_01",
+    "source": "Fuck me! Where is the bitch? That yellow fucker... I'll find his ass... I'll find his ass soon...",
+    "target": "اللعنة علي! أين العاهرة؟ ذلك اللعين الأصفر... سأجد مؤخرته... سأجد مؤخرته قريبا...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_000_narration_02_part2_c",
+    "source": "<tab>I've no idea what they'd done to me had they actually captured me, but with the aid from a woman called Katya the cultists had been keeping imprisoned here, I managed to give them the slip. Luckily, I was able to avoid excessive casualties in the process.<br><br>",
+    "target": "<tab>ليس لدي أي فكرة عما فعلوه بي لو أنهم قبضوا علي بالفعل، ولكن بمساعدة امرأة تدعى كاتيا، ظل الطائفيون مسجونين هنا، وتمكنت من إعطائهم زلة. ولحسن الحظ، تمكنت من تجنب وقوع خسائر فادحة في هذه العملية.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_1\\species\\confused_single_threat_subsided_01",
+    "source": "Well, fuck me...",
+    "target": "حسناً، اللعنة علي...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_13_dead_city\\nvs_010_ridebackmiller_03",
+    "source": "<ffx:fear_light>Don't you dare die on me now! <ffx:anger_light>Don't even think about it! <ffx:fear_light>What would I tell her then? Huh?<ffx:neutral>",
+    "target": "<ffx:fear_light>لا تجرؤ على الموت علي الآن!<ffx:anger_light>لا تفكر في الأمر حتى!<ffx:fear_light>ماذا سأقول لها إذن؟ هاه؟<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_026_gasstation_bandits_talk_01_14",
+    "source": "<ffx:disgust_light>Nah, there's also those fucking mutants... So, I take the boat into the main hall, and the <ffx:disgust>fucks start throwing shit at me and screaming! So I think I'd better leave, and then the fucking <ffx:fear>catfish shows up! It didn't like the noise! So it just leaps out of the water, 15 meters high, knocks down the bridge where all the fuckers are gathered, and starts chomping! <ffx:fear_light>Shit, I can still hear the fucking sound, gives me the creeps. <ffx:neutral>",
+    "target": "<ffx:disgust_light>لا، هناك أيضًا هؤلاء المتحولون اللعينون... لذا، أخذت القارب إلى القاعة الرئيسية، وبدأ<ffx:disgust>في إلقاء القرف علي والصراخ! لذا أعتقد أنه من الأفضل أن أغادر، وبعد ذلك يظهر سمك السلور<ffx:fear>اللعين! لم يعجبه الضجيج! لذا فهو يقفز من الماء، بارتفاع 15 مترًا، ويسقط الجسر حيث يتجمع كل الأوغاد، ويبدأ في قضم بصوت عالي!<ffx:fear_light>تبا، مازلت أسمع الصوت اللعين، يصيبني بالقشعريرة.<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_dlc2_diary_07_dsc",
+    "source": "<tab>So the fuckers got rid of Seryi, after all... Nose raised shit about Seryi \"stealing\" a crate of ammo, and the Boss seemed to be waiting for the news, as he ordered the man chased out into the swamp at once. And then I see that crate under Nose's bunk! The setup couldn't be more obvious! Seryi was right, we should have hit the road back in Summer!<br><br><tab>No matter, I punched Nose's ticket. That fucker was tough, took some effort, he even managed to stab me with his shiv – not to deep, but I still gotta stitch the wound up. I'll take a breather here, and then go join Seryi in the swamp hideout. He saved my ass plenty a time, and now it's my turn. We'll make it, if the fucking Seraph don't munch on us. But even if he does... I'd rather be eaten than stay another day with these dirty fuckers! <br><br>",
+    "target": "<tab>لذلك تخلص الأشرار من سيري، بعد كل شيء... لقد أثار الأنف غضبًا بشأن \"سرقة\" سيري لصندوق ذخيرة، وبدا أن الرئيس ينتظر الأخبار، حيث أمر بمطاردة الرجل إلى المستنقع في الحال. وبعد ذلك أرى ذلك الصندوق تحت سرير الأنف! الإعداد لا يمكن أن يكون أكثر وضوحا! كان سيري على حق، كان ينبغي لنا أن نعود إلى طريق العودة في الصيف!<br><br><tab>لا يهم، لقد لكمت تذكرة الأنف. كان ذلك اللعين قاسيًا، واستغرق بعض الجهد، حتى أنه تمكن من طعني بسكينه - ليس بعمق، لكن لا يزال يتعين علي خياطة الجرح. سأأخذ استراحة هنا، ثم أذهب للانضمام إلى سيري في مخبأ المستنقع. لقد أنقذني كثيرًا من الوقت، والآن حان دوري. سوف ننجح، إذا لم يأكلنا ساراف اللعين. لكن حتى لو فعل... أفضل أن أؤكل بدلاً من البقاء يومًا آخر مع هؤلاء الأوغاد القذرين!<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_07_yam_diary_6_dsc",
+    "source": "<tab>Unbelievable, hideous, inconceivable monsters! So this is why nobody’s been released from their \"quarantine”! And the fucker has the gall to offer me, an officer, to \"join the ranks again”! So, first they throw me out, and now want me back!<br><br><tab>And they’re not afraid, not in the slightest! This means, everything’s over up there, I don’t even need to check the radio... There is no Government, no Law... And no country... Still, does that give them the right to butcher and eat people? It didn’t take much for them to become ghouls...<br><br><tab>Well, just you wait. I’ll teach you fear again! I still have my gun, luckily. Just you wait, I’ll show you how the \"solution to the supplies problem”, you hellspawn!<br><br>",
+    "target": "<tab>وحوش لا تصدق، بشعة، لا يمكن تصورها! ولهذا السبب لم يتم إطلاق سراح أحد من \"الحجر الصحي\"! واللعين لديه الجرأة ليعرض علي، كضابط، أن \"أنضم إلى الصفوف مرة أخرى\"! لذا، في البداية طردوني، والآن يريدون إعادتي!<br><br><tab>وهم ليسوا خائفين، على الإطلاق! هذا يعني أن كل شيء قد انتهى هناك، ولست بحاجة حتى للتحقق من الراديو... لا توجد حكومة ولا قانون... ولا دولة... ومع ذلك، هل هذا يعطيهم الحق في ذبح الناس وأكلهم؟ لم يستغرق الأمر الكثير حتى يصبحوا غيلان...<br><br><tab>حسنًا، فقط انتظر. سأعلمك الخوف مرة أخرى! لا يزال لدي بندقيتي، لحسن الحظ. فقط انتظر، سأوضح لك كيف يمكن أن يكون \"الحل لمشكلة الإمدادات\"، أيها الجحيم!<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_2\\wounded\\wounded_05",
+    "source": "Aaagh... Fuck!... That motherfucker... Sure got me... ",
+    "target": "آآآه...اللعنة!...ذلك اللعين...بالتأكيد حصل علي...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_2\\uber_alert\\uber_alert_single_gearinguptolookforenemy_02",
+    "source": "I'll get him and then this mess will end... I just have to get him...",
+    "target": "سأحصل عليه ومن ثم ستنتهي هذه الفوضى... علي فقط أن أحصل عليه...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_3\\surrender\\surrendered_02",
+    "source": "Why did I sign up for this... Getting captured in the first action... This is all so stupid...",
+    "target": "لماذا قمت بالتسجيل في هذا... تم القبض علي في الإجراء الأول... كل هذا غبي جدًا...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_2\\decoy\\alert_found_decoy_reaction_03",
+    "source": "Well, fuck me, so much garbage all over the place... Like fucking pigs...",
+    "target": "حسنًا، اللعنة علي، الكثير من القمامة في كل مكان مثل الخنازير اللعينة",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_157_baron_broadcast_08_04",
+    "source": "Well, I have just put Shellgame down, nothing could be done about that - those of you who he owed can get remuneration from his wife, she's worth it. So, to avoid further incidents like this, I got to tell you people, something here, especially the new ones...",
+    "target": "حسنًا، لقد أسقطت شركة شيلغيم للتو، ولا يمكن فعل أي شيء حيال ذلك - يمكن لمن يدين به منكم الحصول على مكافأة من زوجته، فهي تستحق ذلك. لذا، لتجنب وقوع المزيد من الحوادث مثل هذه، علي أن أخبركم أيها الناس، بشيء هنا، وخاصة الأحداث الجديدة...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_025_bandits_talk_02_03",
+    "source": "<ffx:disgust>Nah, you're shitting me now! <ffx:neutral>",
+    "target": "<ffx:disgust>ناه، أنت تتغوط علي الآن!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_2\\alert\\alert_gonnalook_01",
+    "source": "Now I just have to see what's there...",
+    "target": "الآن كل ما علي فعله هو رؤية ما هناك...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_13_nvs_diary_5_dsc",
+    "source": "<tab>December 10th<br><br><tab>Looks like we’re more or less settled now. Sure feels weird - life’s over, the whole world is cinders, nothing but static on the radio... We don’t have that much longer, with the counter ringing like an alarm-clock on steroids - the military, though, still can’t drop their charade. They’ve created a Committee, a Special one to boot! So official... The civilians don’t give much of a damn either, they used to whine about being transferred to the Sibirskaya, and when the military stopped all immigration, they just switched to bickering over spots furthest from the tunnels. What difference does it make? Hardly half of us will be still alive in a month!<br><br><tab>Feeling sick... I wonder how much radiation have I swallowed in the last month?<br><br><tab>December 15th<br><br><tab>The station manager gave out the radioprotector today. It appears, they were making the stuff at the Institute... I thought they did it to just keep the folks from panicking, but no - I felt better as soon as I took the shot. It looks like we’re going to be staying here for a little longer ...<br><br><tab>January 1st<br><br><tab>How many years have passed since... My whole life... Was there anything even worth noting in that life? I just wasted it all here, in the underground... Well, I did move to the depot - but that’s just work, you could do worse if you want your green stuff... So, I just went without writing anything down. Who cares about day-to-day stuff? You can’t even tell one year from another down here...<br><br><tab>January 2nd<br><br><tab>I just had to go and write that shit yesterday! Talk about bad luck...  Where did all those worms come from, with it being winter and all? Spent the whole day cleaning the tunnel - in the technical corridor the slime ate through all the planks, me be damned if I know what are we going to build walkways with from now on...  Still, it didn’t get the mushrooms - famine definitely is something we could do without...<br><br><tab>January 15th<br><br><tab>Our boys are back from the Surface. Two of the five, plus the spook. And they are keeping their mouths shut.<br><br><tab>Managed to get them talking over drinks - the Akademgorodok green stuff warehouse is empty now. They’ll have to cut our supply down - I’m lucky to have some set aside for a rainy day. And when that runs out... Who cares about this life anyways.<br><br><tab>February 15th<br><br><tab>I called it! They cut our handout by half. I can survive, but what are the people with families supposed to do?<br><br><tab>March 15th<br><br><tab>Another cut by half... Just one flask - this is enough to last a week here... Another week later you start puking your guts out. Another two, and it’s time to start shopping for a coffin. Though, coffins are a thing of the past now - you’re lucky if they don’t feed you to the pigs once you croak now...<br><br><tab>April 10th<br><br><tab>Gave my last five flasks to Kolya - his daughter’s got the rash already... With this, she should get better for a spell. I’m done with sitting on my butt in this hole. The others say the same... We’re going to have some fun, spread our wings a bit before closing time!<br><br>",
+    "target": "<tab>، 10 ديسمبر<br><br><tab>يبدو أننا مستقرون إلى حد ما الآن. من المؤكد أنه يبدو غريبًا - لقد انتهت الحياة، والعالم كله أصبح رمادًا، ولا شيء سوى ثابت على الراديو... لم يعد لدينا الكثير من الوقت، مع رنين العداد مثل المنبه على المنشطات - ومع ذلك، لا يزال الجيش غير قادر على إسقاط تمثيليته. لقد أنشأوا لجنة، لجنة خاصة للتمهيد! رسميًا جدًا... المدنيون أيضًا لا يكترثون كثيرًا، فقد اعتادوا التذمر من نقلهم إلى سيبيرسكايا، وعندما أوقف الجيش كل عمليات الهجرة، تحولوا إلى المشاحنات حول الأماكن الأبعد عن الأنفاق. ما الفرق الذي يحدثه؟ بالكاد سيظل نصفنا على قيد الحياة خلال شهر واحد!<br><br><tab>أشعر بالمرض... وأتساءل ما مقدار الإشعاع الذي ابتلعت في الشهر الماضي؟<br><br><tab>15 ديسمبر<br><br><tab>قام مدير المحطة اليوم بتوزيع العقار الواقي من الإشعاع. يبدو أنهم كانوا يصنعون الأشياء في المعهد... اعتقدت أنهم فعلوا ذلك فقط لمنع الناس من الذعر، لكن لا - شعرت بالتحسن بمجرد أن التقطت الصورة. يبدو أننا سنبقى هنا لفترة أطول قليلاً...<br><br><tab>الأول من يناير<br><br><tab>كم سنة مرت منذ... حياتي كلها... هل كان هناك أي شيء يستحق الذكر في تلك الحياة؟ لقد أهدرت كل شيء هنا، في تحت الأرض... حسنًا، لقد انتقلت إلى المستودع - لكن هذا مجرد عمل، يمكنك أن تفعل ما هو أسوأ إذا كنت تريد أغراضك الخضراء... لذا، ذهبت دون كتابة أي شيء. من يهتم بالأشياء اليومية؟ لا يمكنك حتى التمييز بين سنة وأخرى هنا...<br><br><tab>2 يناير<br><br><tab>كان علي أن أذهب وأكتب هذا الهراء بالأمس! تحدث عن الحظ السيئ... من أين أتت كل تلك الديدان، مع حلول الشتاء وما إلى ذلك؟ أمضيت اليوم كله في تنظيف النفق - في الممر الفني، أكل الوحل جميع الألواح الخشبية، اللعنة إذا كنت أعرف ما الذي سنبني به الممرات من الآن فصاعدًا... ومع ذلك، لم نحصل على الفطر - المجاعة بالتأكيد شيء يمكننا الاستغناء عنه...<br><br><tab>15 يناير<br><br><tab>لقد عاد أولادنا من السطح. اثنان من الخمسة، بالإضافة إلى الشبح. وهم يبقون أفواههم مغلقة.<br><br><tab>تمكنت من جعلهم يتحدثون أثناء تناول المشروبات - مستودع المواد الخضراء أكاديمغورودوك فارغ الآن. سيتعين عليهم قطع إمداداتنا - وأنا محظوظ لأنني خصصت بعضًا منها ليوم ممطر. وعندما ينفد ذلك... من يهتم بهذه الحياة على أي حال.<br><br><tab>15 فبراير<br><br><tab>لقد اتصلت به! لقد قطعوا صدقتنا إلى النصف. أستطيع البقاء على قيد الحياة، ولكن ما الذي يفترض أن يفعله الأشخاص الذين لديهم عائلات؟<br><br><tab>15 مارس<br><br><tab>قطع آخر بمقدار النصف... دورق واحد فقط - هذا يكفي لمدة أسبوع هنا... وبعد أسبوع آخر تبدأ في التقيؤ في أحشائك. اثنان آخران، وحان الوقت لبدء التسوق لشراء تابوت. على الرغم من ذلك، أصبحت التوابيت شيئًا من الماضي الآن - فأنت محظوظ إذا لم تطعمك للخنازير بمجرد أن تنعق الآن...<br><br><tab>10 أبريل<br><br><tab>أعطيت قوارير الخمس الأخيرة لكوليا - لقد أصيبت ابنته بالطفح الجلدي بالفعل... بهذا، يجب أن تحصل على أفضل للتهجئة. لقد انتهيت من الجلوس على مؤخرتي في هذه الحفرة. الآخرون يقولون الشيء نفسه... سنحظى ببعض المرح، ونفرد أجنحتنا قليلاً قبل وقت الإغلاق!<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_12_valley\\val_003_punished_01_04",
+    "source": "<ffx:disgust>So you should go find him... <ffx:anger>Or just shoot me! <ffx:neutral>",
+    "target": "<ffx:disgust>لذا يجب عليك البحث عنه...<ffx:anger>أو أطلق النار علي فحسب!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_000_narration_02_part2_a",
+    "source": "<tab>I've no idea what they'd done to me had they actually captured me, but with the aid from a woman called Katya the cultists had been keeping imprisoned here, I managed to give them the slip. Luckily, I was able to avoid casualties in the process.<br><br>",
+    "target": "<tab>ليس لدي أي فكرة عما فعلوه بي لو أنهم قبضوا علي بالفعل، ولكن بمساعدة امرأة تدعى كاتيا، ظل الطائفيون مسجونين هنا، وتمكنت من إعطائهم زلة. ولحسن الحظ، تمكنت من تجنب وقوع إصابات في هذه العملية.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_dia_crew_katya_nastya_autumn",
+    "source": "<tab>At last, a joyous event aboard the Aurora! Our Stepan has proposed to his savior, and she accepted. It was pretty obvious from the very beginning that Stepan was not indifferent to Katya, and her liking this gentle bear back was not something unexpected. We had all started joking about Stepan’s crush long ago, but he is too shy for his own good, so it took him a while to finally propose. Still, it happened, and they were wed by our Colonel, also serving as the captain of our land battleship... <br><br><tab>That’s when trouble struck.   <br><br><tab>Katya is beside herself with worry, and she blames herself for misattributing the symptoms of Anna’s poisoning. Katya managed to stabilize Anna’s condition after the bout during the wedding, and says she knows how to cure my wife, but she obviously doubts her own competence, constantly comparing herself with her mom, who used to be a real doctor and scientist. The \"Renergan-F” medicine Katya told us about seems to be Anna’s only hope. There’s nothing else to hope for, so I have to believe this medicine’s power - and Katya’s ability. <br><br><tab>Katya promised me to make sure that Anna survives our trip to Novosibirsk no matter what. We only need to get there, and then it all depends on me. Katya, please, be right! <br><br>",
+    "target": "<tab>أخيرًا، حدث بهيج على متن أورورا! تقدم ستيبان لخطبة مخلصه، وقبلت. كان من الواضح جدًا منذ البداية أن ستيبان لم يكن غير مبالٍ بكاتيا، وأن إعجابها بهذا الدب اللطيف لم يكن شيئًا غير متوقع. لقد بدأنا جميعًا في المزاح حول إعجاب ستيبان منذ فترة طويلة، لكنه خجول جدًا لمصلحته، لذلك استغرق الأمر بعض الوقت ليتقدم لخطبته أخيرًا. ومع ذلك، حدث ما حدث، وتزوجهما العقيد، الذي يعمل أيضًا كقائد لسفينتنا الحربية البرية...<br><br><tab>وذلك عندما حدثت المشكلة.<br><br><tab>كاتيا تعاني من القلق، وتلوم نفسها على سوء نسب أعراض تسمم آنا. تمكنت كاتيا من تثبيت حالة آنا بعد النوبة أثناء الزفاف، وتقول إنها تعرف كيفية علاج زوجتي، لكن من الواضح أنها تشك في كفاءتها، وتقارن نفسها باستمرار مع والدتها، التي اعتادت أن تكون طبيبة وعالمة حقيقية. يبدو أن دواء \"رينيرغان-إف\" الذي أخبرتنا به كاتيا هو أمل آنا الوحيد. لا يوجد شيء آخر نأمله، لذلك يجب أن أصدق قوة هذا الدواء - وقدرة كاتيا.<br><br><tab>وعدتني كاتيا بالتأكد من نجاة آنا من رحلتنا إلى نوفوسيبيرسك مهما حدث. نحن بحاجة فقط للوصول إلى هناك، وبعد ذلك كل هذا يتوقف علي. كاتيا، من فضلك، كن على حق!<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_300_uber_alert_search_02",
+    "source": "<ffx:fear>I fucking hope no fucker jumps me now...<ffx:neutral>",
+    "target": "<ffx:fear>أتمنى ألا يقفز علي أي شخص الآن...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_171_barondouble_reaction_14_lighter_03_01",
+    "source": "<ffx:sadness>Oh, this is so childish... You <ffx:smile_light>know the magic of the Holy Flame does not affect me, hehe... <ffx:neutral>",
+    "target": "<ffx:sadness>أوه، هذا طفولي جدًا... أنت<ffx:smile_light>تعلم أن سحر الشعلة المقدسة لا يؤثر علي، هيهي...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_m13_main_task_6_note",
+    "source": "The medicine, the maps, Kirill - everyone and everything is on board. The Colonel is unconscious... I don't know if he's alive. I also don't know if I will make it to the rendezvous with the Aurora, but I don't have much of a choice. I must. Besides, I'm almost there already, it's just a short drive ahead...",
+    "target": "الدواء والخرائط وكيريل - الجميع وكل شيء على متن الطائرة. العقيد فاقد للوعي... ولا أعرف إذا كان على قيد الحياة. أنا أيضًا لا أعرف إذا كنت سأصل إلى الموعد مع أورورا، لكن ليس لدي الكثير من الخيارات. يجب علي. علاوة على ذلك، لقد أوشكت على الوصول إلى هناك بالفعل، وما هي إلا مسافة قصيرة بالسيارة للأمام...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_3\\danger\\grenade_escaped_03",
+    "source": "Fuck, the bitch almost got me!",
+    "target": "اللعنة، العاهرة كادت أن تحصل علي!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_000_narration_02_b",
+    "source": "<tab>The locals were none too happy to see us here - looks like after the War they created a veritable technophobic cult here, and its leader managed to trap me in their half-flooded church. I've no idea what they'd done to me had they actually captured me, but with the aid from a woman called Katya the cultists had been keeping imprisoned here, I managed to break out. There was some shooting, but at least I got out alive. Katya mentioned an engineer called Krest, who's hiding from the cultists in the Port - he could help us fix the Aurora and cross the bridge. Now seems to be a good time to pay him a visit...<br><br>",
+    "target": "<tab>لم يكن السكان المحليون سعداء جدًا برؤيتنا هنا - يبدو أنه بعد الحرب أنشأوا طائفة حقيقية معادية للتكنولوجيا هنا، وتمكن زعيمها من محاصرة كنيستهم التي غمرتها المياه نصفها. ليس لدي أي فكرة عما فعلوه بي لو أنهم قبضوا علي بالفعل، ولكن بمساعدة امرأة تدعى كاتيا، كان الطائفيون مسجونين هنا، تمكنت من الهروب. كان هناك بعض إطلاق النار، ولكن على الأقل خرجت على قيد الحياة. ذكرت كاتيا مهندسًا يُدعى كريست، والذي يختبئ من الطوائف في الميناء - يمكنه مساعدتنا في إصلاح أورورا وعبور الجسر. يبدو الآن أن الوقت مناسب لزيارته...<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_2\\free\\free_safe_05",
+    "source": "Why the fuck do I get to stick around here? As if anybody needs me to... Yeah, sure...",
+    "target": "لماذا بحق الجحيم يجب علي البقاء هنا؟ كما لو كان أي شخص يحتاج لي... نعم، بالتأكيد...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_041_bfanatics_rave_monologue_02_04",
+    "source": "<ffx:fear_strong>Aaaah! I don't want to die! Aaaaah! God, save me and take pity on me!",
+    "target": "<ffx:fear_strong>ااااه! لا أريد أن أموت! ااااه! يا الله أنقذني وأشفق علي!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_015_8_canyon_riggers_talk_06_05",
+    "source": "<ffx:wonder>Eeeeh, no fear about me, <ffx:smile>fear about you, Sun make you head hot, <ffx:wide_smile>you get even dumber than now! <ffx:neutral>",
+    "target": "<ffx:wonder>آه، لا خوف علي،<ffx:smile>الخوف عليك، الشمس تجعلك ساخنًا،<ffx:wide_smile>أصبحت أكثر غباءً من الآن!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_2\\surrender\\surrender_03",
+    "source": "Look, you just... You know... Just don't shoot me, man...",
+    "target": "انظر، أنت فقط... كما تعلم... فقط لا تطلق النار علي، يا رجل...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_1\\wounded\\wounded_gravely_09",
+    "source": "Damn... I think he got me...",
+    "target": "اللعنة...أعتقد أنه حصل علي...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc1\\dlc1_73_6_optimist_and_pessimist_01_04",
+    "source": "I told this day would come, we would run out of the green stuff eventually, and you all laughed at me! Well, look who's laughing now!",
+    "target": "لقد قلت أن هذا اليوم سيأتي، وسوف تنفد منا المادة الخضراء في نهاية المطاف، وقد ضحكتم جميعًا علي! حسنًا، انظر من يضحك الآن!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_dia_world_hanza_intro",
+    "source": "<tab>The most powerful faction of the Metro, The Commonwealth of the Stations of the Ring Line. The soldiers in Hansa's employ enjoy the best pay and equipment, and thus are highly motivated to train and perform their duties exceptionally well, making up in proficiency and skill for what they may lack in numbers. The only force to be objectively better than Hanseic troops in terms of professionalism and training is the Spartan Order, which yours truly is honored to be a member of.<br><br><tab>As far as I was able to surmise from the Colonel’s reluctant confession, Hansa is the vehicle of the Invisible Watchers, the real government of Moscow controlling all the factions from the shadows. They clearly have too much power to just live and let live, and thus engaged in some shady business, including the \"Shield” project, designed to keep Moscow under an impenetrable blanket of radio jamming to prevent further nuclear strikes against the capital.<br><br><tab>The project itself would be a benevolent initiative, even if quite misguided, had it not been connected with mass murder of people coming into or trying to leave Moscow, as well as anyone and everyone learning anything about it.<br><br><tab>Anna and I were captured by their patrol after we saw the Aurora entering the city perimeter, and just for that \"terrible crime” I was put to the gun...<br><br><tab>Anna’s agony at the moment is something I will not forgive them, for as long as I live!<br><br>",
+    "target": "<tab>أقوى فصيل في المترو، كومنولث محطات الخط الدائري. يتمتع الجنود العاملون لدى هانزا بأفضل الأجور والمعدات، وبالتالي لديهم دافع كبير للتدريب وأداء واجباتهم بشكل جيد للغاية، مما يعوض بالكفاءة والمهارة ما قد يفتقرون إليه من حيث الأعداد. القوة الوحيدة التي تعتبر أفضل من الناحية الموضوعية من القوات الهانزية من حيث الاحتراف والتدريب هي التنظيم المتقشف، والذي تتشرف قوتك حقًا بأن تكون عضوًا فيه.<br><br><tab>بقدر ما تمكنت من التخمين من اعتراف العقيد المتردد، فإن هانسا هي وسيلة المراقبين غير المرئيين، الحكومة الحقيقية لموسكو التي تسيطر على جميع الفصائل من الظل. ومن الواضح أنهم يتمتعون بقدر كبير من القوة بحيث لا يمكنهم العيش وترك الآخرين يعيشون، وبالتالي فإنهم منخرطون في بعض الأعمال المشبوهة، بما في ذلك مشروع \"الدرع\"، المصمم لإبقاء موسكو تحت غطاء لا يمكن اختراقه من التشويش اللاسلكي لمنع المزيد من الضربات النووية ضد العاصمة.<br><br><tab>المشروع نفسه سيكون مبادرة خيرية، حتى لو كانت مضللة تمامًا، لو لم يكن مرتبطًا بالقتل الجماعي للأشخاص الذين يأتون إلى موسكو أو يحاولون مغادرتها، بالإضافة إلى أي شخص وكل شخص يتعلم أي شيء عنها.<br><br><tab>تم القبض علي أنا وآنا من قبل دوريتهم بعد أن رأينا الشفق يدخل محيط المدينة، وبسبب هذه \"الجريمة الفظيعة\" تم إطلاق النار علي...<br><br><tab>معاناة آنا في هذه اللحظة هي شيء لن أسامحهم عليه، طالما حييت!<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_012_3_annahideoutreturn_02_01",
+    "source": "<ffx:wonder_light>Back to check on me again? <ffx:smile_light>Thank you... <ffx:neutral>",
+    "target": "<ffx:wonder_light>العودة للاطمئنان علي مرة أخرى؟<ffx:smile_light>شكرًا لك...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_040_lightningfighters_player_appears_weapon_01_02",
+    "source": "<ffx:disgust>Yeah, we saw bastards who would menace peaceful folk with their guns... <ffx:anger>Do you think you could scare us, coward?! <ffx:anger-strong>Come on, shoot! Shoot me! <ffx:anger_light>He who dies on a holy quest will be carried by the Tsar-Fish straight to the gates of heaven!",
+    "target": "<ffx:disgust>نعم، لقد رأينا الأوغاد الذين يهددون المسالمين بأسلحتهم...<ffx:anger>هل تعتقد أنك يمكن أن تخيفنا أيها الجبان؟!<ffx:anger-strong>هيا، أطلق النار! أطلق النار علي!<ffx:anger_light>من يموت في مهمة مقدسة ستحمله سمكة القيصر مباشرة إلى أبواب الجنة!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_3\\wounded\\wounded_gravely_02",
+    "source": "Fuck! He fucking got me...",
+    "target": "اللعنة! لقد حصل علي سخيف ...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  }
+]

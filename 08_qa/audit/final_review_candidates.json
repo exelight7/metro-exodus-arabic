@@ -1,0 +1,79 @@
+[
+  {
+    "id": "general_hint_91_2034",
+    "source": "Reports of a massive bear-like mutant in the old city center have spread through Metro. Watchmen have been seen trying to attack it, but it generally will leave humans alone unless threatened.",
+    "target": "انتشرت التقارير عن وجود متحولة ضخمة تشبه الدب في وسط المدينة القديمة عبر مترو. لقد شوهد الحراس وهم يحاولون مهاجمته، لكنه بشكل عام سيترك البشر وشأنهم ما لم يتعرضوا للتهديد.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_dlc01_general_hint_2",
+    "source": "If flowing water prevents you from burning slime, look for a valve to close, they are usually nearby.",
+    "target": "إذا منعك الماء المتدفق من حرق المادة اللزجة، فابحث عن صمام وأغلقه؛ عادة ما يكون قريبا.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "$general_hint_33",
+    "source": "Stay close to your companions to increase your chances of survival.",
+    "target": "ابق قريبًا من رفاقك لزيادة فرص بقائك على قيد الحياة.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_dlc02_general_hint_2",
+    "source": "Your Universal Detector can detect not only mines, but also different useful objects.",
+    "target": "يكشف الكاشف الشامل الألغام وأشياء مفيدة أخرى أيضا.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_pause_menu_hint_gieger_dsc",
+    "source": "Your bracer has several useful devices mounted on it, including the vital radiation counter. The noise it makes should help you determine if it’s time to put the Gas Mask on.<br><br> The Counter helps you avoid radiation hotspots, walking into which not only hams your health, but also depletes your Gas Mask filters a lot faster. ",
+    "target": "يحمل سوار معصمك عدة أجهزة مفيدة، أهمها عداد الإشعاع. تساعدك الأصوات التي يصدرها على معرفة الوقت المناسب لارتداء قناع الغاز.<br><br>يساعدك العداد على تجنب المناطق شديدة الإشعاع؛ فدخولها يضر بصحتك ويستهلك مرشحات قناع الغاز بسرعة أكبر بكثير.",
+    "status": "reviewed",
+    "translation_origin": "reviewed"
+  },
+  {
+    "id": "m3_general_hint_56",
+    "source": "You can only carry so much ammo of a particular kind, so it is wise to carry several weapons using different ammo types.",
+    "target": "لا يمكنك حمل أكثر من كمية محددة من كل نوع من الذخيرة، لذا من الحكمة حمل أسلحة تستخدم أنواعا مختلفة منها.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_pause_menu_hint_dirt_dsc",
+    "source": "During your adventures, the weapons you carry will constantly be subject to pollution from different sources - water, rain, explosions and other misfortunes all make your weapons dirty. The dirtier the weapon gets, the more its performance degrades. <br><br>. To fix the problem, look for a workbench, which would allow you to properly clean the weapon. Another option would be to return to base. The workshop on the Aurora not only allows for cleaning weapons and crafting ammo and other supplies, but also includes a gun rack that stores samples of all the weapons you find. You can retrieve these weapons at any time, in perfect condition.",
+    "target": "تتسخ أسلحتك باستمرار خلال مغامراتك بسبب الماء والمطر والانفجارات وغيرها. وكلما زادت الأوساخ، تراجع أداء السلاح.<br><br>لتنظيف السلاح جيدا، ابحث عن طاولة عمل أو عد إلى القاعدة. تتيح ورشة أورورا تنظيف الأسلحة وصنع الذخيرة والإمدادات، وتضم حاملا يحفظ نماذج من جميع الأسلحة التي عثرت عليها. يمكنك استعادتها في أي وقت بحالة ممتازة.",
+    "status": "reviewed",
+    "translation_origin": "reviewed"
+  },
+  {
+    "id": "m3_pause_menu_hint_workbench_dsc",
+    "source": "By using a workbench at the right time, you can substantially increase your chance of survival. Workbenches allow you to make cartridges of any caliber, explosives, and special ammo. You can also use them to clean your weapons and replace broken gasmask visors.<br><br> Besides these important functions, the workbench on the Aurora provides access to all the weapons you ever found. ",
+    "target": "استخدام طاولة العمل في الوقت المناسب يزيد فرص نجاتك كثيرا. يمكنك فيها صنع طلقات من مختلف الأعيرة، والمتفجرات والذخيرة الخاصة، وتنظيف أسلحتك واستبدال زجاج قناع الغاز المكسور.<br><br>وتتيح لك طاولة العمل على أورورا أيضا الوصول إلى جميع الأسلحة التي سبق أن عثرت عليها.",
+    "status": "reviewed",
+    "translation_origin": "reviewed"
+  },
+  {
+    "id": "m3_pause_menu_hint_flamethrower_dsc",
+    "source": "Flamethrowers, initially created by Novosibirsk Metro’s gunsmiths specifically to simplify the task of keeping the slime growth in check, quickly became the go-to weapons for OSKOM operatives in the field due to their versatility and sheer firepower. <br><br>The flamethrower not only makes short work of most mutants and helps clear the way, but is very handy in dark areas, as its igniter makes for a pretty effective torch. Keeping it on provides the bonus of letting you open fire on any unexpectedly emerging target immediately. <br><br>You must keep in mind, though, that keeping the igniter flame going taps into the weapon’s air pressure, which might turn out insufficient to open fire in a critical moment, forcing you to pump it up losing precious seconds in the process. <br><br>Flamethrower’s excellent area-denial capability is a double-edged sword, as dousing a tunnel in flames naturally makes it inaccessible not only to the mutants, but also to the weapon’s user. OSKOM solved the problem by issuing special flame-retardant suits to the operatives fielding the weapon. <br><br>",
+    "target": "ابتكر صانعو الأسلحة في مترو نوفوسيبيرسك قاذفات اللهب للحد من نمو الكتل اللزجة. وسرعان ما أصبحت السلاح المفضل لعناصر أوسكوم في الميدان بفضل تنوع استخداماتها وقوتها النارية.<br><br>يقضي قاذف اللهب سريعا على معظم المتحولين ويفتح الطريق، كما تفيد شعلة الإشعال في إنارة الأماكن المظلمة. وإبقاؤها مشتعلة يتيح إطلاق النار فورا على أي هدف يظهر بغتة.<br><br>لكن شعلة الإشعال تستهلك ضغط الهواء في السلاح. وقد ينخفض الضغط فلا تستطيع إطلاق النار في لحظة حرجة، وتضطر إلى إضاعة ثوان ثمينة في ضخه مجددا.<br><br>قدرة قاذف اللهب على إغلاق الممرات سلاح ذو حدين؛ فالنار التي تسد النفق أمام المتحولين تسده أمام مستخدم السلاح أيضا. عالجت أوسكوم المشكلة بتزويد مستخدميه ببدلات خاصة مقاومة للهب.<br><br>",
+    "status": "reviewed",
+    "translation_origin": "reviewed"
+  },
+  {
+    "id": "m3_general_hint_99",
+    "source": "Avoid the radioactive pollution zones, entering them not only damages you directly, but also increases the rate of your gas mask filters' depletion, which could lead to your death. Listen to the Geiger counter on your bracer, and leave the irradiated areas as soon as you can.",
+    "target": "تجنب مناطق التلوث الإشعاعي؛ فهي تؤذيك مباشرة وتسرع استهلاك مرشحات قناع الغاز، مما قد يودي بحياتك. أصغ إلى عداد جيجر على واقي ساعدك، وغادر المناطق الملوثة بالإشعاع بأسرع ما يمكن.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "general_hint_DLC3",
+    "source": "An underslung shotgun increases your weapon's versatility and can save you from a lone mutant, but is not effective against a whole pack.",
+    "target": "تزيد بندقية الخرطوش المثبتة أسفل السبطانة من تعدد استخدامات سلاحك، وقد تنقذك من متحول منفرد، لكنها لا تكفي لمواجهة قطيع كامل.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  }
+]

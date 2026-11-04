@@ -1,0 +1,10 @@
+{
+  "revision": "loading_complete_r1",
+  "fixture": "WORKSPACE\\MetroExodus_AR\\06_build\\loading_install_20261103-135641",
+  "install_exact": true,
+  "install_idempotent": true,
+  "restore_byte_identical": true,
+  "unknown_version_refused": true,
+  "combined_uninstall_restores_exe_and_index": true,
+  "game_started": false
+}

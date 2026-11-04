@@ -1,0 +1,671 @@
+{
+ "strings": [
+  "Main - ANNA",
+  "m3_sub_main_actor_ann",
+  "DES \\ STRIPPER",
+  "m3_sub_des_actor_stripper",
+  "DLC1 \\ CIVILIAN",
+  "m3_sub_dlc1_actor_civilian",
+  "VAL \\ OLGA",
+  "m3_sub_val_actor_olga",
+  "Main - IDIOT",
+  "m3_sub_main_actor_idiot",
+  "Main - DAMIR",
+  "m3_sub_main_actor_damir",
+  "DES \\ PATRON",
+  "m3_sub_des_actor_patron",
+  "VAL \\ ADMIRAL",
+  "m3_sub_val_actor_admiral",
+  "YAM \\ COMMANDER",
+  "m3_sub_yamantau_actor_commander",
+  "BRI \\ SILANTIUS",
+  "m3_sub_bridge_actor_silantius",
+  "END \\ EUGENE",
+  "m3_sub_end_actor_eugene",
+  "DLC2 \\ KORZH",
+  "m3_sub_dlc2_actor_korzh",
+  "DLC1 \\ OSKOM SOLDIER",
+  "m3_sub_dlc1_actor_oskom_soldier",
+  "DLC2 \\ SCOUT_1",
+  "m3_sub_dlc2_actor_scout_1",
+  "VAL \\ FOREST CHILDREN",
+  "m3_sub_val_actor_forest_children",
+  "DES \\ SLAVE",
+  "m3_sub_des_actor_slave",
+  "Main - ALYOSHA",
+  "m3_sub_main_actor_alyosha",
+  "Main - KATYA",
+  "m3_sub_main_actor_katya",
+  "BRI \\ VILLAGER",
+  "m3_sub_bridge_actor_villager",
+  "DLC2 \\ FISHERMAN_2",
+  "m3_sub_dlc2_actor_fisherman_2",
+  "DES \\ CULTIST",
+  "m3_sub_des_actor_cultist",
+  "YAM \\ MINION",
+  "m3_sub_yamantau_actor_aide",
+  "DES \\ GUL",
+  "m3_sub_des_actor_gul",
+  "MSK \\ COMMANDER",
+  "m3_sub_dead_moscow_actor_commander",
+  "Main - TOKAREV",
+  "m3_sub_main_actor_tt",
+  "END \\ BOURBON",
+  "m3_sub_end_actor_bourbon",
+  "DLC2 \\ FISHERMAN_1",
+  "m3_sub_dlc2_actor_fisherman_1",
+  "Main - KREST",
+  "m3_sub_main_actor_krest",
+  "DLC1 \\ LITTLE GIRL",
+  "m3_sub_dlc1_actor_little_girl",
+  "DLC2 \\ KLIM",
+  "m3_sub_dlc2_actor_klim",
+  "MSK \\ SPEAKER",
+  "m3_sub_dead_moscow_actor_speaker",
+  "BRI \\ FANATIC (FEMALE)",
+  "m3_sub_bridge_actor_fanatic_female",
+  "DLC2 \\ MUTANT",
+  "m3_sub_dlc2_actor_mutant",
+  "BRI \\ STEPANYCH",
+  "m3_sub_bridge_actor_stepanych",
+  "DES \\ RIGGER",
+  "m3_sub_des_actor_rigger",
+  "WIN \\ RADIO",
+  "m3_sub_winter_actor_radio",
+  "Main - DUKE",
+  "m3_sub_main_actor_duke",
+  "DLC2 \\ GUARD",
+  "m3_sub_dlc2_guard",
+  "DLC2 \\ FISHERMAN",
+  "m3_sub_dlc2_actor_fisherman",
+  "VAL \\ BIRD",
+  "m3_sub_val_actor_bird",
+  "DLC2 \\ BROTHER_2",
+  "m3_sub_dlc2_actor_brother_2",
+  "DLC2 \\ BROTHER_1",
+  "m3_sub_dlc2_actor_brother_1",
+  "MSK \\ WORKER",
+  "m3_sub_dead_moscow_actor_worker",
+  "DLC2 \\ SCOUT_2",
+  "m3_sub_dlc2_actor_scout_2",
+  "DLC2 \\ XO",
+  "m3_sub_dlc2_actor_xo",
+  "END \\ OLD MAN",
+  "m3_sub_end_actor_oldman",
+  "DLC2 \\ CAP",
+  "m3_sub_dlc2_actor_captain",
+  "BRI \\ VANYA",
+  "m3_sub_bridge_actor_vanya",
+  "MSK \\ MOTHER",
+  "m3_sub_dead_moscow_actor_mother",
+  "DLC2 \\ TOM",
+  "m3_sub_dlc2_actor_tom",
+  "DLC1 \\ TANKER",
+  "m3_sub_dlc1_actor_tanker",
+  "VAL \\ TEACHER",
+  "m3_sub_val_actor_teacher",
+  "DLC1 \\ BARTENDER",
+  "m3_sub_dlc1_actor_bartender",
+  "DLC1 \\ MERCHANT",
+  "m3_sub_dlc1_actor_merchant",
+  "DLC1 \\ DRUNKARD",
+  "m3_sub_dlc1_actor_drunkard",
+  "DLC1 \\ WOMAN",
+  "m3_sub_dlc1_actor_civilian_f",
+  "DLC1 \\ STALKER",
+  "m3_sub_dlc1_actor_stalker",
+  "WIN \\ TAPE",
+  "m3_sub_main_actor_tape",
+  "DES \\ BARON",
+  "m3_sub_des_actor_baron",
+  "Main - STEPAN",
+  "m3_sub_main_actor_stepan",
+  "DLC1 \\ OSKOM OFFICER",
+  "m3_sub_dlc1_actor_oskom_officer",
+  "DLC2 \\ NARRATOR",
+  "m3_sub_dlc2_actor_narrator",
+  "<none>",
+  "",
+  "VAL \\ PIONEER",
+  "m3_sub_val_actor_pioneer",
+  "DLC1 \\ GENERAL",
+  "m3_sub_dlc1_actor_general",
+  "DLC1 \\ PETROVITCH",
+  "m3_sub_dlc1_actor_petrovitch",
+  "END \\ KHAN",
+  "m3_sub_end_actor_khan",
+  "END \\ OLD WOMAN",
+  "m3_sub_end_actor_oldwoman",
+  "DES \\ LOCAL",
+  "m3_sub_des_actor_local",
+  "Main - MILLER",
+  "m3_sub_main_actor_miller",
+  "DLC1 \\ MAN",
+  "m3_sub_dlc1_actor_man",
+  "BRI \\ PILIGRIM LEADER",
+  "m3_sub_bridge_actor_pilgrim_leader",
+  "DES \\ ANNOUNCER",
+  "m3_sub_des_actor_announcer",
+  "MSK \\ OLD WOMAN",
+  "m3_sub_dead_moscow_actor_oldwoman",
+  "Main - KIRILL",
+  "m3_sub_main_actor_kirll",
+  "DES \\ SAUL",
+  "m3_sub_des_actor_saul",
+  "END \\ BOY",
+  "m3_sub_end_actor_boy",
+  "END \\ ARTYOM",
+  "m3_sub_end_actor_artyom",
+  "Main - YERMAK",
+  "m3_sub_main_actor_yermak",
+  "MSK \\ TEEN",
+  "m3_sub_dead_moscow_actor_teen",
+  "DES \\ MECHANIC",
+  "m3_sub_des_actor_mechanic",
+  "MSK \\ DOCTOR",
+  "m3_sub_dead_moscow_actor_doctor",
+  "VAL \\ PIRATE",
+  "m3_sub_val_actor_pirate",
+  "END \\ MOTHER",
+  "m3_sub_end_actor_artyomsmom",
+  "MSK \\ OFFICER",
+  "m3_sub_dead_moscow_actor_officer",
+  "Main - NASTYA",
+  "m3_sub_main_actor_nastya",
+  "BRI \\ LIGHTING FIGHTER",
+  "m3_sub_bridge_actor_lighting_fighter",
+  "MSK \\ SOLDIER",
+  "m3_sub_dead_moscow_actor_soldier",
+  "BRI \\ FANATIC",
+  "m3_sub_bridge_actor_fanatic",
+  "YAM \\ MINISTER",
+  "m3_sub_yamantau_actor_doctor_death",
+  "DES \\ HERMIT",
+  "m3_sub_des_actor_hermit",
+  "BRI \\ CARAVANER",
+  "m3_sub_bridge_actor_bandit_caravaner",
+  "DLC1 \\ KHLEBNIKOV",
+  "m3_sub_dlc1_actor_khlebnikov",
+  "Main - SAM",
+  "m3_sub_main_actor_sam",
+  "BRI \\ BANDIT",
+  "m3_sub_bridge_actor_bandit"
+ ],
+ "records": [
+  [
+   0,
+   1,
+   1
+  ],
+  [
+   2,
+   54,
+   3
+  ],
+  [
+   4,
+   69,
+   5
+  ],
+  [
+   6,
+   40,
+   7
+  ],
+  [
+   8,
+   6,
+   9
+  ],
+  [
+   10,
+   4,
+   11
+  ],
+  [
+   12,
+   55,
+   13
+  ],
+  [
+   14,
+   41,
+   15
+  ],
+  [
+   16,
+   26,
+   17
+  ],
+  [
+   18,
+   14,
+   19
+  ],
+  [
+   20,
+   59,
+   21
+  ],
+  [
+   22,
+   85,
+   23
+  ],
+  [
+   24,
+   72,
+   25
+  ],
+  [
+   26,
+   87,
+   27
+  ],
+  [
+   28,
+   20,
+   29
+  ],
+  [
+   30,
+   29,
+   31
+  ],
+  [
+   32,
+   3,
+   33
+  ],
+  [
+   34,
+   11,
+   35
+  ],
+  [
+   36,
+   15,
+   37
+  ],
+  [
+   38,
+   93,
+   39
+  ],
+  [
+   40,
+   28,
+   41
+  ],
+  [
+   42,
+   27,
+   43
+  ],
+  [
+   44,
+   22,
+   45
+  ],
+  [
+   46,
+   30,
+   47
+  ],
+  [
+   48,
+   9,
+   49
+  ],
+  [
+   50,
+   57,
+   51
+  ],
+  [
+   52,
+   92,
+   53
+  ],
+  [
+   54,
+   12,
+   55
+  ],
+  [
+   56,
+   71,
+   57
+  ],
+  [
+   58,
+   81,
+   59
+  ],
+  [
+   60,
+   31,
+   61
+  ],
+  [
+   62,
+   65,
+   63
+  ],
+  [
+   64,
+   96,
+   65
+  ],
+  [
+   66,
+   33,
+   67
+  ],
+  [
+   68,
+   21,
+   69
+  ],
+  [
+   70,
+   50,
+   71
+  ],
+  [
+   72,
+   5,
+   73
+  ],
+  [
+   74,
+   94,
+   75
+  ],
+  [
+   76,
+   91,
+   77
+  ],
+  [
+   78,
+   66,
+   79
+  ],
+  [
+   80,
+   90,
+   81
+  ],
+  [
+   82,
+   89,
+   83
+  ],
+  [
+   84,
+   52,
+   85
+  ],
+  [
+   86,
+   88,
+   87
+  ],
+  [
+   88,
+   86,
+   89
+  ],
+  [
+   90,
+   61,
+   91
+  ],
+  [
+   92,
+   83,
+   93
+  ],
+  [
+   94,
+   34,
+   95
+  ],
+  [
+   96,
+   47,
+   97
+  ],
+  [
+   98,
+   82,
+   99
+  ],
+  [
+   100,
+   84,
+   101
+  ],
+  [
+   102,
+   35,
+   103
+  ],
+  [
+   104,
+   80,
+   105
+  ],
+  [
+   106,
+   79,
+   107
+  ],
+  [
+   108,
+   78,
+   109
+  ],
+  [
+   110,
+   68,
+   111
+  ],
+  [
+   112,
+   77,
+   113
+  ],
+  [
+   114,
+   51,
+   115
+  ],
+  [
+   116,
+   23,
+   117
+  ],
+  [
+   118,
+   8,
+   119
+  ],
+  [
+   120,
+   75,
+   121
+  ],
+  [
+   122,
+   95,
+   123
+  ],
+  [
+   124,
+   0,
+   125
+  ],
+  [
+   126,
+   39,
+   127
+  ],
+  [
+   128,
+   70,
+   129
+  ],
+  [
+   130,
+   67,
+   131
+  ],
+  [
+   132,
+   58,
+   133
+  ],
+  [
+   134,
+   63,
+   135
+  ],
+  [
+   136,
+   24,
+   137
+  ],
+  [
+   138,
+   2,
+   139
+  ],
+  [
+   140,
+   76,
+   141
+  ],
+  [
+   142,
+   32,
+   143
+  ],
+  [
+   144,
+   43,
+   145
+  ],
+  [
+   146,
+   48,
+   147
+  ],
+  [
+   148,
+   19,
+   149
+  ],
+  [
+   150,
+   45,
+   151
+  ],
+  [
+   152,
+   60,
+   153
+  ],
+  [
+   154,
+   56,
+   155
+  ],
+  [
+   156,
+   13,
+   157
+  ],
+  [
+   158,
+   49,
+   159
+  ],
+  [
+   160,
+   53,
+   161
+  ],
+  [
+   162,
+   46,
+   163
+  ],
+  [
+   164,
+   38,
+   165
+  ],
+  [
+   166,
+   62,
+   167
+  ],
+  [
+   168,
+   36,
+   169
+  ],
+  [
+   170,
+   10,
+   171
+  ],
+  [
+   172,
+   16,
+   173
+  ],
+  [
+   174,
+   44,
+   175
+  ],
+  [
+   176,
+   64,
+   177
+  ],
+  [
+   178,
+   25,
+   179
+  ],
+  [
+   180,
+   42,
+   181
+  ],
+  [
+   182,
+   18,
+   183
+  ],
+  [
+   184,
+   74,
+   185
+  ],
+  [
+   186,
+   7,
+   187
+  ],
+  [
+   188,
+   17,
+   189
+  ]
+ ]
+}

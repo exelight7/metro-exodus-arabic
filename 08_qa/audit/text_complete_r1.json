@@ -1,0 +1,35 @@
+{
+  "total": 38221,
+  "statuses": {
+    "draft": 37063,
+    "skip": 840,
+    "reviewed": 318
+  },
+  "origins": {
+    "machine_draft": 37063,
+    "preserved": 840,
+    "reviewed": 318
+  },
+  "original_characters": 203,
+  "built_characters": 417,
+  "roundtrip_original_sha256": "edc121baec72a2c173045df267e52c283f780a07e6ef879386c98b57e90e2786",
+  "built_sha256": "1af2d42c4e8a40e2c97289f89550c166755cea6ed32881f96206d8f4c4e0bd38",
+  "issues": [],
+  "subtitle_layout": {
+    "integrated_speaker_entries": 10758,
+    "timed_entries": 39
+  },
+  "runtime_tested": false,
+  "render_mode": "visual_assumed_unverified",
+  "timed_entries_verified": 39,
+  "translated_cues_verified": 311,
+  "verified_speaker_lines": 10699,
+  "packaged_ascii_checks": 496,
+  "complementary_font_masks_verified": true,
+  "menu_records_preserved": 210,
+  "native_subtitle_control_count": 2,
+  "native_overlay_subscription_verified": false,
+  "reproducible_full_build": true,
+  "live_install_hashes_verified": true,
+  "independent_install_restore_verified": true
+}

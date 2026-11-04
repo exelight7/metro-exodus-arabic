@@ -1,0 +1,275 @@
+[
+  {
+    "id": "$wpn_upt_grenade_lr_dsc",
+    "source": "This makeshift spring operated launcher can use hand grenades of all types, lobbing them with great strength and precision.",
+    "target": "يمكن لهذا القاذف المؤقت الذي يعمل بنابض استخدام القنابل اليدوية بجميع أنواعها، وإلقاءها بقوة ودقة كبيرتين.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_death_menu_hint_2",
+    "source": "You may save your game progress using pause menu <changemenumap>",
+    "target": "يمكنك حفظ تقدم اللعبة باستخدام قائمة الإيقاف المؤقت <changemenumap>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "$wpn_upt_ventil_mag_name",
+    "source": "EXTENDED MAGAZINE",
+    "target": "مجلة موسعة",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "menu_customise_magazine_1_desc",
+    "source": "Magazine 1 Description",
+    "target": "وصف المجلة 1",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "menu_customize_cat_magazine_name",
+    "source": "MAGAZINE",
+    "target": "مجلة",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "$wpn_upt_padonag_mag_name",
+    "source": "EXTENDED MAGAZINE",
+    "target": "مجلة موسعة",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "flamethrower_dsc",
+    "source": "This makeshift pneumatic flamethrower does not have an awful lot of range, but it more than makes up for that with its lethality and remarkable ability to use almost any fuel available in the Metro.",
+    "target": "لا يتمتع قاذف اللهب الهوائي المؤقت هذا بمدى هائل، لكنه يعوض ذلك بفتاكته وقدرته الرائعة على استخدام أي وقود متوفر في المترو تقريبًا.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_12_val_diary_21_dsc",
+    "source": "<tab>The hunting is going well, and we already have enough stored to last us through the winter, but ever since the Teacher left, Roman’s been too full of himself. He made Tokha and Dimon instructors so that he always has the majority vote in the Council...<br><br><tab>I know he was the one to receive the Journal from the Teacher, but still, isn’t his head getting a tad too big? He also made a poor call with those marauders. The fighters were fair game, but wiping out their whole camp and laughing at Liuda when she voiced an issue with that at the Council was taking it too far... No wonder she left and took the weaklings with her!",
+    "target": "<tab>تسير عملية الصيد على ما يرام، ولدينا بالفعل ما يكفي من المخزون لاستمرارنا خلال فصل الشتاء، ولكن منذ أن غادر المعلم، كان رومان ممتلئًا بنفسه للغاية. لقد جعل مدربي توخا وديمون حتى يحصل دائمًا على أغلبية الأصوات في المجلس...<br><br><tab>أعلم أنه هو من حصل على المجلة من المعلم، ولكن مع ذلك، ألا يكبر رأسه قليلاً؟ كما أنه أجرى مكالمة سيئة مع هؤلاء اللصوص. كان المقاتلون لعبة عادلة، ولكن محو معسكرهم بالكامل والضحك على ليودا عندما أعربت عن مشكلة في ذلك في المجلس كان مبالغًا فيه ... فلا عجب أنها غادرت وأخذت الضعفاء معها!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "claymore_dsc",
+    "source": "This makeshift directional anti-personnel shrapnel mine is indispensable in blocking narrow passages.",
+    "target": "لا غنى عن هذا اللغم الموجه المؤقت المضاد للأفراد في سد الممرات الضيقة.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "$tihar_dsc",
+    "source": "A makeshift air gun, surprisingly silent and accurate. Overpressurizing its tank increases power, but the extra pressure vents before long.",
+    "target": "مسدس هوائي مؤقت، صامت ودقيق بشكل مدهش. يؤدي الضغط الزائد على خزانه إلى زيادة الطاقة، لكن الضغط الزائد سينفيس بعد فترة طويلة.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "$game_paused",
+    "source": "GAME PAUSED",
+    "target": "تم إيقاف اللعبة مؤقتًا",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_quicksave_hint",
+    "source": "You may save your game progress using the pause menu <changemenumap>",
+    "target": "يمكنك حفظ تقدم اللعبة باستخدام قائمة الإيقاف المؤقت <changemenumap>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_dia_weapon_helsing_intro",
+    "source": "<tab>What kind of a weapon would you expect children, who grew up abandoned in a forest, to produce? I personally didn’t count on anything more complex than spears and bows... Or some slingshots. But rapid-fire crossbows with fully interchangeable parts?<br><br><tab>Tokarev was quite surprised by the power and construction of the action, and he’s not easy to impress at all! He says that such a crossbow is actually harder to make than a Bastard gun... So, the \"Pioneers” have a machine shop and skills necessary to use it. Why didn’t they go about making some firearms?<br><br> <tab>To what end, though? In their forest, the crossbow’s range is more than enough, it is silent, you don’t need any chemicals to make bolts for it, and those bolts can be used repeatedly... And for cases when stealth is not a concern, the forest dwellers are mass-producing explosive bolts, so even in terms of lethality this crossbow is not that really behind firearms, and will fit into our arsenal nicely, especially after Tokarev works his magic on it.<br><br>",
+    "target": "<tab>ما هو نوع السلاح الذي تتوقع أن ينتجه الأطفال الذين نشأوا مهجورين في الغابة؟ أنا شخصياً لم أعتمد على شيء أكثر تعقيداً من الرماح والأقواس... أو بعض المقاليع. لكن الأقواس السريعة النيران ذات الأجزاء القابلة للتبديل بالكامل؟<br><br><tab>تفاجأ توكاريف تمامًا بقوة الحركة وبنيتها، وليس من السهل إثارة إعجابه على الإطلاق! ويقول إن صنع مثل هذا القوس والنشاب أصعب في الواقع من صنع مسدس غير شرعي... لذلك، يمتلك \"الرواد\" متجرًا للآلات والمهارات اللازمة لاستخدامه. لماذا لم يشرعوا في صنع بعض الأسلحة النارية؟<br><br><tab>إلى أي نهاية؟ في غابتهم، نطاق القوس والنشاب أكثر من كافٍ، فهو صامت، ولا تحتاج إلى أي مواد كيميائية لصنع مسامير له، ويمكن استخدام هذه البراغي بشكل متكرر... وفي الحالات التي لا يكون فيها التخفي مصدر قلق، فإن سكان الغابة ينتجون براغي متفجرة بكميات كبيرة، لذلك حتى من حيث القوة الفتاكة، فإن هذا القوس والنشاب ليس متخلفًا حقًا عن الأسلحة النارية، وسوف يتناسب مع ترسانتنا بشكل جيد، خاصة بعد أن يمارس توكاريف سحره عليه.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "$wpn_upt_preved_mag_name",
+    "source": "EXTENDED MAGAZINE",
+    "target": "مجلة موسعة",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "menu_customise_magazine_4_name",
+    "source": "MAGAZINE 4 NAME",
+    "target": "اسم المجلة 4",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "menu_ammo_makeshift_name",
+    "source": "MAKESHIFT AMMO",
+    "target": "ذخيرة مؤقتة",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_dia_weapon_kalash_intro",
+    "source": "<tab>Despite the venerable age of this weapon which before the Judgment Day had played a considerable part in hundreds of conflicts all over the world, its unparalleled reliability and considerable firepower make it a prized possession in the tunnels of the Metro and, of course, on the surface... <br><br><tab>A standard Kalash is simply a solid assault rifle with all its characteristic pros and cons, but thanks to the talent of Sparta’s gunsmiths (and Tokarev personally), the model our Order fields can accommodate a huge variety of upgrades, from extended magazine to various sights. <br><br><tab>Not only that, with a few simple operations (and spare parts) it can be turned into a weapon of a different class - from a short machine pistol that excels at close range, to a light machine gun. This does not mean that the underlying concept’s simplicity and reliability have been sacrificed, either - even though my Kalash is many years my senior, it saved my bacon on many an occasion, and would shoot like nothing happened even after taking a dip in the marsh... <br><br><tab>Weapons are something we people are definitely good at making. They will probably be ready to kill years after there remains nobody on the face of the planet capable of pulling the trigger...<br><br>",
+    "target": "<tab>على الرغم من العمر الجليل لهذا السلاح الذي لعب قبل يوم القيامة دورًا كبيرًا في مئات الصراعات في جميع أنحاء العالم، إلا أن موثوقيته التي لا مثيل لها وقوته النارية الكبيرة تجعله ملكية ثمينة في أنفاق المترو، وبالطبع على السطح...<br><br><tab>إن كلاش القياسية هي ببساطة بندقية هجومية صلبة بكل إيجابياتها وسلبياتها المميزة، ولكن بفضل موهبة صانعو الأسلحة في سبارتا (وتوكاريف شخصيًا)، يمكن أن يستوعب نموذج حقول الطلب لدينا مجموعة كبيرة ومتنوعة من الترقيات، بدءًا من المجلة الموسعة وحتى أدوات التصويب المختلفة.<br><br><tab>ليس هذا فحسب، فمن خلال بعض العمليات البسيطة (وقطع الغيار) يمكن تحويله إلى سلاح من فئة مختلفة - من مسدس آلي قصير يتفوق على مسافة قريبة، إلى مدفع رشاش خفيف. هذا لا يعني أنه قد تم التضحية ببساطة المفهوم الأساسي وموثوقيته أيضًا - على الرغم من أن الكلاش الخاص بي أكبر مني بسنوات عديدة، إلا أنه أنقذ لحم الخنزير المقدد الخاص بي في العديد من المناسبات، وكان يطلق النار وكأن شيئًا لم يحدث حتى بعد السباحة في المستنقع...<br><br><tab>الأسلحة هي شيء نجيد صنعه نحن البشر بالتأكيد. من المحتمل أن يكونوا مستعدين للقتل بعد سنوات من عدم وجود أي شخص على وجه الكوكب قادر على الضغط على الزناد...<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "$general_hint_1",
+    "source": "Use the charger to charge up your nightvision goggles or to give a temporary power boost to your flashlight. Hold <wpn_light> to take it out.",
+    "target": "استخدم الشاحن لشحن نظارات الرؤية الليلية أو لزيادة قوة المصباح مؤقتا. اضغط باستمرار على <wpn_light> لإخراج الشاحن.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "menu_customise_magazine_3_desc",
+    "source": "Magazine 3 Description",
+    "target": "وصف المجلة 3",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_general_hint_37_ps3",
+    "source": "Check your compass and journal by holding down touch pad button, then press <wpn_fire> or <wpn_aim> to view the map or journal.",
+    "target": "تحقق من البوصلة والمجلة الخاصة بك عن طريق الضغط باستمرار على زر لوحة اللمس، ثم اضغط على <wpn_fire> أو <wpn_aim> لعرض الخريطة أو المجلة.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "$demo_controls",
+    "source": "SPACE - run/pause camera flythrough<br>1 2 3 4 5 6 7 8 9 - cycle scenes<br>ENTER - toggle SSAO / RTAO+GI / Splitscreen<br>BACKSPACE - toggle textures",
+    "target": "SPACE - تشغيل/إيقاف مؤقت للكاميرا<br>1 2 3 4 5 6 7 8 9 - مشاهد الدورة<br>ENTER - تبديل SSAO / RTAO+GI / Splitscreen<br>BACKSPACE - تبديل القوام",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_dlc01_general_hint_24",
+    "source": "You may save your game progress using pause menu <changemenumap>",
+    "target": "يمكنك حفظ تقدم اللعبة باستخدام قائمة الإيقاف المؤقت <changemenumap>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "menu_customise_magazine_3_name",
+    "source": "MAGAZINE 3 NAME",
+    "target": "اسم المجلة 3",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "gas_death_1",
+    "source": "Your filter ran out and you suffocated. Make sure you keep an eye on your watch timer and change your filters out if you have them.",
+    "target": "نفد المرشح الخاص بك واختنقت. تأكد من مراقبة مؤقت الساعة لديك وتغيير المرشحات إذا كانت لديك.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "menu_customise_magazine_1_name",
+    "source": "MAGAZINE 1 NAME",
+    "target": "اسم المجلة 1",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "menu_ammo_makeshift_desc",
+    "source": "Makeshift Ammo Description",
+    "target": "وصف الذخيرة المؤقتة",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "pause menu",
+    "source": "Pause menu",
+    "target": "قائمة الإيقاف المؤقت",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "stats_wpn_magazine",
+    "source": "MAGAZINE",
+    "target": "مجلة",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "ammo_15_dsc",
+    "source": "These 15mm steel balls, pried out of bearings, became the ideal ammo for some makeshift weapons due to their smooth finish and near ubiquity.",
+    "target": "أصبحت هذه الكرات الفولاذية مقاس 15 ملم، التي تم إخراجها من المحامل، الذخيرة المثالية لبعض الأسلحة المؤقتة نظرًا لشكلها الناعم ووجودها في كل مكان تقريبًا.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_quicksave_hint_xbox",
+    "source": "You may save your game progress using the pause menu <start>",
+    "target": "يمكنك حفظ تقدم اللعبة باستخدام قائمة الإيقاف المؤقت <start>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_pause_menu_hint_gasmask_dsc",
+    "source": "Despite the years elapsed since the War, many places, especially on the Surface, where a Gas Mask is necessary for survival. Don’t forget to put it on if you start suffocating. <br><br>When you have the Gas Mask on, your watch displays time remaining before your current filter requires replacement. Always be on the lookout for more filters, and don’t dawdle if you’re running out of them - you can’t survive for long just on the air you have in your lungs...<br><br>It’s OK to fix minor damage to the Mask temporarily with some sticky tape, as long as you don’t forget repairing it properly at the nearest opportunity.<br><br> Don’t forget to take your Gas Mask off once you clear the dangerous areas, otherwise you risk getting its visor shattered in combat.<br><br>If your Gas Mask’s visor gets splashed with water, blood or dirt, wipe it with your hand. ",
+    "target": "رغم مرور سنوات على الحرب، ما زالت أماكن كثيرة، وخصوصا على السطح، تتطلب قناع غاز للبقاء حيا. ارتده إذا بدأت تختنق.<br><br>عند ارتداء القناع، تعرض ساعتك الوقت المتبقي قبل استبدال المرشح. ابحث دائما عن مرشحات إضافية، وأسرع إذا أوشكت على النفاد؛ فلن تبقى حيا طويلا بالهواء الموجود في رئتيك وحده...<br><br>يمكن ترميم الضرر الطفيف في القناع مؤقتا بشريط لاصق، لكن تذكر إصلاحه جيدا في أقرب فرصة.<br><br>اخلع القناع بعد مغادرة المناطق الخطرة، وإلا عرضت زجاجه للتحطم أثناء القتال.<br><br>إذا تناثر الماء أو الدم أو التراب على زجاج القناع، فامسحه بيدك.",
+    "status": "reviewed",
+    "translation_origin": "reviewed"
+  },
+  {
+    "id": "$wpn_upt_rpk_mag_name",
+    "source": "DRUM MAGAZINE",
+    "target": "مجلة الطبل",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "menu_customise_magazine_2_desc",
+    "source": "Magazine 2 Description",
+    "target": "وصف المجلة 2",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "$wpn_upt_sayga_mag_name",
+    "source": "EXTENDED MAGAZINE",
+    "target": "مجلة موسعة",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_pause_menu_hint_pnevmo_dsc",
+    "source": "Efficiency of a pneumatic weapon is dependent on the pressure in its air bottle, you’re just wasting ammo if said pressure is too low. At the same time, by overpressurizing  the weapon, you can temporarily improve its range and power. You can check the pressure in your pneumatic weapons’ air bottles using the gage on their stocks.",
+    "target": "تعتمد كفاءة السلاح الهوائي على ضغط خزان الهواء؛ فإذا انخفض كثيرا، فلن تفعل سوى إهدار الذخيرة. ويمكنك زيادة الضغط لرفع المدى والقوة مؤقتا. راقب ضغط الخزان من المقياس المثبت على عقب السلاح.",
+    "status": "reviewed",
+    "translation_origin": "reviewed"
+  },
+  {
+    "id": "padonag_dsc",
+    "source": "A makeshift semi-automatic pistol, the Lolife is quite capable and highly customizable.",
+    "target": "مسدس لولايف هو مسدس نصف آلي مؤقت، وهو قادر تمامًا وقابل للتخصيص بدرجة كبيرة.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "menu_customise_magazine_4_desc",
+    "source": "Magazine 4 Description",
+    "target": "وصف المجلة 4",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "menu_customise_magazine_2_name",
+    "source": "MAGAZINE 2 NAME",
+    "target": "اسم المجلة 2",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "$wpn_upt_ventil_mag_dsc",
+    "source": "The extended magazine allows for firing the rifle for twice as long but makes it much more cumbersome.",
+    "target": "تسمح المجلة الموسعة بإطلاق النار من البندقية لمدة أطول ولكنها تجعلها أكثر تعقيدًا.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  }
+]

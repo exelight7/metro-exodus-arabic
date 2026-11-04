@@ -1,0 +1,100 @@
+{
+  "revision": "final_review_r1",
+  "audited_rows": 38221,
+  "canonical_labels": 91,
+  "context_rules": 23,
+  "changed_entries": 11,
+  "unrelated_entries_preserved": 38212,
+  "forbidden_transliterations_remaining": [],
+  "other_payloads_identical": true,
+  "canonical_speaker_names_preserved": true,
+  "tags_and_timelines_preserved": true,
+  "runtime_tested": false,
+  "changes": [
+    {
+      "id": "ACH_iron_man",
+      "source": "Iron Mode",
+      "target": "وضع الرجل الحديدي"
+    },
+    {
+      "id": "general_hint_91_2034",
+      "source": "Reports of a massive bear-like mutant in the old city center have spread through Metro. Watchmen have been seen trying to attack it, but it generally will leave humans alone unless threatened.",
+      "target": "انتشرت في المترو أخبار عن متحول ضخم يشبه الدب في وسط المدينة القديمة. وشوهدت مخلوقات «الحراس» تحاول مهاجمته، لكنه يترك البشر وشأنهم عادة ما لم يهددوه."
+    },
+    {
+      "id": "voices\\m3_13_dead_city\\nvs_007_firstwalkwithkirill_04_07",
+      "source": "<ffx:wonder_light>Green stuff? What's that? <ffx:neutral>",
+      "target": "<ffx:wonder_light>المادة الخضراء؟ ما هي؟ <ffx:neutral>"
+    },
+    {
+      "id": "ACH_iron_man_DESC_unlocked",
+      "source": "Completed the game in Iron Mode.",
+      "target": "أكملت اللعبة في وضع الرجل الحديدي."
+    },
+    {
+      "id": "video_optimal_settings",
+      "source": "Optimal video settings were applied automatically. Use Options > Video to modify these.",
+      "target": "طبقت إعدادات الرسوميات المثلى تلقائيا. لتعديلها، انتقل إلى الإعدادات > الرسوميات."
+    },
+    {
+      "id": "auto_aim_border",
+      "source": "AUTO AIM BORDER",
+      "target": "حدود التصويب التلقائي"
+    },
+    {
+      "id": "ACH_iron_man_DESC",
+      "source": "Complete the game in Iron Mode.",
+      "target": "أكمل اللعبة في وضع الرجل الحديدي."
+    },
+    {
+      "id": "m3_special_ammo_hint_xbox",
+      "source": "Tikhar rifle can be loaded with Incendiary Ammunition. Open weapon inventory by holding <popup_equipment>",
+      "target": "يمكن تلقيم بندقية تيخار بذخيرة حارقة. اضغط باستمرار على <popup_equipment> لفتح قائمة الأسلحة."
+    },
+    {
+      "id": "menu_customize_barrel2_dsc",
+      "source": "Double barrels allow chambering two rounds, which can be shot in a salvo or separately.",
+      "target": "تتيح السبطانتان تلقيم طلقتين يمكن إطلاقهما معا أو كل منهما على حدة."
+    },
+    {
+      "id": "downloading",
+      "source": "DOWNLOADING...",
+      "target": "جارٍ التنزيل..."
+    },
+    {
+      "id": "quick_load_date",
+      "source": "QUICK LOAD (<quicksave_date> min ago)",
+      "target": "التحميل السريع (منذ <quicksave_date> دقيقة)"
+    }
+  ],
+  "language_scope": "Whole-table terminology rules and contextual corrections; not a full manual sentence review.",
+  "audited_categories": {
+    "dialogue": 31859,
+    "hints": 429,
+    "notes_and_journal": 463,
+    "credits_and_legal": 2758,
+    "interface_and_other": 2164,
+    "equipment": 414,
+    "tasks": 134
+  },
+  "changed_categories": {
+    "interface_and_other": 7,
+    "hints": 2,
+    "dialogue": 1,
+    "equipment": 1
+  },
+  "new_full_context_review_entries": 11,
+  "reviewed_context_keys": [
+    "voices\\m3_13_dead_city\\nvs_007_firstwalkwithkirill_04_07",
+    "video_optimal_settings",
+    "auto_aim_border",
+    "ACH_iron_man",
+    "ACH_iron_man_DESC",
+    "ACH_iron_man_DESC_unlocked",
+    "general_hint_91_2034",
+    "m3_special_ammo_hint_xbox",
+    "menu_customize_barrel2_dsc",
+    "quick_load_date",
+    "downloading"
+  ]
+}

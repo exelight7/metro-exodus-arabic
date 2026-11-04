@@ -1,0 +1,11 @@
+{
+  "sounds_handles_storage.bin": [
+    "voices\\m3_dlc1\\dlc1_150_petrovitch_dies_01_02"
+  ],
+  "menu_handles_storage.bin": [
+    "m3_06_bri_chapter_desc"
+  ],
+  "config.bin": [
+    "m3_06_bri_chapter_desc"
+  ]
+}

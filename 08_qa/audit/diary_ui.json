@@ -1,0 +1,11 @@
+{
+  "changed_records": [
+    42,
+    88,
+    100
+  ],
+  "alignment": "Right=1; formerly Justify=3 for prose",
+  "title_right_edge_matches_body": true,
+  "fonts_and_scroll_controls_preserved": true,
+  "runtime_tested": false
+}

@@ -1,0 +1,9 @@
+# Python 3.12; recovery and current-table rendering
+bsdiff4==1.4.1
+lz4==4.4.5
+Pillow==13.0.0
+# Optional legacy font rebuild / native-recipe emulation
+fonttools==4.68.0
+ispc_texcomp==1.0.1
+pefile==2024.8.26
+unicorn==2.1.4

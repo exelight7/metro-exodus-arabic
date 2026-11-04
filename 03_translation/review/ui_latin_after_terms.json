@@ -1,0 +1,772 @@
+[
+ {
+  "id": "$dbg_select_level_2034",
+  "source": "Select MLL episode",
+  "target": "حدد حلقة MLL",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$dlss",
+  "source": "DLSS",
+  "target": "DLSS",
+  "status": "reviewed",
+  "translation_origin": "reviewed"
+ },
+ {
+  "id": "loading_profile_data_ok_guest",
+  "source": "You are using a guest account. You will lose your game progress upon quitting the game unless you sign in using Xbox Live account.",
+  "target": "أنت تستخدم حساب ضيف. ستفقد التقدم الذي أحرزته في اللعبة عند الخروج من اللعبة ما لم تقم بتسجيل الدخول باستخدام حساب Xbox Live.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$general_hint_17",
+  "source": "The LED light sensor on your wrist shows how illuminated you are. Try to stay in the shadows. press <time> to see it better.",
+  "target": "يُظهر مستشعر ضوء LED الموجود على معصمك مدى إضاءتك. حاول البقاء في الظل. اضغط على<time>لرؤيته بشكل أفضل.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$vsync",
+  "source": "VSYNC",
+  "target": "VSync",
+  "status": "reviewed",
+  "translation_origin": "reviewed"
+ },
+ {
+  "id": "game_description",
+  "source": "Metro Exodus is an epic, story-driven first person shooter from 4A Games that blends deadly combat and stealth with exploration and survival horror in one of the most immersive game worlds ever created.Explore the Russian wilderness across vast, non-linear levels and follow a thrilling story-line that spans an entire year through spring, summer and autumn to the depths of nuclear winter.Inspired by the novels of Dmitry Glukhovsky, Metro Exodus continues Artyom’s story in the greatest Metro adventure yet.Embark on an incredible journey - board the Aurora, a heavily modified steam locomotive, and join a handful of survivors as they search for a new life in the East.Experience Sandbox Survival - a gripping story links together classic Metro gameplay with new huge, non-linear levels.A beautiful, hostile world - discover the post-apocalyptic Russian wilderness, brought to life with stunning day / night cycles and dynamic weather.Deadly combat and stealth - scavenge and craft in the field to customize your arsenal of hand-made weaponry, and engage human and mutant foes in thrilling tactical combat.Your choices determine your comrades’ fate - not all your companions will survive the journey; your decisions have consequence in a gripping storyline that offers massive re-playability.The ultimate in atmosphere and immersion - a flickering candle in the darkness; a ragged gasp as your gasmask frosts over; the howl of a mutant on the night wind - Metro will immerse and terrify you like no other game...",
+  "target": "مترو إكسودس هي لعبة تصويب ملحمية من منظور الشخص الأول مبنية على قصة من 4A Games تمزج القتال المميت والتسلل مع الاستكشاف ورعب البقاء في واحدة من أكثر عوالم الألعاب غامرة على الإطلاق. استكشف البرية الروسية عبر مستويات شاسعة وغير خطية واتبع قصة مثيرة تمتد على مدار عام كامل خلال الربيع والصيف والخريف إلى أعماق الشتاء النووي. مستوحاة من روايات ديمتري جلوخوفسكي، تستمر مترو إكسودس قصة أرتيوم في أعظم مغامرة مترو حتى الآن. انطلق في رحلة مذهلة - استقل أورورا، وهي قاطرة بخارية معدلة بشكل كبير، وانضم إلى حفنة من الناجين أثناء بحثهم عن حياة جديدة في الشرق. استمتع بتجربة Sandbox البقاء - قصة آسرة تربط بين لعبة المترو الكلاسيكية ومستويات جديدة ضخمة وغير خطية. عالم جميل ومعادي - اكتشف البرية الروسية في مرحلة ما بعد نهاية العالم، تم إحياءها من خلال دورات نهارية / ليلية مذهلة وديناميكية الطقس. قتال مميت وتسلل - قم بالبحث والحرف في الميدان لتخصيص ترسانتك من الأسلحة المصنوعة يدويًا، وإشراك الأعداء البشريين والمتحولين في قتال تكتيكي مثير. اختياراتك تحدد مصير رفاقك - لن ينجو جميع رفاقك من الرحلة؛ قراراتك لها عواقب في قصة جذابة توفر إمكانية إعادة لعب هائلة. أقصى درجات الجو والانغماس - شمعة وامضة في الظلام؛ شهقة خشنة بينما يتجمد قناع الغاز الخاص بك؛ عواء المتحولة في ريح الليل - لعبة مترو سوف تغمرك وترعبك بشكل لا مثيل له في أي لعبة أخرى...",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "m3_dia_weapon_ashot_intro",
+  "source": "<tab>What firearm could be simpler than a shotgun? Perhaps, some extremely primitive zipgun, but those aren’t known for their efficiency. A buckshot salvo, though, will make even the toughest and meanest mutants at least think about their next actions carefully... <br><br><tab>Besides, shotgun ammo is easier to handload than any other kind, so the popularity of this class of weapons is nothing surprising. Their variety, though, never cease to amaze me, even after I learned that functional shotguns could be made from lengths of water pipes, like most of Ashot variants are...<br><br> <tab>Still, anything, from one to four barrels, not counting different chokes, stocks, recoil compensators and sights? Even within the Order, the only standard as far as the shotguns are concerned is their caliber. I can’t wrap my mind around how Tokarev manages to know them all inside out...<br><br>",
+  "target": "<tab>ما هو السلاح الناري الذي يمكن أن يكون أبسط من البندقية؟ ربما تكون بعض البنادق المضغوطة بدائية للغاية، لكنها غير معروفة بكفاءتها. ومع ذلك، فإن طلقة الرصاص ستجعل حتى أصعب المتحولين وأكثرهم شرًا على الأقل يفكرون في تصرفاتهم التالية بعناية...<br><br><tab>علاوة على ذلك، فإن ذخيرة البندقية أسهل في التحميل من أي نوع آخر، لذا فإن شعبية هذه الفئة من الأسلحة ليست مفاجئة. ومع ذلك، فإن تنوعها لا يتوقف أبدًا عن إدهاشي، حتى بعد أن علمت أن البنادق الوظيفية يمكن صنعها من أطوال أنابيب المياه، مثل معظم أنواع Ashot...<br><br><tab>ومع ذلك، أي شيء، من برميل واحد إلى أربعة براميل، دون احتساب الاختناقات المختلفة، والأسهم، ومعوضات الارتداد، والمشاهد؟ حتى داخل النظام، المعيار الوحيد فيما يتعلق بالبنادق هو عيارها. لا أستطيع أن أستوعب كيف تمكن توكاريف من التعرف عليهم جميعًا من الداخل إلى الخارج...<br><br>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "copyright_notice",
+  "source": "© 2019 and published by Deep Silver, a division of Koch Media GmbH, Austria. Deep Silver and its respective logos are trademarks of Koch Media GmbH. Developed by 4A Games.  4A Games Limited and their respective logo are trademarks of 4A Games Limited. Inspired by the internationally best-selling novel METRO 2035 by Dmitry Glukhovsky. Stadia, the Stadia beacon, and related marks and logos are trademarks of Google LLC. All other trademarks, logos and copyrights are property of their respective owners. All rights reserved.",
+  "target": "© 2019 وتم نشره بواسطة Deep Silver، أحد أقسام شركة Koch Media GmbH، النمسا. تعد Deep Silver والشعارات الخاصة بها علامات تجارية مملوكة لشركة Koch Media GmbH. تم تطويره بواسطة 4A Games.  تعد شركة 4A Games Limited والشعار الخاص بها علامات تجارية مملوكة لشركة 4A Games Limited. مستوحاة من الرواية الأكثر مبيعًا عالميًا METRO 2035 للكاتب دميتري جلوخوفسكي. إن Stadia ومنارة Stadia والعلامات والشعارات ذات الصلة هي علامات تجارية مملوكة لشركة Google LLC. جميع العلامات التجارية والشعارات وحقوق التأليف والنشر الأخرى هي ملك لأصحابها. جميع الحقوق محفوظة.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "m3_dlc1_chap2_diary_1_dsc",
+  "source": "<tab>Boris, if you get any losers bringing you OSKOM receipts instead of green stuff, tell them all to get bent! Yes, those are official receipts, stamped and signed, and they promise to pay it all back, but do you believe them even for a second? They’re just robbing suckers blind! My joint if full of losers at the moment, each had a box or two expropriated tops... At first I thought I’d take the slips at half value and make a nice buck, but then Baldie arrives with a slip for whole two ampules! So, now either they pay in real green stuff, or go fuck themselves. As for these slips, they only seem to be good for wiping ass... <br><br><tab>Misha<br><br>",
+  "target": "<tab>بوريس، إذا حصلت على أي خاسرين يجلبون لك إيصالات أوسكوم بدلاً من المادة الخضراء، أخبرهم جميعًا أن ينحنيوا! نعم، هذه إيصالات رسمية، مختومة وموقعة، وهم يعدون بسداد المبلغ بالكامل، لكن هل تصدقهم ولو لثانية واحدة؟ إنهم يسرقون المصاصون فقط! إذا كان مفاصلي مليئًا بالخاسرين في الوقت الحالي، فقد كان لكل منهم صندوق أو اثنين من القمصان المصادرة... في البداية اعتقدت أنني سأأخذ القسائم بنصف القيمة وأجني ربحًا جيدًا، ولكن بعد ذلك يصل بالدي ومعه قسيمة لأمبولين كاملين! لذا، الآن إما أن يدفعوا بأشياء خضراء حقيقية، أو يذهبوا ويضاجعوا أنفسهم. أما بالنسبة لهذه الزلات، فيبدو أنها لا تصلح إلا لمسح المؤخرة...<br><br><tab>Misha<br><br>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "m3_12_val_diary_11_dsc",
+  "source": "<tab>The camp is deserted. Where are the locals the boys were telling about? No fields, nothing... Are they all hiding in the forest? If they are, then what’s the point raiding them?<br><br><br><tab>Well, when the Boss says \"jump”, you just do... At least, the mosquitoes are full now. At one point, we heard shots near the river and rushed there, but it was just Red shooting a deer. That motherfucker! I barely kept myself from cleaning his clock. In the end, we got back with nothing but the deer...<br><br><br><tab>Two sentries missing in the morning. Back to the forest, gotta find them.<br><br><br><tab>Found our boys, pinned to the trees with arrows, throats cut. Those fuckers... At least, now we know they are out there...<br><br><br><tab>Red’s group went missing, they were going to check the church. There’s a small hamlet down there, and that’s their hideout... Well, you bitches had it coming, and it will take a long time for you to die...<br><br><br>",
+  "target": "<tab>المخيم مهجور. أين السكان المحليين الذين كان الأولاد يتحدثون عنهم؟ لا حقول ولا شيء... هل يختبئون جميعًا في الغابة؟ وإذا كانوا كذلك، فما الفائدة من مداهمتهم؟<br><br><br><tab>حسنًا، عندما يقول الرئيس \"اقفز\"، فإنك تفعل ذلك فقط... على الأقل، البعوض ممتلئ الآن. وفي وقت ما، سمعنا طلقات نارية بالقرب من النهر وهرعنا إلى هناك، ولكن كان مجرد ريد يطلق النار على غزال. تلك اللعينة! بالكاد أمنع نفسي من تنظيف ساعته. في النهاية، عدنا بلا شيء سوى الغزلان...<br><br><br><tab>حارسان مفقودان في الصباح. العودة إلى الغابة، يجب أن تجدهم.<br><br><br><tab>تم العثور على أولادنا مثبتين على الأشجار بالسهام مقطوعة حناجرهم. هؤلاء الأوغاد... على الأقل، الآن نعلم أنهم موجودون هناك...<br><br><br><tab>اختفت مجموعة Red، وكانوا في طريقهم لتفقد الكنيسة. هناك قرية صغيرة هناك، وهذا هو مخبأهم... حسنًا، لقد كنتم أيها العاهرات قادمين، وسوف يستغرق الأمر وقتًا طويلاً حتى تموتوا...<br><br><br>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "m3_suit_upg_helm_6_name",
+  "source": "NVD AMPLIFIER",
+  "target": "مكبر صوت NVD",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "leaderboard_not_connected_xbox",
+  "source": "Your game score will not be posted to Leaderboard, because you are not  connected to Xbox Live. Please connect to Xbox Live to use this feature.",
+  "target": "لن يتم نشر نتيجة لعبتك على لوحة المتصدرين، لأنك غير متصل بـ Xbox Live. يرجى الاتصال بـ Xbox Live لاستخدام هذه الميزة.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$mouse_4",
+  "source": "MOUSE_4",
+  "target": "MOUSE_4",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "m3_12_val_diary_24_2_dsc",
+  "source": "VOKHA THE INSTRUCTOR Died saving one of ours captured by the marauders.",
+  "target": "توفي VOKHA المدرب وهو ينقذ أحد أفرادنا الذين أسرهم اللصوص.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "m3_general_hint_107",
+  "source": "Duke<br>The Crew's infiltration specialist and an aspiring hero, for whom the journey is the prefect chance to become a true legend.",
+  "target": "ديوك<br>هو متخصص في التسلل في The الطاقم وبطل طموح، وتعتبر الرحلة بالنسبة له فرصة مثالية ليصبح أسطورة حقيقية.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$game_difficulty_mutator_armored_mode_desc",
+  "source": "Human NPC’s are upgraded one level of armor across the game",
+  "target": "تمت ترقية الشخصيات البشرية غير القابلة للعب (NPC) إلى مستوى واحد من الدروع عبر اللعبة",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "hdr_calibration",
+  "source": "HDR CALIBRATION",
+  "target": "معايرة HDR",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "m3_dlc2_diary_06_dsc",
+  "source": "<tab><tab><tab>\"RIGHT TO DRIVE\"<br><tab><tab>LIMITED LIABILITY COMPANY <tab><tab><tab>CHARTER<br><br><tab>Vladivostok<br><tab>year 2013<br><br><br><tab>Article 1. General Provisions<br><br><br><tab>1.1. The present Charter is the statutory document of the Limited Liability Company \"RIGHT TO DRIVE\", hereinafter referred to as the \"Company\", and regulates the activities of the Company. <br><br><tab>1.2. The Company is a legal entity and acts on the basis of this Charter, the Federal Law \"On Limited Liability Companies\" and other regulatory legal acts. <br><br><tab>1.3. The Sole Proprietor of the Company is Tutkina Angela Ivanovna<br><br><tab>1.4. The company was created without a time limit. <br><br><br><tab>Article 2. Company Name<br><br><br><tab>Full company name of the Company in Russian: Limited Liability Company \"RIGHT TO DRIVE\";<br><br><tab>The abbreviated company name of the Company: RIGHT TO DRIVE, LLC. <br><br><br>",
+  "target": "<tab><tab><tab>\"الحق في القيادة\"<br><tab><tab>شركة ذات مسؤولية محدودة<tab><tab><tab>ميثاق<br><br><tab>فلاديفوستوك<br><tab>سنة 2013<br><br><br><tab>المادة 1. أحكام عامة<br><br><br><tab>1.1. هذا الميثاق هو الوثيقة القانونية للشركة ذات المسؤولية المحدودة \"الحق في القيادة\"، والمشار إليها فيما يلي باسم \"الشركة\"، وينظم أنشطة الشركة.<br><br><tab>1.2. الشركة هي كيان قانوني وتعمل على أساس هذا الميثاق والقانون الاتحادي \"بشأن الشركات ذات المسؤولية المحدودة\" والأفعال القانونية التنظيمية الأخرى.<br><br><tab>1.3. المالك الوحيد للشركة هو توتكينا أنجيلا إيفانوفنا<br><br><tab>1.4. تم إنشاء الشركة دون حد زمني.<br><br><br><tab>المادة 2. اسم الشركة<br><br><br><tab>اسم الشركة الكامل للشركة باللغة الروسية: شركة ذات مسؤولية محدودة \"الحق في القيادة\"؛<br><br><tab>اسم الشركة المختصر للشركة: RIGHT TO DRIVE, LLC.<br><br><br>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "m3_12_val_cantclimbdam_note_2",
+  "source": "The Lumber Mill’s power supply is offline. I’ll need to find the generator and turn it all.",
+  "target": "مصدر الطاقة الخاص بـ Lumber Mill غير متصل بالإنترنت. سأحتاج إلى العثور على المولد وتشغيله.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$ed_adv_5",
+  "source": "$ed_adv_5",
+  "target": "$ed_adv_5",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$ed_adv_1",
+  "source": "$ed_adv_1",
+  "target": "$ed_adv_1",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "ACH_dlc_01_dodge_master_DESC",
+  "source": "Dodge all of the Blind One's throwing attacks in THE TWO COLONELS Chapter.",
+  "target": "تفادى جميع هجمات الرمي التي يقوم بها Blind One في فصل العقيدان.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "leaderboard_not_signed_in",
+  "source": "Your game score will not be posted to Leaderboard, because you are not signed in to Xbox Live. Please sign in to use this feature.",
+  "target": "لن يتم نشر نتيجة لعبتك في لوحة المتصدرين، لأنك لم تقم بتسجيل الدخول إلى Xbox Live. الرجاء تسجيل الدخول لاستخدام هذه الميزة.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "m3_12_val_diary_28_dsc",
+  "source": "Children's camp \"Solnechniy\" - 1km",
+  "target": "معسكر الأطفال \"Solnechniy\" - كيلومتر واحد",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "m3_dia_world_vdnh_intro",
+  "source": "<tab>Exhibition (VDNKh) - My home station, now a part of VDNKh Commonwealth together with Alexeyevskaya and Rizhskaya... Living there has been an uneven ride, but I still have fond memories of the time, even though Anna, my wife, would disagree. She positively hated it there, having traded the position of the Order’s best sniper for everyday chores of a regular mushroom farmer...<br><br>",
+  "target": "معرض<tab>(VDNKh) - محطتي الرئيسية، التي أصبحت الآن جزءًا من الكومنولث VDNKh جنبًا إلى جنب مع Alexeyevskaya وRizhskaya... لقد كانت الحياة هناك غير متكافئة، لكن لا يزال لدي ذكريات جميلة عن ذلك الوقت، على الرغم من أن زوجتي آنا، لم توافق على ذلك. لقد كرهت الأمر هناك بشكل إيجابي، بعد أن استبدلت منصب أفضل قناص في النظام بالأعمال اليومية لمزارع الفطر العادي...<br><br>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$mouse_5",
+  "source": "MOUSE_5",
+  "target": "MOUSE_5",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "m3_01_moscow_diary_2_dsc",
+  "source": "<tab>Artyom Chyornyj<br><br><tab>Born 31.03.2009<br><br><tab>Blood type: AB(IV) Rh+<br><br><tab>Admitted on: come on, it’s the third time!<br><br><tab>Diagnosis: Radiation sickness relapse, light form, approx. dose 1-1.5 Gy, prognosis: favorable.<br><br><tab>Treatment: Blood transfusion 0.5 k., 3/week, Kalii iodidum p/o, bed rest. No going to the Surface for a year at least!<br><br>",
+  "target": "<tab>أرتيوم Chyornyj<br><br><tab>تاريخ الميلاد: 31.03.2009<br><br><tab>فصيلة الدم: AB(IV) Rh+<br><br><tab>اعترفت: هيا، إنها المرة الثالثة!<br><br><tab>التشخيص: انتكاسة مرض الإشعاع، شكل خفيف، تقريبا. جرعة 1-1.5 غراي، التشخيص: مواتية.<br><br><tab>العلاج: نقل الدم 0.5 ك، 3/أسبوع، كالي يوديدوم ع / س، الراحة في الفراش. ممنوع الذهاب إلى السطح لمدة عام على الأقل!<br><br>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$tesselation",
+  "source": "TESSELLATION",
+  "target": "Tessellation",
+  "status": "reviewed",
+  "translation_origin": "reviewed"
+ },
+ {
+  "id": "m3_07_yam_diary_3_dsc",
+  "source": "<tab>Fucking let them in! Fuck the radiation! It’s been over a year! They are outsiders. Don’t even need a share! Let them draw lots, or whatever, the point is, we’ll have food for months now.<br><br><br><tab>Hurt.. all over... Fever, thoughts tngling. Doc sad shit bout some privons or smth The outsiders had them, the fucks. Should have rosated them fucks betta. Too late now. Fuck.<br><br><br><tab>M mmm MMa ma me  mme me mmmeeeeat",
+  "target": "<tab>سخيف السماح لهم بالدخول! اللعنة على الإشعاع! لقد مضى أكثر من عام! إنهم غرباء. لا تحتاج حتى إلى حصة! دعهم يسحبون قرعة، أو أي شيء آخر، النقطة المهمة هي أنه سيكون لدينا طعام لعدة أشهر الآن.<br><br><br><tab>مؤلم.. في كل مكان... حمى، وخز الأفكار. وثيقة حزينة عن بعض الprivons أو شيء من هذا القبيل كان الغرباء لديهم، الملاعين. ينبغي أن rosated لهم الملاعين بيتا. لقد فات الأوان الآن. اللعنة.<br><br><br><tab>م مم مم ما ما لي مم لي ممييييت",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "m3_dlc2_diary_03_dsc",
+  "source": "Oct. 23<br>One-eye brought 12 cages, divers<br><br>Oct. 23<br>Vasyan brought 8 more cages, all toughers<br><br>Nov. 5<br>Cat's boat took all the fuglies save for one – the tougher looked sick to them didn't move, and now it just sits in the corner of its cage ogling me. Fucking freak... <br><br>Nov 6<br>The fucking \"sick\" beast sprung the cage at night and got away! We did look for it, and couldn't find it, but it could still come back - these fuckers are mean. I set up a tripmine in the hole in the outer fence, just in case it does.",
+  "target": "23 أكتوبر<br>جلبت عين واحدة 12 قفصًا، الغواصون<br><br>23 أكتوبر<br>جلب فاسيان 8 أقفاص أخرى، جميعها أكثر صرامة<br><br>5 نوفمبر<br>أخذ قارب Cat جميع الطيور الهاربة باستثناء واحد - بدا الأمر أكثر صرامة بالنسبة لهم ولم يتحرك، والآن هو فقط يجلس في زاوية قفصه وهو يحدق بي. غريب سخيف...<br><br>6 نوفمبر<br>الوحش \"المريض\" اللعين انتشر في القفص ليلًا وهرب! لقد بحثنا عنه، ولم نتمكن من العثور عليه، ولكن لا يزال من الممكن أن يعود - هؤلاء الأوغاد لئيمون. لقد قمت بتركيب لغم ثلاثي في ​​الفتحة الموجودة في السياج الخارجي، فقط في حالة حدوث ذلك.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "dlc_rangermode_dsc",
+  "source": "Become completely immersed in the world of Metro. The new Ranger Mode will challenge you by turning off the HUD and crosshair, making less ammunition available, and offering more difficult combat. With the purchase of the Ranger Mode you will also receive additional Military Grade Bullets which serve not only as the currency of Metro, but also as deadly ammunition. Also included is the AKSU, a compact but deadly Russian assault rifle, perfect for claustrophobic combat.",
+  "target": "انغمس تمامًا في عالم المترو. سيتحداك وضع Ranger الجديد من خلال إيقاف تشغيل شاشة واجهة المعلومات والتقاطع، مما يقلل من توفر الذخيرة ويقدم قتالًا أكثر صعوبة. مع شراء وضع Ranger، ستحصل أيضًا على رصاصات عسكرية إضافية والتي لا تعمل فقط كعملة للمترو، ولكن أيضًا كذخيرة مميتة. تتضمن أيضًا بندقية AKSU، وهي بندقية هجومية روسية مدمجة ولكنها مميتة، مثالية للقتال الخانق.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$ed_adv_6",
+  "source": "$ed_adv_6",
+  "target": "$ed_adv_6",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "spatial_audio",
+  "source": "Spatial audio (Dolby ATMOS)",
+  "target": "الصوت المحيطي (Dolby Atmos)",
+  "status": "reviewed",
+  "translation_origin": "reviewed"
+ },
+ {
+  "id": "$dx_11_options",
+  "source": "DIRECTX 11 OPTIONS",
+  "target": "خيارات DirectX 11",
+  "status": "reviewed",
+  "translation_origin": "reviewed"
+ },
+ {
+  "id": "ACH_dlc_02_great_owl_DESC",
+  "source": "Find all the Night Hunters' secret stashes in the SAM'S STORY chapter.",
+  "target": "اعثر على جميع مخابئ Night Hunters السرية في فصل قصة سام.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "m3_dia_weapon_revolver_intro",
+  "source": "<tab>In the Metro, where ammo is worth its weight in gold, a weapon’s reload speed is usually a distant second or even third priority, while its reliability and simplicity become critical. Humidity, dust, poor quality handmade ammunition... Pulling a revolver trigger the second time when it misfires is much faster than fixing a feed failure in an automatic pistol, and in the confines of the tunnels enemy might deny you the time needed for that altogether.<br><br><tab>That’s why the Armory station started producing copies of ancient Nagant revolvers. Soon they learned that even seven bullets sometimes are not enough to stop a charging Nosalis,so they had to switch to a more powerful (and exotic for Russia) .44 Magnum caliber. A hit with one of these is usually enough to kill a mutant on the spot. <br><br><tab>And that is exactly why such revolvers were a welcome addition to the Spartan Order’s arsenal. Besides, due to the fact that they retained the Nagant revolver’s gas sealing mechanism, they can be fitted with suppressors, and modifications introduced by our gunsmiths let them accommodate any other add-ons, from carbine type stocks to night vision sights.<br><br>",
+  "target": "<tab>في المترو، حيث تساوي الذخيرة وزنها ذهبًا، عادة ما تكون سرعة إعادة تلقيم السلاح أولوية ثانية أو حتى ثالثة بعيدة، في حين تصبح موثوقيته وبساطته أمرًا بالغ الأهمية. الرطوبة والغبار والذخيرة المصنوعة يدويًا ذات الجودة الرديئة... إن سحب زناد المسدس للمرة الثانية عندما يخطئ هو أسرع بكثير من إصلاح خلل في التغذية في مسدس آلي، وفي حدود الأنفاق قد يحرمك العدو من الوقت اللازم لذلك تمامًا.<br><br><tab>لهذا السبب بدأت محطة Armory في إنتاج نسخ من مسدسات Nagant القديمة. وسرعان ما علموا أنه حتى سبع رصاصات في بعض الأحيان لا تكون كافية لإيقاف شحن النوساليس، لذلك كان عليهم التحول إلى عيار أكثر قوة (وغريبة بالنسبة لروسيا) .44 ماغنوم. عادةً ما تكون الضربة بأحد هذه العناصر كافية لقتل متحولة على الفور.<br><br><tab>وهذا هو بالضبط السبب في أن هذه المسدسات كانت إضافة مرحب بها إلى ترسانة التنظيم الإسبرطي. علاوة على ذلك، ونظرًا لاحتفاظهم بآلية إغلاق الغاز الخاصة بمسدس Nagant، يمكن تزويدهم بكاتم للصوت، والتعديلات التي أدخلها صانعو الأسلحة لدينا تسمح لهم باستيعاب أي إضافات أخرى، بدءًا من مخزونات نوع الكاربين وحتى مشاهد الرؤية الليلية.<br><br>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "m3_07_yam_diary_5_dsc",
+  "source": "<tab>Nothing can be done, they have five days at most. At least Doc says he can at least give them something for the pain... Who could have known they’d go up there to fix the antennas! Boys... Should have told me, should have at least worn the suits...<br><br><tab>It’s up! I just sent the first message! Made it... The boys are still alive, Alyosha even smiled when I told him. At least, now they’ll know they didn’t die in vain...<br><br><br><tab>So, I get the radio online, and they remove me immediately! I can’t even get any news - they say it’s all secret! Put guards at the door, too, the bastards... And they struck me from the special rations distribution list. Way to reward honest effort...<br><br><br><tab>This is terrible... How did the others survive all this time? It’s only been two weeks, and already I can’t think of anything but food... The others had been getting the same ration for months!<br><br><br><tab>Two more weeks. The legs are getting swollen, the workers told me I drink too much.<br><br><br><tab>I’ve no energy to move, even writing feels like hard work now. Apathy. At least, the hunger’s a bit blunted now...<br><br><br><tab>They are here! They heard us and came! Yes, they’re just refugees, but they’re here! Soon we’ll get the supplies, it’s not too late yet! Everything will be fine now! Of course, the refugees are quarantined for now, but soon I’ll be able to ask them about everything...<br><br><br><tab>I heard the quarantine will last longer than we though, they brought some bug with them... They also brought rations though, we’ve been given meat broth for now - we couldn’t stomach anything heavier anyways... What a great feeling, though! Whole body feels warm. And the taste... unforgettable!<br><br><br><tab>I don’t get this... A second group of refugees, they also brought supplies, but it’s just meat - no grains or anything... And they’re all quarantined, too, while the last group has been there for over a month now! We haven’t been told a thing about the situation in the country, or the Government... Why? I must have a frank conversation with Doc, he’ll oblige for the old friendship’s sake...<br><br>",
+  "target": "<tab>لا يمكن فعل أي شيء، لديهم خمسة أيام على الأكثر. على الأقل يقول Doc إنه يستطيع على الأقل أن يمنحهم شيئًا لعلاج الألم... من كان يعلم أنهم سيصعدون إلى هناك لإصلاح الهوائيات! الأولاد... كان يجب أن يخبروني، يجب أن يرتدوا البدلات على الأقل...<br><br><tab>لقد انتهى الأمر! لقد أرسلت للتو الرسالة الأولى! فعلتها... الأولاد ما زالوا على قيد الحياة، حتى أن اليوشا ابتسم عندما أخبرته. على الأقل، سيعرفون الآن أنهم لم يموتوا عبثًا...<br><br><br><tab>لذا، قمت بتشغيل الراديو عبر الإنترنت، وقاموا بإزالتي على الفور! لا أستطيع حتى الحصول على أي أخبار - يقولون أن الأمر كله سري! ضعوا حراسًا على الباب أيضًا أيها الأوغاد... وضربوني من قائمة توزيع الحصص الخاصة. طريقة لمكافأة الجهد الصادق...<br><br><br><tab>هذا أمر فظيع... كيف نجا الآخرون طوال هذا الوقت؟ لقد مر أسبوعان فقط، ولا أستطيع التفكير في أي شيء سوى الطعام... وكان الآخرون يحصلون على نفس الحصة منذ أشهر!<br><br><br><tab>أسبوعين آخرين. بدأت ساقاي تتورمان، وأخبرني العمال أنني أشرب الخمر بكثرة.<br><br><br><tab>ليس لدي طاقة للتحرك، حتى الكتابة تبدو وكأنها عمل شاق الآن. اللامبالاة. على الأقل، أصبح الجوع أقل قليلاً الآن...<br><br><br><tab>إنهم هنا! لقد سمعونا وجاءوا! نعم، إنهم مجرد لاجئين، لكنهم هنا! قريبا سنحصل على الإمدادات، لم يفت الأوان بعد! كل شيء سيكون على ما يرام الآن! بالطبع، اللاجئون في الحجر الصحي حاليًا، لكن قريبًا سأتمكن من سؤالهم عن كل شيء...<br><br><br><tab>سمعت أن الحجر الصحي سيستمر لفترة أطول مما كنا عليه، لقد أحضروا معهم بعض الحشرات... لقد أحضروا أيضًا حصص الإعاشة، لقد حصلنا على مرق اللحم في الوقت الحالي - لم نتمكن من تحمل أي شيء أثقل على أي حال... يا له من شعور رائع! الجسم كله يشعر بالدفء. والطعم... لا ينسى!<br><br><br><tab>لم أفهم هذا... مجموعة ثانية من اللاجئين، أحضروا أيضًا الإمدادات، لكنها مجرد لحوم - لا حبوب أو أي شيء... وجميعهم في الحجر الصحي أيضًا، بينما المجموعة الأخيرة موجودة هناك منذ أكثر من شهر الآن! لم يُخبرنا شيئاً عن أوضاع البلاد أو الحكومة.. لماذا؟ يجب أن أجري محادثة صريحة مع Doc، فهو سيستجيب من أجل الصداقة القديمة...<br><br>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "m3_general_hint_110",
+  "source": "Alyosha<br>The Order's foremost Surface survival expert, Alyosha is ever in search of True Love, although usually he seems to be looking in the wrong places.",
+  "target": "أليوشا<br>، أهم خبير في البقاء على قيد الحياة في The التنظيم، يبحث أليوشا دائمًا عن الحب الحقيقي، على الرغم من أنه يبدو عادةً أنه يبحث في الأماكن الخاطئة.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "m3_06_diary_13_dsc",
+  "source": "<tab>Feb 4<br><br><tab>12 patients, 8 - acute radiation syndrome, stage III, 3 - ARS st. IV, prognosis in all cases is poor, all I have left is 32 flasks of Ampicillin and 40 flasks of Tramadol.<br><br><br><tab>Feb 7<br><br><tab>5 new patients in 3 days, all - ARS st. III; Also, 2 lethal cases, I couldn’t do a thing... At least I have Tramadol for the worst cases...<br><br><br><tab>Feb 11<br><br><tab>No new patients, everyone is here. 7 lethal c. in 3 d. Earth hard as rock, I just put them all in the shed. Out of Ampicillin, so I just give them saline IV, they say they feel better...<br><br><br><tab>Feb 15<br><br><tab>6 lethal c. more, they all know everything now but still keep thanking me... Only 2 Tramadols left, I’ll put them both into Varya’s drip, she’s a st. IV and suffered longer than anyone but she never complains... I can’t handle it anymore.<br><br><br><tab>Feb 23<br><br><tab>Just three of us left, we kept talking all night, helps to distract ourselves... The sores ache like hell, I don’t get how could Varya endure it... In any case, it’s not going to take long now...<br><br><br><tab>Feb 25<br><br><tab>Today I was the only one to wake up. I did all I could. It is time.<br><br><br>",
+  "target": "<tab>4 فبراير<br><br><tab>12 مريضًا، 8 - متلازمة الإشعاع الحادة، المرحلة الثالثة، 3 - شارع ARS. رابعا، التشخيص في جميع الحالات سيئ، ولم يتبق لي سوى 32 قارورة أمبيسلين و 40 قارورة ترامادول.<br><br><br><tab>7 فبراير<br><br><tab>5 مرضى جدد في 3 أيام، الكل - ARS st. ثالثا؛ أيضًا، حالتان مميتتان، لم أتمكن من فعل أي شيء... على الأقل لدي ترامادول في أسوأ الحالات...<br><br><br><tab>11 فبراير<br><br><tab>لا يوجد مرضى جدد، الجميع هنا. 7 قاتلة ج. في 3 د. الأرض صلبة كالصخر، لقد وضعتهم جميعًا في السقيفة. من الأمبيسلين، لذلك أعطيهم محلول ملحي وريديًا، يقولون إنهم يشعرون بتحسن...<br><br><br><tab>15 فبراير<br><br><tab>6 قاتل ج. علاوة على ذلك، جميعهم يعرفون كل شيء الآن ولكنهم ما زالوا يشكرونني... لم يتبق سوى 2 ترامادول، سأضعهما في قطرة فاريا، إنها ست. IV وعانت لفترة أطول من أي شخص آخر لكنها لم تشتكي أبدًا... لم يعد بإمكاني التعامل مع الأمر بعد الآن.<br><br><br><tab>23 فبراير<br><br><tab>بقي ثلاثة منا فقط، واصلنا التحدث طوال الليل، مما يساعد على تشتيت انتباهنا... القروح تؤلمنا بشدة، لا أفهم كيف يمكن لفاريا تحملها... على أي حال، لن يستغرق الأمر وقتًا طويلاً الآن...<br><br><br><tab>25 فبراير<br><br><tab>اليوم كنت الوحيد الذي استيقظ. فعلت كل ما بوسعي. لقد حان الوقت.<br><br><br>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "m3_dia_crew_alyosha_intro",
+  "source": "<tab>Alyosha, the life of every party, an avid lady killer, favorite customer of the seediest joints of Tsvetnoi Bulvar, and our Survival on the Surface instructor. After only a cursory glance, he can correctly tell if an abandoned building can last for years or is ready to collapse onto your head at the lightest touch, which ability saved him back in Moscow more than once.<br><br><tab>Alyosha is the only member of our Crew seemingly taking our journey for an exciting adventure, probably in anticipation of new meetings - with representatives of the fair sex, of course.<br><br>",
+  "target": "<tab>أليوشا، حياة كل الحفلات، قاتلة النساء المتعطشة، العميل المفضل للمفاصل الأكثر سوءًا في تسفيتنوي بولفار، ومدرب البقاء on the السطح الخاص بنا. بعد نظرة خاطفة فقط، يمكنه معرفة ما إذا كان المبنى المهجور يمكن أن يستمر لسنوات أو أنه جاهز للانهيار على رأسك بأخف لمسة، وهي القدرة التي أنقذته في موسكو أكثر من مرة.<br><br><tab>أليوشا هو العضو الوحيد في طاقمنا الذي يبدو أنه يقوم برحلتنا لمغامرة مثيرة، ربما تحسبًا لاجتماعات جديدة - مع ممثلين عن الجنس العادل بالطبع.<br><br>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "m3_dia_weapon_valve_intro",
+  "source": "<tab>Keep your friends close, and enemies - even closer? I don’t really know about that... Many people, my wife among them, prefer keeping their enemies as far as possible, and for that end, it’s hard to find anything better than Valve in our troubled times. <br><br><tab>Of course, almost any pre-war sniper rifle would win over it in any competition, hands down. But where would you get one now, especially, in anything approaching a workable condition? They weren’t exactly produced by the trainload as Kalash was, so that there would be enough remaining even now to fight ten world wars. Besides, a sniper rifle is a fine piece of technology, it requires careful use and quality maintenance...<br><br><tab>Still, the need to send a piece of lead into the middle of a target that’s several hundred meters from the shooter is still sometimes there, so the unknown weapon smiths of the Surface found the best solution for the problem at hand they could. At least, in terms of accuracy the Valve is quite capable, and the power of the old rifle cartridge is enough to defeat any protection designed to withstand handloaded assault rifle ammunition.<br><br><tab>Thus, Anna is quite happy with her trophy rifle, and we haven’t received a single complaint from the enemies that ended up in her sights, either.<br><br>",
+  "target": "<tab>هل تبقي أصدقائك قريبين منك، والأعداء أقرب إليك؟ لا أعرف حقًا عن ذلك... كثير من الناس، ومن بينهم زوجتي، يفضلون إبقاء أعدائهم بعيدًا قدر الإمكان، ولتحقيق هذه الغاية، من الصعب العثور على أي شيء أفضل من Valve في أوقاتنا المضطربة.<br><br><tab>بالطبع، تقريبًا أي بندقية قنص كانت موجودة قبل الحرب ستفوز بها في أي منافسة. ولكن من أين يمكنك الحصول على واحدة الآن، خاصة في أي شيء يقترب من حالة قابلة للتطبيق؟ لم يتم إنتاجها بواسطة حمولة القطار تمامًا كما تم إنتاج كلاش، لذلك سيكون هناك ما يكفي حتى الآن لخوض عشر حروب عالمية. بالإضافة إلى ذلك، تعد بندقية القناص قطعة تكنولوجية رائعة، وتتطلب استخدامًا دقيقًا وصيانة عالية الجودة...<br><br><tab>ومع ذلك، فإن الحاجة إلى إرسال قطعة من الرصاص إلى منتصف هدف يبعد عدة مئات من الأمتار عن مطلق النار لا تزال موجودة في بعض الأحيان، لذلك وجد حدادو الأسلحة غير المعروفين في السطح أفضل حل للمشكلة المطروحة. على الأقل، من حيث الدقة، فإن الصمام قادر تمامًا، وقوة خرطوشة البندقية القديمة كافية لهزيمة أي حماية مصممة لتحمل ذخيرة البندقية الهجومية المحملة يدويًا.<br><br><tab>وهكذا، فإن آنا سعيدة جدًا ببندقيتها التذكارية، ولم نتلق شكوى واحدة من الأعداء الذين انتهى بهم الأمر في مرمى البصر أيضًا.<br><br>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$demo_controls",
+  "source": "SPACE - run/pause camera flythrough<br>1 2 3 4 5 6 7 8 9 - cycle scenes<br>ENTER - toggle SSAO / RTAO+GI / Splitscreen<br>BACKSPACE - toggle textures",
+  "target": "SPACE - تشغيل/إيقاف مؤقت للكاميرا<br>1 2 3 4 5 6 7 8 9 - مشاهد الدورة<br>ENTER - تبديل SSAO / RTAO+GI / Splitscreen<br>BACKSPACE - تبديل القوام",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "m3_general_hint_106",
+  "source": "Idiot<br>The Spartan Order's top high-tech expert and resident philosopher. The goal of the journey for him is the journey itself.",
+  "target": "إيديوت<br>أفضل خبير في مجال التكنولوجيا الفائقة وفيلسوف مقيم في The التنظيم الإسبرطي. هدف الرحلة بالنسبة له هو الرحلة نفسها.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$adv_phisics",
+  "source": "ADVANCED PHYSX",
+  "target": "Advanced PhysX",
+  "status": "reviewed",
+  "translation_origin": "reviewed"
+ },
+ {
+  "id": "ACH_dlc_02_lord_of_war_DESC",
+  "source": "Collect all the upgrades for Sammy rifle and Stallion pistol in the SAM'S STORY chapter.",
+  "target": "اجمع كل الترقيات لبندقية Sammy ومسدس Stallion في فصل قصة سام.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$mouse_7",
+  "source": "MOUSE_7",
+  "target": "MOUSE_7",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "m3_01_moscow_diary_8_dsc",
+  "source": "<tab>To all personnel of the \"Shield” project Special Guard Detail<br><br><br><tab>In recent years there’s been a noticeable increase in the number of attempts to breach our defenses by spies and enemy agents belonging to previously uncommon demographics - women, old people, teenagers. This serves to prove the utmost efficiency of the Special Detail’s defense effort, leaving the enemies no chance of ever achieving their goals of mapping our defense perimeter and carrying out sabotage by employing standard tactics.<br><br><tab>For that reason, all members of Special Guard Detail personnel must carry out their duties responsibly and never falter in applying the special measures to any and all enemy agents detained. Remember, the enemy is resourceful and deceitful, the enemy is desperate enough as to throw the last reserves into battle. Still, the enemy resources are still vast, and a cornered rat is only more dangerous!<br><br><br><tab>Defense Council",
+  "target": "<tab>إلى جميع العاملين في مشروع \"الدرع\" تفاصيل الحرس الخاص<br><br><br><tab>في السنوات الأخيرة، كانت هناك زيادة ملحوظة في عدد محاولات اختراق دفاعاتنا من قبل جواسيس وعملاء أعداء ينتمون إلى مجموعات سكانية غير مألوفة سابقًا - النساء وكبار السن والمراهقين. يعمل هذا على إثبات أقصى قدر من الكفاءة لجهود الدفاع الخاصة بـ Special Detail، مما لا يترك للأعداء أي فرصة لتحقيق أهدافهم المتمثلة في رسم خريطة لمحيطنا الدفاعي وتنفيذ أعمال تخريبية من خلال استخدام التكتيكات القياسية.<br><br><tab>لهذا السبب، يجب على جميع أفراد الحرس الخاص تنفيذ واجباتهم بمسؤولية وعدم التعثر مطلقًا في تطبيق الإجراءات الخاصة على أي وجميع عملاء العدو المحتجزين. تذكر أن العدو واسع الحيلة ومخادع، والعدو يائس بما يكفي لإلقاء آخر الاحتياطيات في المعركة. ومع ذلك، لا تزال موارد العدو هائلة، والفأر المحاصر أكثر خطورة!<br><br><br><tab>مجلس الدفاع",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "m3_dia_world_svargo_intro",
+  "source": "<tab>The criminal empire ruling the portion of Caspian desert we visited, was controlled by a supreme ruler called the Baron, using the largest oil rig in the area as his seat of power. Apparently, the Baron's climb to power started within Svarog Oil, an oil drilling company that had been controlling all of oil extraction in the area when the War broke out.<br><br>",
+  "target": "<tab>الإمبراطورية الإجرامية التي تحكم الجزء الذي زرناه من صحراء قزوين، كان يسيطر عليها حاكم أعلى يُدعى البارون، مستخدمًا أكبر منصة نفط في المنطقة كمقر لسلطته. على ما يبدو، بدأ صعود البارون إلى السلطة داخل شركة Svarog Oil، وهي شركة للتنقيب عن النفط كانت تتحكم في كل عمليات استخراج النفط في المنطقة عندما اندلعت الحرب.<br><br>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "m3_06_diary_7_dsc",
+  "source": "<tab>To whoever may find this note - may the Lord bless you and absolve your sins, for you are most definitely worthier of divine help than I ever was... I have sinned by trying to achieve more than was ever expected of me, and I was punished for my folly. I should have exterminated the electrical demon as my penance commanded and my holy tools allowed me to, but I gave in to the sin of lust for greater glory and decided to lure it into this lair of the beastmen...<br><br><tab>The demon killed the godawful beasts, but now I can neither approach it nor escape this place which now must become my grave. My only regret is that my bones will remain here instead of being consumed by the Tsar-Fish cleansing my soul of sins, forever denying me right of passage through the Heavenly Gates, unless the faithful take pity on me one day and take them to the House of the Fish...<br><br><tab>In prayer for this I shall spend the remainder of my time in this mortal coil.<br><br><br><tab>Yuri S.,<br><br><tab>An unworthy servant of our Lord",
+  "target": "<tab>إلى من يجد هذه الملاحظة - ليباركك الرب ويغفر خطاياك، لأنك بالتأكيد تستحق المساعدة الإلهية أكثر من أي وقت مضى... لقد أخطأت بمحاولتي تحقيق أكثر مما كان متوقعًا مني، وعوقبت على حماقتي. كان ينبغي عليّ إبادة الشيطان الكهربائي كما أمرت تكفيري وأدواتي المقدسة بذلك، لكنني استسلمت لخطيئة الشهوة من أجل مجد أعظم وقررت استدراجها إلى مخبأ الوحوش هذا...<br><br><tab>لقد قتل الشيطان الوحوش المقدسة، لكن الآن لا أستطيع الاقتراب منها أو الهروب من هذا المكان الذي يجب أن يصبح الآن قبري. أسفي الوحيد هو أن عظامي ستبقى هنا بدلاً من أن تلتهمها سمكة القيصر التي تطهر روحي من الخطايا، وتحرمني إلى الأبد من حق المرور عبر البوابات السماوية، ما لم يشفق علي المؤمنون في يوم من الأيام ويأخذونها إلى بيت السمكة...<br><br><tab>في الصلاة من أجل هذا سأقضي ما تبقى من وقتي في هذا الملف المميت.<br><br><br><tab>Yuri S.,<br><br><tab>خادم غير مستحق لربنا",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "mp_live_connection_lost",
+  "source": "Connection to Xbox Live lost.",
+  "target": "تم فقد الاتصال بـ Xbox Live.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "m3_13_nvs_diary_2_dsc",
+  "source": "<tab>To: OSKOM Rapid Response Group Commander<br><br><tab>Lieutenant-Colonel Khlebnikov<br><br><br><tab>In response to Your request No.132/17-A, I hereby report that:<br><br><br><tab>During the interrogation, the captured have stated that the main motivation behind their participation in the mass rioters was their general dissatisfaction with their economic and social situation. Quotes:<br><br><br><tab>«We work our asses off in the dirty tunnels and you fuckers have a classy living down there!»<br><br><tab>«I haven’t eaten a fill of meat in ten years, though I am raising them pigs at the farm.»<br><br><tab>«We only get one measly dose of green stuff a month, which is fucking nothing, while you fuckers pack bags full of stuff!»<br><br><tab>Still, the final push for them to join the rioters was, as the group leader puts it, an alleged conspiracy of the OSKOM leadership:<br><br><tab>«So you think that since we’re dismantling those cars here in the boonies, we don’t know shit? Boy, you are wrong about that!  We know it all! The Committee (the OSKOM leadership) bigwigs are setting up to flee the city like the rats that they are, so they are hogging up all the green stuff! Ain’t that so? You’re gonna leave us here to die! We knew it all since winter! Why did they have to take half of our guys? Topside, to clear out the tracks! Why the sudden order to bring the diesel online? It’s been parked here for ages, we were about to take it apart - and now you want us to fix it? Don’t think we’re dumber than rocks!»<br><br><tab>After the interrogation, the rioters due to them being undeniably guilty of sabotage, were handed off to the Disposal Unit as per standard procedure.<br><br><br><br><tab>OSKOM Special Department Investigator<br><br><tab>PEREPLETCHIK<br><br>",
+  "target": "<tab>إلى: قائد مجموعة الاستجابة السريعة أوسكوم<br><br><tab>المقدم كليبنيكوف<br><br><br><tab>ردًا على طلبك رقم 132/17-A، أبلغك بموجب هذا بما يلي:<br><br><br><tab>أثناء الاستجواب، ذكر الأسرى أن الدافع الرئيسي وراء مشاركتهم في أعمال الشغب الجماعية هو عدم رضاهم العام عن وضعهم الاقتصادي والاجتماعي. اقتباسات:<br><br><br><tab>«نحن نعمل بجد في الأنفاق القذرة وأنتم أيها الأوغاد تتمتعون بحياة راقية هناك!»<br><br><tab>\"لم أتناول شبعًا من اللحم منذ عشر سنوات، على الرغم من أنني أقوم بتربية الخنازير في المزرعة.\"<br><br><tab>«نحن نحصل فقط على جرعة واحدة تافهة من المادة الخضراء شهريًا، وهو لا شيء، بينما أنتم أيها الأوغاد تحزمون أكياسًا مليئة بالأشياء!»<br><br><tab>ومع ذلك، فإن الدفعة الأخيرة لهم للانضمام إلى مثيري الشغب كانت، على حد تعبير قائد المجموعة، مؤامرة مزعومة لقيادة أوسكوم:<br><br><tab>«لذلك تعتقد أنه بما أننا نقوم بتفكيك تلك السيارات هنا في الغنائم، فإننا لا نعرف شيئًا؟ يا فتى، أنت مخطئ في ذلك!  نحن نعرف كل شيء! يستعد كبار الشخصيات في اللجنة (قيادة أوسكوم) للفرار من المدينة مثل الفئران، لذا فهم يستحوذون على كل المادة الخضراء! أليس كذلك؟ سوف تتركنا هنا لنموت! لقد عرفنا كل ذلك منذ الشتاء! لماذا عليهم أن يأخذوا نصف رجالنا؟ الجانب العلوي، لمسح المسارات! لماذا الأمر المفاجئ بجلب الديزل عبر الإنترنت؟ لقد كانت متوقفة هنا منذ زمن طويل، وكنا على وشك تفكيكها - والآن تريد منا إصلاحها؟ لا تظنوا أننا أغبى من الصخور!»<br><br><tab>بعد الاستجواب، تم تسليم مثيري الشغب بسبب كونهم مذنبين بلا شك بالتخريب، إلى وحدة التخلص وفقًا للإجراءات القياسية.<br><br><br><br><tab>أوسكوم محقق القسم الخاص<br><br><tab>PEREPLETCHIK<br><br>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "store_to_psn_redirection_message",
+  "source": "To complete your purchase the game will quit and PlayStation™Store will be opened. Do you want to proceed?",
+  "target": "لإكمال عملية الشراء، سيتم إنهاء اللعبة وسيتم فتح PlayStation™Store. هل تريد المتابعة؟",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "options_video_hairworks",
+  "source": "HAIRWORKS",
+  "target": "HairWorks",
+  "status": "reviewed",
+  "translation_origin": "reviewed"
+ },
+ {
+  "id": "$rtgi",
+  "source": "RAY TRACING",
+  "target": "Ray Tracing",
+  "status": "reviewed",
+  "translation_origin": "reviewed"
+ },
+ {
+  "id": "m3_13_nvs_diary_8_dsc",
+  "source": "CONTAINER CONTENTS DESTINATION STATUS<br><br><br>11-L Radioprotector - 3000 packs; Civil Defense HQ (Novosibirsk); Delivered<br><br>23-L Radioprotector - 800 packs, AI-1500 - 500 pcs., VF-S - 3 pcs; AA HQ (Novosibirsk); Shipped<br><br>58-L Radioprotector - 5000 packs; Civil Defense HQ (Moscow); Awaiting shipment<br><br>59-L Radioprotector - 5000 packs; AA HQ (Moscow); Awaiting shipment<br><br>60-L Radioprotector - 5000 packs; Strategic Command (Moscow); Awaiting shipment<br><br>61-L Radioprotector - 5000 packs; IA HQ (Moscow); Awaiting shipment<br><br>144-L AI-1500 - 600 pcs; Base 1878.2; Delivered<br><br>09-S RENERGAN-F, 1 exp. set; EMRI, ME Branch; SHIPMENT CANCELLED<br><br>",
+  "target": "محتويات الحاوية حالة الوجهة<br><br><br>11-L Radioprotector - 3000 عبوة؛ المقر الرئيسي للدفاع المدني (نوفوسيبيرسك)؛ تم تسليم واقي الإشعاع<br><br>23-L - 800 عبوة، الذكاء الاصطناعي-1500 - 500 قطعة، VF-S - 3 قطع؛ المقر الرئيسي لشركة AA (نوفوسيبيرسك)؛ واقي راديو<br><br>58-L - 5000 عبوة؛ المقر الرئيسي للدفاع المدني (موسكو)؛ في انتظار الشحن<br><br>59-L واقي من الإشعاع - 5000 عبوة؛ المقر الرئيسي لشركة AA (موسكو)؛ في انتظار الشحن<br><br>60-L واقي من الإشعاع - 5000 عبوة؛ القيادة الاستراتيجية (موسكو)؛ في انتظار الشحن<br><br>61-L واقي من الإشعاع - 5000 عبوة؛ المقر الرئيسي لـ IA (موسكو)؛ في انتظار الشحن<br><br>144-L الذكاء الاصطناعي-1500 - 600 قطعة؛ قاعدة 1878.2؛ تم التسليم<br><br>09-S رينيرغان-إف، 1 exp. تعيين؛ إمري، فرع الشرق الأوسط؛ تم إلغاء الشحنة<br><br>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$ssaa",
+  "source": "SSAA",
+  "target": "SSAA",
+  "status": "reviewed",
+  "translation_origin": "reviewed"
+ },
+ {
+  "id": "$shading_rate",
+  "source": "SHADING RATE",
+  "target": "Shading Rate",
+  "status": "reviewed",
+  "translation_origin": "reviewed"
+ },
+ {
+  "id": "ACH_lower_the_b_DESC_unlocked",
+  "source": "Completed the VOLGA level.",
+  "target": "أكمل مستوى VOLGA.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "m3_01_moscow_diary_4_dsc",
+  "source": "<tab>Tolik, if you find that bookstore, look for these:<br><br><br><tab>Radio amateur’s guide, 1970<br><br><tab>Radio for teenagers, 1979<br><br><tab>Build your own radio, 1955<br><br><tab>How to build a detector receiver, 1950<br><br><tab>Radio reception: simple AM receivers, 1967<br><br><tab>Radio in the rural areas, 1963<br><br><tab>Radio in the field, 1964<br><br><br><tab>We don’t need anything fancier, there are no components anyway, so we’ll have to build it from pencil leads and empty tins.",
+  "target": "<tab>Tolik، إذا وجدت تلك المكتبة، فابحث عن هذه:<br><br><br><tab>دليل هواة الراديو، 1970<br><br><tab>راديو للمراهقين، 1979<br><br><tab>اصنع بنفسك راديو، 1955<br><br><tab>كيفية بناء جهاز استقبال الكاشف، 1950<br><br><tab>استقبال الراديو: أجهزة استقبال AM بسيطة، 1967<br><br><tab>الراديو في المناطق الريفية، 1963<br><br><tab>راديو في الميدان، 1964<br><br><br><tab>لا نحتاج إلى أي شيء أكثر روعة، ولا توجد مكونات على أي حال، لذلك سيتعين علينا بنائه من أقلام الرصاص والعلب الفارغة.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$raytrace",
+  "source": "NVIDIA RTX",
+  "target": "NVIDIA RTX",
+  "status": "reviewed",
+  "translation_origin": "reviewed"
+ },
+ {
+  "id": "m3_general_hint_111",
+  "source": "Tokarev<br>The Order's top gunsmith, Tokarev is naturally in charge of weapons and equipment maintenance and repair aboard the Aurora.",
+  "target": "توكاريف<br>، أفضل صانع أسلحة في The التنظيم، توكاريف هو المسؤول بطبيعة الحال عن صيانة وإصلاح الأسلحة والمعدات على متن أورورا.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "m3_suit_upg_unload_empty_spartain_desc",
+  "source": "Costume worn by members of Spartain Order in Moscow metro. Good for fighting humans and mutants, but not designed for stealth missions or prolonged stay in irradiated areas.",
+  "target": "الزي الذي يرتديه أعضاء منظمة Spartatain التنظيم في مترو موسكو. جيدة لمحاربة البشر والمتحولين، ولكنها ليست مصممة لمهام التخفي أو البقاء لفترة طويلة في المناطق المشعة.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$autosave_hint_new_ps3",
+  "source": "This game automatically saves your game progress. Please do not turn off your PlayStation®4 system when you see this icon or your current progress will be lost.",
+  "target": "تقوم هذه اللعبة تلقائيًا بحفظ تقدمك في اللعبة. يرجى عدم إيقاف تشغيل نظام PlayStation®4 الخاص بك عندما ترى هذا الرمز وإلا فسيتم فقدان تقدمك الحالي.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "m3_dlc1_chap1_diary_1_dsc",
+  "source": "<tab>I gotta admit it, that Andrei does have a good head on his shoulders... These tunnels were always easy to get lost in, but when they get covered in slime, even a map can’t help – it’s enough for it to cover some passages to change the shape of the place completely. The road signs truly are a godsend here, they’re highly visible and the slime can’t eat them away. <br><br><tab> We only had to ask our guys to grab some signs when they return from the work at the old railroad, and they brought a whole bunch in no time. Now we can’t get lost here even if we wanted, and the OSKOM guys will have an easier time finding their directions, too, once they finally decide to visit this place with their flamethrowers. Why didn’t I think of this earlier? I really should arrange a bonus for him, he’s earned it fair and square. <br><br>",
+  "target": "<tab>يجب أن أعترف بذلك، أن Andrei يتمتع برأس جيد على كتفيه... كان من السهل دائمًا أن تضيع هذه الأنفاق، ولكن عندما يتم تغطيتها بالمخاط، حتى الخريطة لا يمكن أن تساعد - يكفي أن تغطي بعض الممرات لتغيير شكل المكان تمامًا. إن علامات الطريق هي حقًا هبة من السماء هنا، فهي مرئية للغاية ولا يستطيع الوحل أن يأكلها.<br><br><tab>كان علينا فقط أن نطلب من رجالنا أن يأخذوا بعض اللافتات عند عودتهم من العمل في السكة الحديد القديمة، وقد أحضروا مجموعة كاملة في وقت قصير. الآن لا يمكننا أن نضيع هنا حتى لو أردنا ذلك، وسيكون من الأسهل على رجال أوسكوم العثور على اتجاهاتهم أيضًا، بمجرد أن يقرروا أخيرًا زيارة هذا المكان بقاذفات اللهب الخاصة بهم. لماذا لم أفكر في هذا في وقت سابق؟ يجب أن أرتب له مكافأة حقًا، لقد حصل عليها بشكل عادل ومباشر.<br><br>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "m3_dlc2_diary_08_dsc",
+  "source": "<tab>I'm writing this to put an end to any fucking discussion. Seriy's a dirty thief, he stole a crate of ammo form the last shipment, Nose did a good thing outing the fucker and got that crate as a just reward for doing so. <br><br><tab>Tail that cut Nose up is a running dog, and he knows that he oughtta be put down, so he ran away. A duty of any respectable man should be to shoot the fucker dead on sight. <br><br><tab>If any of these fuckers ever come crawling back here, they are to be shot. Sentries atop the tower are to be changed every two hours and every hour at night until Seraph eats those two fucks. If a sentry loses or breaks the night vision sight, he's dead meat, because it's the last one we have left. <br><br><tab>Owl<br><br>",
+  "target": "<tab>أنا أكتب هذا لوضع حد لأي نقاش سخيف. سيري هو لص قذر، لقد سرق صندوقًا من الذخيرة من الشحنة الأخيرة، وقام Nose بعمل جيد في إخراج اللعين وحصل على هذا الصندوق كمكافأة عادلة مقابل قيامه بذلك.<br><br><tab>الذيل الذي قطع أنفه هو كلب يركض، وهو يعلم أنه يجب أن يُقتل، لذلك هرب. من واجب أي رجل محترم أن يطلق النار على هذا اللعين فور رؤيته.<br><br><tab>إذا عاد أي من هؤلاء الأوغاد إلى هنا، فيجب إطلاق النار عليهم. يجب تغيير الحراس الموجودين فوق البرج كل ساعتين وكل ساعة في الليل حتى يأكل ساراف هذين الرجلين. إذا فقد الحارس أو كسر رؤية الرؤية الليلية، فهو لحم ميت، لأنه آخر شخص بقي لدينا.<br><br><tab>البومة<br><br>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "m3_05_chase_diary_1_dsc",
+  "source": "<tab>The Commonwealth of the Stations of the Ring Line<br><br><tab>Treasury<br><br><br><tab>To:  Lieutenant-Colonel Taubman,<br><br><tab>Special Mobile Strike Force<br><br><tab>Commander<br><br><br><tab>Colonel, I have confirmed the emergency remittance of 6000 mil-grade 7.62 rounds in 200 round belts as per the requisition form 764/35 you submitted, but I must remind you of the imminent consequences should this transaction not result in a resounding success. <tab>Your operations, although not devoid of certain flair and thus tending to be reviewed favorably, have been a consistent strain on our budget. The present remittance is an overdraft allowed ONLY due to the credit of trust your record has granted you, and will be scrutinized up at the nearest Board meeting.<br><br><tab>I hope you understand that this time you positively MUST produce a satisfactory return on this investment.<br><br><br><tab>Signed: Y. Voloshkovski<br><br><tab>Treasurer",
+  "target": "<tab>كومنولث محطات الخط الدائري<br><br><tab>الخزانة<br><br><br><tab>إلى: المقدم توبمان،<br><br><tab>القوة الضاربة المتنقلة الخاصة<br><br><tab>أيها القائد<br><br><br><tab>أيها العقيد، لقد أكدت التحويلات الطارئة لـ 6000 مليون طلقة 7.62 طلقة في 200 حزام دائري وفقًا لنموذج الطلب 764/35 الذي قدمته، لكن يجب أن أذكرك بـ عواقب وشيكة إذا لم تسفر هذه الصفقة عن نجاح باهر.<tab>إن عملياتك، على الرغم من أنها لا تخلو من بعض الذوق وبالتالي تميل إلى المراجعة بشكل إيجابي، إلا أنها شكلت ضغطًا مستمرًا على ميزانيتنا. التحويل الحالي هو سحب على المكشوف مسموح به فقط بسبب الثقة التي منحها لك سجلك، وسيتم فحصها في أقرب اجتماع لمجلس الإدارة.<br><br><tab>أتمنى أن تفهم أنه يجب عليك هذه المرة تحقيق عائد مرضٍ على هذا الاستثمار.<br><br><br><tab>التوقيع: Y. Voloshkovski<br><br><tab>أمين الصندوق",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "ACH_dlc_02_lord_of_war_DESC_unlocked",
+  "source": "Collected all the upgrades for Sammy rifle and Stallion pistol in the SAM'S STORY chapter.",
+  "target": "تم جمع كل الترقيات لبندقية Sammy ومسدس Stallion في فصل قصة سام.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "dlc_towerpack_dsc_short_nl",
+  "source": "Prepare yourself for the challenge of The Tower - the Metro's virtual combat simulator.",
+  "target": "جهز نفسك لتحدي The Tower - جهاز محاكاة القتال الافتراضي في المترو.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$ed_adv_2",
+  "source": "$ed_adv_2",
+  "target": "$ed_adv_2",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "ACH_dlc_02_great_owl_DESC_unlocked",
+  "source": "Found all the Night Hunters' secret stashes in the SAM'S STORY chapter.",
+  "target": "يمكنك العثور على جميع مخابئ Night Hunters السرية في فصل قصة سام.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "m3_dia_weapon_tikhar_intro",
+  "source": "<tab>Frankly speaking, I didn’t recognize that Tikhar was a weapon when I saw it for the first time, and it took me some time to believe that it really could function. Even so, this remarkably ugly masterpiece of the Armory station’s designers they’d been driven into making by the eternal shortage of ammo, has proven to be indispensable for the Order’s operatives. Not only does Tikhar shoot the ubiquitous bearing balls, it is also practically noiseless, packs a wallop and is quite accurate (over short distances, naturally). All in all, it is an ideal special operations weapon for the conditions of Metro. <br><br> <tab>Of course, you have to mind not just the ammo in the magazine, but also the air reservoir pressure, though Tokarev has at least improved the valve so that the air does not escape unless you actually shoot the weapon... <br><br>",
+  "target": "<tab>بصراحة، لم أكن أدرك أن تيخار كان سلاحًا عندما رأيته لأول مرة، واستغرق الأمر بعض الوقت حتى أصدق أنه يمكن أن يعمل بالفعل. ومع ذلك، فقد أثبتت هذه التحفة الفنية القبيحة بشكل ملحوظ التي ابتكرها مصممو محطة Armory، والتي دفعهم النقص الأبدي في الذخيرة إلى صنعها، أنها لا غنى عنها لعملاء النظام. لا يقوم تيخار بإطلاق الكرات المحملة في كل مكان فحسب، بل إنه أيضًا صامت عمليًا، ويحزم بقوة ودقيق جدًا (على مسافات قصيرة، بشكل طبيعي). بشكل عام، إنه سلاح العمليات الخاصة المثالي لظروف المترو.<br><br><tab>بالطبع، عليك ألا تهتم فقط بالذخيرة الموجودة في المخزن، ولكن أيضًا بضغط خزان الهواء، على الرغم من أن توكاريف قام على الأقل بتحسين الصمام بحيث لا يهرب الهواء إلا إذا قمت بالفعل بإطلاق النار على السلاح...<br><br>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "m3_06_diary_11_dsc",
+  "source": "<tab>Sep. 18<br><br><tab>Finally! I managed to get those spores from the polluted zone... The month I spent improving the filter was worth it. The substrate is ready, time to start planting...<br><br><br><tab>Oct. 11<br><br><tab>Mycelium is growing well, I’ll be getting the first mushrooms soon. The distiller is almost finished, can’t waste any time.<br><br><br><tab>Nov. 9<br><br><tab>The first batch is ready, I’ve seeded the test media.<br><br><tab>Control media show normal bacterial colony growth, test samples are clear.<br><br><br><tab>Nov. 15<br><br><tab>Test samples still clear... Success?<br><br><br><tab>Dec. 20<br><br><tab>All rats are alive. Enough delays, time to move on to actual test. Pneumonia seems too risky, angina will have to do.<br><br><br><tab>Dec. 23<br><br><tab>Classic angina symptoms. 5 cC P.O. There are no syringes to be found anywhere anyways.<br><br><br><tab>Dec. 24<br><br><tab>No changes<br><br><br><tab>Dec. 25<br><br><tab>Noticeable improvement.<br><br><br><tab>Dec. 27<br><br><tab>High spirits, gen. cond. imp.<br><br><br><tab>Dec 29<br><br><tab>Angina sympt. eliminated.<br><br><tab>High spirits, light sensitivity.<br><br><tab>Knocking noise outside.<br><br><br><tab>Jan. 1<br><br><tab>Dosage: 6 cC P.O.<br><br><tab>Perfect health, no side effects, amazing clarity of thought and perception!<br><br><br><tab>Jan. 9<br><br><tab>Thoughts clear, perfect health, irritating knocking noises outside. Need better rectification, remove impurities, increase act. agent cont.<br><br><br><tab>Feb. 2<br><br><tab>New batch done, triple rectification.<br><br><tab>Dosage: 7 cC P.O., Perfect state of health! No extraneous noises! An influx of vigor, perfect muscle tone! I feel like flying! Too many ideas to record! This is the discovery of the century!<br><br><br><tab>5<br><br><tab>Knocking outside, roof, walls, floor - brings me down<br><br><tab>Tremor<br><br><tab>Inc. dosage to 8 cC P.O. Better. Feet warm, hands enormous, gnarly.<br><br><br><tab>?<br><br><tab>I’m back in conscience... Tremor. Shivering. Vomiting.<br><br><br><tab>?<br><br><tab>Knocking again, the room swims<br><br><tab>Inc. dosage to 8 cC P.O., 3 t.i.d.<br><br><br><tab>?<br><br><tab>They have arrived... They are waiting!<br><br><br><tab>?<br><br><tab>This is the smile!<br><br><br>",
+  "target": "<tab>18 سبتمبر<br><br><tab>أخيرًا! تمكنت من الحصول على تلك الجراثيم من المنطقة الملوثة... الشهر الذي أمضيته في تحسين الفلتر كان يستحق كل هذا العناء. الركيزة جاهزة، حان الوقت لبدء الزراعة...<br><br><br><tab>11 أكتوبر<br><br><tab>ينمو الفطر بشكل جيد، وسأحصل على الفطر الأول قريبًا. لقد انتهى جهاز التقطير تقريبًا، ولا يمكن إضاعة أي وقت.<br><br><br><tab>9 نوفمبر<br><br><tab>الدفعة الأولى جاهزة، لقد قمت بزرع وسائط الاختبار.<br><br><tab>تظهر وسائط التحكم نموًا طبيعيًا للمستعمرة البكتيرية، وعينات الاختبار واضحة.<br><br><br><tab>15 نوفمبر<br><br><tab>لا تزال عينات الاختبار واضحة... هل نجحت؟<br><br><br><tab>20 ديسمبر<br><br><tab>جميع الفئران على قيد الحياة. ما يكفي من التأخير، حان الوقت للانتقال إلى الاختبار الفعلي. يبدو الالتهاب الرئوي محفوفًا بالمخاطر للغاية، ويجب أن تفعل الذبحة الصدرية.<br><br><br><tab>23 ديسمبر<br><br><tab>أعراض الذبحة الصدرية الكلاسيكية. 5 سي سي ص. لا توجد محاقن يمكن العثور عليها في أي مكان على أي حال.<br><br><br><tab>24 ديسمبر<br><br><tab>لا تغييرات<br><br><br><tab>25 ديسمبر<br><br><tab>تحسن ملحوظ.<br><br><br><tab>27 ديسمبر<br><br><tab>الروح المعنوية العالية، الجنرال. شرط. عفريت.<br><br><br><tab>29 ديسمبر<br><br><tab>أعراض الذبحة الصدرية. مستبعد.<br><br><tab>معنويات عالية، حساسية للضوء.<br><br><tab>ضجيج طرق بالخارج.<br><br><br><tab>1 يناير<br><br><tab>الجرعة: 6 سنتيليترات ص.ب.<br><br><tab>صحة مثالية، بدون آثار جانبية، وضوح مذهل في الفكر والإدراك!<br><br><br><tab>9 يناير<br><br><tab>أفكار واضحة، صحة مثالية، أصوات طرق مزعجة في الخارج. تحتاج إلى تصحيح أفضل، وإزالة الشوائب، وزيادة الفعل. تابع الوكيل<br><br><br><tab>2 فبراير<br><br><tab>تم إنجاز دفعة جديدة، تصحيح ثلاثي.<br><br><tab>الجرعة: 7 سم مكعب P.O.، حالة صحية مثالية! لا ضوضاء غريبة! تدفق النشاط، ونغمة العضلات المثالية! أشعر بالرغبة في الطيران! هناك الكثير من الأفكار للتسجيل! هذا هو اكتشاف القرن!<br><br><br><tab>5<br><br><tab>طرق خارج المنزل، السقف، الجدران، الأرضية - ينزلني<br><br><tab>رعشة<br>جرعة<br><tab>Inc.‎ تصل إلى 8 سنتيليترات ص.ب. أحسن. الأقدام دافئة، والأيدي ضخمة، وشائكة.<br><br><br><tab>؟<br><br><tab>لقد عدت إلى الضمير... رعشة. يرتجف. القيء.<br><br><br><tab>؟<br><br><tab>بالطرق مرة أخرى، تسبح الغرفة<br><br><tab>Inc.<br><br><br><tab>؟<br><br><tab>لقد وصلوا... إنهم ينتظرون!<br><br><br><tab>؟<br><br><tab>هذه هي الابتسامة!<br><br><br>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$controller_xac_connected",
+  "source": "Xbox Adaptive Controller is connected.<br>Press <xpad_back> to open Xbox Accessories app.",
+  "target": "وحدة تحكم Xbox Adaptive متصلة.<br>اضغط على<xpad_back>لفتح تطبيق Xbox Accessories.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$save_unavailable_because_iron_mode",
+  "source": "You can't save at will because Iron mode is blocking this functionality.",
+  "target": "لا يمكنك الحفظ حسب الرغبة لأن وضع Iron يحظر هذه الوظيفة.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$ed_adv_4",
+  "source": "$ed_adv_4",
+  "target": "$ed_adv_4",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$ed_adv_3",
+  "source": "$ed_adv_3",
+  "target": "$ed_adv_3",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "leaderboard_not_signed_in_ps3",
+  "source": "Your game score will not be posted to the Leaderboard, because you are not signed in to \"PSN\". Please sign in to use this feature.",
+  "target": "لن يتم نشر نتيجة لعبتك في لوحة المتصدرين، لأنك لم تقم بتسجيل الدخول إلى \"PSN\". الرجاء تسجيل الدخول لاستخدام هذه الميزة.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$direct_x",
+  "source": "DIRECTX",
+  "target": "DirectX",
+  "status": "reviewed",
+  "translation_origin": "reviewed"
+ },
+ {
+  "id": "$autosave_hint_new_xbox",
+  "source": "Please do not turn off your Xbox One console when you see this icon or your current progress will be lost.",
+  "target": "يرجى عدم إيقاف تشغيل وحدة التحكم Xbox One الخاصة بك عندما ترى هذا الرمز وإلا سيتم فقدان تقدمك الحالي.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "m3_dlc2_diary_05_dsc",
+  "source": "<tab>Zhora... <br><br><tab>We've been waiting for four months here, and it's been hell. We believe you are fine, the wave was stopped by the hills and couldn't reach the championship site, and that's the only thing that sustained us this far... <br><tab>But we can't stay here any longer, your mom is getting worse, and I can't even get any clean drinking water for her. <br><tab>The people from the Sub say they've got a proper hospital set up and their doctors can help her. <br><tab>They'll come to pick us up in an hour or so, so please, when you read this letter, come find us at the dock, we'll be waiting <br> <br> <br><tab>Your dad, <br> <br><tab>Yakov Korzhov<br>",
+  "target": "<tab>Zhora...<br><br><tab>لقد انتظرنا أربعة أشهر هنا، وكان الأمر بمثابة الجحيم. نعتقد أنك بخير، فقد توقفت الموجة عند التلال ولم تتمكن من الوصول إلى موقع البطولة، وهذا هو الشيء الوحيد الذي ساعدنا على البقاء حتى الآن...<br><tab>لكن لا يمكننا البقاء هنا لفترة أطول، فحالة والدتك تزداد سوءًا، ولا أستطيع حتى الحصول على أي مياه شرب نظيفة لها.<br><tab>يقول الأشخاص من Sub أن لديهم مستشفى مناسبًا ويمكن لأطبائهم مساعدتها.<br><tab>سيأتون لاصطحابنا خلال ساعة أو نحو ذلك، لذا من فضلك، عندما تقرأ هذه الرسالة، تعال لتجدنا في قفص الاتهام، سنكون في انتظارنا<br><br><br><tab>والدك،<br><br><tab>ياكوف كورجوف<br>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "me_rp_gamepresence_063",
+  "source": "Bear Trap - Meeting the locals",
+  "target": "Bear Trap - لقاء السكان المحليين",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "live_not_connect_checker",
+  "source": "You must be signed into Xbox Live to access this feature.",
+  "target": "يجب عليك تسجيل الدخول إلى Xbox Live للوصول إلى هذه الميزة.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$vsv_name",
+  "source": "VSV",
+  "target": "VSV",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "m3_loader_diary_story_06_02_church_good",
+  "source": "<tab>At least, I was able to help Katya and Nastya escape the church, while remaining unseen by the \"paladins\" who had arrived from the bridge to spring the trap. Now we knew everything we ever wanted to know about the cultists and even more, so we hoped we could find a way of persuading them to let us through.<br><br>",
+  "target": "<tab>على الأقل، تمكنت من مساعدة كاتيا و ناستيا على الهروب من الكنيسة، بينما بقيت غير مرئية من قبل \"Paladins\" الذين وصلوا من الجسر لتفجير الفخ. الآن أصبحنا نعرف كل ما أردنا معرفته عن الطائفيين وأكثر من ذلك، لذلك كنا نأمل أن نتمكن من إيجاد طريقة لإقناعهم بالسماح لنا بالمرور.<br><br>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "m3_pause_menu_hint_flamethrower_dsc",
+  "source": "Flamethrowers, initially created by Novosibirsk Metro’s gunsmiths specifically to simplify the task of keeping the slime growth in check, quickly became the go-to weapons for OSKOM operatives in the field due to their versatility and sheer firepower. <br><br>The flamethrower not only makes short work of most mutants and helps clear the way, but is very handy in dark areas, as its igniter makes for a pretty effective torch. Keeping it on provides the bonus of letting you open fire on any unexpectedly emerging target immediately. <br><br>You must keep in mind, though, that keeping the igniter flame going taps into the weapon’s air pressure, which might turn out insufficient to open fire in a critical moment, forcing you to pump it up losing precious seconds in the process. <br><br>Flamethrower’s excellent area-denial capability is a double-edged sword, as dousing a tunnel in flames naturally makes it inaccessible not only to the mutants, but also to the weapon’s user. OSKOM solved the problem by issuing special flame-retardant suits to the operatives fielding the weapon. <br><br>",
+  "target": "قاذفات اللهب، التي ابتكرها في البداية صانعو الأسلحة في مترو نوفوسيبيرسك خصيصًا لتبسيط مهمة السيطرة على نمو المادة اللزجة، سرعان ما أصبحت الأسلحة المفضلة لعملاء أوسكوم في الميدان نظرًا لتعدد استخداماتها وقوتها النارية المطلقة.<br><br>قاذف اللهب لا يقوم فقط بعمل قصير لمعظم المتحولين ويساعد على تمهيد الطريق، ولكنه مفيد جدًا في المناطق المظلمة، حيث أن جهاز الإشعال الخاص به يجعل شعلة فعالة جدًا. يوفر لك الاحتفاظ بها ميزة السماح لك بفتح النار على أي هدف يظهر بشكل غير متوقع على الفور.<br><br>يجب أن تضع في اعتبارك، مع ذلك، أن إبقاء شعلة الإشعال مستمرة يضغط على ضغط هواء السلاح، والذي قد يتبين أنه غير كافٍ لفتح النار في لحظة حرجة، مما يجبرك على ضخه إلى أعلى مما يؤدي إلى خسارة ثوانٍ ثمينة في هذه العملية.  تعتبر قدرة<br><br>Flamethrower الممتازة على حجب المنطقة سيفًا ذا حدين، حيث أن إخماد النيران في النفق يجعله غير قابل للوصول ليس فقط للمتحولين، ولكن أيضًا لمستخدم السلاح. قامت أوسكوم بحل المشكلة عن طريق إصدار بدلات خاصة مثبطة للهب للنشطاء الذين يستخدمون السلاح.<br><br>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "m3_dlc2_diary_07_dsc",
+  "source": "<tab>So the fuckers got rid of Seryi, after all... Nose raised shit about Seryi \"stealing\" a crate of ammo, and the Boss seemed to be waiting for the news, as he ordered the man chased out into the swamp at once. And then I see that crate under Nose's bunk! The setup couldn't be more obvious! Seryi was right, we should have hit the road back in Summer!<br><br><tab>No matter, I punched Nose's ticket. That fucker was tough, took some effort, he even managed to stab me with his shiv – not to deep, but I still gotta stitch the wound up. I'll take a breather here, and then go join Seryi in the swamp hideout. He saved my ass plenty a time, and now it's my turn. We'll make it, if the fucking Seraph don't munch on us. But even if he does... I'd rather be eaten than stay another day with these dirty fuckers! <br><br>",
+  "target": "<tab>لذلك تخلص الأشرار من Seryi، بعد كل شيء... لقد أثار الأنف غضبًا بشأن \"سرقة\" Seryi لصندوق ذخيرة، وبدا أن الرئيس ينتظر الأخبار، حيث أمر بمطاردة الرجل إلى المستنقع في الحال. وبعد ذلك أرى ذلك الصندوق تحت سرير الأنف! الإعداد لا يمكن أن يكون أكثر وضوحا! كان سيري على حق، كان ينبغي لنا أن نعود إلى طريق العودة في الصيف!<br><br><tab>لا يهم، لقد لكمت تذكرة الأنف. كان ذلك اللعين قاسيًا، واستغرق بعض الجهد، حتى أنه تمكن من طعني بسكينه - ليس بعمق، لكن لا يزال يتعين علي خياطة الجرح. سأأخذ استراحة هنا، ثم أذهب للانضمام إلى سيري في مخبأ المستنقع. لقد أنقذني كثيرًا من الوقت، والآن حان دوري. سوف ننجح، إذا لم يأكلنا ساراف اللعين. لكن حتى لو فعل... أفضل أن أؤكل بدلاً من البقاء يومًا آخر مع هؤلاء الأوغاد القذرين!<br><br>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "m3_trophy_title_details_dlc_01_two_colonels",
+  "source": "Trophy set for Metro Exodus: The Two Colonels",
+  "target": "مجموعة الكأس للعبة مترو إكسودس: The Twocollones",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$mouse_6",
+  "source": "MOUSE_6",
+  "target": "MOUSE_6",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$stadia_controller_disclaimer",
+  "source": "No endorsement or affiliation is intended between Stadia and the manufacturers of non-Stadia controllers or consoles. STADIA, the Stadia beacon, Google, and related marks and logos are trademarks of Google LLC. All other trademarks are the property of their respective owners.",
+  "target": "ليس هناك أي تأييد أو انتماء مقصود بين Stadia والشركات المصنعة لوحدات التحكم أو وحدات التحكم غير التابعة لـ Stadia. إن STADIA ومنارة Stadia وGoogle والعلامات والشعارات ذات الصلة هي علامات تجارية مملوكة لشركة Google LLC. جميع العلامات التجارية الأخرى هي ملك لأصحابها.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "ACH_dlc_02_untouchable_DESC",
+  "source": "Complete SAM'S STORY on Normal or higher difficulty without dying in Batwing encounters.",
+  "target": "أكمل قصة سام على مستوى الصعوبة العادي أو الأعلى دون أن تموت في مواجهات Batwing.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "m3_dlc2_diary_01_dsc",
+  "source": "<tab>Korzh, I'm leaving this note in case we don't meet.<br><br><tab>We found a stash here, looks like the Night Hunters left it. You were out of town back then, so you kinda missed them, but they were a peculiar bunch, shook the place up a few years back. <br><br><tab>They were just a few, but all tough as nails, and their kit was out of this world. Body armor, fully modded-out guns, each of them had a night vision device... The whole shebang, SWAT style! <br><br><tab>Their stash must have something cool in it! <br><br><tab>The only problem, I can't figure how to get inside. There must be a key or some secret lever, but the owners only left that stupid graffiti. \"Those who have eyes - will see\".<br><br><tab>What the fuck is that supposed to mean? Pretentious fucks... Could they be more cheesy if they tried? I hate it when people do this! <br><br><tab>Stasyan",
+  "target": "<tab>كورزه، سأترك هذه المذكرة في حالة عدم لقاءنا.<br><br><tab>لقد عثرنا على مخبأ هنا، يبدو أن صائدي الليل تركوه. لقد كنت خارج المدينة في ذلك الوقت، لذا فقد افتقدتهم نوعًا ما، لكنهم كانوا مجموعة غريبة، هزوا المكان قبل بضع سنوات.<br><br><tab>لقد كانوا مجرد عدد قليل، ولكن جميعهم أقوياء مثل المسامير، وكانت مجموعتهم خارج هذا العالم. الدروع الواقية للبدن، والبنادق المعدلة بالكامل، وكان لكل واحد منهم جهاز رؤية ليلية... كل الشيبانج، بأسلوب SWAT!<br><br><tab>يجب أن تحتوي مخبأتهم على شيء رائع!<br><br><tab>المشكلة الوحيدة هي أنني لا أستطيع معرفة كيفية الدخول. لا بد أن يكون هناك مفتاح أو رافعة سرية، لكن المالكين لم يتركوا سوى تلك الكتابة الغبية على الجدران. \"فمن له عيون يبصر\".<br><br><tab>ما الذي يفترض أن يعنيه ذلك؟ الملاعين الطنانة... هل يمكن أن يكونوا أكثر جبنيًا إذا حاولوا؟ أنا أكره عندما يفعل الناس هذا!<br><br><tab>ستاسيان",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$autosave_hint_nx",
+  "source": "This game automatically saves your progress. Please do not turn off your Nintendo Switch™ console when you see this icon, or your current progress will be lost.",
+  "target": "تقوم هذه اللعبة تلقائيًا بحفظ تقدمك. من فضلك لا تقم بإيقاف تشغيل وحدة تحكم Nintendo Switch™ الخاصة بك عندما ترى هذا الرمز، وإلا سيتم فقدان تقدمك الحالي.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$extreme",
+  "source": "EXTREME",
+  "target": "Extreme",
+  "status": "reviewed",
+  "translation_origin": "reviewed"
+ },
+ {
+  "id": "$mouse_3",
+  "source": "MOUSE_3",
+  "target": "MOUSE_3",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "m3_special_ammo_hint_2",
+  "source": "Helsing can be loaded with explosive bolts - use them in critical situations, or switch to regular ones to remain concealed while shooting.",
+  "target": "يمكن تحميل Helsing بمسامير متفجرة - استخدمها في المواقف الحرجة، أو قم بالتبديل إلى البراغي العادية لتظل مخفية أثناء إطلاق النار.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$ed_adv_0",
+  "source": "$ed_adv_0",
+  "target": "$ed_adv_0",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$very_high",
+  "source": "ULTRA",
+  "target": "Ultra",
+  "status": "reviewed",
+  "translation_origin": "reviewed"
+ },
+ {
+  "id": "m3_general_hint_109",
+  "source": "Stepan<br>The Crew's heavy weapons specialist, Stepan is the backbone of Aurora's defense.",
+  "target": "ستيبان<br>، متخصص الأسلحة الثقيلة في The الطاقم، ستيبان هو العمود الفقري لدفاع أورورا.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$lmb",
+  "source": "LMB",
+  "target": "LMB",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "m3_dlc2_diary_11_dsc",
+  "source": "<tab>Guys!<br><br><tab>this month we have to produce at least 50 barrels of oil more than the last month, I talked to the boys form the Fire Depot, they'll sell us top quality fuglies trained to fetch fish, branded and all, at 5 barrels a head.<br><tab>This is a steal, we won't have to worry about bait anymore – you just throw a grenade into the drink, send a fugly to gather the fish and come night you collect shrimp by the boatload. <br><tab>So, starting today, we switch to round-the-clock schedule, catching shrimp at night using lamps for light and drawing oil out of them during the day to make optimal use of our traps.<tab>Don't even think of sleeping through the night – I'm watching you all personally.<br><br><tab>Korzh",
+  "target": "<tab>يا شباب!<br><br><tab>يتعين علينا هذا الشهر أن ننتج ما لا يقل عن 50 برميلًا من النفط أكثر من الشهر الماضي، لقد تحدثت إلى الأولاد من Fire Depot، وسوف يبيعون لنا أسماك الطير عالية الجودة المدربة على جلب الأسماك، ذات العلامات التجارية وجميعها، بسعر 5 براميل للرأس.<br><tab>هذه سرقة، لن داعي للقلق بشأن الطُعم بعد الآن - كل ما عليك فعله هو رمي قنبلة يدوية في المشروب، وإرسال هارب لجمع الأسماك، وتأتي ليلًا لجمع الروبيان من حمولة القارب.<br><tab>لذلك، بدءًا من اليوم، ننتقل إلى جدول زمني على مدار الساعة، حيث نقوم باصطياد الجمبري ليلًا باستخدام مصابيح للإضاءة وسحب الزيت منها خلال النهار لتحقيق الاستخدام الأمثل لمصائدنا.<tab>لا تفكروا حتى في النوم طوال الليل - فأنا أراقبكم جميعًا شخصيًا.<br><br><tab>كورزه",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "padonag_dsc",
+  "source": "A makeshift semi-automatic pistol, the Lolife is quite capable and highly customizable.",
+  "target": "مسدس Lolife هو مسدس نصف آلي مؤقت، وهو قادر تمامًا وقابل للتخصيص بدرجة كبيرة.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "ps3_network_parentcontrol",
+  "source": "Online service is disabled on your Sony Entertainment Network account due to parental control restrictions.",
+  "target": "تم تعطيل الخدمة عبر الإنترنت على حساب Sony Entertainment Network الخاص بك بسبب قيود الرقابة الأبوية.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "m3_07_yam_diary_7_dsc",
+  "source": "<br>...should have told them to go take a walk, Minister of Public Health my ass! I’m a biochemist, not even a surgeon! Funny, though, how it all turned out... I bet that fucker thought he was on the fast track to the cushy Ministry seat once he got me sent here and pocketed my research on Renergan! Must remember to gloat once I see him in hell, which is probably going to happen soon...<br><tab>It’s not even hunger anymore... It’s the pointlessness of it all - the guys from Comms died over setting that antenna up, but there’s nothing on the air, at least, nothing to give us any hope. What good can we do, what good would anything do at this point? Even asking this... <br><br><br>...quarantining them off was a good call, though never letting them in in the first place would have been even better. Radiation is nothing, after all they’re still alive, and we’re dying anyways, so who cares if we catch some extra... It’s something else, I’ve got to do some tests, but the symptoms are not like anything I ever encountered. <br><br><br><tab>None of the express test kits I used came out positive, it’s not a chemical exposure and not a biological agent... unless it’s something completely new. Besides, for something military-grade it doesn’t look too effective, from what they were able to tell before collapsing, they’ve been suffering for weeks... The tremors are getting worse, I guess these refugees will beat us to the afterlife. <br><tab>The worst case died less than an hour after I wrote the previous entry, autopsy shows severe brain tissue degeneration, would have been a textbook illustration for viral encephalitis if not for the negative test results. What gives? Time hit the books hard, at least that’s something to take my mind off the immediate future... <br><br><br><tab>...prion infection, which explains its resistance to radiation. Wondering about how all the refugees got infected is pointless now, they’re all dead anyway. If I do manage to isolate the actual agent, the highest concentration would be in the brain matter, but the bodies might still be of use if that fails. “Luckily”, I have the whole fridge that was supposed to keep the complex fed for years to myself... <br><br><br><tab>...find the idiots that broke into the lab, but it was too late. “The broth”... You can certainly put it that way. At least, now they’re not going to die of hunger, poor bastards. They chose a much less dignified way to go, plus they’ll be dying cannibals. <br><tab>Of course, I could last for a bit longer on the remaining rations and then, I guess, off myself quietly... But what would be the point of that? We’re all going to die sooner or later, along with the rest of the world. Should I join them, though... Without radiation exposure, the symptoms should take a lot of time, so this could take years or even decades. At least I’ll get some research done this way... Plus, whatever I manage to discover, no crook is claiming the results as his own this time!<br><br>",
+  "target": "<br>... كان يجب أن أقول لهم أن يذهبوا في نزهة على الأقدام، يا وزير الصحة العامة! أنا عالم كيمياء حيوية، ولست حتى جراحًا! رغم ذلك، من المضحك كيف تحول كل ذلك... أراهن أن هذا الأحمق ظن أنه كان على المسار السريع إلى مقعد الوزارة المريح بمجرد أن أرسلني إلى هنا وحصل على بحثي عن رينيرجان! يجب أن أتذكر الشماتة عندما أراه في الجحيم، والذي من المحتمل أن يحدث قريبًا...<br><tab>لم يعد هناك جوع بعد الآن... إنه لا جدوى من كل ذلك - لقد مات رجال Comms أثناء إعداد هذا الهوائي، لكن لا يوجد شيء على الهواء، على الأقل، لا شيء يمنحنا أي أمل. ما الفائدة التي يمكننا القيام بها، ما الفائدة من أي شيء في هذه المرحلة؟ حتى طرح هذا...<br><br><br>... كان عزلهم قرارًا جيدًا، على الرغم من أن عدم السماح لهم بالدخول في المقام الأول كان سيكون أفضل. الإشعاع لا شيء، فهم ما زالوا على قيد الحياة، ونحن نموت على أي حال، لذا من يهتم إذا التقطنا المزيد منه... إنه شيء آخر، يجب أن أقوم ببعض الاختبارات، لكن الأعراض ليست مثل أي شيء واجهته من قبل.<br><br><br><tab>لم تكن أي من مجموعات الاختبار السريعة التي استخدمتها إيجابية، فهو ليس تعرضًا كيميائيًا وليس عاملًا بيولوجيًا... إلا إذا كان شيئًا جديدًا تمامًا. علاوة على ذلك، بالنسبة لشيء من الدرجة العسكرية، لا يبدو الأمر فعالًا للغاية، مما تمكنوا من قوله قبل الانهيار، لقد كانوا يعانون منذ أسابيع ... الهزات تزداد سوءًا، وأعتقد أن هؤلاء اللاجئين سيسبقوننا إلى الحياة الآخرة.<br><tab>أسوأ حالة ماتت بعد أقل من ساعة من كتابة الإدخال السابق، أظهر تشريح الجثة انحطاطًا شديدًا في أنسجة المخ، وكان من الممكن أن يكون رسمًا توضيحيًا لالتهاب الدماغ الفيروسي لولا نتائج الاختبار السلبية. ماذا يعطي؟ ضرب الوقت الكتب بشدة، على الأقل هذا شيء يشغل تفكيري عن المستقبل القريب...<br><br><br><tab>... عدوى البريون، وهو ما يفسر مقاومتها للإشعاع. إن التساؤل عن كيفية إصابة جميع اللاجئين بالعدوى لا معنى له الآن، فهم جميعًا ماتوا على أي حال. إذا تمكنت من عزل العامل الفعلي، فإن أعلى تركيز سيكون في مادة الدماغ، ولكن قد تظل الجثث ذات فائدة إذا فشل ذلك. \"لحسن الحظ\"، لدي الثلاجة بأكملها التي كان من المفترض أن تحافظ على تغذية المجمع لسنوات لنفسي...<br><br><br><tab>... اعثر على الأغبياء الذين اقتحموا المختبر، ولكن بعد فوات الأوان. \"المرق\"... يمكنك بالتأكيد أن تقول الأمر بهذه الطريقة. على الأقل، الآن لن يموتوا من الجوع، أيها الأوغاد المساكين. لقد اختاروا طريقًا أقل كرامة بكثير، بالإضافة إلى أنهم سيموتون أكلة لحوم البشر.<br><tab>بالطبع، يمكنني الاستمرار لفترة أطول قليلًا على حصص الإعاشة المتبقية وبعد ذلك، على ما أعتقد، أبتعد عن نفسي بهدوء... لكن ما الفائدة من ذلك؟ سنموت جميعًا عاجلاً أم آجلاً، جنباً إلى جنب مع بقية العالم. ومع ذلك، هل يجب أن أنضم إليهم... بدون التعرض للإشعاع، يجب أن تستغرق الأعراض الكثير من الوقت، لذلك قد يستغرق هذا سنوات أو حتى عقودًا. على الأقل سأقوم بإجراء بعض الأبحاث بهذه الطريقة... بالإضافة إلى ذلك، مهما تمكنت من اكتشافه، فلن يدعي أي محتال أن النتائج ملكه هذه المرة!<br><br>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "m3_12_autumn_diary_1_dsc",
+  "source": "<tab>Boys, the medicine is called «RENERGAN-F», but besides it, be on the lookout for antibiotics, the best would be Ciprofloxacin or Amoxicillin, but grab whichever you find anyways - we won’t get her to Novosibirsk if we let any infection to add to gas damage...<br><br><tab>Also, try to find some Ethamsylate, I only have two doses left. And some medical gelatin in case bleeding does start again.<br><br><tab>If you see anything else, like antiseptics, surgical suture or bandages, pack it all, we can never have too much of that... But still, first things come first.<br><br>",
+  "target": "<tab>أيها الرفاق، الدواء يسمى «رينيرغان-إف»، ولكن بجانبه، ابحثوا عن المضادات الحيوية، الأفضل هو Ciprofloxacin أو Amoxicillin، لكن احصلوا على أيهما تجدونه على أي حال - لن ننقلها إلى نوفوسيبيرسك إذا سمحنا بإضافة أي عدوى إلى أضرار الغاز...<br><br><tab>أيضًا، حاول العثور على بعض منها إيثامسيلات، لم يتبق لدي سوى جرعتين. وبعض الجيلاتين الطبي في حالة عودة النزيف مرة أخرى.<br><br><tab>إذا رأيت أي شيء آخر، مثل المطهرات أو الخيوط الجراحية أو الضمادات، احزمها كلها، لا يمكننا أبدًا الحصول على الكثير من ذلك... ولكن مع ذلك، الأشياء الأولى تأتي أولاً.<br><br>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "leaderboard_not_signed_in_xbox",
+  "source": "Your game score will not be posted to Leaderboard, because you are not signed in to Xbox Live. Please sign in to use this feature.",
+  "target": "لن يتم نشر نتيجة لعبتك في لوحة المتصدرين، لأنك لم تقم بتسجيل الدخول إلى Xbox Live. الرجاء تسجيل الدخول لاستخدام هذه الميزة.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "m3_dia_weapon_vyhlop_intro",
+  "source": "<tab>The Bulldog didn’t really have a chance to make a name for itself in the numerous wars mankind was so fond of waging before the Apocalypse. The weapon’s creators intended it to replace its ancestor, the venerable Kalash. Yet mankind was able to neatly wrap its history up without the newcomer’s involvement, so the Bulldog started reaping its share of lives only after the End of the World.<br><br><tab>I have to give the Bulldog’s designers credit: it is vastly superior to Kalash in damage output, handling, accuracy, has a lower rate of fire making bursts more controllable, and is much lighter to boot.<br><br><tab>Yet, despite all that, you don’t really see these weapons often. The Bulldog is much more complex than Kalash, and requires skillful maintenance. It is hardly surprising that most of the survivors prefer its \"elder brother\", the indestructible Kalash.<br><br>",
+  "target": "<tab>لم يكن لدى Bulldog حقًا فرصة لصنع اسم لنفسه في الحروب العديدة التي كانت البشرية مغرمة جدًا بشنها قبل صراع الفناء. لقد قصد مبتكرو السلاح أن يحل محل سلفه، كلاش الموقر. ومع ذلك، تمكنت البشرية من إنهاء تاريخها بدقة دون مشاركة الوافد الجديد، لذلك بدأ كلب البلدغ في جني نصيبه من الأرواح فقط بعد نهاية العالم.<br><br><tab>لا بد لي من منح الفضل لمصممي Bulldog: فهو يتفوق بشكل كبير على كلاش في ناتج الضرر، والتعامل، والدقة، ولديه معدل إطلاق نار أقل مما يجعل الرشقات أكثر قابلية للتحكم، وأخف وزنًا بكثير.<br><br><tab>ومع ذلك، وعلى الرغم من كل ذلك، فإنك لا ترى هذه الأسلحة كثيرًا. يعد البلدغ أكثر تعقيدًا من كلاش ويتطلب صيانة ماهرة. ليس من المستغرب أن معظم الناجين يفضلون \"الأخ الأكبر\"، كلاش غير القابل للتدمير.<br><br>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$ed_adv_7",
+  "source": "$ed_adv_7",
+  "target": "$ed_adv_7",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$exposure_hdr",
+  "source": "HDR EXPOSURE",
+  "target": "التعرض لتقنية HDR",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "menu_customize_magazine_makeshift_huge_dsc",
+  "source": "Auger magazine using a rotating helical screw to hold up to 36 steel balls or 12 capsules. ",
+  "target": "تستخدم مجلة Auger برغيًا حلزونيًا دوارًا لحمل ما يصل إلى 36 كرة فولاذية أو 12 كبسولة.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "m3_05_winter_diary_1_dsc",
+  "source": "<tab>To: Head of Shield Project Railroad Department<br><br><tab>Zhelezniak V.M.<br><br><br><tab>Railway state survey report<br><br><tab>Having conducted the Railway state survey as per Your order, I can report, that beyond the Defense Perimeter the railway is in condition ranging from acceptable to good, thus presenting a security threat by providing a convenient way for the enemy to transport and supply their agents.<br><br><tab>On the other hand, within Defense Perimeter the railway is worn down beyond acceptable state, which could lead to a complete halt of train movement along the most used lines in the nearest future, putting defensibility of Moscow in grave danger by disrupting our lines of supply and reinforcement transportation.<br><br><tab>Considering aforementioned, I hereby request that all available maintenance crews are sent to work on repairing the most damaged sections of the critically important lines, using the rails and cross-ties from the lines beyond the 101-kilometer mark from the center of Moscow, thus at the same time effectively denying the enemy the use of the railways leading into the city.<br><br><br><tab>Deputy head of the Special Survey Committee<br><br><tab>Bondarenko T.K.<br><br>",
+  "target": "<tab>إلى: رئيس قسم السكك الحديدية بمشروع الدرع<br><br><tab>Zhelezniak V.M.<br><br><br><tab>تقرير مسح حالة السكك الحديدية<br><br><tab>بعد إجراء مسح حالة السكك الحديدية وفقًا لطلبك، يمكنني الإبلاغ، أنه خارج محيط الدفاع، فإن السكك الحديدية في حالة تتراوح من مقبول إلى جيد، وبالتالي تمثل تهديدًا أمنيًا من خلال توفير طريقة مناسبة للعدو لنقل وإمداد عملائه.<br><br><tab>من ناحية أخرى، داخل محيط الدفاع، تتآكل السكك الحديدية إلى ما هو أبعد من الحالة المقبولة، مما قد يؤدي إلى توقف كامل لحركة القطارات على طول الخطوط الأكثر استخدامًا في المستقبل القريب، مما يعرض قابلية الدفاع عن موسكو لخطر شديد من خلال تعطيل خطوط الإمداد ونقل التعزيزات لدينا.<br><br><tab>بالنظر إلى ما سبق، أطلب بموجب هذا إرسال جميع أطقم الصيانة المتاحة للعمل على إصلاح الأجزاء الأكثر تضررًا من الخطوط ذات الأهمية الحاسمة، وذلك باستخدام القضبان والروابط المتقاطعة من الخطوط التي تقع خارج علامة 101 كيلومتر من وسط موسكو، وبالتالي في نفس الوقت حرمان العدو بشكل فعال من استخدام السكك الحديدية المؤدية إلى المدينة.<br><br><br><tab>نائب رئيس لجنة المسح الخاصة<br><br><tab>Bondarenko T.K.<br><br>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ }
+]

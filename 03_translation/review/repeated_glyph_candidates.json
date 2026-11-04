@@ -1,0 +1,345 @@
+[
+ {
+  "id": "voices\\m3_05_chase\\cha_004_failedattack_03_01",
+  "source": "<ffx:fear_strong>Aaaaaaaaaah!<ffx:neutral>",
+  "target": "<ffx:fear_strong>اااااااه!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\universal_m3\\factions\\slave_1\\uber_alert\\uber_alert_startle_03",
+  "source": "Ayyeeee!",
+  "target": "ايييييييييييييييييييييييييييييييييييييه",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_016_9_1_breakingcamp_station_02_08",
+  "source": "<ffx:smile>Hahahaha! <ffx:neutral>",
+  "target": "<ffx:smile>ههههههههه!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_008_timur_sam_talk_09",
+  "source": "<ffx:wonder>Well, that's fine by me, since we can <ffx:smile>always talk things out with you, Sam! <ffx:wide_smile>Hahahaha! <ffx:smile_light>",
+  "target": "<ffx:wonder>حسنًا، هذا أمر جيد بالنسبة لي، حيث يمكننا دائمًا التحدث معك في<ffx:smile>عن الأمور، يا سام!<ffx:wide_smile>ههههههههه!<ffx:smile_light>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_05_chase\\cha_004_failedattack_02_01",
+  "source": "<ffx:fear_strong>Aaaaaaaaaah!<ffx:neutral>",
+  "target": "<ffx:fear_strong>اااااااه!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_12_valley\\val_003_dormitorytalk_01_06",
+  "source": "<ffx:smile>Hahahaha! <ffx:neutral>",
+  "target": "<ffx:smile>ههههههههه!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_10_yamantau\\yam_015_savinganna_04",
+  "source": "<ffx:anger_strong>Aaaaaaaaaa!",
+  "target": "<ffx:anger_strong>اااااااااااا!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_10_yamantau\\yam_099_cannibal_attack_03_02",
+  "source": "Freeeeeesh meeeeat!",
+  "target": "Freeeeeeesh مييييت!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_059_6_95_ship_slavesfree_02_05",
+  "source": "<ffx:anger>Aaaaaaaa!",
+  "target": "<ffx:anger>اااااا!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_12_valley\\val_34_bandits_totem_01_19",
+  "source": "<ffx:wide_smile>Hahahaha! <ffx:neutral>",
+  "target": "<ffx:wide_smile>ههههههههه!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\universal_m3\\factions\\bandit_1\\uber_alert\\uber_alert_01",
+  "source": "A-a-a-a, fuck! That bitch is here!",
+  "target": "آآآآآآآآآآآآآآآآآآآآآآآآآآآآآه، اللعنة! تلك العاهرة هنا!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\universal_m3\\factions\\bridger_3\\uber_alert\\uber_alert_group_search_waitforsearchcomplete_08",
+  "source": "Where are you even hiding? Come out, let's talk salvation of your soul, hahaha!",
+  "target": "أين تختبئ حتى؟ اخرج نتكلم خلاص روحك هههههههه!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\universal_m3\\factions\\cannibal_2\\free\\free_safe_03",
+  "source": "Oooooh... New people came... Fresh meat... And I have to stay here... Ooooow....",
+  "target": "أووووووه... جاء أناس جدد... لحم طازج... وعلي أن أبقى هنا... أووووووه....",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_10_yamantau\\yam_099_cannibal_attack_02_03",
+  "source": "Fooooood!",
+  "target": "فوووووود!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\universal_m3\\factions\\bandit_3\\decoy\\danger_seen_decoy_reaction_05",
+  "source": "You're trying to scare me or something? Hahahaha!",
+  "target": "هل تحاول إخافتي أو شيء من هذا القبيل؟ هههههههه!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_059_6_95_ship_slavesfree_01_03",
+  "source": "<ffx:anger>Yeeeeeeee!",
+  "target": "<ffx:anger>ييييييييييييييييييييييييييييييييييييين!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_10_yamantau\\yam_099_cannibal_attack_01_05",
+  "source": "Graaaaaab theeeem!",
+  "target": "غراااااااب ثيم!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\universal_m3\\factions\\bandit_3\\decoy\\danger_decoy_reaction_04",
+  "source": "Hey you, dumbass! Is that your asshole that rattles so much? Keep it under control when I come to slice you up! Hahahaha!",
+  "target": "مهلا أنت، أيها الغبي! هل هذا هو الأحمق الخاص بك الذي يهز كثيرا؟ أبقِ الأمر تحت السيطرة عندما أقوم بتقطيعك! هههههههه!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_05_chase\\cha_005_stoker_jumping_01",
+  "source": "<ffx:fear_strong>Aaaaaaah!<ffx:neutral>",
+  "target": "<ffx:fear_strong>اااااااه!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_059_6_95_ship_slavesfree_04_02",
+  "source": "<ffx:anger>Aaaaaaaa!",
+  "target": "<ffx:anger>اااااا!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_025_bandits_talk_02_07",
+  "source": "<ffx:wide_smile>Hahahaha! Damn, they must be stoned! <ffx:smile_light>",
+  "target": "<ffx:wide_smile>ههههههههه! اللعنة، يجب رجمهم!<ffx:smile_light>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\universal_m3\\factions\\bandit_2\\danger\\attacking_enemy_flamer_01",
+  "source": "Hey you, asshole, I hope you like barbecue! Hahahaha!",
+  "target": "مرحبًا أيها الأحمق، أتمنى أن تحب الشواء! هههههههه!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_10_yamantau\\yam_099_cannibal_attack_02_07",
+  "source": "Aaaaaaaaaa!",
+  "target": "آآآآآآآ!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_059_6_95_ship_slavesfree_02_03",
+  "source": "<ffx:anger>Aaaaaaa! Freeedom! <ffx:neutral>",
+  "target": "<ffx:anger>اااااا! الحرية!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_10_yamantau\\yam_099_cannibal_attack_01_02",
+  "source": "We're gonna eat you now! Hahahahaha!",
+  "target": "سوف نأكلك الآن! ههههههههه!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_09_summer\\sum_002_partystarts_01_27",
+  "source": "<ffx:smile>Gooooorko! <ffx:disgust>(starts coughing) <ffx:neutral>",
+  "target": "<ffx:smile>جوووووووركو!<ffx:disgust>(يبدأ السعال)<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_001_starter_04",
+  "source": "A caaaar!",
+  "target": "كااااااار!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_13_dead_city\\nvs_120_blind_affect_search_02",
+  "source": "Yes, yes, yeeees...",
+  "target": "نعم نعم يييييييييييييييييييييييييييين",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_10_yamantau\\yam_099_cannibal_attack_02_01",
+  "source": "Meeeeeaaaat!",
+  "target": "مييييييييييييييييييييييييييييييييييييييييييييييييين",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_059_6_95_ship_slavesfree_01_06",
+  "source": "<ffx:anger>Aaaaaaaa!",
+  "target": "<ffx:anger>اااااا!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_059_6_95_ship_slavesfree_02_01",
+  "source": "<ffx:anger>Yaaaaaa! ",
+  "target": "<ffx:anger>يااااااا!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_059_6_95_ship_slavesfree_01_02",
+  "source": "<ffx:fear>Yaaaaaa! ",
+  "target": "<ffx:fear>يااااااا!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\universal_m3\\factions\\slave_1\\uber_alert\\uber_alert_startle_05",
+  "source": "Aaaaa, Holy Flame, save me!",
+  "target": "آآآآآآآآآآآآآآآآآآه أيها الشعلة المقدسة أنقذني!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_09_summer\\sum_002_partystarts_01_25",
+  "source": "<ffx:smile>Gooooorko! <ffx:neutral>",
+  "target": "<ffx:smile>جوووووووركو!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_09_summer\\sum_005_afterparty_01_14",
+  "source": "<ffx:smile>Yaaaaay!<ffx:neutral>",
+  "target": "<ffx:smile>يااااااي!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_12_valley\\val_004_helmettalk_01_02",
+  "source": "<ffx:smile_strong>Hahahaha! <ffx:neutral>",
+  "target": "<ffx:smile_strong>ههههههههه!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_10_yamantau\\yam_099_cannibal_attack_03_10",
+  "source": "Whoooooooo!",
+  "target": "منوووووووو!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_012_6_ambush2_01_09",
+  "source": "<ffx:smile>Hahahahaha!<ffx:neutral>",
+  "target": "<ffx:smile>هههههههههه!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_059_6_95_ship_slavesfree_03_02",
+  "source": "<ffx:anger>Aaaaaaaa!",
+  "target": "<ffx:anger>اااااا!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_05_chase\\cha_004_failedattack_01_01",
+  "source": "<ffx:fear_strong>Aaaaaaaaaah!<ffx:neutral>",
+  "target": "<ffx:fear_strong>اااااااه!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_059_6_95_ship_slavesfree_04_06",
+  "source": "<ffx:anger>Aaaaaaaa!",
+  "target": "<ffx:anger>اااااا!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_12_valley\\val_004_helmettalk_01_03",
+  "source": "<ffx:smile_strong>Hahahaha! <ffx:neutral>",
+  "target": "<ffx:smile_strong>ههههههههه!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_09_summer\\sum_002_partystarts_01_26",
+  "source": "<ffx:smile>Gooooorko! <ffx:neutral>",
+  "target": "<ffx:smile>جوووووووركو!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_059_6_95_ship_slavesfree_02_06",
+  "source": "<ffx:anger>Yaaaaaa! ",
+  "target": "<ffx:anger>يااااااا!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_12_valley\\val_005_trappedtalk_01_13",
+  "source": "<ffx:fear_strong>AAAAAA! It's the Bear! <ffx:neutral>",
+  "target": "<ffx:fear_strong>AAAAAAA! إنه الدب!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_10_yamantau\\yam_099_cannibal_attack_03_07",
+  "source": "Aaaaaaaaaa!",
+  "target": "آآآآآآآ!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\universal_m3\\factions\\slave_2\\uber_alert\\uber_alert_startle_03",
+  "source": "Ayyeeee!",
+  "target": "ايييييييييييييييييييييييييييييييييييييه",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_12_valley\\val_30_banditwolves_01_05",
+  "source": "<ffx:fear_strong>Aaaaaaaafuckaaaaaaaa! <ffx:neutral>",
+  "target": "<ffx:fear_strong>آآآآآآآآآآآآه!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_09_summer\\sum_002_partystarts_01_24",
+  "source": "<ffx:smile>Gooooorko! <ffx:neutral>",
+  "target": "<ffx:smile>جوووووووركو!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ }
+]

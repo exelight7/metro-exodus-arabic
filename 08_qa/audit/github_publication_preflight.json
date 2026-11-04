@@ -1,0 +1,18 @@
+{
+  "tag": "v0.1.0-beta.1",
+  "outgoing_files": 105,
+  "translation_rows": 38221,
+  "nonempty_targets": 37413,
+  "no_nonempty_source_without_target": true,
+  "original_game_files_published": false,
+  "private_local_files_published": false,
+  "assets": {
+    "Metro-Arabic-Installer-Windows.exe": "e8f23bc3f45984582d0c09781f68a06ce0791167ab0de2009192251edb21bee8",
+    "Metro-Arabic-Installer-Proton-x86_64.AppImage": "02f071edda49cadb64f0b92cce7e088e70cdc9b772e2129cb71184c672188b68",
+    "Metro-Exodus-Arabic-v0.1.0-beta.1-Source.zip": "83781ed4140ce4cdac879e5e4c366c5d3db4df873897a71eb018b775fae5601a",
+    "INSTALLATION_AR.md": "4280bdeb4d3e9911b06b16cdd7c17ee6fd86e4f9ddac1d92c0643a977be575be",
+    "QA.json": "f44490732e9e0fe86ddf904d6d22ce6924195168c1e30921ae881e564d4437fa",
+    "build-metadata.json": "faae74f674ac65c0f8a4331144551a7e7c8217b1bc37d7e953ef9737622898ee",
+    "SHA256SUMS.txt": "dc5bf8b510fc26df3ea1d2bf008a626751dbee9cd6f11e7444b8c203e45fc18a"
+  }
+}

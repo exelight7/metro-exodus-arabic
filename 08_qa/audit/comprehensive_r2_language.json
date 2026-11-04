@@ -1,0 +1,592 @@
+{
+  "revision": "comprehensive_r2",
+  "audited_rows": 38221,
+  "canonical_labels": 91,
+  "context_rules": 23,
+  "changed_entries": 95,
+  "unrelated_entries_preserved": 38128,
+  "forbidden_transliterations_remaining": [],
+  "other_payloads_identical": true,
+  "canonical_speaker_names_preserved": true,
+  "tags_and_timelines_preserved": true,
+  "runtime_tested": false,
+  "changes": [
+    {
+      "id": "voices\\m3_06_bridge\\bri_008_alyosha_greeting_03",
+      "source": "<ffx:smile>Oh, Artyom! Did you spy <ffx:wide_smile_light>any lookers among the local girls? <ffx:wonder>I'm thinking about borrowing the Old Man's scooter and <ffx:smile>driving to a club, you see! <ffx:neutral>",
+      "target": "<ffx:smile>آه، أرتيوم! هل رأيت <ffx:wide_smile_light>جميلات بين الفتيات المحليات؟ <ffx:wonder>أفكر في استعارة دراجة الرجل العجوز <ffx:smile>والذهاب بها إلى ناد، كما ترى! <ffx:neutral>"
+    },
+    {
+      "id": "voices\\m3_dlc2\\dlc2_041_27_dock_05_allstuffreceived_04",
+      "source": "This one should not just feel familiar, it's the real McCoy: a .45 automatic straight from Tom's premium stock!",
+      "target": "لن يبدو مألوفا فحسب، بل هو السلاح الأصلي بعينه: مسدس آلي عيار .45 من أفضل ما لدى توم!"
+    },
+    {
+      "id": "voices\\m3_13_dead_city\\nvs_004_damiralyoshaduketalk_01_07",
+      "source": "<ffx:sadness_light>That's a fact... Then again, <ffx:wonder>isn't it why we follow him? <ffx:neutral>",
+      "target": "<ffx:sadness_light>هذا صحيح... لكن، <ffx:wonder>أليس هذا سبب اتباعنا له؟ <ffx:neutral>"
+    },
+    {
+      "id": "voices\\m3_13_dead_city\\nvs_004_damir_artyomgoodbye_01_02",
+      "source": "<ffx:wonder_light>Watch out for the Old Man, will you? <ffx:neutral>",
+      "target": "<ffx:wonder_light>اعتن بالرجل العجوز، اتفقنا؟ <ffx:neutral>"
+    },
+    {
+      "id": "voices\\m3_08_desert\\des_170_saultalk_01_25",
+      "source": "<ffx:wonder_light>In any case, I’ll be frank. <ffx:sadness_light>Neither you, nor I are interested in Baron staying alive, so <ffx:smile>I say, whack him for good! <ffx:wonder_light>You seem to be up to the task, I can still <ffx:smile>feel the thrashing you gave me, haha!<ffx:neutral>",
+      "target": "<ffx:wonder_light>على أي حال، سأكون صريحا. <ffx:sadness_light>لا أنت ولا أنا لنا مصلحة في بقاء البارون حيا، لذا <ffx:smile>أقول: اقتله وانته من أمره! <ffx:wonder_light>تبدو قادرا على ذلك، فما زلت <ffx:smile>أشعر بأثر الضرب الذي أوسعتني إياه، هاها!<ffx:neutral>"
+    },
+    {
+      "id": "$uboineg_dsc",
+      "source": "This revolving shotgun is very effective at close range and stays so even at medium range, but takes quite some time to fully reload.",
+      "target": "بندقية خرطوش دوارة، فعالة جدا في المدى القريب، وتظل فعالة في المدى المتوسط، لكن إعادة تلقيمها بالكامل تستغرق وقتا طويلا نسبيا."
+    },
+    {
+      "id": "m3_pause_menu_hint_suit_name",
+      "source": "Spartan suit",
+      "target": "بدلة الإسبرطيين"
+    },
+    {
+      "id": "voices\\m3_dlc2\\dlc2_220_sam_captain_fuelrods_briefing_01_09",
+      "source": "Radiation's off the charts there though, so I wouldn't even try without a protective suit.",
+      "target": "لكن مستويات الإشعاع هناك مرتفعة للغاية، لذا لن أحاول حتى الدخول من دون بدلة واقية."
+    },
+    {
+      "id": "m3_general_hint_64",
+      "source": "Your journal has a compass and your current task in it.",
+      "target": "يضم دفتر يومياتك بوصلة ومهمتك الحالية."
+    },
+    {
+      "id": "$wpn_upt_grenade_lr_dsc",
+      "source": "This makeshift spring operated launcher can use hand grenades of all types, lobbing them with great strength and precision.",
+      "target": "قاذف مرتجل يعمل بنابض، يطلق القنابل اليدوية بمختلف أنواعها بقوة ودقة كبيرتين."
+    },
+    {
+      "id": "voices\\m3_08_desert\\des_062_spidership_bandits_playerattack_04",
+      "source": "<ffx:anger>Well, take him down then! <ffx:neutral>",
+      "target": "<ffx:anger>حسنا، أسقطوه إذن! <ffx:neutral>"
+    },
+    {
+      "id": "voices\\m3_dlc2\\dlc2_025_sam_talk_actualmeeting_02_20_long_31",
+      "source": "Oh, he went ballistic, and tried to get rid of us, but when he saw his game was up for good, he ran away.",
+      "target": "آه، استشاط غضبا وحاول التخلص منا، لكنه فر حين أدرك أن أمره انكشف تماما."
+    },
+    {
+      "id": "$wpn_upt_ventil_mag_name",
+      "source": "EXTENDED MAGAZINE",
+      "target": "مخزن موسع"
+    },
+    {
+      "id": "voices\\m3_08_desert\\des_13_6_riggertack_01_26",
+      "source": "Have to reload!",
+      "target": "علي إعادة التلقيم!"
+    },
+    {
+      "id": "menu_customise_magazine_1_desc",
+      "source": "Magazine 1 Description",
+      "target": "وصف مخزن الذخيرة 1"
+    },
+    {
+      "id": "menu_customize_cat_magazine_name",
+      "source": "MAGAZINE",
+      "target": "مخزن الذخيرة"
+    },
+    {
+      "id": "voices\\m3_02_dead_moscow\\dmc_013_4_stealthtutorial_05_11",
+      "source": "<ffx:sadness_light>You'll have to take him down! <ffx:wonder>Can you do it quietly?<ffx:neutral>",
+      "target": "<ffx:sadness_light>عليك تحييده! <ffx:wonder>أتستطيع فعل ذلك بصمت؟<ffx:neutral>"
+    },
+    {
+      "id": "$wpn_upt_padonag_mag_name",
+      "source": "EXTENDED MAGAZINE",
+      "target": "مخزن موسع"
+    },
+    {
+      "id": "flamethrower_dsc",
+      "source": "This makeshift pneumatic flamethrower does not have an awful lot of range, but it more than makes up for that with its lethality and remarkable ability to use almost any fuel available in the Metro.",
+      "target": "قاذف لهب هوائي مرتجل، مداه محدود، لكنه يعوض ذلك بقدرته الفتاكة وإمكان استخدام أي وقود متاح في المترو تقريبا."
+    },
+    {
+      "id": "voices\\m3_13_dead_city\\nvs_004_damiralyoshaduketalk_01_02",
+      "source": "<ffx:wonder>Does he have a choice, though? <ffx:sadness>With how Anna's doing... <ffx:neutral>",
+      "target": "<ffx:wonder>وهل لديه خيار أصلا؟ <ffx:sadness>وآنا في هذه الحال... <ffx:neutral>"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_3\\danger\\reloading_01",
+      "source": "Fuck! Guys, cover me - gotta reload!",
+      "target": "اللعنة! غطوني يا رفاق، علي إعادة التلقيم!"
+    },
+    {
+      "id": "m3_dia_weapon_bastard_intro",
+      "source": "<tab>What if you require something with a better cyclic rate of fire than a revolver, but consider an assault rifle to be an overkill? The submachine guns are there for you! That is, of course if, besides the requirements and fantasy, you have quality machines and materials. If all you have is fantasy and skillful hands, you end up with an embodiment of the \"beggars can’t be choosers\" principle.<br><br><tab>You happen to have a length of thin pipe, a dented bucket, a rusty anvil and pliers? Perfect, in a couple of days you may well be spraying the mutants with lead like so much water from a garden hose. With about the same range and accuracy, and not for long, as your creation, spitting unscrewed nuts left and right, will overheat from its insane rate of fire and jam within seconds, like the Bastard gun, ever popular amongst the denizens of the Metro<br><br><tab>Despite all the afflictions, plaguing this gunsmith’s nightmare, Tokarev managed to turn it into a decent weapon, with enough power and accuracy to take its rightful place in our arsenal. Its only remaining drawback, that even Tokarev’s magic was unable to fix, is it propensity to jam when it overheats. Still, the number of bullets the Bastard (as we naturally came to be calling it) manages to spit out before it stutters, usually ends up being enough for any opponent.",
+      "target": "<tab>ماذا لو أردت سلاحا أسرع إطلاقا من المسدس الدوار، لكنك رأيت أن البندقية الهجومية تفوق حاجتك؟ الحل هو المسدس الرشاش! هذا إن توافرت لك، إلى جانب الفكرة والمتطلبات، آلات ومواد جيدة. أما إن لم تملك سوى الخيال ويدين ماهرتين، فستصنع سلاحا يجسد مبدأ «المضطر لا يتشرط».<br><br><tab>أتملك أنبوبا رفيعا ودلوا منبعجا وسندانا صدئا وكماشة؟ ممتاز! قد تتمكن خلال يومين من إمطار المتحولين بالرصاص كما ترش الماء بخرطوم الحديقة، وبمدى ودقة مقاربين له أيضا. ولن يدوم ذلك طويلا؛ إذ سينثر سلاحك صواميله المفكوكة في كل اتجاه، ثم يسخن من معدل إطلاقه الجنوني وينحشر خلال ثوان، شأن رشاش «نذل» الشائع بين سكان المترو.<br><br><tab>ورغم العيوب التي تجعل هذا السلاح كابوسا لصانعه، استطاع توكاريف تحويله إلى سلاح جيد، بقوة ودقة تؤهلانه لمكان في ترسانتنا. لم يبق فيه سوى عيب عجز حتى توكاريف عن إصلاحه: ميله إلى الانحشار عند ارتفاع حرارته. ومع ذلك، فإن عدد الطلقات التي يطلقها «نذل»، كما سميناه بطبيعة الحال، قبل أن يتعطل يكفي عادة للتعامل مع أي خصم."
+    },
+    {
+      "id": "voices\\m3_12_valley\\val_11_80_instructorassembly_01_11",
+      "source": "<ffx:anger_strong>You say that again, and I’ll deck you! <ffx:disgust>Watch your tone! <ffx:neutral>",
+      "target": "<ffx:anger_strong>كرر ذلك وسأطرحك أرضا بلكمة! <ffx:disgust>انتبه إلى أسلوبك! <ffx:neutral>"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\cannibal_2\\danger\\reloading_03",
+      "source": "I'll reload!",
+      "target": "سأعيد التلقيم!"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\tribal_1\\danger\\reloading_01",
+      "source": "Wait, I reload!",
+      "target": "انتظر، أعيد التلقيم!"
+    },
+    {
+      "id": "voices\\m3_dlc1\\dlc1_100_search_at_petrovichs_00_05",
+      "source": "Haha! Be my guest, old man!",
+      "target": "هاها! تفضل أيها العجوز!"
+    },
+    {
+      "id": "voices\\m3_13_dead_city\\nvs_006_walkingtochild_21",
+      "source": "<ffx:wonder_light>Check that pipe out, I'll <ffx:smile_light>watch your back. <ffx:neutral>",
+      "target": "<ffx:wonder_light>تفقد ذلك الأنبوب، <ffx:smile_light>وسأحمي ظهرك. <ffx:neutral>"
+    },
+    {
+      "id": "$wpn_upt_sayga_mag_dsc",
+      "source": "A sustained fire aficionado's best friend, it allows for longer bursts with fewer reload breaks.",
+      "target": "الخيار الأمثل لمحبي الرمي المتواصل؛ يتيح رشقات أطول مع فترات توقف أقل لإعادة التلقيم."
+    },
+    {
+      "id": "m3_12_val_diary_21_dsc",
+      "source": "<tab>The hunting is going well, and we already have enough stored to last us through the winter, but ever since the Teacher left, Roman’s been too full of himself. He made Tokha and Dimon instructors so that he always has the majority vote in the Council...<br><br><tab>I know he was the one to receive the Journal from the Teacher, but still, isn’t his head getting a tad too big? He also made a poor call with those marauders. The fighters were fair game, but wiping out their whole camp and laughing at Liuda when she voiced an issue with that at the Council was taking it too far... No wonder she left and took the weaklings with her!",
+      "target": "<tab>يسير الصيد جيدا، وقد ادخرنا ما يكفينا طوال الشتاء، لكن رومان ازداد غرورا منذ رحيل المعلم. عين توخا وديمون مدربين ليضمن أغلبية الأصوات في المجلس دائما...<br><br><tab>أعلم أن المعلم سلمه الدفتر، لكن ألا يبالغ في الاعتداد بنفسه؟ وقد أخطأ أيضا في قراره بشأن أولئك النهابين. كان قتال مسلحيهم مقبولا، أما إبادة معسكرهم كله والسخرية من ليودا حين اعترضت في المجلس فقد تجاوزا الحدود... لا عجب أنها رحلت وأخذت الضعفاء معها!"
+    },
+    {
+      "id": "claymore_dsc",
+      "source": "This makeshift directional anti-personnel shrapnel mine is indispensable in blocking narrow passages.",
+      "target": "لغم شظايا مرتجل وموجه ضد الأفراد، لا غنى عنه لسد الممرات الضيقة."
+    },
+    {
+      "id": "$tihar_dsc",
+      "source": "A makeshift air gun, surprisingly silent and accurate. Overpressurizing its tank increases power, but the extra pressure vents before long.",
+      "target": "سلاح هوائي مرتجل، هادئ ودقيق على نحو مدهش. تزيد قوة إطلاقه بزيادة ضغط خزانه، لكن الضغط الزائد يتسرب سريعا."
+    },
+    {
+      "id": "voices\\m3_dlc1\\dlc1_22_1_depot_equipmentcheckin_01_03",
+      "source": "Sir, take that suit off and put the flamer down, too. They have to be scrubbed for radiation.",
+      "target": "سيدي، اخلع البدلة وضع قاذف اللهب أيضا. لا بد من إزالة التلوث الإشعاعي عنهما."
+    },
+    {
+      "id": "voices\\m3_06_bridge\\bri_008_meetingkrest_27",
+      "source": "<ffx:wonder_light>You could take this zipline down... <ffx:smile_light>Just hook up and away you go!",
+      "target": "<ffx:wonder_light>يمكنك النزول على حبل الانزلاق هذا... <ffx:smile_light>تعلق به وانطلق!"
+    },
+    {
+      "id": "voices\\m3_dlc2\\dlc2_025_05_klim_tom_aftermeeting_01_05",
+      "source": "Enough! I know your \"cleanly and quietly\"! Your boys fucked up for good when they let them get away!",
+      "target": "كفى! أعرف طريقتك في «العمل النظيف والهادئ»! لقد أفسد رجالك كل شيء حين تركوهم يفلتون!"
+    },
+    {
+      "id": "voices\\m3_06_bridge\\bri_008_prince_fish_01_04",
+      "source": "<ffx:smile_light>The Old Man sent me out as a forward sentry, <ffx:wonder>told me that I was to sit tight and under no circumstances look for any action, <ffx:smile>so I just had a front row seat watching you there... <ffx:wonder_light>",
+      "target": "<ffx:smile_light>أرسلني الرجل العجوز إلى نقطة حراسة متقدمة، <ffx:wonder>وأمرني بالبقاء فيها وتجنب أي اشتباك مهما حدث، <ffx:smile>فلم أفعل سوى مشاهدة ما جرى لك من موقع ممتاز... <ffx:wonder_light>"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_3\\danger\\enemy_dead_human_03",
+      "source": "That fucker's down and out for good! Hahaha!",
+      "target": "انتهى أمر ذلك الوغد إلى الأبد! هاهاها!"
+    },
+    {
+      "id": "voices\\m3_dlc2\\dlc2_003_40_captain_bandits_initial_confrontation_bandits_01_06",
+      "source": "Circle him! And watch your fucking heads!",
+      "target": "حاصروه! واحموا رؤوسكم اللعينة!"
+    },
+    {
+      "id": "m3_dia_weapon_helsing_intro",
+      "source": "<tab>What kind of a weapon would you expect children, who grew up abandoned in a forest, to produce? I personally didn’t count on anything more complex than spears and bows... Or some slingshots. But rapid-fire crossbows with fully interchangeable parts?<br><br><tab>Tokarev was quite surprised by the power and construction of the action, and he’s not easy to impress at all! He says that such a crossbow is actually harder to make than a Bastard gun... So, the \"Pioneers” have a machine shop and skills necessary to use it. Why didn’t they go about making some firearms?<br><br> <tab>To what end, though? In their forest, the crossbow’s range is more than enough, it is silent, you don’t need any chemicals to make bolts for it, and those bolts can be used repeatedly... And for cases when stealth is not a concern, the forest dwellers are mass-producing explosive bolts, so even in terms of lethality this crossbow is not that really behind firearms, and will fit into our arsenal nicely, especially after Tokarev works his magic on it.<br><br>",
+      "target": "<tab>أي سلاح تتوقع أن يصنعه أطفال نشؤوا وحيدين في غابة؟ لم أتوقع شخصيا شيئا أعقد من الرماح والأقواس... أو بعض المقاليع. لكن نشابات سريعة الإطلاق بأجزاء قابلة للتبديل بالكامل؟<br><br><tab>أدهشت قوة آلية الإطلاق وتصميمها توكاريف، وليس من السهل إبهاره! يقول إن صنع نشاب كهذا أصعب من صنع رشاش «نذل»... إذن، يملك «الرواد» ورشة لتشغيل المعادن والمهارة اللازمة لاستخدامها. فلماذا لم يصنعوا أسلحة نارية؟<br><br><tab>لكن ما حاجتهم إليها؟ فمدى النشاب أكثر من كاف في غابتهم، وهو صامت، ولا يحتاج صنع أسهمه إلى مواد كيميائية، ويمكن استخدامها مرارا... وحين لا يكون التخفي ضروريا، يستخدم سكان الغابة أسهما متفجرة ينتجونها بكميات كبيرة. لذا لا يقل هذا النشاب كثيرا عن الأسلحة النارية في القدرة الفتاكة، وسيكون إضافة جيدة إلى ترسانتنا، خصوصا بعدما يجري توكاريف تعديلاته البارعة عليه.<br><br>"
+    },
+    {
+      "id": "voices\\m3_06_bridge\\bri_022_badendnew_01",
+      "source": "<ffx:smile_light>Look old man, we are just passing through... <ffx:anger_light>Let us through peacefully, our guys won't shoot. <ffx:disgust>Or, this place is going bye-bye! And Katya? <ffx:smile_light>You don't have to worry about her anymore... <ffx:anger>Understood?",
+      "target": "<ffx:smile_light>اسمع أيها العجوز، نريد العبور فحسب... <ffx:anger_light>دعنا نعبر بسلام، ولن يطلق رجالنا النار. <ffx:disgust>وإلا دمرنا هذا المكان! أما كاتيا، <ffx:smile_light>فلا داعي لأن تقلق بشأنها بعد الآن... <ffx:anger>أفهمت؟"
+    },
+    {
+      "id": "$wpn_upt_preved_mag_name",
+      "source": "EXTENDED MAGAZINE",
+      "target": "مخزن موسع"
+    },
+    {
+      "id": "menu_customize_scope_low_name",
+      "source": "SCOPE 4X",
+      "target": "منظار 4X"
+    },
+    {
+      "id": "menu_customise_magazine_4_name",
+      "source": "MAGAZINE 4 NAME",
+      "target": "اسم مخزن الذخيرة 4"
+    },
+    {
+      "id": "menu_customize_scope_low_dsc",
+      "source": "4X variable zoom scope",
+      "target": "منظار بتكبير متغير 4X"
+    },
+    {
+      "id": "menu_ammo_makeshift_name",
+      "source": "MAKESHIFT AMMO",
+      "target": "ذخيرة مرتجلة الصنع"
+    },
+    {
+      "id": "m3_dia_weapon_kalash_intro",
+      "source": "<tab>Despite the venerable age of this weapon which before the Judgment Day had played a considerable part in hundreds of conflicts all over the world, its unparalleled reliability and considerable firepower make it a prized possession in the tunnels of the Metro and, of course, on the surface... <br><br><tab>A standard Kalash is simply a solid assault rifle with all its characteristic pros and cons, but thanks to the talent of Sparta’s gunsmiths (and Tokarev personally), the model our Order fields can accommodate a huge variety of upgrades, from extended magazine to various sights. <br><br><tab>Not only that, with a few simple operations (and spare parts) it can be turned into a weapon of a different class - from a short machine pistol that excels at close range, to a light machine gun. This does not mean that the underlying concept’s simplicity and reliability have been sacrificed, either - even though my Kalash is many years my senior, it saved my bacon on many an occasion, and would shoot like nothing happened even after taking a dip in the marsh... <br><br><tab>Weapons are something we people are definitely good at making. They will probably be ready to kill years after there remains nobody on the face of the planet capable of pulling the trigger...<br><br>",
+      "target": "<tab>رغم قدم هذا السلاح، الذي شارك قبل يوم القيامة في مئات النزاعات حول العالم، فإن اعتماديته التي لا تضاهى وقوته النارية الكبيرة تجعلان منه مقتنى ثمينا في أنفاق المترو، وعلى السطح بالطبع... <br><br><tab>كلش العادي بندقية هجومية متينة لها مزايا هذه الفئة وعيوبها المعروفة. لكن بفضل موهبة صناع الأسلحة في سبارتا، وتوكاريف خصوصا، يقبل الطراز الذي يستخدمه تنظيمنا مجموعة واسعة من التعديلات، من المخازن الموسعة إلى أدوات التصويب المختلفة. <br><br><tab>بل يمكن ببعض التعديلات البسيطة وقطع الغيار تحويله إلى سلاح من فئة أخرى، من مسدس رشاش قصير فعال في القتال القريب إلى رشاش خفيف. ولا يعني هذا التضحية ببساطة تصميمه أو اعتماديته؛ فرغم أن بندقيتي كلش أقدم مني بسنوات كثيرة، فقد أنقذت حياتي مرارا، وكانت تطلق النار كأن شيئا لم يحدث حتى بعد غمرها في المستنقع... <br><br><tab>إننا نجيد صنع الأسلحة حقا. ولعلها ستظل قادرة على القتل بعد سنوات من اختفاء آخر إنسان يستطيع ضغط الزناد عن وجه الأرض...<br><br>"
+    },
+    {
+      "id": "voices\\m3_13_dead_city\\nvs_004_damiralyoshaduketalk_01_01",
+      "source": "<ffx:wonder_light>I'm not a real doctor, <ffx:sadness>but even I know that this is suicide - for the Old Man at least... <ffx:neutral>",
+      "target": "<ffx:wonder_light>لست طبيبا حقيقيا، <ffx:sadness>لكن حتى أنا أعرف أن هذه المهمة انتحارية، بالنسبة للرجل العجوز على الأقل... <ffx:neutral>"
+    },
+    {
+      "id": "menu_customise_magazine_3_desc",
+      "source": "Magazine 3 Description",
+      "target": "وصف مخزن الذخيرة 3"
+    },
+    {
+      "id": "m3_map_hint_2",
+      "source": "Press <wpn_fire> to check your journal. Hold <wpn_aim> to take a closer look at the tablet.",
+      "target": "اضغط على <wpn_fire> لقراءة يومياتك. واضغط باستمرار على <wpn_aim> لإلقاء نظرة أقرب على اللوح."
+    },
+    {
+      "id": "m3_general_hint_37_ps3",
+      "source": "Check your compass and journal by holding down touch pad button, then press <wpn_fire> or <wpn_aim> to view the map or journal.",
+      "target": "اضغط باستمرار على زر لوحة اللمس لتفقد البوصلة واليوميات، ثم اضغط على <wpn_fire> أو <wpn_aim> لعرض الخريطة أو اليوميات."
+    },
+    {
+      "id": "m3_dia_equip_suit_intro",
+      "source": "<tab>The Spartan suit is not just uniform all members of our Order wear - the suits provide a considerable degree of environmental protection which, when combined with a gas mask, allows Spartans to be reasonably safe during prolonged sorties to the Surface. <br><br><tab>The suits also accommodate a modicum of armor and padding ensuring, when combined with an armored vest, flexible and reliable protection, that can be easily configured for heaviest of engagements or reconnaissance missions, when swiftness of movement becomes the main priority. <br><br>",
+      "target": "<tab>ليست بدلة الإسبرطيين مجرد زي موحد يرتديه أعضاء تنظيمنا؛ فهي توفر حماية جيدة من أخطار البيئة، وتتيح مع قناع الغاز قدرا معقولا من الأمان خلال الطلعات الطويلة إلى السطح. <br><br><tab>وتضم البدلة أيضا طبقات خفيفة من التدريع والتبطين، توفر مع السترة المدرعة حماية مرنة وموثوقة. ويمكن تهيئتها بسهولة لأعنف الاشتباكات، أو لمهام الاستطلاع التي تكون فيها سرعة الحركة الأولوية الرئيسية. <br><br>"
+    },
+    {
+      "id": "$wpn_upt_rpk_mag_dsc",
+      "source": "Holds much more ammo than the regular magazine, allowing for longer sustained fire.",
+      "target": "يتسع لذخيرة أكثر بكثير من المخزن العادي، مما يتيح إطلاق النار المتواصل مدة أطول."
+    },
+    {
+      "id": "m3_dia_equip_suit_title",
+      "source": "SPARTAN SUIT",
+      "target": "بدلة الإسبرطيين"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\spartans\\sam\\danger\\reload_05",
+      "source": "Time to reload!",
+      "target": "حان وقت إعادة التلقيم!"
+    },
+    {
+      "id": "voices\\m3_13_dead_city\\nvs_004_damiralyoshaduketalk_01_06",
+      "source": "<ffx:sadness_light>Yeah, there's no changing him... <ffx:neutral>",
+      "target": "<ffx:sadness_light>نعم، لن يتغير أبدا... <ffx:neutral>"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\cannibal_1\\danger\\reloading_02",
+      "source": "Wait, I'll reload",
+      "target": "انتظر، سأعيد التلقيم"
+    },
+    {
+      "id": "menu_customise_magazine_3_name",
+      "source": "MAGAZINE 3 NAME",
+      "target": "اسم مخزن الذخيرة 3"
+    },
+    {
+      "id": "m3_map_hint",
+      "source": "Check your map and journal by pressing <map>",
+      "target": "اضغط على <map> لتفقد الخريطة واليوميات."
+    },
+    {
+      "id": "menu_customize_scope_high_name",
+      "source": "SCOPE 6X",
+      "target": "منظار 6X"
+    },
+    {
+      "id": "menu_customise_magazine_1_name",
+      "source": "MAGAZINE 1 NAME",
+      "target": "اسم مخزن الذخيرة 1"
+    },
+    {
+      "id": "menu_ammo_makeshift_desc",
+      "source": "Makeshift Ammo Description",
+      "target": "وصف الذخيرة المرتجلة الصنع"
+    },
+    {
+      "id": "voices\\m3_08_desert\\des_012_2_snipercommands_01",
+      "source": "Heads up, boys! An asshole from the train is here! Take him down!",
+      "target": "انتبهوا يا رفاق! أحد أوغاد القطار هنا! أسقطوه!"
+    },
+    {
+      "id": "voices\\m3_02_dead_moscow\\dmc_007_5_nofilterleft_first",
+      "source": "<ffx:fear>Artyom, what's the matter with you?!... <ffx:wonder_light>Aah, your filter's spent!<ffx:neutral>",
+      "target": "<ffx:fear>أرتيوم، ما خطبك؟!... <ffx:wonder_light>آه، مرشحك لم يعد صالحا للاستخدام!<ffx:neutral>"
+    },
+    {
+      "id": "voices\\m3_13_dead_city\\nvs_004_damiralyoshaduketalk_01_04",
+      "source": "<ffx:anger>Me too! Everyone did. <ffx:sadness_light>But it's the Old Man we're talking about! <ffx:sadness>As if Anna were only his daughter and Artyom's wife, not one of us... <ffx:anger>Personal matter, my ass! <ffx:neutral>",
+      "target": "<ffx:anger>وأنا أيضا! كلنا عرضنا ذلك. <ffx:sadness_light>لكننا نتحدث عن الرجل العجوز! <ffx:sadness>كأن آنا ابنته وزوجة أرتيوم فحسب، وليست واحدة منا... <ffx:anger>تبا لهذا الكلام عن المسائل الشخصية! <ffx:neutral>"
+    },
+    {
+      "id": "voices\\m3_06_bridge\\bri_010_katya_stepan_refugeetalk_05",
+      "source": "<ffx:fear_light>Artyom, help us here... <ffx:disgust_light>The Old Man won't let Katya and Nastya come with us, <ffx:anger_light>even though Katya told us where to find a passenger car in great condition! <ffx:wonder_light>",
+      "target": "<ffx:fear_light>أرتيوم، ساعدنا... <ffx:disgust_light>الرجل العجوز يرفض اصطحاب كاتيا وناستيا، <ffx:anger_light>رغم أن كاتيا أخبرتنا بمكان عربة ركاب في حالة ممتازة! <ffx:wonder_light>"
+    },
+    {
+      "id": "stats_wpn_magazine",
+      "source": "MAGAZINE",
+      "target": "مخزن الذخيرة"
+    },
+    {
+      "id": "voices\\m3_dlc2\\dlc2_090_scouts_showing_pois_00_09_beenthere",
+      "source": "We saw you take them down.",
+      "target": "رأيناك تطيح بهم."
+    },
+    {
+      "id": "voices\\m3_06_bridge\\bri_040_bguards_idle_talk_02_02_04",
+      "source": "<ffx:disgust>Old Simon just got cold feet, that's all... <ffx:smile_light>All the stories people tell not to go... <ffx:neutral>",
+      "target": "<ffx:disgust>جبن سيمون العجوز، هذا كل ما في الأمر... <ffx:smile_light>وما أكثر القصص التي يختلقها الناس ليتجنبوا الذهاب... <ffx:neutral>"
+    },
+    {
+      "id": "ammo_15_dsc",
+      "source": "These 15mm steel balls, pried out of bearings, became the ideal ammo for some makeshift weapons due to their smooth finish and near ubiquity.",
+      "target": "كرات فولاذية بقطر 15 ملم، تنتزع من المحامل. جعلها سطحها الأملس وانتشارها الواسع ذخيرة مثالية لبعض الأسلحة المرتجلة."
+    },
+    {
+      "id": "voices\\m3_13_dead_city\\nvs_004_damiralyoshaduketalk_01_03",
+      "source": "<ffx:anger>He does! I said I'd go with Artyom! <ffx:neutral>",
+      "target": "<ffx:anger>بلى! لقد عرضت أن أذهب مع أرتيوم! <ffx:neutral>"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\cannibal_2\\danger\\reloading_02",
+      "source": "Wait, reload!",
+      "target": "انتظر، سأعيد التلقيم!"
+    },
+    {
+      "id": "m3_map_hint_xbox",
+      "source": "Check your map and journal by pressing <map>",
+      "target": "اضغط على <map> لتفقد الخريطة واليوميات."
+    },
+    {
+      "id": "$wpn_upt_af_dsc",
+      "source": "This modification allows for fully automatic fire, essentially turning the pistol into a light submachine gun.",
+      "target": "يتيح هذا التعديل إطلاق النار آليا بالكامل، فيحول المسدس عمليا إلى مسدس رشاش خفيف الوزن."
+    },
+    {
+      "id": "voices\\m3_08_desert\\des_170_1_saultalk_02_react_shots_03_01",
+      "source": "<ffx:anger>That's it! Take him down! <ffx:neutral>",
+      "target": "<ffx:anger>كفى! أسقطوه! <ffx:neutral>"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\tribal_3\\danger\\reloading_01",
+      "source": "Wait, I reload!",
+      "target": "انتظر، أعيد التلقيم!"
+    },
+    {
+      "id": "voices\\m3_08_desert\\des_017_waytoterminal_01_06",
+      "source": "Yes. <ffx:wonder_light>In any case, the plan is this: <ffx:anger_light>Giul and I will try to take their guards down quietly and get in through the gate. <ffx:sadness_light>If quiet does not work out, <ffx:smile_light>we will at least distract them... <ffx:wonder_light>While you get in through the underground. <ffx:neutral>",
+      "target": "نعم. <ffx:wonder_light>على أي حال، هذه هي الخطة: <ffx:anger_light>سنحاول أنا وجيول تحييد حراسهم بصمت والدخول من البوابة. <ffx:sadness_light>وإن لم ننجح في التسلل، <ffx:smile_light>فسنشتت انتباههم على الأقل... <ffx:wonder_light>بينما تدخل أنت عبر الممر تحت الأرض. <ffx:neutral>"
+    },
+    {
+      "id": "voices\\m3_13_dead_city\\nvs_004_damiralyoshaduketalk_01_05",
+      "source": "<ffx:sadness>He's just being his usual self... <ffx:smile>Artyom and I could have gone there and back twice before dinner with time to spare, <ffx:disgust_light>but no, he has to do it himself! <ffx:neutral>",
+      "target": "<ffx:sadness>إنه عنيد كعادته... <ffx:smile>كان بوسعي أنا وأرتيوم الذهاب والعودة مرتين قبل العشاء، مع متسع من الوقت، <ffx:disgust_light>لكنه يصر على فعل ذلك بنفسه! <ffx:neutral>"
+    },
+    {
+      "id": "hint_igame_premelee",
+      "source": "Get closer to your opponent for silent take down.",
+      "target": "اقترب من خصمك لتحييده بصمت."
+    },
+    {
+      "id": "voices\\m3_02_dead_moscow\\dmc_055_spartansarrive_01_23",
+      "source": "<ffx:anger_strong>Be quiet! How did you end up here? Ah, it doesn't matter... <ffx:disgust>You have no idea what you just stuck your heads in! We've no moves left... <ffx:sadness>Hansa can't take this lying down, the Watchers won't let them...<ffx:sadness_light>",
+      "target": "<ffx:anger_strong>اصمتوا! كيف وصلتم إلى هنا؟ آه، لا يهم... <ffx:disgust>لا تدركون حجم الورطة التي أدخلتم أنفسكم فيها للتو! لقد نفدت خياراتنا... <ffx:sadness>لن تسكت هانزا عن هذا، ولن يسمح لها المراقبون بذلك...<ffx:sadness_light>"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\merc_2\\danger\\reloading_02",
+      "source": "Reload, people!",
+      "target": "أعيدوا التلقيم يا رفاق!"
+    },
+    {
+      "id": "voices\\m3_10_yamantau\\yam_015_thermopylae_battlechatter_miller_04_01",
+      "source": "Cover me, reload!",
+      "target": "غطني، أعيد التلقيم!"
+    },
+    {
+      "id": "m3_dia_weapon_uboy_intro",
+      "source": "<tab>What’s would be the Achilles’ hill of a shotgun? The long reload cycle, perhaps. And to remedy that, it looks like the designer of this monstrosity was ready to sacrifice anything- reliability, simplicity... Even the common sense.<br><br><tab>Still, in terms of sheer firepower this cross between a meatgrinder and a lawnmower is second to none, and Tokarev says that, despite its freakish looks, it won’t explode in my arms in the nearest future. Of course, if I exercise necessary caution and clean it regularly. I guess, I’ll pretend I believe him...<br><br>",
+      "target": "<tab>ما نقطة ضعف بندقية الخرطوش؟ ربما طول الوقت اللازم لإعادة تلقيمها. ويبدو أن مصمم هذا السلاح العجيب كان مستعدا للتضحية بكل شيء لعلاج ذلك: الاعتمادية والبساطة... بل حتى المنطق السليم.<br><br><tab>ومع ذلك، فلا مثيل للقوة النارية التي يملكها هذا المزيج بين مفرمة لحم وجزازة عشب. ويقول توكاريف إنه، رغم مظهره الغريب، لن ينفجر بين يدي في المستقبل القريب، ما دمت أتوخى الحذر وأنظفه بانتظام بالطبع. أظنني سأتظاهر بتصديقه...<br><br>"
+    },
+    {
+      "id": "m3_dia_equip_gasmask_filter_upgrade_found",
+      "source": "<tab>At least, the new filter provides a lot more breathing time than the old ones did - that unknown medic who’d made it sure did a great job...<br><br>",
+      "target": "<tab>على الأقل، يتيح المرشح الجديد وقتا أطول بكثير للتنفس مقارنة بالمرشحات القديمة؛ فقد أجاد ذلك المسعف المجهول الذي صنعه عمله حقا...<br><br>"
+    },
+    {
+      "id": "$wpn_upt_rpk_mag_name",
+      "source": "DRUM MAGAZINE",
+      "target": "مخزن أسطواني"
+    },
+    {
+      "id": "voices\\m3_10_yamantau\\yam_015_thermopylae_battlechatter_krest_04_02",
+      "source": "Damn... Reload!",
+      "target": "اللعنة... أعيد التلقيم!"
+    },
+    {
+      "id": "menu_customise_magazine_2_desc",
+      "source": "Magazine 2 Description",
+      "target": "وصف مخزن الذخيرة 2"
+    },
+    {
+      "id": "m3_map_second_hint",
+      "source": "Don’t forget about your journal. Press <map> to look at the map and check your current objective.",
+      "target": "لا تنس دفتر يومياتك. اضغط على <map> لعرض الخريطة وتفقد هدفك الحالي."
+    },
+    {
+      "id": "$wpn_upt_sayga_mag_name",
+      "source": "EXTENDED MAGAZINE",
+      "target": "مخزن موسع"
+    },
+    {
+      "id": "voices\\m3_12_valley\\val_19_tortugaentry_01_02",
+      "source": "<ffx:anger>Yeah! The bastard wants a boat! Take him down! <ffx:neutral>",
+      "target": "<ffx:anger>نعم! الوغد يريد قاربا! أسقطوه! <ffx:neutral>"
+    },
+    {
+      "id": "voices\\m3_06_bridge\\bri_011_carbriefing_invitation_damir_01",
+      "source": "<ffx:wonder>Oh, Artyom! Speak of the devil. <ffx:fear_light>The Old Man was just asking about you! <ffx:neutral>",
+      "target": "<ffx:wonder>آه، أرتيوم! جئتنا ونحن نتحدث عنك. <ffx:fear_light>كان الرجل العجوز يسأل عنك للتو! <ffx:neutral>"
+    },
+    {
+      "id": "padonag_dsc",
+      "source": "A makeshift semi-automatic pistol, the Lolife is quite capable and highly customizable.",
+      "target": "لولايف مسدس نصف آلي مرتجل، فعال وقابل لتعديلات كثيرة."
+    },
+    {
+      "id": "voices\\m3_dlc2\\dlc2_281_05_sam_bunker_radio_04_01",
+      "source": "Well done, Sam! The gate's opening! I'll take the boat through the tunnel, and you take the lift down.",
+      "target": "أحسنت يا سام! البوابة تفتح! سأقود القارب عبر النفق، وانزل أنت بالمصعد."
+    },
+    {
+      "id": "menu_customise_magazine_4_desc",
+      "source": "Magazine 4 Description",
+      "target": "وصف مخزن الذخيرة 4"
+    },
+    {
+      "id": "menu_customise_magazine_2_name",
+      "source": "MAGAZINE 2 NAME",
+      "target": "اسم مخزن الذخيرة 2"
+    },
+    {
+      "id": "$wpn_upt_ventil_mag_dsc",
+      "source": "The extended magazine allows for firing the rifle for twice as long but makes it much more cumbersome.",
+      "target": "يتيح المخزن الموسع إطلاق النار من البندقية مدة تعادل الضعف، لكنه يجعل حملها واستخدامها أصعب بكثير."
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\merc_2\\uber_alert\\uber_alert_calmdown_01",
+      "source": "Stand down, everyone! He's gone for good, I think!",
+      "target": "كفوا جميعا! أظنه رحل ولن يعود!"
+    }
+  ],
+  "language_scope": "Whole-table terminology rules and contextual corrections; not a full manual sentence review.",
+  "audited_categories": {
+    "dialogue": 31859,
+    "hints": 429,
+    "notes_and_journal": 463,
+    "credits_and_legal": 2758,
+    "interface_and_other": 2164,
+    "equipment": 414,
+    "tasks": 134
+  },
+  "changed_categories": {
+    "dialogue": 48,
+    "interface_and_other": 13,
+    "hints": 8,
+    "equipment": 18,
+    "notes_and_journal": 8
+  },
+  "new_full_context_review_entries": 55,
+  "new_exact_voice_phrases": 22,
+  "matching_voice_entries": 23,
+  "reviewed_context_keys": [
+    "voices\\m3_02_dead_moscow\\dmc_007_5_nofilterleft_first",
+    "menu_customize_scope_low_name",
+    "menu_customize_scope_high_name",
+    "menu_customize_scope_low_dsc",
+    "$uboineg_dsc",
+    "$wpn_upt_sayga_mag_dsc",
+    "$wpn_upt_af_dsc",
+    "m3_dia_equip_gasmask_filter_upgrade_found",
+    "m3_dia_weapon_uboy_intro",
+    "$wpn_upt_grenade_lr_dsc",
+    "flamethrower_dsc",
+    "claymore_dsc",
+    "$tihar_dsc",
+    "menu_ammo_makeshift_name",
+    "menu_ammo_makeshift_desc",
+    "ammo_15_dsc",
+    "padonag_dsc",
+    "$wpn_upt_rpk_mag_dsc",
+    "$wpn_upt_ventil_mag_dsc",
+    "m3_general_hint_64",
+    "m3_map_hint_2",
+    "m3_general_hint_37_ps3",
+    "m3_map_hint",
+    "m3_map_hint_xbox",
+    "m3_map_second_hint",
+    "hint_igame_premelee",
+    "m3_dia_weapon_helsing_intro",
+    "m3_dia_weapon_kalash_intro",
+    "m3_dia_weapon_bastard_intro",
+    "m3_dia_equip_suit_intro",
+    "m3_12_val_diary_21_dsc",
+    "voices\\m3_06_bridge\\bri_008_alyosha_greeting_03",
+    "voices\\m3_13_dead_city\\nvs_004_damir_artyomgoodbye_01_02",
+    "voices\\m3_12_valley\\val_11_80_instructorassembly_01_11",
+    "voices\\m3_13_dead_city\\nvs_006_walkingtochild_21",
+    "voices\\m3_06_bridge\\bri_008_meetingkrest_27",
+    "voices\\m3_06_bridge\\bri_008_prince_fish_01_04",
+    "voices\\m3_13_dead_city\\nvs_004_damiralyoshaduketalk_01_04",
+    "voices\\m3_13_dead_city\\nvs_004_damiralyoshaduketalk_01_01",
+    "voices\\m3_13_dead_city\\nvs_004_damiralyoshaduketalk_01_02",
+    "voices\\m3_13_dead_city\\nvs_004_damiralyoshaduketalk_01_03",
+    "voices\\m3_13_dead_city\\nvs_004_damiralyoshaduketalk_01_05",
+    "voices\\m3_13_dead_city\\nvs_004_damiralyoshaduketalk_01_06",
+    "voices\\m3_13_dead_city\\nvs_004_damiralyoshaduketalk_01_07",
+    "voices\\m3_06_bridge\\bri_010_katya_stepan_refugeetalk_05",
+    "voices\\m3_06_bridge\\bri_040_bguards_idle_talk_02_02_04",
+    "voices\\m3_08_desert\\des_017_waytoterminal_01_06",
+    "voices\\m3_02_dead_moscow\\dmc_055_spartansarrive_01_23",
+    "voices\\m3_06_bridge\\bri_011_carbriefing_invitation_damir_01",
+    "voices\\m3_06_bridge\\bri_022_badendnew_01",
+    "voices\\m3_08_desert\\des_170_saultalk_01_25",
+    "voices\\m3_08_desert\\des_170_1_saultalk_02_react_shots_03_01",
+    "voices\\m3_12_valley\\val_19_tortugaentry_01_02",
+    "voices\\m3_08_desert\\des_062_spidership_bandits_playerattack_04",
+    "voices\\m3_02_dead_moscow\\dmc_013_4_stealthtutorial_05_11"
+  ],
+  "reviewed_voice_keys": [
+    "voices\\m3_dlc2\\dlc2_041_27_dock_05_allstuffreceived_04",
+    "voices\\m3_dlc2\\dlc2_220_sam_captain_fuelrods_briefing_01_09",
+    "voices\\m3_dlc2\\dlc2_025_sam_talk_actualmeeting_02_20_long_31",
+    "voices\\m3_08_desert\\des_13_6_riggertack_01_26",
+    "voices\\universal_m3\\factions\\bandit_3\\danger\\reloading_01",
+    "voices\\universal_m3\\factions\\cannibal_2\\danger\\reloading_03",
+    "voices\\universal_m3\\factions\\tribal_1\\danger\\reloading_01",
+    "voices\\m3_dlc1\\dlc1_100_search_at_petrovichs_00_05",
+    "voices\\m3_dlc1\\dlc1_22_1_depot_equipmentcheckin_01_03",
+    "voices\\m3_dlc2\\dlc2_025_05_klim_tom_aftermeeting_01_05",
+    "voices\\universal_m3\\factions\\bandit_3\\danger\\enemy_dead_human_03",
+    "voices\\m3_dlc2\\dlc2_003_40_captain_bandits_initial_confrontation_bandits_01_06",
+    "voices\\universal_m3\\factions\\spartans\\sam\\danger\\reload_05",
+    "voices\\universal_m3\\factions\\cannibal_1\\danger\\reloading_02",
+    "voices\\m3_08_desert\\des_012_2_snipercommands_01",
+    "voices\\m3_dlc2\\dlc2_090_scouts_showing_pois_00_09_beenthere",
+    "voices\\universal_m3\\factions\\cannibal_2\\danger\\reloading_02",
+    "voices\\universal_m3\\factions\\tribal_3\\danger\\reloading_01",
+    "voices\\universal_m3\\factions\\merc_2\\danger\\reloading_02",
+    "voices\\m3_10_yamantau\\yam_015_thermopylae_battlechatter_miller_04_01",
+    "voices\\m3_10_yamantau\\yam_015_thermopylae_battlechatter_krest_04_02",
+    "voices\\m3_dlc2\\dlc2_281_05_sam_bunker_radio_04_01",
+    "voices\\universal_m3\\factions\\merc_2\\uber_alert\\uber_alert_calmdown_01"
+  ]
+}

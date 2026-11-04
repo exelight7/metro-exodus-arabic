@@ -1,0 +1,18 @@
+[
+  {
+    "id": "m3_06_bri_chapter_desc",
+    "source": "<tab>For twenty years we’ve been thinking that neither the Government, nor the President or the military High Command had survived... As it turns out, they’re still around... The question is, where were they while we were eating each other alive in the Metro? We’ll have a lot to ask them about once we reach Yamantau... If we reach it.<br><tab>The ruins of our country are, as Miller says, under enemy control, and we’ll have to fight through to our goal. A small team against the occupation armies... What chance do we have to succeed? To get the answers? What chance does my commander have to be pardoned? That’s all he thinks about - get his pardon, get back to Metro, get back to the usual life. The life I have always been running from...",
+    "target": "<tab>طوال عشرين عامًا، اعتقدنا أن الحكومة والرئيس والقيادة العسكرية العليا لم ينج منهم أحد... لكن اتضح أنهم ما زالوا موجودين... والسؤال هو: أين كانوا حين كنا نفترس بعضنا أحياء في المترو؟ لدينا الكثير مما نريد سؤالهم عنه حين نصل إلى يامانتاو... إن وصلنا أصلًا.<br><tab>أطلال بلادنا، كما يقول ميلر، خاضعة لسيطرة العدو، وعلينا أن نقاتل لنبلغ هدفنا. فريق صغير في مواجهة جيوش الاحتلال... ما فرصتنا في النجاح؟ وفي الحصول على الإجابات؟ وما فرصة قائدي في نيل العفو؟ هذا كل ما يشغل باله: الحصول على العفو، والعودة إلى المترو، والعودة إلى الحياة المعتادة. تلك الحياة التي طالما هربت منها...",
+    "status": "reviewed",
+    "source_archive": "content.vfx",
+    "reason": "Referenced in latest native registries but absent from patch_04 LNG"
+  },
+  {
+    "id": "voices\\m3_dlc1\\dlc1_150_petrovitch_dies_01_02",
+    "source": "Report on the way you got rid of your conscience? Answer for my granddaughter...",
+    "target": "تقرير عن الطريقة التي تخلصت بها من ضميرك؟ أجبني عن حفيدتي...",
+    "status": "reviewed",
+    "source_archive": "patch_02.vfx",
+    "reason": "Referenced in latest native registries but absent from patch_04 LNG"
+  }
+]

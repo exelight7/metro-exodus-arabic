@@ -1,0 +1,4074 @@
+{
+  "revision": "diary_r1",
+  "profile_entries": {
+    "journal": 84,
+    "note": 116,
+    "advice": 20
+  },
+  "note_titles_checked": 112,
+  "reviewed_translation_entries": 174,
+  "changed_lng_entries": 327,
+  "unrelated_lng_entries_preserved": 37896,
+  "actual_font_metrics_verified": true,
+  "all_lines_within_native_columns": true,
+  "scrolling_retained": true,
+  "loading_text_identical": true,
+  "changed_menu_records": [
+    42,
+    51,
+    67,
+    88,
+    100
+  ],
+  "unchanged_font_and_atlas": true,
+  "runtime_tested": false,
+  "per_entry": {
+    "m3_dia_equip_charger_intro": {
+      "profile": "journal",
+      "line_widths": [
+        1018,
+        992,
+        973,
+        997,
+        954,
+        921,
+        945,
+        1038,
+        1027,
+        982,
+        979,
+        940,
+        938,
+        84
+      ],
+      "limit": 1042
+    },
+    "m3_dia_equip_bracer_intro": {
+      "profile": "journal",
+      "line_widths": [
+        1002,
+        951,
+        951,
+        1037,
+        1038,
+        995,
+        993,
+        973,
+        232
+      ],
+      "limit": 1042
+    },
+    "m3_12_val_diary_7_dsc": {
+      "profile": "note",
+      "line_widths": [
+        1411,
+        1398,
+        1405,
+        1439
+      ],
+      "limit": 1460
+    },
+    "m3_pause_menu_hint_charger_dsc": {
+      "profile": "advice",
+      "line_widths": [
+        1377,
+        116
+      ],
+      "limit": 1460
+    },
+    "m3_dlc1_chap1_diary_3_dsc": {
+      "profile": "note",
+      "line_widths": [
+        1376,
+        1448,
+        1395,
+        0,
+        102
+      ],
+      "limit": 1460
+    },
+    "m3_12_val_diary_1_dsc": {
+      "profile": "note",
+      "line_widths": [
+        948
+      ],
+      "limit": 1460
+    },
+    "m3_13_nvs_diary_4_dsc": {
+      "profile": "note",
+      "line_widths": [
+        123,
+        0,
+        1436,
+        1447,
+        232,
+        0,
+        123,
+        0,
+        1401,
+        1406,
+        323,
+        0,
+        116,
+        0,
+        1375,
+        1426,
+        692,
+        0,
+        132,
+        0,
+        1432,
+        1328,
+        0,
+        132,
+        0,
+        1401,
+        237,
+        0,
+        115,
+        0,
+        1407,
+        346,
+        0,
+        115,
+        0,
+        1401,
+        1422,
+        443,
+        0,
+        84,
+        0,
+        1386,
+        1273,
+        0,
+        100,
+        0,
+        1019,
+        0,
+        100,
+        0,
+        1369,
+        1380,
+        355,
+        0,
+        95,
+        0,
+        1227,
+        0,
+        95,
+        0,
+        1401,
+        1336,
+        461,
+        0,
+        111,
+        0,
+        1422,
+        1413,
+        986,
+        0,
+        111,
+        0,
+        637,
+        0,
+        111,
+        0,
+        1394,
+        128,
+        0,
+        161,
+        0,
+        498
+      ],
+      "limit": 1460
+    },
+    "m3_12_val_diary_24_1_dsc": {
+      "profile": "note",
+      "line_widths": [
+        838
+      ],
+      "limit": 1460
+    },
+    "m3_dia_crew_alyosha_autumn_ karmabad": {
+      "profile": "journal",
+      "line_widths": [
+        997,
+        998,
+        966,
+        970,
+        1027,
+        1012,
+        801
+      ],
+      "limit": 1042
+    },
+    "m3_06_spring_diary_1_dsc": {
+      "profile": "note",
+      "line_widths": [
+        1448,
+        1389,
+        1432,
+        1395,
+        1192,
+        0,
+        90
+      ],
+      "limit": 1460
+    },
+    "m3_dlc1_chap3_diary_1_dsc": {
+      "profile": "note",
+      "line_widths": [
+        482,
+        0,
+        256,
+        0,
+        1453,
+        1442,
+        0,
+        1459,
+        1377,
+        331,
+        0,
+        1283,
+        0,
+        292,
+        0,
+        154
+      ],
+      "limit": 1460
+    },
+    "m3_06_diary_12_dsc": {
+      "profile": "note",
+      "line_widths": [
+        257,
+        0,
+        1411,
+        1448,
+        1373,
+        1448,
+        714,
+        0,
+        177,
+        0,
+        1381,
+        1367,
+        0,
+        177,
+        0,
+        1366,
+        1445,
+        1413,
+        818,
+        0,
+        256,
+        0,
+        1450,
+        1433,
+        1418,
+        1397,
+        1395,
+        405
+      ],
+      "limit": 1460
+    },
+    "m3_dia_crew_sam_spring": {
+      "profile": "journal",
+      "line_widths": [
+        974,
+        908,
+        1035,
+        1033,
+        951,
+        945,
+        995,
+        988,
+        406
+      ],
+      "limit": 1042
+    },
+    "m3_dia_crew_stepan_summer": {
+      "profile": "journal",
+      "line_widths": [
+        1032,
+        935,
+        979,
+        994,
+        1006,
+        1013,
+        1042,
+        956,
+        943,
+        929,
+        1038,
+        984,
+        1014,
+        1021,
+        69
+      ],
+      "limit": 1042
+    },
+    "m3_08_des_diary_4": {
+      "profile": "note",
+      "line_widths": [
+        1422,
+        1384,
+        478,
+        0,
+        1417,
+        1418,
+        632,
+        0,
+        1381,
+        0,
+        257,
+        0,
+        659
+      ],
+      "limit": 1460
+    },
+    "m3_dia_weapon_knives_intro": {
+      "profile": "journal",
+      "line_widths": [
+        1023,
+        955,
+        448
+      ],
+      "limit": 1042
+    },
+    "m3_12_val_diary_23_dsc": {
+      "profile": "note",
+      "line_widths": [
+        513,
+        0,
+        562,
+        0,
+        350,
+        0,
+        308,
+        0,
+        266,
+        0,
+        227,
+        0,
+        554,
+        0,
+        1354,
+        846,
+        0,
+        62
+      ],
+      "limit": 1460
+    },
+    "m3_dia_weapon_ashot_intro": {
+      "profile": "journal",
+      "line_widths": [
+        911,
+        1001,
+        984,
+        961,
+        611,
+        0,
+        1042,
+        1023,
+        1010,
+        1011,
+        796,
+        0,
+        958,
+        938,
+        1019,
+        966,
+        971,
+        117
+      ],
+      "limit": 1042
+    },
+    "m3_dlc1_chap2_diary_1_dsc": {
+      "profile": "note",
+      "line_widths": [
+        1401,
+        1452,
+        1412,
+        1434,
+        1388,
+        1417,
+        656,
+        0,
+        78
+      ],
+      "limit": 1460
+    },
+    "m3_dia_equip_nv_goggles_intro": {
+      "profile": "journal",
+      "line_widths": [
+        981,
+        1017,
+        950,
+        1003,
+        997,
+        929,
+        1001,
+        979,
+        960,
+        1015,
+        939,
+        864,
+        968,
+        93
+      ],
+      "limit": 1042
+    },
+    "m3_12_val_diary_11_dsc": {
+      "profile": "note",
+      "line_widths": [
+        1459,
+        868,
+        0,
+        1444,
+        1423,
+        1279,
+        0,
+        922,
+        0,
+        1420,
+        391,
+        0,
+        1422,
+        1213
+      ],
+      "limit": 1460
+    },
+    "m3_08_des_diary_9": {
+      "profile": "note",
+      "line_widths": [
+        1399,
+        205,
+        0,
+        1435,
+        1452,
+        1336,
+        1432,
+        1399,
+        775
+      ],
+      "limit": 1460
+    },
+    "m3_pause_menu_hint_melee_dsc": {
+      "profile": "advice",
+      "line_widths": [
+        1255,
+        0,
+        1438,
+        494
+      ],
+      "limit": 1460
+    },
+    "m3_12_val_diary_26_1_dsc": {
+      "profile": "note",
+      "line_widths": [
+        1456,
+        1374,
+        1434,
+        881,
+        0,
+        1437,
+        1432,
+        1331,
+        0,
+        665
+      ],
+      "limit": 1460
+    },
+    "m3_12_val_diary_24_5_dsc": {
+      "profile": "note",
+      "line_widths": [
+        1212
+      ],
+      "limit": 1460
+    },
+    "m3_08_des_diary_8": {
+      "profile": "note",
+      "line_widths": [
+        1409,
+        1422,
+        1364,
+        1051,
+        0,
+        1443,
+        1453,
+        1456,
+        1410,
+        790
+      ],
+      "limit": 1460
+    },
+    "m3_12_val_diary_22_dsc": {
+      "profile": "note",
+      "line_widths": [
+        1405,
+        488,
+        0,
+        1422,
+        784,
+        0,
+        1088,
+        0,
+        1418,
+        763,
+        0,
+        1382,
+        238,
+        0,
+        702,
+        0,
+        1371,
+        1380,
+        265
+      ],
+      "limit": 1460
+    },
+    "m3_08_des_diary_7": {
+      "profile": "note",
+      "line_widths": [
+        790,
+        0,
+        354,
+        0,
+        708,
+        0,
+        327,
+        0,
+        410,
+        0,
+        842,
+        0,
+        363
+      ],
+      "limit": 1460
+    },
+    "m3_13_nvs_diary_3_dsc": {
+      "profile": "note",
+      "line_widths": [
+        339,
+        0,
+        1397,
+        610,
+        0,
+        1434,
+        0,
+        1414,
+        819,
+        0,
+        522,
+        0,
+        1370,
+        566,
+        0,
+        174,
+        0,
+        297,
+        0,
+        1372,
+        0,
+        118,
+        0,
+        426
+      ],
+      "limit": 1460
+    },
+    "m3_12_val_diary_20_dsc": {
+      "profile": "note",
+      "line_widths": [
+        1386,
+        1454,
+        1302
+      ],
+      "limit": 1460
+    },
+    "m3_dia_weapon_rail_intro": {
+      "profile": "journal",
+      "line_widths": [
+        1027,
+        1023,
+        892,
+        1002,
+        404
+      ],
+      "limit": 1042
+    },
+    "m3_12_val_diary_24_4_dsc": {
+      "profile": "note",
+      "line_widths": [
+        716
+      ],
+      "limit": 1460
+    },
+    "m3_06_diary_6_dsc": {
+      "profile": "note",
+      "line_widths": [
+        1436,
+        1399,
+        1362,
+        0,
+        1435,
+        1361,
+        887,
+        0,
+        1304,
+        1444,
+        716,
+        0,
+        1370
+      ],
+      "limit": 1460
+    },
+    "m3_dia_weapon_bastard_intro": {
+      "profile": "journal",
+      "line_widths": [
+        928,
+        1018,
+        960,
+        960,
+        924,
+        875,
+        518,
+        0,
+        1037,
+        1026,
+        1000,
+        1016,
+        1006,
+        988,
+        965,
+        90,
+        0,
+        950,
+        1017,
+        989,
+        1031,
+        1020,
+        953,
+        1038,
+        435
+      ],
+      "limit": 1042
+    },
+    "m3_12_val_diary_0_dsc": {
+      "profile": "note",
+      "line_widths": [
+        1198,
+        0,
+        268
+      ],
+      "limit": 1460
+    },
+    "m3_08_des_diary_11": {
+      "profile": "note",
+      "line_widths": [
+        1453,
+        1379,
+        1443,
+        1373,
+        1356,
+        1418,
+        366,
+        0,
+        1426,
+        1460,
+        688,
+        0,
+        1371,
+        1399,
+        935,
+        0,
+        1398,
+        1375,
+        1435,
+        1398,
+        913,
+        0,
+        1350,
+        1414,
+        1385,
+        136,
+        0,
+        1460,
+        1415,
+        1436,
+        1076,
+        0,
+        1400,
+        1419,
+        1386,
+        1390,
+        1360,
+        1408,
+        846,
+        0,
+        956,
+        0,
+        1218
+      ],
+      "limit": 1460
+    },
+    "m3_12_val_diary_24_2_dsc": {
+      "profile": "note",
+      "line_widths": [
+        819
+      ],
+      "limit": 1460
+    },
+    "m3_dia_crew_tokarev_intro": {
+      "profile": "journal",
+      "line_widths": [
+        952,
+        940,
+        843,
+        901,
+        1029,
+        538,
+        0,
+        951,
+        1032,
+        963,
+        985,
+        454,
+        0,
+        915,
+        1034,
+        1026
+      ],
+      "limit": 1042
+    },
+    "m3_06_diary_2_dsc": {
+      "profile": "note",
+      "line_widths": [
+        1460,
+        1385,
+        1372,
+        1417,
+        718
+      ],
+      "limit": 1460
+    },
+    "m3_12_val_diary_27_dsc": {
+      "profile": "note",
+      "line_widths": [
+        1428,
+        1185,
+        0,
+        1379,
+        1369,
+        0,
+        1437,
+        1446,
+        291,
+        0,
+        1377,
+        293,
+        0,
+        250
+      ],
+      "limit": 1460
+    },
+    "m3_dia_crew_miller_intro": {
+      "profile": "journal",
+      "line_widths": [
+        933,
+        977,
+        1031,
+        992,
+        992,
+        985,
+        991,
+        991,
+        959,
+        264,
+        0,
+        951,
+        1016,
+        990,
+        990,
+        977,
+        973
+      ],
+      "limit": 1042
+    },
+    "m3_dia_moster_demon_intro": {
+      "profile": "journal",
+      "line_widths": [
+        961,
+        1027,
+        977,
+        1025,
+        983,
+        941,
+        1021,
+        954,
+        221,
+        0,
+        957,
+        958,
+        973,
+        458
+      ],
+      "limit": 1042
+    },
+    "m3_12_val_diary_8_dsc": {
+      "profile": "note",
+      "line_widths": [
+        1417,
+        1426,
+        1435,
+        1351,
+        218
+      ],
+      "limit": 1460
+    },
+    "m3_dia_crew_damir_summer_karmabad": {
+      "profile": "journal",
+      "line_widths": [
+        971,
+        991,
+        1008,
+        944,
+        954,
+        974,
+        1006,
+        842
+      ],
+      "limit": 1042
+    },
+    "m3_pause_menu_hint_wpnupd_dsc": {
+      "profile": "advice",
+      "line_widths": [
+        1408,
+        1409,
+        106
+      ],
+      "limit": 1460
+    },
+    "m3_12_val_diary_8_2_dsc": {
+      "profile": "note",
+      "line_widths": [
+        1403,
+        1406,
+        1440,
+        1357,
+        695
+      ],
+      "limit": 1460
+    },
+    "m3_dia_moster_dog_intro": {
+      "profile": "journal",
+      "line_widths": [
+        897,
+        950,
+        1031,
+        1007,
+        943,
+        346
+      ],
+      "limit": 1042
+    },
+    "m3_13_nvs_diary_6_dsc": {
+      "profile": "note",
+      "line_widths": [
+        1423,
+        1456,
+        1386,
+        1414,
+        1357,
+        1458,
+        1403,
+        211
+      ],
+      "limit": 1460
+    },
+    "m3_08_des_diary_1": {
+      "profile": "note",
+      "line_widths": [
+        174,
+        0,
+        1421,
+        1393,
+        1381,
+        867,
+        0,
+        1355,
+        1372,
+        1404,
+        0,
+        1109,
+        0,
+        279,
+        0,
+        1331,
+        349,
+        0,
+        1459,
+        0,
+        1434,
+        646,
+        0,
+        511,
+        0,
+        319,
+        0,
+        808
+      ],
+      "limit": 1460
+    },
+    "m3_12_val_diary_21_dsc": {
+      "profile": "note",
+      "line_widths": [
+        1388,
+        1423,
+        578,
+        0,
+        1434,
+        1442,
+        1456,
+        79
+      ],
+      "limit": 1460
+    },
+    "m3_dlc2_diary_06_dsc": {
+      "profile": "note",
+      "line_widths": [
+        259,
+        508,
+        0,
+        202,
+        133,
+        0,
+        282,
+        0,
+        1395,
+        745,
+        0,
+        1422,
+        825,
+        0,
+        735,
+        0,
+        496,
+        0,
+        296,
+        0,
+        1305,
+        0,
+        741
+      ],
+      "limit": 1460
+    },
+    "m3_dlc2_diary_09_dsc": {
+      "profile": "note",
+      "line_widths": [
+        1342,
+        1345,
+        1455,
+        516,
+        0,
+        964,
+        0,
+        146
+      ],
+      "limit": 1460
+    },
+    "m3_dia_world_child_intro": {
+      "profile": "journal",
+      "line_widths": [
+        980,
+        1002,
+        948,
+        1028,
+        1022,
+        178,
+        0,
+        1018,
+        856,
+        987,
+        963,
+        999,
+        576
+      ],
+      "limit": 1042
+    },
+    "m3_dia_crew_stepan_intro": {
+      "profile": "journal",
+      "line_widths": [
+        998,
+        956,
+        1035,
+        969,
+        994,
+        988,
+        955,
+        343
+      ],
+      "limit": 1042
+    },
+    "m3_12_val_diary_29_dsc": {
+      "profile": "note",
+      "line_widths": [
+        75
+      ],
+      "limit": 1460
+    },
+    "m3_06_diary_4_dsc": {
+      "profile": "note",
+      "line_widths": [
+        1028,
+        0,
+        743,
+        0,
+        1448,
+        1322,
+        1424,
+        368,
+        0,
+        805,
+        0,
+        158
+      ],
+      "limit": 1460
+    },
+    "m3_dia_crew_anna_intro": {
+      "profile": "journal",
+      "line_widths": [
+        1005,
+        912,
+        1019,
+        953,
+        1027,
+        1005,
+        408,
+        0,
+        978,
+        946,
+        985,
+        1035,
+        1013,
+        933,
+        257,
+        0,
+        1009,
+        1019,
+        1032,
+        957,
+        988,
+        1008,
+        1010,
+        444
+      ],
+      "limit": 1042
+    },
+    "m3_12_val_diary_10_dsc": {
+      "profile": "note",
+      "line_widths": [
+        1403,
+        182,
+        0,
+        1342,
+        1034,
+        0,
+        1460,
+        1441,
+        1430,
+        768,
+        0,
+        1403,
+        1329,
+        264
+      ],
+      "limit": 1460
+    },
+    "m3_dia_equip_gasmask_intro": {
+      "profile": "journal",
+      "line_widths": [
+        983,
+        1016,
+        1038,
+        1041,
+        914,
+        942,
+        358
+      ],
+      "limit": 1042
+    },
+    "m3_dia_moster_aquafemale_intro": {
+      "profile": "journal",
+      "line_widths": [
+        923,
+        941,
+        877,
+        990,
+        886,
+        999,
+        1028,
+        1032,
+        869
+      ],
+      "limit": 1042
+    },
+    "m3_dia_equip_bino_intro": {
+      "profile": "journal",
+      "line_widths": [
+        963,
+        1031,
+        1039,
+        0,
+        1025,
+        929,
+        878,
+        968,
+        1015,
+        718
+      ],
+      "limit": 1042
+    },
+    "m3_pause_menu_hint_indicator_dsc": {
+      "profile": "advice",
+      "line_widths": [
+        1444,
+        704
+      ],
+      "limit": 1460
+    },
+    "m3_06_diary_5_dsc": {
+      "profile": "note",
+      "line_widths": [
+        1456,
+        1380,
+        1383,
+        1369,
+        1355,
+        0,
+        181,
+        0,
+        335
+      ],
+      "limit": 1460
+    },
+    "m3_dia_crew_sam_autumn": {
+      "profile": "journal",
+      "line_widths": [
+        1005,
+        993,
+        1002,
+        976,
+        962,
+        1015,
+        967,
+        955,
+        409,
+        0,
+        979,
+        1019,
+        958,
+        1010,
+        943,
+        973,
+        940,
+        1034,
+        1014,
+        1005,
+        210
+      ],
+      "limit": 1042
+    },
+    "m3_dia_crew_damir_intro": {
+      "profile": "journal",
+      "line_widths": [
+        1014,
+        969,
+        958,
+        964,
+        955,
+        1022,
+        943,
+        1025,
+        1036,
+        711
+      ],
+      "limit": 1042
+    },
+    "m3_08_des_diary_6": {
+      "profile": "note",
+      "line_widths": [
+        1390,
+        1390,
+        1398,
+        1411,
+        220,
+        0,
+        97
+      ],
+      "limit": 1460
+    },
+    "m3_12_val_diary_32_dsc": {
+      "profile": "note",
+      "line_widths": [
+        67
+      ],
+      "limit": 1460
+    },
+    "m3_06_diary_9_dsc": {
+      "profile": "note",
+      "line_widths": [
+        1460,
+        1393,
+        1393,
+        1403,
+        410,
+        0,
+        1454,
+        1418,
+        1233
+      ],
+      "limit": 1460
+    },
+    "m3_12_val_diary_28_dsc": {
+      "profile": "note",
+      "line_widths": [
+        650
+      ],
+      "limit": 1460
+    },
+    "m3_12_val_diary_15_dsc": {
+      "profile": "note",
+      "line_widths": [
+        734,
+        0,
+        1439,
+        1454,
+        1424,
+        55,
+        0,
+        1429,
+        241
+      ],
+      "limit": 1460
+    },
+    "m3_dia_world_vdnh_intro": {
+      "profile": "journal",
+      "line_widths": [
+        983,
+        813,
+        914,
+        1014,
+        950,
+        1015,
+        949,
+        119
+      ],
+      "limit": 1042
+    },
+    "m3_08_des_diary_10": {
+      "profile": "note",
+      "line_widths": [
+        1427,
+        1446,
+        1288,
+        0,
+        1375,
+        1423,
+        1437,
+        679,
+        0,
+        1081,
+        0,
+        1409,
+        1438,
+        267,
+        0,
+        224
+      ],
+      "limit": 1460
+    },
+    "m3_01_moscow_diary_7_dsc": {
+      "profile": "note",
+      "line_widths": [
+        476,
+        0,
+        570,
+        0,
+        1389,
+        1358,
+        1350,
+        0,
+        381,
+        0,
+        197
+      ],
+      "limit": 1460
+    },
+    "m3_01_moscow_diary_2_dsc": {
+      "profile": "note",
+      "line_widths": [
+        210,
+        0,
+        337,
+        0,
+        312,
+        0,
+        609,
+        0,
+        1293,
+        0,
+        1357,
+        770
+      ],
+      "limit": 1460
+    },
+    "m3_dia_weapon_helsing_intro": {
+      "profile": "journal",
+      "line_widths": [
+        941,
+        1025,
+        974,
+        1028,
+        0,
+        1016,
+        1013,
+        1005,
+        888,
+        1029,
+        0,
+        1008,
+        1000,
+        1038,
+        1016,
+        1009,
+        1009,
+        1027,
+        840
+      ],
+      "limit": 1042
+    },
+    "m3_07_yam_diary_3_dsc": {
+      "profile": "note",
+      "line_widths": [
+        1406,
+        1288,
+        0,
+        1409,
+        1108,
+        0,
+        327
+      ],
+      "limit": 1460
+    },
+    "m3_dia_moster_watch_intro": {
+      "profile": "journal",
+      "line_widths": [
+        956,
+        1001,
+        972,
+        91
+      ],
+      "limit": 1042
+    },
+    "m3_13_nvs_diary_1_dsc": {
+      "profile": "note",
+      "line_widths": [
+        641,
+        0,
+        264,
+        0,
+        1384,
+        667,
+        0,
+        207,
+        0,
+        424
+      ],
+      "limit": 1460
+    },
+    "m3_12_val_diary_25_1_dsc": {
+      "profile": "note",
+      "line_widths": [
+        1454,
+        1409,
+        598,
+        0,
+        1443,
+        1384,
+        1104,
+        0,
+        1383,
+        0,
+        101
+      ],
+      "limit": 1460
+    },
+    "m3_dlc2_diary_03_dsc": {
+      "profile": "note",
+      "line_widths": [
+        124,
+        546,
+        0,
+        124,
+        716,
+        0,
+        121,
+        1454,
+        896,
+        0,
+        121,
+        1381,
+        1355,
+        817
+      ],
+      "limit": 1460
+    },
+    "m3_dia_world_cannibal_intro": {
+      "profile": "journal",
+      "line_widths": [
+        923,
+        1013,
+        1010,
+        982,
+        939,
+        226
+      ],
+      "limit": 1042
+    },
+    "m3_dlc1_chap4_diary_1_dsc": {
+      "profile": "note",
+      "line_widths": [
+        1451,
+        1350,
+        652,
+        0,
+        1154,
+        0,
+        1405,
+        0,
+        628,
+        0,
+        537,
+        0,
+        1440
+      ],
+      "limit": 1460
+    },
+    "m3_08_des_diary_12": {
+      "profile": "note",
+      "line_widths": [
+        1356,
+        1401,
+        1365,
+        800,
+        0,
+        1410,
+        1427,
+        1442,
+        0,
+        210,
+        0,
+        97
+      ],
+      "limit": 1460
+    },
+    "m3_dia_monster_demon_m3_06_bridge": {
+      "profile": "journal",
+      "line_widths": [
+        985,
+        995,
+        1039,
+        963,
+        997,
+        954,
+        938,
+        994,
+        139
+      ],
+      "limit": 1042
+    },
+    "m3_12_val_diary_4_dsc": {
+      "profile": "note",
+      "line_widths": [
+        1452,
+        309
+      ],
+      "limit": 1460
+    },
+    "m3_dia_crew_miller_summer": {
+      "profile": "journal",
+      "line_widths": [
+        968,
+        1023,
+        1020,
+        1021,
+        994,
+        1020,
+        982,
+        991,
+        994,
+        933,
+        1008,
+        1027,
+        1035,
+        961,
+        1010,
+        977,
+        473,
+        0,
+        1017,
+        1031,
+        1031,
+        1018,
+        986,
+        987,
+        1029,
+        999,
+        966,
+        1031,
+        118
+      ],
+      "limit": 1042
+    },
+    "m3_12_val_diary_14_dsc": {
+      "profile": "note",
+      "line_widths": [
+        430
+      ],
+      "limit": 1460
+    },
+    "m3_dia_weapon_revolver_intro": {
+      "profile": "journal",
+      "line_widths": [
+        1020,
+        1001,
+        1026,
+        960,
+        984,
+        982,
+        1042,
+        0,
+        1037,
+        986,
+        974,
+        948,
+        1012,
+        835,
+        0,
+        960,
+        1012,
+        970,
+        1020,
+        938,
+        1000,
+        99
+      ],
+      "limit": 1042
+    },
+    "m3_dia_weapon_molotov_intro": {
+      "profile": "journal",
+      "line_widths": [
+        911,
+        939,
+        102
+      ],
+      "limit": 1042
+    },
+    "m3_07_yam_diary_1_dsc": {
+      "profile": "note",
+      "line_widths": [
+        1459,
+        1420,
+        1401,
+        1442,
+        1083,
+        0,
+        1365,
+        1406,
+        1445,
+        1415,
+        340
+      ],
+      "limit": 1460
+    },
+    "m3_dia_weapon_kalash_intro": {
+      "profile": "journal",
+      "line_widths": [
+        981,
+        1020,
+        928,
+        982,
+        127,
+        0,
+        995,
+        929,
+        1027,
+        921,
+        1000,
+        139,
+        0,
+        947,
+        993,
+        1032,
+        968,
+        942,
+        982,
+        989,
+        974,
+        240,
+        0,
+        943,
+        986,
+        1008,
+        96
+      ],
+      "limit": 1042
+    },
+    "m3_dia_crew_duke_summer_alive": {
+      "profile": "journal",
+      "line_widths": [
+        991,
+        1030,
+        954,
+        1036,
+        956,
+        1017,
+        914,
+        944,
+        940,
+        984,
+        495
+      ],
+      "limit": 1042
+    },
+    "m3_07_yam_diary_5_dsc": {
+      "profile": "note",
+      "line_widths": [
+        1458,
+        1388,
+        775,
+        0,
+        1441,
+        958,
+        0,
+        1395,
+        1437,
+        703,
+        0,
+        1439,
+        1028,
+        0,
+        1142,
+        0,
+        1455,
+        154,
+        0,
+        1395,
+        1453,
+        507,
+        0,
+        1443,
+        1429,
+        1275,
+        0,
+        1422,
+        1460,
+        1394,
+        565
+      ],
+      "limit": 1460
+    },
+    "m3_dia_crew_stepan_spring": {
+      "profile": "journal",
+      "line_widths": [
+        1018,
+        1029,
+        957,
+        976,
+        965,
+        951,
+        997,
+        296
+      ],
+      "limit": 1042
+    },
+    "m3_12_val_diary_6_dsc": {
+      "profile": "note",
+      "line_widths": [
+        1237,
+        0,
+        1392,
+        1404,
+        1394,
+        110,
+        0,
+        1398,
+        1328,
+        1384,
+        513
+      ],
+      "limit": 1460
+    },
+    "m3_pause_menu_hint_lighter_dsc": {
+      "profile": "advice",
+      "line_widths": [
+        1412,
+        446
+      ],
+      "limit": 1460
+    },
+    "m3_06_diary_13_dsc": {
+      "profile": "note",
+      "line_widths": [
+        107,
+        0,
+        1339,
+        1064,
+        0,
+        107,
+        0,
+        1426,
+        553,
+        0,
+        123,
+        0,
+        1378,
+        1324,
+        0,
+        123,
+        0,
+        1425,
+        1360,
+        777,
+        0,
+        123,
+        0,
+        1454,
+        1167,
+        0,
+        123,
+        0,
+        1007
+      ],
+      "limit": 1460
+    },
+    "m3_dia_equip_suit_intro": {
+      "profile": "journal",
+      "line_widths": [
+        939,
+        957,
+        981,
+        923,
+        113,
+        0,
+        1033,
+        1002,
+        997,
+        817
+      ],
+      "limit": 1042
+    },
+    "m3_dia_crew_alyosha_intro": {
+      "profile": "journal",
+      "line_widths": [
+        1023,
+        1034,
+        919,
+        1040,
+        895,
+        0,
+        937,
+        927,
+        102
+      ],
+      "limit": 1042
+    },
+    "m3_dlc1_chap4_diary_3_dsc": {
+      "profile": "note",
+      "line_widths": [
+        1427,
+        1179,
+        0,
+        1419,
+        1413,
+        781,
+        0,
+        1456,
+        801,
+        0,
+        1402,
+        0,
+        1399,
+        725,
+        0,
+        1420,
+        1415,
+        448
+      ],
+      "limit": 1460
+    },
+    "m3_dia_weapon_valve_intro": {
+      "profile": "journal",
+      "line_widths": [
+        984,
+        997,
+        944,
+        1003,
+        354,
+        0,
+        988,
+        1003,
+        1032,
+        1038,
+        1032,
+        1007,
+        945,
+        221,
+        0,
+        997,
+        1010,
+        900,
+        951,
+        978,
+        935,
+        945,
+        78,
+        0,
+        967,
+        999,
+        192
+      ],
+      "limit": 1042
+    },
+    "m3_08_summer_diary_1_dsc": {
+      "profile": "note",
+      "line_widths": [
+        862,
+        0,
+        1391,
+        1437,
+        1453,
+        1445,
+        1378,
+        884,
+        0,
+        181,
+        0,
+        32
+      ],
+      "limit": 1460
+    },
+    "m3_08_des_diary_2": {
+      "profile": "note",
+      "line_widths": [
+        174,
+        0,
+        1435,
+        1380,
+        1420,
+        1450,
+        1026,
+        0,
+        492,
+        0,
+        860
+      ],
+      "limit": 1460
+    },
+    "m3_12_val_diary_30_dsc": {
+      "profile": "note",
+      "line_widths": [
+        167
+      ],
+      "limit": 1460
+    },
+    "m3_01_moscow_diary_6_dsc": {
+      "profile": "note",
+      "line_widths": [
+        234,
+        0,
+        1406,
+        1346,
+        1376,
+        1351,
+        917,
+        0,
+        536,
+        0,
+        76
+      ],
+      "limit": 1460
+    },
+    "m3_06_diary_10_dsc": {
+      "profile": "note",
+      "line_widths": [
+        608,
+        0,
+        671,
+        0,
+        1022,
+        0,
+        1057,
+        0,
+        959,
+        0,
+        972,
+        0,
+        616,
+        0,
+        615,
+        0,
+        1294,
+        0,
+        595,
+        0,
+        744,
+        0,
+        647,
+        0,
+        693,
+        0,
+        697,
+        0,
+        600,
+        0,
+        1163,
+        0,
+        747,
+        0,
+        746,
+        0,
+        506,
+        0,
+        777,
+        0,
+        600,
+        0,
+        610,
+        0,
+        696,
+        0,
+        542,
+        0,
+        663,
+        0,
+        724,
+        0,
+        674,
+        0,
+        1137,
+        0,
+        902,
+        0,
+        659,
+        0,
+        1192,
+        0,
+        1028,
+        0,
+        1432,
+        468,
+        0,
+        581
+      ],
+      "limit": 1460
+    },
+    "m3_dlc1_chap1_diary_2_dsc": {
+      "profile": "note",
+      "line_widths": [
+        1415,
+        1459,
+        1445,
+        1450,
+        1429,
+        649
+      ],
+      "limit": 1460
+    },
+    "m3_dia_crew_idiot_summer": {
+      "profile": "journal",
+      "line_widths": [
+        943,
+        986,
+        934,
+        1007,
+        952,
+        987,
+        988,
+        786
+      ],
+      "limit": 1042
+    },
+    "m3_pause_menu_hint_weapons_dsc": {
+      "profile": "advice",
+      "line_widths": [
+        1433,
+        1373,
+        638
+      ],
+      "limit": 1460
+    },
+    "m3_dia_moster_spider_intro": {
+      "profile": "journal",
+      "line_widths": [
+        1020,
+        1025,
+        1027,
+        989,
+        995,
+        1002,
+        707
+      ],
+      "limit": 1042
+    },
+    "m3_01_moscow_diary_8_dsc": {
+      "profile": "note",
+      "line_widths": [
+        778,
+        0,
+        1400,
+        1436,
+        1369,
+        0,
+        1412,
+        1451,
+        1338,
+        0,
+        198
+      ],
+      "limit": 1460
+    },
+    "m3_dia_world_svargo_intro": {
+      "profile": "journal",
+      "line_widths": [
+        913,
+        1007,
+        1007,
+        1037,
+        1011,
+        1004
+      ],
+      "limit": 1042
+    },
+    "m3_dia_crew_alyosha_autumn_karmagood": {
+      "profile": "journal",
+      "line_widths": [
+        997,
+        998,
+        998,
+        966,
+        890,
+        945,
+        1006,
+        167
+      ],
+      "limit": 1042
+    },
+    "m3_dia_crew_yermak_intro": {
+      "profile": "journal",
+      "line_widths": [
+        961,
+        974,
+        920,
+        1015,
+        975,
+        953,
+        1023,
+        0,
+        942,
+        1002,
+        980,
+        1026,
+        995,
+        541,
+        0,
+        945,
+        712,
+        0,
+        985,
+        1027,
+        993,
+        719,
+        0,
+        284
+      ],
+      "limit": 1042
+    },
+    "m3_dia_crew_anna_spring": {
+      "profile": "journal",
+      "line_widths": [
+        919,
+        1008,
+        924,
+        930,
+        999,
+        1011,
+        1027,
+        993,
+        985,
+        995,
+        984,
+        999,
+        1007,
+        268
+      ],
+      "limit": 1042
+    },
+    "m3_06_diary_7_dsc": {
+      "profile": "note",
+      "line_widths": [
+        1442,
+        1423,
+        1434,
+        1116,
+        0,
+        1391,
+        1389,
+        1409,
+        966,
+        0,
+        1069,
+        0,
+        113,
+        0,
+        325
+      ],
+      "limit": 1460
+    },
+    "m3_dlc2_diary_10_dsc": {
+      "profile": "note",
+      "line_widths": [
+        95,
+        1437,
+        330,
+        0,
+        95,
+        1347,
+        1412,
+        1364,
+        810,
+        0,
+        111,
+        404,
+        0,
+        111,
+        1382,
+        478,
+        0,
+        161,
+        1278,
+        0,
+        161,
+        1450,
+        239,
+        0,
+        161,
+        968,
+        0,
+        177,
+        1276,
+        0,
+        216,
+        1343,
+        1429,
+        1404,
+        455
+      ],
+      "limit": 1460
+    },
+    "m3_05_chase_diary_2_dsc": {
+      "profile": "note",
+      "line_widths": [
+        1389,
+        850,
+        0,
+        1312
+      ],
+      "limit": 1460
+    },
+    "m3_dia_moster_bear_intro": {
+      "profile": "journal",
+      "line_widths": [
+        1019,
+        932,
+        956,
+        1009,
+        916,
+        114
+      ],
+      "limit": 1042
+    },
+    "m3_13_nvs_diary_2_dsc": {
+      "profile": "note",
+      "line_widths": [
+        641,
+        0,
+        264,
+        0,
+        795,
+        0,
+        1425,
+        862,
+        0,
+        1131,
+        0,
+        1374,
+        0,
+        1458,
+        442,
+        0,
+        1412,
+        439,
+        0,
+        1420,
+        1400,
+        1357,
+        1392,
+        1449,
+        1076,
+        0,
+        1446,
+        356,
+        0,
+        427,
+        0,
+        186
+      ],
+      "limit": 1460
+    },
+    "m3_dia_crew_duke_spring_alive": {
+      "profile": "journal",
+      "line_widths": [
+        956,
+        960,
+        947,
+        955,
+        1031,
+        967,
+        1036
+      ],
+      "limit": 1042
+    },
+    "m3_13_nvs_diary_8_dsc": {
+      "profile": "note",
+      "line_widths": [
+        417,
+        0,
+        1416,
+        190,
+        0,
+        1288,
+        403,
+        0,
+        1057,
+        0,
+        1248,
+        0,
+        1188,
+        0,
+        1166,
+        0,
+        955,
+        0,
+        1080
+      ],
+      "limit": 1460
+    },
+    "m3_08_des_diary_5": {
+      "profile": "note",
+      "line_widths": [
+        1422,
+        1389,
+        393,
+        0,
+        1393,
+        1370,
+        1361,
+        395,
+        0,
+        1452,
+        475
+      ],
+      "limit": 1460
+    },
+    "m3_pause_menu_hint_dsc": {
+      "profile": "advice",
+      "line_widths": [
+        1421,
+        222
+      ],
+      "limit": 1460
+    },
+    "m3_07_yam_diary_4_dsc": {
+      "profile": "note",
+      "line_widths": [
+        1425,
+        1417,
+        1423,
+        1452,
+        1102,
+        0,
+        1383,
+        1437,
+        1367,
+        229,
+        0,
+        1406,
+        1387,
+        1422,
+        1269
+      ],
+      "limit": 1460
+    },
+    "m3_dia_weapon_dynamite_intro": {
+      "profile": "journal",
+      "line_widths": [
+        917,
+        972,
+        538
+      ],
+      "limit": 1042
+    },
+    "m3_dlc1_chap1_diary_1_1_dsc": {
+      "profile": "note",
+      "line_widths": [
+        1423,
+        1371,
+        1061,
+        0,
+        1397,
+        1460,
+        1457,
+        1430,
+        364,
+        0,
+        1444,
+        1376,
+        1364
+      ],
+      "limit": 1460
+    },
+    "m3_01_moscow_diary_4_dsc": {
+      "profile": "note",
+      "line_widths": [
+        826,
+        0,
+        364,
+        0,
+        352,
+        0,
+        404,
+        0,
+        548,
+        0,
+        622,
+        0,
+        502,
+        0,
+        385,
+        0,
+        1331,
+        364
+      ],
+      "limit": 1460
+    },
+    "m3_dia_moster_aquamale_intro": {
+      "profile": "journal",
+      "line_widths": [
+        923,
+        941,
+        877,
+        989,
+        932,
+        973,
+        1011,
+        935,
+        826
+      ],
+      "limit": 1042
+    },
+    "m3_dia_moster_wolf_intro": {
+      "profile": "journal",
+      "line_widths": [
+        958,
+        1004,
+        967,
+        994,
+        1036,
+        327
+      ],
+      "limit": 1042
+    },
+    "m3_dia_crew_anna_autumn": {
+      "profile": "journal",
+      "line_widths": [
+        947,
+        1033,
+        947,
+        1032,
+        1012,
+        958,
+        994,
+        991,
+        969,
+        554,
+        0,
+        967,
+        992,
+        1008,
+        1030,
+        982,
+        1027,
+        954,
+        1025,
+        927,
+        230
+      ],
+      "limit": 1042
+    },
+    "m3_12_val_diary_39_dsc": {
+      "profile": "note",
+      "line_widths": [
+        159
+      ],
+      "limit": 1460
+    },
+    "m3_12_val_diary_25_2_dsc": {
+      "profile": "note",
+      "line_widths": [
+        325,
+        0,
+        1439,
+        1381,
+        1380,
+        1385,
+        563,
+        0,
+        265
+      ],
+      "limit": 1460
+    },
+    "m3_01_moscow_diary_5_dsc": {
+      "profile": "note",
+      "line_widths": [
+        890,
+        0,
+        854,
+        0,
+        1231
+      ],
+      "limit": 1460
+    },
+    "m3_01_moscow_diary_1_dsc": {
+      "profile": "note",
+      "line_widths": [
+        177,
+        0,
+        1153,
+        0,
+        177,
+        0,
+        1460,
+        1418,
+        183,
+        0,
+        177,
+        0,
+        1454,
+        1434,
+        1444,
+        361,
+        0,
+        177,
+        0,
+        1384,
+        1356,
+        363
+      ],
+      "limit": 1460
+    },
+    "m3_pause_menu_hint_gieger_dsc": {
+      "profile": "advice",
+      "line_widths": [
+        1395,
+        591,
+        0,
+        1441,
+        322
+      ],
+      "limit": 1460
+    },
+    "m3_06_diary_1_dsc": {
+      "profile": "note",
+      "line_widths": [
+        183,
+        0,
+        1426,
+        1403,
+        1234,
+        0,
+        183,
+        0,
+        1438,
+        1360,
+        1438,
+        1427,
+        904,
+        0,
+        183,
+        0,
+        1441,
+        1454,
+        1362,
+        135,
+        0,
+        183,
+        0,
+        1420,
+        1385,
+        1387,
+        532,
+        0,
+        183,
+        0,
+        1442,
+        1393,
+        1369,
+        1438,
+        117,
+        0,
+        183,
+        0,
+        1262,
+        0,
+        183,
+        0,
+        1430,
+        1414,
+        639,
+        0,
+        183,
+        0,
+        1413,
+        100,
+        0,
+        183,
+        0,
+        1456,
+        903,
+        0,
+        183,
+        0,
+        1406,
+        1451,
+        633,
+        0,
+        183,
+        0,
+        895,
+        0,
+        1421,
+        676,
+        0,
+        293,
+        0,
+        183,
+        0,
+        210,
+        0,
+        1409,
+        1426,
+        460
+      ],
+      "limit": 1460
+    },
+    "m3_dlc1_chap1_diary_1_dsc": {
+      "profile": "note",
+      "line_widths": [
+        1382,
+        1394,
+        1435,
+        401,
+        0,
+        1435,
+        1390,
+        1409,
+        1406,
+        601
+      ],
+      "limit": 1460
+    },
+    "m3_dlc2_diary_08_dsc": {
+      "profile": "note",
+      "line_widths": [
+        1374,
+        1365,
+        267,
+        0,
+        1384,
+        664,
+        0,
+        1401,
+        1417,
+        781,
+        0,
+        89
+      ],
+      "limit": 1460
+    },
+    "m3_dia_crew_katya_nastya_intro": {
+      "profile": "journal",
+      "line_widths": [
+        1020,
+        990,
+        974,
+        1002,
+        924,
+        0,
+        1035,
+        1025,
+        973,
+        960,
+        999,
+        983,
+        433,
+        0,
+        945,
+        970,
+        996,
+        992,
+        1003,
+        959,
+        373
+      ],
+      "limit": 1042
+    },
+    "m3_07_yam_diary_2_dsc": {
+      "profile": "note",
+      "line_widths": [
+        1405,
+        1237,
+        0,
+        1452,
+        1452,
+        1408,
+        647
+      ],
+      "limit": 1460
+    },
+    "m3_05_chase_diary_1_dsc": {
+      "profile": "note",
+      "line_widths": [
+        459,
+        0,
+        95,
+        0,
+        280,
+        0,
+        427,
+        0,
+        138,
+        0,
+        1457,
+        1413,
+        1459,
+        1459,
+        1210,
+        0,
+        1117,
+        0,
+        378,
+        0,
+        215
+      ],
+      "limit": 1460
+    },
+    "m3_12_val_diary_5_dsc": {
+      "profile": "note",
+      "line_widths": [
+        1334,
+        985,
+        0,
+        153
+      ],
+      "limit": 1460
+    },
+    "m3_dia_crew_miller_spring": {
+      "profile": "journal",
+      "line_widths": [
+        1034,
+        927,
+        971,
+        1000,
+        0,
+        968,
+        1014,
+        944,
+        991,
+        1037,
+        1014,
+        964,
+        0,
+        1022,
+        1013
+      ],
+      "limit": 1042
+    },
+    "m3_12_val_diary_24_3_dsc": {
+      "profile": "note",
+      "line_widths": [
+        946
+      ],
+      "limit": 1460
+    },
+    "m3_dia_weapon_tikhar_intro": {
+      "profile": "journal",
+      "line_widths": [
+        959,
+        947,
+        1004,
+        970,
+        1024,
+        944,
+        1027,
+        914,
+        948,
+        507,
+        0,
+        1015,
+        1020,
+        993,
+        728
+      ],
+      "limit": 1042
+    },
+    "m3_06_diary_11_dsc": {
+      "profile": "note",
+      "line_widths": [
+        150,
+        0,
+        1412,
+        1042,
+        0,
+        124,
+        0,
+        1376,
+        230,
+        0,
+        121,
+        0,
+        737,
+        0,
+        1128,
+        0,
+        137,
+        0,
+        626,
+        0,
+        154,
+        0,
+        1355,
+        1045,
+        0,
+        154,
+        0,
+        1457,
+        114,
+        0,
+        154,
+        0,
+        152,
+        0,
+        154,
+        0,
+        216,
+        0,
+        154,
+        0,
+        656,
+        0,
+        154,
+        0,
+        476,
+        0,
+        466,
+        0,
+        300,
+        0,
+        86,
+        0,
+        421,
+        0,
+        902,
+        0,
+        86,
+        0,
+        1314,
+        503,
+        0,
+        107,
+        0,
+        508,
+        0,
+        1339,
+        1307,
+        0,
+        16,
+        0,
+        773,
+        0,
+        85,
+        76,
+        1163,
+        0,
+        17,
+        0,
+        647,
+        0,
+        17,
+        0,
+        449,
+        0,
+        45,
+        0,
+        17,
+        0,
+        378,
+        0,
+        17,
+        0,
+        269
+      ],
+      "limit": 1460
+    },
+    "m3_dia_crew_duke_spring_dead": {
+      "profile": "journal",
+      "line_widths": [
+        1039,
+        1029,
+        959,
+        1033,
+        1017,
+        991,
+        481
+      ],
+      "limit": 1042
+    },
+    "m3_dia_moster_catfish_audiolog_m3_06_bridge_terminal_found": {
+      "profile": "journal",
+      "line_widths": [
+        1002,
+        971,
+        970,
+        1023,
+        1004,
+        289
+      ],
+      "limit": 1042
+    },
+    "m3_pause_menu_hint_suit_dsc": {
+      "profile": "advice",
+      "line_widths": [
+        1422,
+        551
+      ],
+      "limit": 1460
+    },
+    "m3_12_val_diary_2_dsc": {
+      "profile": "note",
+      "line_widths": [
+        1387,
+        1454,
+        1391,
+        675,
+        0,
+        1350,
+        1418,
+        1439,
+        1352,
+        0,
+        1414
+      ],
+      "limit": 1460
+    },
+    "m3_dia_moster_spiderfemale_intro": {
+      "profile": "journal",
+      "line_widths": [
+        1020,
+        1025,
+        1027,
+        989,
+        970,
+        1001,
+        1034,
+        1014,
+        293,
+        0,
+        1032,
+        1001,
+        300
+      ],
+      "limit": 1042
+    },
+    "m3_pause_menu_hint_torchlight_dsc": {
+      "profile": "advice",
+      "line_widths": [
+        1428,
+        1326
+      ],
+      "limit": 1460
+    },
+    "m3_12_val_diary_11_2_dsc": {
+      "profile": "note",
+      "line_widths": [
+        1450,
+        1455,
+        361,
+        0,
+        301,
+        0,
+        89
+      ],
+      "limit": 1460
+    },
+    "m3_06_diary_3_dsc": {
+      "profile": "note",
+      "line_widths": [
+        1445,
+        1332,
+        823,
+        0,
+        1411,
+        1447,
+        331
+      ],
+      "limit": 1460
+    },
+    "m3_dia_equip_tablet_intro": {
+      "profile": "journal",
+      "line_widths": [
+        1022,
+        998,
+        1042,
+        1040,
+        1040,
+        935,
+        1006,
+        876,
+        976,
+        940
+      ],
+      "limit": 1042
+    },
+    "m3_dia_weapon_tikhar_incendiary": {
+      "profile": "journal",
+      "line_widths": [
+        968,
+        951,
+        1002,
+        989,
+        1032,
+        1037,
+        911
+      ],
+      "limit": 1042
+    },
+    "m3_12_val_diary_35_dsc": {
+      "profile": "note",
+      "line_widths": [
+        154
+      ],
+      "limit": 1460
+    },
+    "m3_01_moscow_diary_3_dsc": {
+      "profile": "note",
+      "line_widths": [
+        167,
+        0,
+        1423,
+        1225,
+        0,
+        219,
+        0,
+        1440,
+        278,
+        0,
+        1432,
+        1458,
+        1313,
+        0,
+        709
+      ],
+      "limit": 1460
+    },
+    "m3_pause_menu_hint_dirt_dsc": {
+      "profile": "advice",
+      "line_widths": [
+        1337,
+        390,
+        0,
+        1368,
+        1373,
+        520
+      ],
+      "limit": 1460
+    },
+    "m3_dlc2_diary_05_dsc": {
+      "profile": "note",
+      "line_widths": [
+        89,
+        0,
+        1423,
+        1422,
+        1431,
+        236,
+        1132,
+        1406,
+        480,
+        0,
+        101,
+        0,
+        230
+      ],
+      "limit": 1460
+    },
+    "m3_08_des_diary_3": {
+      "profile": "note",
+      "line_widths": [
+        1392,
+        1442,
+        487,
+        0,
+        1376,
+        1406,
+        1459,
+        0,
+        207
+      ],
+      "limit": 1460
+    },
+    "m3_pause_menu_hint_gasmask_dsc": {
+      "profile": "advice",
+      "line_widths": [
+        1402,
+        372,
+        0,
+        1390,
+        1319,
+        0,
+        1412,
+        0,
+        1132,
+        0,
+        895
+      ],
+      "limit": 1460
+    },
+    "m3_dlc2_diary_04_dsc": {
+      "profile": "note",
+      "line_widths": [
+        1445,
+        615,
+        0,
+        206,
+        133
+      ],
+      "limit": 1460
+    },
+    "m3_dlc1_chap4_diary_2_dsc": {
+      "profile": "note",
+      "line_widths": [
+        1388,
+        1066,
+        0,
+        1396,
+        1398,
+        414,
+        0,
+        1266
+      ],
+      "limit": 1460
+    },
+    "m3_12_val_diary_9_dsc": {
+      "profile": "note",
+      "line_widths": [
+        1409,
+        1415,
+        223,
+        0,
+        1419,
+        1435,
+        1168,
+        0,
+        1418,
+        559
+      ],
+      "limit": 1460
+    },
+    "m3_dia_weapon_gatling_intro": {
+      "profile": "journal",
+      "line_widths": [
+        1035,
+        971,
+        1030,
+        914,
+        966,
+        1025,
+        990,
+        240,
+        0,
+        948,
+        947,
+        935,
+        980,
+        916,
+        970,
+        422,
+        0,
+        1028,
+        952,
+        941
+      ],
+      "limit": 1042
+    },
+    "m3_pause_menu_hint_workbench_dsc": {
+      "profile": "advice",
+      "line_widths": [
+        1376,
+        1443,
+        0,
+        1320
+      ],
+      "limit": 1460
+    },
+    "m3_pause_menu_hint_flamethrower_dsc": {
+      "profile": "advice",
+      "line_widths": [
+        1404,
+        1329,
+        0,
+        1381,
+        1148,
+        0,
+        1447,
+        850,
+        0,
+        1406,
+        1435
+      ],
+      "limit": 1460
+    },
+    "m3_dia_crew_miller_autumn": {
+      "profile": "journal",
+      "line_widths": [
+        1018,
+        1035,
+        1021,
+        1003,
+        454,
+        0,
+        936,
+        987,
+        977,
+        1015,
+        1030,
+        981,
+        318
+      ],
+      "limit": 1042
+    },
+    "m3_dia_moster_catfish_intro": {
+      "profile": "journal",
+      "line_widths": [
+        977,
+        1009,
+        991,
+        1040,
+        518
+      ],
+      "limit": 1042
+    },
+    "m3_dia_weapon_decoy_intro": {
+      "profile": "journal",
+      "line_widths": [
+        994,
+        857
+      ],
+      "limit": 1042
+    },
+    "m3_dia_moster_humanimals_intro": {
+      "profile": "journal",
+      "line_widths": [
+        1003,
+        1022,
+        1012,
+        1030,
+        1005,
+        958,
+        950,
+        1034,
+        1021,
+        86,
+        0,
+        957,
+        1006,
+        1006,
+        967,
+        1028,
+        1029,
+        626
+      ],
+      "limit": 1042
+    },
+    "m3_12_val_diary_3_dsc": {
+      "profile": "note",
+      "line_widths": [
+        185,
+        0,
+        1347,
+        1410,
+        1378,
+        580
+      ],
+      "limit": 1460
+    },
+    "m3_dlc2_diary_07_dsc": {
+      "profile": "note",
+      "line_widths": [
+        1398,
+        1441,
+        1456,
+        579,
+        0,
+        1368,
+        1364,
+        1454,
+        1388,
+        121
+      ],
+      "limit": 1460
+    },
+    "m3_07_yam_diary_6_dsc": {
+      "profile": "note",
+      "line_widths": [
+        1437,
+        1438,
+        294,
+        0,
+        1411,
+        1365,
+        755,
+        0,
+        1450,
+        911
+      ],
+      "limit": 1460
+    },
+    "m3_pause_menu_hint_combat_dsc": {
+      "profile": "advice",
+      "line_widths": [
+        664,
+        0,
+        1391,
+        1388,
+        267,
+        0,
+        1389,
+        157
+      ],
+      "limit": 1460
+    },
+    "m3_pause_menu_hint_secondary_dsc": {
+      "profile": "advice",
+      "line_widths": [
+        1452,
+        277,
+        0,
+        1334,
+        151,
+        0,
+        1384,
+        406,
+        0,
+        1450,
+        708,
+        0,
+        1382,
+        368
+      ],
+      "limit": 1460
+    },
+    "m3_dia_weapon_uboy_intro": {
+      "profile": "journal",
+      "line_widths": [
+        1036,
+        903,
+        927,
+        254,
+        0,
+        1031,
+        897,
+        1009,
+        1003,
+        958,
+        125
+      ],
+      "limit": 1042
+    },
+    "m3_dia_crew_duke_intro": {
+      "profile": "journal",
+      "line_widths": [
+        976,
+        1020,
+        960,
+        1027,
+        934,
+        245,
+        0,
+        923,
+        1017,
+        953,
+        939,
+        937,
+        1017,
+        960,
+        271
+      ],
+      "limit": 1042
+    },
+    "m3_13_nvs_diary_5_dsc": {
+      "profile": "note",
+      "line_widths": [
+        174,
+        0,
+        1368,
+        1451,
+        1384,
+        1413,
+        1411,
+        1013,
+        0,
+        1086,
+        0,
+        154,
+        0,
+        1428,
+        1375,
+        666,
+        0,
+        199,
+        0,
+        1441,
+        1439,
+        1453,
+        616,
+        0,
+        86,
+        0,
+        1434,
+        1448,
+        1383,
+        914,
+        0,
+        102,
+        0,
+        1333,
+        0,
+        1402,
+        1421,
+        568,
+        0,
+        123,
+        0,
+        1421,
+        579,
+        0,
+        132,
+        0,
+        1458,
+        1357,
+        1323,
+        0,
+        115,
+        0,
+        1353,
+        1390,
+        1089
+      ],
+      "limit": 1460
+    },
+    "m3_06_diary_8_dsc": {
+      "profile": "note",
+      "line_widths": [
+        1344,
+        1408,
+        357,
+        0,
+        1392,
+        1442,
+        1075,
+        0,
+        87
+      ],
+      "limit": 1460
+    },
+    "m3_dia_equip_gasmask_filter_upgrade_found": {
+      "profile": "journal",
+      "line_widths": [
+        954,
+        990,
+        409
+      ],
+      "limit": 1042
+    },
+    "m3_dia_equip_charger_stabilizer_upgrade_found": {
+      "profile": "journal",
+      "line_widths": [
+        997,
+        944,
+        995,
+        936,
+        936,
+        951,
+        954,
+        1032,
+        821
+      ],
+      "limit": 1042
+    },
+    "m3_dia_equip_lighter_intro": {
+      "profile": "journal",
+      "line_widths": [
+        898,
+        1033,
+        934,
+        997,
+        973,
+        1017,
+        823
+      ],
+      "limit": 1042
+    },
+    "m3_dlc2_diary_01_dsc": {
+      "profile": "note",
+      "line_widths": [
+        664,
+        0,
+        1414,
+        1079,
+        0,
+        1394,
+        1409,
+        207,
+        0,
+        575,
+        0,
+        1423,
+        1175,
+        0,
+        1393,
+        334,
+        0,
+        136
+      ],
+      "limit": 1460
+    },
+    "m3_pause_menu_hint_map_dsc": {
+      "profile": "advice",
+      "line_widths": [
+        1430,
+        928,
+        0,
+        1121
+      ],
+      "limit": 1460
+    },
+    "m3_pause_menu_hint_backpack_dsc": {
+      "profile": "advice",
+      "line_widths": [
+        1380,
+        1431,
+        252,
+        0,
+        1460,
+        233
+      ],
+      "limit": 1460
+    },
+    "m3_dia_moster_lurker_intro": {
+      "profile": "journal",
+      "line_widths": [
+        1009,
+        920,
+        960,
+        956,
+        883,
+        981,
+        964,
+        969,
+        997,
+        121,
+        0,
+        995,
+        987,
+        1004,
+        386
+      ],
+      "limit": 1042
+    },
+    "m3_dia_crew_krest_intro": {
+      "profile": "journal",
+      "line_widths": [
+        994,
+        932,
+        904,
+        1014,
+        896,
+        991,
+        419,
+        0,
+        977,
+        1038,
+        957,
+        1029,
+        1020,
+        501
+      ],
+      "limit": 1042
+    },
+    "m3_12_val_diary_34_dsc": {
+      "profile": "note",
+      "line_widths": [
+        81
+      ],
+      "limit": 1460
+    },
+    "m3_dia_world_bandits_intro": {
+      "profile": "journal",
+      "line_widths": [
+        981,
+        1037,
+        1003,
+        947,
+        1001,
+        986,
+        982,
+        1021,
+        1041,
+        643,
+        0,
+        981,
+        993,
+        947,
+        1029,
+        1039,
+        437
+      ],
+      "limit": 1042
+    },
+    "m3_dia_crew_kirill_intro": {
+      "profile": "journal",
+      "line_widths": [
+        1036,
+        973,
+        1035,
+        672,
+        0,
+        1026,
+        987,
+        953,
+        1030,
+        984,
+        1023,
+        493,
+        0,
+        942,
+        1001,
+        1021,
+        961,
+        443
+      ],
+      "limit": 1042
+    },
+    "m3_dia_crew_katya_nastya_autumn": {
+      "profile": "journal",
+      "line_widths": [
+        967,
+        911,
+        970,
+        934,
+        975,
+        950,
+        1006,
+        802,
+        0,
+        481,
+        0,
+        1033,
+        1015,
+        940,
+        995,
+        993,
+        961,
+        1032,
+        426,
+        0,
+        825,
+        975,
+        992,
+        233
+      ],
+      "limit": 1042
+    },
+    "m3_dia_equip_backpack_intro": {
+      "profile": "journal",
+      "line_widths": [
+        964,
+        983,
+        1035,
+        1022,
+        898,
+        0,
+        891,
+        995,
+        1015,
+        956,
+        1028,
+        1039,
+        617
+      ],
+      "limit": 1042
+    },
+    "m3_12_val_diary_23_2_dsc": {
+      "profile": "note",
+      "line_widths": [
+        1381,
+        1315,
+        1394,
+        1401,
+        850,
+        0,
+        124
+      ],
+      "limit": 1460
+    },
+    "m3_pause_menu_hint_medkit_dsc": {
+      "profile": "advice",
+      "line_widths": [
+        1282
+      ],
+      "limit": 1460
+    },
+    "m3_12_val_diary_33_dsc": {
+      "profile": "note",
+      "line_widths": [
+        167
+      ],
+      "limit": 1460
+    },
+    "m3_dlc2_diary_02_dsc": {
+      "profile": "note",
+      "line_widths": [
+        1429,
+        0,
+        1396,
+        0,
+        1349,
+        147,
+        0,
+        631
+      ],
+      "limit": 1460
+    },
+    "m3_dia_moster_catfish_audiolog_m3_06_bridge_cultemergence_found": {
+      "profile": "journal",
+      "line_widths": [
+        960,
+        1021,
+        930,
+        1028,
+        548
+      ],
+      "limit": 1042
+    },
+    "m3_12_val_diary_38_dsc": {
+      "profile": "note",
+      "line_widths": [
+        169
+      ],
+      "limit": 1460
+    },
+    "m3_dia_crew_sam_intro": {
+      "profile": "journal",
+      "line_widths": [
+        961,
+        1006,
+        921,
+        1033,
+        909,
+        1028,
+        826,
+        0,
+        1003,
+        977,
+        994,
+        1024,
+        1009,
+        993,
+        981,
+        1019,
+        893,
+        0,
+        1015,
+        992,
+        1004,
+        1015,
+        1040,
+        1010,
+        960,
+        434
+      ],
+      "limit": 1042
+    },
+    "m3_pause_menu_hint_pnevmo_dsc": {
+      "profile": "advice",
+      "line_widths": [
+        1448,
+        1425,
+        108
+      ],
+      "limit": 1460
+    },
+    "m3_dlc2_diary_11_dsc": {
+      "profile": "note",
+      "line_widths": [
+        132,
+        0,
+        1422,
+        1450,
+        794,
+        1457,
+        1052,
+        1359,
+        1383,
+        881,
+        0,
+        79
+      ],
+      "limit": 1460
+    },
+    "m3_dia_moster_nosalis_intro": {
+      "profile": "journal",
+      "line_widths": [
+        999,
+        1034,
+        936,
+        85
+      ],
+      "limit": 1042
+    },
+    "m3_dia_crew_idiot_intro": {
+      "profile": "journal",
+      "line_widths": [
+        993,
+        1020,
+        952,
+        969,
+        990,
+        1038,
+        509,
+        0,
+        1007,
+        1012,
+        955,
+        978,
+        1003,
+        1011,
+        269
+      ],
+      "limit": 1042
+    },
+    "m3_13_nvs_diary_7_dsc": {
+      "profile": "note",
+      "line_widths": [
+        1434,
+        1382,
+        123,
+        0,
+        1384,
+        1429,
+        1456,
+        925,
+        0,
+        1391,
+        1437,
+        1342,
+        1204,
+        0,
+        1414,
+        1396,
+        1385,
+        0,
+        1460,
+        1455,
+        1433,
+        412,
+        0,
+        833
+      ],
+      "limit": 1460
+    },
+    "m3_12_val_diary_36_dsc": {
+      "profile": "note",
+      "line_widths": [
+        88
+      ],
+      "limit": 1460
+    },
+    "m3_dia_crew_katya_nastya_summer": {
+      "profile": "journal",
+      "line_widths": [
+        1031,
+        1032,
+        1023,
+        930,
+        958,
+        961,
+        938,
+        82,
+        0,
+        961,
+        1010,
+        997,
+        937
+      ],
+      "limit": 1042
+    },
+    "m3_12_val_diary_37_dsc": {
+      "profile": "note",
+      "line_widths": [
+        78
+      ],
+      "limit": 1460
+    },
+    "m3_07_yam_diary_7_dsc": {
+      "profile": "note",
+      "line_widths": [
+        1426,
+        1410,
+        1444,
+        1179,
+        1351,
+        1433,
+        859,
+        0,
+        1364,
+        1451,
+        1453,
+        123,
+        0,
+        1415,
+        1412,
+        1407,
+        865,
+        1408,
+        1400,
+        1414,
+        131,
+        0,
+        1443,
+        1377,
+        1410,
+        1116,
+        0,
+        1428,
+        1428,
+        815,
+        1400,
+        1441,
+        1442,
+        1434,
+        1378,
+        81
+      ],
+      "limit": 1460
+    },
+    "m3_12_autumn_diary_1_dsc": {
+      "profile": "note",
+      "line_widths": [
+        1372,
+        1358,
+        862,
+        0,
+        1418,
+        452,
+        0,
+        1396,
+        981
+      ],
+      "limit": 1460
+    },
+    "m3_dia_world_savage_intro": {
+      "profile": "journal",
+      "line_widths": [
+        1017,
+        998,
+        883,
+        1009,
+        886,
+        1011,
+        971,
+        386
+      ],
+      "limit": 1042
+    },
+    "m3_dia_weapon_vyhlop_intro": {
+      "profile": "journal",
+      "line_widths": [
+        930,
+        1002,
+        1018,
+        990,
+        1016,
+        789,
+        0,
+        956,
+        984,
+        1016,
+        433,
+        0,
+        957,
+        975,
+        907,
+        808
+      ],
+      "limit": 1042
+    },
+    "m3_dia_world_hanza_intro": {
+      "profile": "journal",
+      "line_widths": [
+        972,
+        987,
+        1029,
+        1033,
+        980,
+        1027,
+        1013,
+        172,
+        0,
+        979,
+        940,
+        933,
+        922,
+        965,
+        1010,
+        1013,
+        973,
+        345,
+        0,
+        1016,
+        986,
+        960,
+        711,
+        0,
+        937,
+        1029,
+        346,
+        0,
+        965,
+        220
+      ],
+      "limit": 1042
+    },
+    "m3_dia_crew_anna_summer": {
+      "profile": "journal",
+      "line_widths": [
+        1033,
+        982,
+        946,
+        907,
+        1023,
+        1014,
+        1001,
+        1042,
+        945,
+        570,
+        0,
+        993,
+        984,
+        937,
+        996,
+        623
+      ],
+      "limit": 1042
+    },
+    "m3_dia_world_fanatics_intro": {
+      "profile": "journal",
+      "line_widths": [
+        1039,
+        967,
+        1021,
+        943,
+        965,
+        97,
+        0,
+        982,
+        966,
+        1013,
+        1021,
+        956,
+        1041,
+        952,
+        348
+      ],
+      "limit": 1042
+    },
+    "m3_dia_crew_damir_summer_karmagood": {
+      "profile": "journal",
+      "line_widths": [
+        971,
+        1002,
+        945,
+        968,
+        985,
+        664
+      ],
+      "limit": 1042
+    },
+    "m3_12_val_diary_31_dsc": {
+      "profile": "note",
+      "line_widths": [
+        72
+      ],
+      "limit": 1460
+    },
+    "m3_05_winter_diary_1_dsc": {
+      "profile": "note",
+      "line_widths": [
+        682,
+        0,
+        209,
+        0,
+        473,
+        0,
+        1445,
+        1443,
+        363,
+        0,
+        1453,
+        1447,
+        1389,
+        0,
+        1425,
+        1391,
+        1402,
+        894,
+        0,
+        463,
+        0,
+        199
+      ],
+      "limit": 1460
+    }
+  }
+}

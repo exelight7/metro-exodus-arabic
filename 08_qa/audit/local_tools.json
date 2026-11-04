@@ -1,0 +1,26 @@
+{
+  "source_directories_used": [
+    "WORKSPACE\\zz\\MetroEX-master",
+    "WORKSPACE\\zz\\MetroTools-main"
+  ],
+  "files": [
+    {
+      "path": "WORKSPACE\\zz\\MetroTools-main\\src\\metro\\MetroLocalization.cpp",
+      "sha256": "736389592d81b45eb9d3e4351915575dc130f2a5644564e118a658bede3f4332"
+    },
+    {
+      "path": "WORKSPACE\\zz\\MetroTools-main\\src\\metro\\MetroFonts.cpp",
+      "sha256": "c2dd9a0d3745465bbd6d00dd803daab592cb38c817184840c9ac7914bea2bd1e"
+    },
+    {
+      "path": "WORKSPACE\\zz\\MetroEX-master\\src\\metro\\VFXReader.cpp",
+      "sha256": "0bd3ff350e0d40380024e85d45f7f07629950ac6ba7fe9ebd36ddbf1cba237fe"
+    },
+    {
+      "path": "WORKSPACE\\zz\\MetroEX-master\\src\\metro\\MetroPatchTool.cpp",
+      "sha256": "8838d06481e7c4594fbfaab7cf704031785c87d77d9dbd919fb76d26bcb1f6e5"
+    }
+  ],
+  "purpose": "LNG codec, indexed bitmap fonts, VFX entry layout and supplemental VFS compatibility",
+  "prebuilt_executables_found": false
+}

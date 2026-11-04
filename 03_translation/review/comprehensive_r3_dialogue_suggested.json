@@ -1,0 +1,268 @@
+[
+  {
+    "id": "voices\\m3_02_dead_moscow\\dmc_005_topoftheworld_19",
+    "source": "<ffx:wonder>Well, I'd say <ffx:smile_light>we're out of the woods... <ffx:fear>Whoa! <ffx:wonder>Hear that?! <ffx:wonder_light>",
+    "before": "<ffx:wonder>حسنًا، أود أن أقول<ffx:smile_light>لقد خرجنا من الغابة...<ffx:fear>واو!<ffx:wonder>تسمع ذلك؟!<ffx:wonder_light>",
+    "target": "<ffx:wonder>حسنا، أظن أننا <ffx:smile_light>تجاوزنا الخطر... <ffx:fear>مهلا! <ffx:wonder>أتسمع ذلك؟! <ffx:wonder_light>",
+    "reason": "out of the woods تعني تجاوز الخطر، لا الخروج من غابة."
+  },
+  {
+    "id": "voices\\m3_05_chase\\cha_003_battle_bosstalk_20",
+    "source": "Make Swiss cheese out of the thing! Fire at will!",
+    "before": "اصنع الجبن السويسري من هذا الشيء! النار في الإرادة!",
+    "target": "اثقبوا هذا الشيء بالرصاص! أطلقوا النار بحرية!",
+    "reason": "Swiss cheese وfire at will تعبيران قتاليان، وليسا جبنا أو إرادة النار."
+  },
+  {
+    "id": "voices\\m3_02_dead_moscow\\dmc_001_littrercarry_01_21",
+    "source": "<ffx:wonder_light>Hang in there Artyom, you're <ffx:smile>gonna get a fresh dose of Spartan blood now! <ffx:neutral>",
+    "before": "<ffx:wonder_light>انتظر يا أرتيوم، أنت<ffx:smile>ستحصل على جرعة جديدة من الدم المتقشف الآن!<ffx:neutral>",
+    "target": "<ffx:wonder_light>تماسك يا أرتيوم، <ffx:smile>ستتلقى الآن دما جديدا من الإسبرطيين! <ffx:neutral>",
+    "reason": "Hang in there تشجيع على التماسك، وSpartan اسم الفصيل لا صفة التقشف."
+  },
+  {
+    "id": "voices\\m3_06_spring\\spr_007_princeparty_loop_25",
+    "source": "Wow... That hit the spot!",
+    "before": "واو... هذا أصاب المكان!",
+    "target": "آه... هذا ما كنت أحتاج إليه!",
+    "reason": "hit the spot تعني إشباع الحاجة أو الاستمتاع، لا إصابة مكان."
+  },
+  {
+    "id": "voices\\m3_06_spring\\spr_007_level2_09",
+    "source": "<ffx:smile>Ha-ha! That is unlikely... <ffx:sadness_light>I'm not the kind of man to upstage his friend in a contest for a lady! <ffx:smile>Especially when that friend promises to break my arm! <ffx:neutral>",
+    "before": "<ffx:smile>ها ها! هذا غير محتمل...<ffx:sadness_light>أنا لست من النوع الذي يتفوق على صديقه في مسابقة للسيدات!<ffx:smile>خاصة عندما وعدني ذلك الصديق بكسر ذراعي!<ffx:neutral>",
+    "target": "<ffx:smile>هاها! هذا مستبعد... <ffx:sadness_light>لست ممن يزاحمون صديقا على قلب امرأة! <ffx:smile>خصوصا حين يهددني ذلك الصديق بكسر ذراعي! <ffx:neutral>",
+    "reason": "contest for a lady تنافس على قلب امرأة وليس مسابقة للسيدات."
+  },
+  {
+    "id": "voices\\m3_dlc1\\dlc1_45_1_1_celebration_bartender_03",
+    "source": "How about a drink? The first one is on the house tonight!",
+    "before": "ماذا عن الشراب؟ أول واحد هو في المنزل الليلة!",
+    "target": "أتريد شرابا؟ الكأس الأولى على حسابنا الليلة!",
+    "reason": "on the house مجانية على حساب الحانة، لا في المنزل."
+  },
+  {
+    "id": "voices\\m3_13_dead_city\\nvs_011_02_artyompothole_2_03",
+    "source": "<ffx:smile_light>You break a leg, you crawl back to the Aurora alone, <ffx:disgust_light>I can't turn back before I find that medicine! <ffx:neutral>",
+    "before": "<ffx:smile_light>إذا كسرت ساقك، وزحفت عائداً إلى أورورا وحدك،<ffx:disgust_light>لا أستطيع العودة قبل أن أجد هذا الدواء!<ffx:neutral>",
+    "target": "<ffx:smile_light>إن كسرت ساقك، فستزحف عائدا إلى أورورا وحدك؛ <ffx:disgust_light>لا أستطيع الرجوع قبل العثور على ذلك الدواء! <ffx:neutral>",
+    "reason": "تصحيح ربط الشرط بنتيجته؛ الأصل تحذير من عواقب كسر الساق."
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_007_banditboatcrew_01_01",
+    "source": "<ffx:fear>Shit! Did you see that piece of crap? <ffx:anger>Just like the last fucking time! Row harder! <ffx:neutral>",
+    "before": "<ffx:fear>القرف! هل رأيت تلك القطعة من حماقة؟<ffx:anger>تمامًا مثل المرة الأخيرة! صف أصعب!<ffx:neutral>",
+    "target": "<ffx:fear>اللعنة! هل رأيتم ذلك الشيء اللعين؟ <ffx:anger>تماما كما حدث آخر مرة! جدفوا بقوة أكبر! <ffx:neutral>",
+    "reason": "Row فعل التجديف هنا، لا صف؛ والنداء لطاقم القارب."
+  },
+  {
+    "id": "voices\\m3_12_valley\\val_40_admiral_01_01",
+    "source": "<ffx:smile>Rat got your tongue, so you can't knock on the door anymore, eh? <ffx:anger>As the Teacher said, <ffx:wonder>courtesy distinguishes us from bandits and other animals! <ffx:neutral>",
+    "before": "<ffx:smile>لقد حصل الجرذ على لسانك، لذا لا يمكنك طرق الباب بعد الآن، أليس كذلك؟<ffx:anger>كما قال المعلم،<ffx:wonder>تميزنا عن قطاع الطرق والحيوانات الأخرى!<ffx:neutral>",
+    "target": "<ffx:smile>هل أكل الجرذ لسانك، فلم تعد تستطيع حتى طرق الباب؟ <ffx:anger>كما قال المعلم، <ffx:wonder>الأدب هو ما يميزنا عن قطاع الطرق وسائر الحيوانات! <ffx:neutral>",
+    "reason": "تصحيح التعبير الاستنكاري واستعادة كلمة courtesy التي حذفت من المعنى."
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_032_carriage_bandits_talk_oilwoes_04_04",
+    "source": "<ffx:smile_light>No dice, the boys took it all...<ffx:neutral>",
+    "before": "<ffx:smile_light>لا يوجد نرد، لقد أخذ الأولاد كل شيء...<ffx:neutral>",
+    "target": "<ffx:smile_light>لا فائدة، لقد أخذ الرجال كل شيء...<ffx:neutral>",
+    "reason": "No dice هنا لا جدوى أو لا حظ، لا نرد."
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_016_5_breakingcamp_03",
+    "source": "<ffx:anger_light>I tried that already, no dice. <ffx:disgust>He takes women as payment. <ffx:neutral>",
+    "before": "<ffx:anger_light>لقد حاولت ذلك بالفعل، لا يوجد نرد.<ffx:disgust>يأخذ النساء كدفعة.<ffx:neutral>",
+    "target": "<ffx:anger_light>جربت ذلك من قبل، ولم أنجح. <ffx:disgust>إنه يقبل النساء ثمنا. <ffx:neutral>",
+    "reason": "No dice نتيجة محاولة فاشلة، وتصحيح صياغة الدفع بالنساء."
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_012_6_ambush2_01_03",
+    "source": "<ffx:anger>'Cause I fucking said so! <ffx:disgust>You question me again, you get fucked up, got it? <ffx:neutral>",
+    "before": "<ffx:anger>لأنني قلت ذلك سخيف!<ffx:disgust>أنت تستجوبني مرة أخرى، لقد أخطأت، فهمت؟<ffx:neutral>",
+    "target": "<ffx:anger>لأنني قلت ذلك، اللعنة! <ffx:disgust>إن اعترضت علي مرة أخرى فسأبرحك ضربا، أفهمت؟ <ffx:neutral>",
+    "reason": "العبارة تهديد مشروط عند الاعتراض، وليست إخبارا بأن المخاطب أخطأ سابقا."
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_003_55_captain_battleover_01_04",
+    "source": "Hey, take it easy, I just helped you...",
+    "before": "مهلا، خذ الأمور على محمل الجد، لقد ساعدتك للتو...",
+    "target": "مهلا، اهدأ، لقد ساعدتك للتو...",
+    "reason": "take it easy تعني اهدأ؛ الترجمة السابقة عكست المعنى."
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_022_goodend_13",
+    "source": "All hands! Hold your fire until ordered!",
+    "before": "كل الأيدي! امسك النار حتى يأمر!",
+    "target": "إلى جميع الأفراد! لا تطلقوا النار حتى تصدر الأوامر!",
+    "reason": "All hands نداء للأفراد وhold fire أمر بمنع الإطلاق، لا إمساك النار."
+  },
+  {
+    "id": "voices\\m3_10_yamantau\\yam_013_ridingelevator_10",
+    "source": "<ffx:anger_strong>Mow them down like rabid dogs! Fire at will! <ffx:neutral>",
+    "before": "<ffx:anger_strong>جزهم مثل الكلاب المسعورة! النار في الإرادة!<ffx:neutral>",
+    "target": "<ffx:anger_strong>احصدوهم ككلاب مسعورة! أطلقوا النار بحرية! <ffx:neutral>",
+    "reason": "fire at will أمر بالسماح بإطلاق النار دون انتظار أمر لكل طلقة."
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_090_scouts_sam_shoots_reaction_01_06",
+    "source": "You'll break our cover!",
+    "before": "سوف تكسر غطاءنا!",
+    "target": "ستفضح موقعنا!",
+    "reason": "break our cover يكشف التخفي، لا يكسر غطاء ماديا."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_2\\surrender\\surrender_shout_03",
+    "source": "Hold your fire, I surrender!",
+    "before": "أمسك النار، أنا أستسلم!",
+    "target": "أوقفوا إطلاق النار، أستسلم!",
+    "reason": "أمر استسلام وإيقاف نار، لا إمساك النار."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_1\\neutral\\guard_getoutwarning_03",
+    "source": "Hey! You'd better get out of there, pronto!",
+    "before": "يا! من الأفضل أن تخرج من هناك، برونتو!",
+    "target": "مهلا! من الأفضل أن تخرج من هناك فورا!",
+    "reason": "pronto ظرف بمعنى فورا، وليس اسما يكتب بالنطق."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\spartans\\sam\\stealth\\stealth_enemykilled_longrange_08",
+    "source": "He's out of the picture...",
+    "before": "فهو خارج الصورة...",
+    "target": "لم يعد يشكل خطرا...",
+    "reason": "out of the picture تعني خرج من المواجهة؛ سياق المفتاح تأكيد تحييد عدو."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\spartans\\sam\\combat\\combat_weapon_jammed_07",
+    "source": "Jammed! This piece of shit...",
+    "before": "محشور! هذه القطعة من القرف...",
+    "target": "انحشر السلاح! تبا لهذا السلاح الرديء...",
+    "reason": "Jammed تعطل تغذية السلاح، وpiece of shit شتم للسلاح لا وصف حرفي."
+  },
+  {
+    "id": "voices\\m3_05_chase\\cha_003_battle_bosstalk_05",
+    "source": "Fire! Shoot to kill! Attack visible targets only... And mind the engine! Don't hit the boiler!",
+    "before": "حريق! تبادل لاطلاق النار لقتل! هاجم الأهداف المرئية فقط... واهتم بالمحرك! لا تضغط على المرجل!",
+    "target": "أطلقوا النار! صوبوا للقتل! اشتبكوا مع الأهداف المرئية فقط... وانتبهوا للقاطرة! لا تصيبوا المرجل!",
+    "reason": "أوامر إطلاق وقتال وعدم إصابة مرجل القاطرة؛ fire ليست حريقا وhit ليست ضغطا."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_2\\dog\\dog_founddeaddogalert_03",
+    "source": "Watch out boys! Some fucking piece of shit just capped Beast!",
+    "before": "احترس من الأولاد! قطعة من القرف اللعينة توجت للتو بالوحش!",
+    "target": "احذروا يا رفاق! أحد الأوغاد قتل الوحش بالرصاص للتو!",
+    "reason": "capped تعني أطلق عليه النار وقتله، ويؤكد مفتاح المشهد العثور على الكلب ميتا؛ ليس التتويج."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_2\\free\\free_unsafe_09",
+    "source": "One could just go and bite the dust here for fucking nothing... Fuck my life...",
+    "before": "يمكن للمرء أن يذهب ويعض الغبار هنا من أجل لا شيء ... اللعنة على حياتي ...",
+    "target": "قد يلقى المرء حتفه هنا بلا أي سبب... تبا لحياتي...",
+    "reason": "bite the dust تعني الموت، لا عض الغبار."
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_022_goodend_05",
+    "source": "<ffx:anger>Hear me brothers! Hold your fire!",
+    "before": "<ffx:anger>اسمعوا لي أيها الإخوة! امسك النار الخاص بك!",
+    "target": "<ffx:anger>اسمعوني يا إخوتي! أوقفوا إطلاق النار!",
+    "reason": "تصحيح أمر إيقاف إطلاق النار في مشهد التفاوض."
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_099_massurrender_tugboat_01",
+    "source": "Attention, crew! This is the Captain speaking! Cease fire and put your weapons down at once! We surrender! I repeat! We surrender! Cease fire! We submit to any of your demands!",
+    "before": "انتبهوا أيها الطاقم! هذا هو الكابتن يتحدث! أوقفوا إطلاق النار وألقوا أسلحتكم فوراً! نحن نستسلم! أكرر! نحن نستسلم! وقف إطلاق النار! نحن نقدم إلى أي من مطالبكم!",
+    "target": "انتباه يا أفراد الطاقم! هنا القبطان! أوقفوا إطلاق النار وألقوا أسلحتكم فورا! نحن نستسلم! أكرر: نستسلم! أوقفوا إطلاق النار! سنقبل جميع مطالبكم!",
+    "reason": "القبطان يقدم الاستسلام ويقبل المطالب، لا يقدم نفسه إلى مطالب."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_3\\surrender\\surrender_shout_02",
+    "source": "Hold your fire! Please! I surrender!",
+    "before": "امسك النار الخاص بك! لو سمحت! أنا أستسلم!",
+    "target": "أوقفوا إطلاق النار! أرجوكم! أستسلم!",
+    "reason": "أمر استسلام بمعناه الصحيح."
+  },
+  {
+    "id": "voices\\m3_dlc1\\dlc1_210_ambush_conversation_02_04_02",
+    "source": "We've got you covered, Sir! Get that detonator!",
+    "before": "لقد قمنا بتغطيتك يا سيدي! احصل على هذا المفجر!",
+    "target": "نحن نغطيك يا سيدي! أحضر جهاز التفجير!",
+    "reason": "cover دعم وحماية أثناء الحركة، وdetonator جهاز التفجير وليس شخصا مفجرا."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_2\\uber_alert\\uber_alert_single_takingcover_04",
+    "source": "Under fire, going for cover!",
+    "before": "تحت النار، والذهاب للغطاء!",
+    "target": "أتعرض للنيران، سأحتمي!",
+    "reason": "أفعال آنية للمتحدث تحت النار، لا جملة اسمية عن الغطاء."
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_035_merchants_talk_01_06",
+    "source": "<ffx:smile_light>Well, we got it covered... <ffx:wonder_light>They buy all of our wares wholesale, and <ffx:smile_light>we get our fuel from them at a special discount. <ffx:neutral>",
+    "before": "<ffx:smile_light>حسنًا، لقد قمنا بتغطية الأمر...<ffx:wonder_light>يشترون جميع بضائعنا بالجملة، و<ffx:smile_light>نحصل على الوقود منهم بخصم خاص.<ffx:neutral>",
+    "target": "<ffx:smile_light>حسنا، لقد رتبنا الأمر... <ffx:wonder_light>يشترون بضائعنا كلها بالجملة، <ffx:smile_light>ونحصل منهم على الوقود بسعر مخفض خاص. <ffx:neutral>",
+    "reason": "got it covered ترتيب وتدبير اتفاق تجاري، لا تغطيته."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_3\\uber_alert\\uber_alert_search_06",
+    "source": "So you're hiding, you fucking piece of shit... It's OK, I'll still find you and fuck you up...",
+    "before": "إذن أنت مختبئ، أيها اللعين... لا بأس، سأظل أجدك وأضاجعك...",
+    "target": "إذن أنت تختبئ أيها الوغد اللعين... لا بأس، سأجدك وأبرحك ضربا...",
+    "reason": "fuck you up تهديد بإيذاء الخصم هنا، لا معنى جنسي حرفي."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_2\\dog\\dog_attackorder_03",
+    "source": "Bite the bitch!",
+    "before": "لدغة العاهرة!",
+    "target": "عض الوغد!",
+    "reason": "تصحيح الأمر الموجه للكلب من اسم اللدغة إلى فعل العض."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_1\\dog\\dog_attackorder_05",
+    "source": "Bite the fucker!",
+    "before": "لدغة اللعين!",
+    "target": "عض ذلك اللعين!",
+    "reason": "تصحيح الفعل الأمر للكلب."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_3\\dog\\dog_attackorder_03",
+    "source": "Go bite the fucker!",
+    "before": "الذهاب لدغة اللعين!",
+    "target": "اذهب وعض الوغد!",
+    "reason": "تصحيح الأمر المركب للكلب."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_2\\dog\\dog_attackorder_02",
+    "source": "Bite the intruder!",
+    "before": "لدغة الدخيل!",
+    "target": "عض الدخيل!",
+    "reason": "تصحيح فعل الأمر للكلب."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_1\\wounded\\wounded_combat_05",
+    "source": "Arghh... Take this, you dead meat!",
+    "before": "أرغه... خذ هذا أيها اللحم الميت!",
+    "target": "آخ... خذ هذا أيها الهالك!",
+    "reason": "dead meat تهديد بالهلاك، لا لحم ميت حرفيا."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\spartans\\sam\\movement\\movement_door_kick_06",
+    "source": "Out of the way!",
+    "before": "خارج الطريق!",
+    "target": "ابتعدوا عن الطريق!",
+    "reason": "صياغة نداء الإخلاء كأمر بدلا من وصف مكاني مبتور."
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_041_05_portmission_sailors_surrender_01_01",
+    "source": "Cease fire! We surrender! Take the cargo, just don't shoot!",
+    "before": "وقف إطلاق النار! نحن نستسلم! خذ البضائع، فقط لا تطلق النار!",
+    "target": "أوقفوا إطلاق النار! نستسلم! خذوا الحمولة، لكن لا تطلقوا النار!",
+    "reason": "تصحيح أوامر مخاطبة المجموعة وصياغة الاستسلام."
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_021_infiltration_01",
+    "source": "<ffx:wonder>So, Artyom, shall we move? Whoever <ffx:smile>gets there first wins! Break a leg! <ffx:wonder_light>",
+    "before": "<ffx:wonder>إذن، أرتيوم، هل يجب أن نتحرك؟ كل من يصل إلى<ffx:smile>يفوز أولاً! بالتوفيق!<ffx:wonder_light>",
+    "target": "<ffx:wonder>إذن يا أرتيوم، هل ننطلق؟ من <ffx:smile>يصل أولا يفز! حظا موفقا! <ffx:wonder_light>",
+    "reason": "إصلاح تركيب جملة السباق؛ break a leg هنا تمني الحظ وهو مفهوم في الترجمة الجديدة."
+  }
+]

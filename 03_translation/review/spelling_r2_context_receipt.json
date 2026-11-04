@@ -1,0 +1,266 @@
+[
+  {
+    "id": "voices\\m3_10_yamantau\\yam_010_welcometohell_11",
+    "source": "<ffx:sadness>Watch your tone, young lady! <ffx:smile_light>Do as that young man does: he woke up long ago, <ffx:wonder_light>but quietly listens to wise people talk!",
+    "before": "<ffx:sadness>انتبهي إلى نبرة صوتك أيتها السيدة الشابة!<ffx:smile_light>افعل كما يفعل ذلك الشاب: لقد استيقظ منذ فترة طويلة،<ffx:wonder_light>ولكنه يستمع بهدوء إلى كلام الحكماء!",
+    "target": "<ffx:sadness>انتبهي إلى أسلوبك أيتها الشابة!<ffx:smile_light>افعلي مثل ذلك الشاب: استيقظ منذ وقت طويل،<ffx:wonder_light>لكنه يستمع إلى كلام الحكماء بهدوء!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_3\\decoy\\uber_alert_decoy_reaction_05",
+    "source": "Yeah, throw some more shit you fucking ape! Hahaha!",
+    "before": "نعم، ارمي المزيد من الهراء أيها القرد اللعين! هاهاها!",
+    "target": "نعم، ارمِ المزيد من القذارة أيها القرد اللعين! هاهاها!"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_059_insideoilrig_tribaloppression_05_22",
+    "source": "<ffx:disgust>Throw this piece of shit out of here! <ffx:anger>Throw it away!<ffx:neutral>",
+    "before": "<ffx:disgust>ارمي هذه القطعة من القرف من هنا!<ffx:anger>رميها بعيدا!<ffx:neutral>",
+    "target": "<ffx:disgust>ألقِ هذه القذارة خارجًا!<ffx:anger>ألقِ بها بعيدًا!<ffx:neutral>"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_3\\boat\\boatcombatallies_05",
+    "source": "Shoot the bastard! Shoot him, he's sailing away!",
+    "before": "اطلاق النار على اللقيط! أطلق عليه النار، فهو يبحر بعيدًا!",
+    "target": "أطلق النار على اللعين! أطلق عليه النار، إنه يبتعد بالقارب!"
+  },
+  {
+    "id": "voices\\m3_02_dead_moscow\\dmc_030_2_goingtotheaurora_guardstalk_01_02",
+    "source": "<ffx:disgust_light>Mikha, you stay with Yermak.<ffx:neutral>",
+    "before": "<ffx:disgust_light>ميخا، ابقي مع يرماك.<ffx:neutral>",
+    "target": "<ffx:disgust_light>ميخا، ابقَ مع يرماك.<ffx:neutral>"
+  },
+  {
+    "id": "voices\\m3_12_valley\\val_32_bandits_pirates_01_05",
+    "source": "<ffx:anger>Like a fucking broken record! What exam? What teacher? <ffx:wonder_strong>What the fuck? <ffx:neutral>",
+    "before": "<ffx:anger>مثل الرقم القياسي المكسور! اي امتحان؟ اي معلم؟<ffx:wonder_strong>ما هي اللعنة؟<ffx:neutral>",
+    "target": "<ffx:anger>تكرر الكلام كأسطوانة مشروخة! أي امتحان؟ وأي معلم؟<ffx:wonder_strong>ما هذا بحق الجحيم؟<ffx:neutral>"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_2\\decoy\\danger_seen_decoy_reaction_04",
+    "source": "Throw your gun next, you dumb fuck!",
+    "before": "ارمي بندقيتك بعد ذلك، أيها الغبي اللعين!",
+    "target": "ارمِ بندقيتك في المرة القادمة، أيها الغبي اللعين!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_3\\light_alert\\light_alert_waiting_for_searchcomplete_08",
+    "source": "Just stay put, what's the use of running around like that...",
+    "before": "فقط ابقى مكانك، ما فائدة الركض هكذا...",
+    "target": "ابقَ مكانك فحسب، ما فائدة الركض هكذا..."
+  },
+  {
+    "id": "voices\\m3_dlc1\\dlc1_500_miller_khlebnikov_conversation_02",
+    "source": "I need a breather too. Boy, do these hunks of iron chafe! Gotta watch out not to stay for too long, though...",
+    "before": "أنا بحاجة إلى استراحة أيضا. يا فتى، افعل هذه الكتل من الحديد! يجب أن أحذر من البقاء لفترة طويلة، على الرغم من ذلك.",
+    "target": "أحتاج إلى استراحة أيضًا. يا لها من قطع حديد تؤلم الجسد! لكن عليّ الحذر من البقاء طويلًا..."
+  },
+  {
+    "id": "voices\\m3_dlc1\\dlc1_10_millerkirill_01_04",
+    "source": "Yes, Sir! I can!",
+    "before": "نعم يا سيدي! أنا استطيع!",
+    "target": "نعم يا سيدي! أستطيع!"
+  },
+  {
+    "id": "voices\\m3_02_dead_moscow\\dmc_020_court_guardstalk_01_07",
+    "source": "<ffx:sadness>Yeah... Well, <ffx:anger_light>do something about it then, <ffx:smile_light>or else you're up for a chewing out!<ffx:neutral>",
+    "before": "<ffx:sadness>نعم... حسنًا،<ffx:anger_light>افعل شيئًا حيال ذلك،<ffx:smile_light>وإلا فأنت مستعد للمضغ!<ffx:neutral>",
+    "target": "<ffx:sadness>نعم... حسنًا،<ffx:anger_light>افعل شيئًا حيال ذلك إذن،<ffx:smile_light>وإلا فستتلقى توبيخًا شديدًا!<ffx:neutral>"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_3\\knife\\uber_alert__seen_knife_reaction_05",
+    "source": "Ha! Throw another one, you couldn't hit me even if I glued my boots to the floor!",
+    "before": "ها! ارمي واحدة أخرى، لن تتمكن من ضربي حتى لو ألصقت حذائي على الأرض!",
+    "target": "ها! ارمِ واحدة أخرى، فلن تصيبني حتى لو ألصقت حذائي بالأرض!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_1\\danger\\attacking_enemy_03",
+    "source": "Die, you freak!",
+    "before": "اموت يا غريب!",
+    "target": "مت أيها المسخ!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_3\\decoy\\uber_alert_decoy_reaction_04",
+    "source": "Throw more shit you dumbass, maybe that will make me chase it, hahaha!",
+    "before": "ارمي المزيد من الهراء أيها الأحمق، ربما هذا سيجعلني أطارده، هاهاها!",
+    "target": "ارمِ المزيد من القذارة أيها الأحمق، لعلني أطاردها عندئذ، هاهاها!"
+  },
+  {
+    "id": "voices\\m3_12_autumn\\aut_010_idiottalk_01_03",
+    "source": "<ffx:smile>I think that Colonel and you will do it! So... <ffx:wonder>Just do what you must, and <ffx:smile>everything will come out right! <ffx:neutral>",
+    "before": "<ffx:smile>أعتقد أن العقيد وأنت سوف تفعل ذلك! لذا...<ffx:wonder>فقط افعل ما يجب عليك، و<ffx:smile>سيصبح كل شيء على ما يرام!<ffx:neutral>",
+    "target": "<ffx:smile>أظن أنك والعقيد ستنجحان! لذا...<ffx:wonder>افعلا ما يجب عليكما فحسب، و<ffx:smile>سيكون كل شيء على ما يرام!<ffx:neutral>"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\spartans\\sam\\loot\\loot_corpse_14",
+    "source": "Ew... Gnarly...",
+    "before": "اي...نارلي...",
+    "target": "أفّ... يا للقرف..."
+  },
+  {
+    "id": "voices\\m3_02_dead_moscow\\dmc_010_05_yermakhangar_01_05",
+    "source": "<ffx:anger>Rules!? What rules!? <ffx:disgust>You're shooting people like dogs! You... <ffx:neutral>",
+    "before": "قواعد<ffx:anger>!؟ اي قواعد!؟<ffx:disgust>أنت تطلق النار على الناس مثل الكلاب! أنت...<ffx:neutral>",
+    "target": "<ffx:anger>قواعد؟! أي قواعد؟!<ffx:disgust>أنتم تطلقون النار على الناس كالكلاب! أنتم...<ffx:neutral>"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_2\\decoy\\uber_alert_decoy_reaction_05",
+    "source": "Yeah, yeah, throw some more... I'll find your ass soon, we'll see what you'll be throwing next...",
+    "before": "نعم، نعم، ارمي المزيد... سأجد مؤخرتك قريبًا، وسنرى ما سترميه بعد ذلك...",
+    "target": "نعم، نعم، ارمِ المزيد... سأعثر عليك قريبًا، وسنرى ماذا سترمي حينها..."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_2\\car\\carcombatallies_06",
+    "source": "Get that fucker! Shoot the windshield!",
+    "before": "احصل على هذا اللعين! اطلاق النار على الزجاج الأمامي!",
+    "target": "اقضوا على ذلك اللعين! أطلقوا النار على الزجاج الأمامي!"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_170_30_kulturmultur_viewers_and_projectionist_05_03",
+    "source": "Did you just break something?! Fix it! Get to it!",
+    "before": "هل كسرت شيئا للتو؟! اصلاحه! احصل عليه!",
+    "target": "هل كسرت شيئًا للتو؟! أصلحه! هيا، تحرك!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_1\\free\\combat_calmdown_foreveralone_02",
+    "source": "Oh... It's finally over...",
+    "before": "اه...اخيراً انتهى...",
+    "target": "آه... لقد انتهى الأمر أخيرًا..."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_2\\decoy\\uber_alert_decoy_reaction_01",
+    "source": "Throw another can, maybe that one will distract me!",
+    "before": "ارمي علبة أخرى، ربما هذه سوف تشتت انتباهي!",
+    "target": "ارمِ علبة أخرى، لعلها تشتت انتباهي!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_1\\car\\carcombatallies_01",
+    "source": "Shoot the windshield! The windshield!",
+    "before": "اطلاق النار على الزجاج الأمامي! الزجاج الأمامي!",
+    "target": "أطلق النار على الزجاج الأمامي! الزجاج الأمامي!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_3\\decoy\\danger_seen_decoy_reaction_02",
+    "source": "Throw yourself off cliff next time!",
+    "before": "ارمي نفسك من الهاوية في المرة القادمة!",
+    "target": "ارمِ نفسك من فوق جرف في المرة القادمة!"
+  },
+  {
+    "id": "voices\\m3_05_chase\\cha_001_chasestart_02_41_01",
+    "source": "You tell me! Where are you taking that train, huh? On a simple joyride?!",
+    "before": "اخبرني! أين تأخذ هذا القطار، هاه؟ في رحلة بسيطة؟!",
+    "target": "أخبرني أنت! إلى أين تأخذ ذلك القطار، هاه؟ في نزهة فحسب؟!"
+  },
+  {
+    "id": "voices\\m3_02_dead_moscow\\dmc_000_5_spartans_radio_01_01",
+    "source": "Miller here. Idiot, give me a sitrep.",
+    "before": "ميلر هنا. احمق، أعطني تقرير الموقف.",
+    "target": "ميلر هنا. إيديوت، أعطني تقريرًا عن الوضع."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_1\\uber_alert\\uber_alert_single_nocoveravailable_05",
+    "source": "You dog... Show yourself, come on...",
+    "before": "يا كلب...اظهر نفسك، هيا...",
+    "target": "أيها الكلب... أظهر نفسك، هيا..."
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_006_sectant_torch_reaction_01_01",
+    "source": "<ffx:fear_strong>Aaah! It's a sin, a sin! Put it out! <ffx:fear_light>",
+    "before": "<ffx:fear_strong>آآآه! إنها خطيئة، خطيئة! اخمادها!<ffx:fear_light>",
+    "target": "<ffx:fear_strong>آآآه! إنها خطيئة، خطيئة! أطفئها!<ffx:fear_light>"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\cannibal_3\\free\\free_safe_03",
+    "source": "They told me to stay here... Stay and wait... What's the use in waiting - they won't give me no meat... No meat, never any meat...",
+    "before": "قالوا لي ابقى هنا... ابق وانتظر... ما فائدة الانتظار - لن يعطوني لحماً... لا لحماً، لا لحماً أبداً...",
+    "target": "قالوا لي أن أبقى هنا... أبقى وأنتظر... وما فائدة الانتظار؟ لن يعطوني أي لحم... لا لحم، لا لحم أبدًا..."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_3\\danger\\attacking_enemy_01",
+    "source": "Die, you freak!",
+    "before": "اموت يا غريب!",
+    "target": "مت أيها المسخ!"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_750_piercombat_01_03",
+    "source": "Come on! Shoot the bastard!",
+    "before": "تعال! اطلاق النار على اللقيط!",
+    "target": "هيا! أطلق النار على اللعين!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_3\\knife\\uber_alert__seen_knife_reaction_05",
+    "source": "Missed with that knife! Throw another one, maybe that would hit, haha!",
+    "before": "غاب مع هذا السكين! ارمي واحدة أخرى، ربما ستضرب، هاها!",
+    "target": "أخطأت بتلك السكين! ارمِ أخرى، لعلها تصيب، هاها!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_3\\danger\\attacking_human_02",
+    "source": "Die, you motherfucker!",
+    "before": "اموت يا عاهرة!",
+    "target": "مت يا ابن العاهرة!"
+  },
+  {
+    "id": "voices\\m3_12_valley\\val_003_80_alchemist_01_08",
+    "source": "<ffx:disgust>So you holster you gun? Going to torture me? <ffx:disgust_strong>Do your worst, I’m not afraid! <ffx:neutral>",
+    "before": "<ffx:disgust>إذن أنت تحمل مسدسك؟ هل ستعذبني؟<ffx:disgust_strong>افعل أسوأ ما لديك، أنا لست خائفًا!<ffx:neutral>",
+    "target": "<ffx:disgust>إذًا، تخفي سلاحك؟ أتريد تعذيبي؟<ffx:disgust_strong>افعل أسوأ ما عندك، لست خائفًا!<ffx:neutral>"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_1\\knife\\uber_alert__seen_knife_reaction_04",
+    "source": "What?! Aah, I see! So you think you can throw some knives, you dog? Well, come on, do it again!",
+    "before": "ماذا؟! اه، أرى! هل تعتقد أنه يمكنك رمي بعض السكاكين أيها الكلب؟ حسنا، هيا، افعل ذلك مرة أخرى!",
+    "target": "ماذا؟! آه، فهمت! أتظن أنك تجيد رمي السكاكين أيها الكلب؟ حسنًا، هيا، حاول مرة أخرى!"
+  },
+  {
+    "id": "voices\\m3_13_dead_city\\nvs_005_drivingtalk_21",
+    "source": "<ffx:anger_light>Floor it!",
+    "before": "<ffx:anger_light>ارضيه!",
+    "target": "<ffx:anger_light>اضغط على دواسة الوقود إلى النهاية!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_3\\decoy\\danger_seen_decoy_reaction_02",
+    "source": "Throw a shit nugget next, you mad ape!",
+    "before": "ارمي كتلة صلبة بعد ذلك، أيها القرد المجنون!",
+    "target": "ارمِ قطعة براز في المرة القادمة أيها القرد المجنون!"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_004_sam_captain_meeting_01_07",
+    "source": "Damn, another American... Seriously, talk about coincidence!",
+    "before": "تبا أمريكي آخر... بجد اتكلم عن الصدفة!",
+    "target": "تبًا، أمريكي آخر... حقًا، يا لها من مصادفة!"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_099_poker_game_aftermath_01_05",
+    "source": "<ffx:fear>Oh, what do I do now.. What do I do... And who is this... Did Glyba send him? Could Bober be taking the dough for himself? <ffx:sadness>Oh, what do I do now... What do I do...",
+    "before": "<ffx:fear>اه ماذا افعل الآن.. ماذا افعل... ومن هذا... هل ارسله غليبا؟ هل يمكن أن يأخذ بوبر العجين لنفسه؟<ffx:sadness>أوه ماذا أفعل الآن... ماذا أفعل...",
+    "target": "<ffx:fear>آه، ماذا أفعل الآن؟ ماذا أفعل... ومن هذا؟ هل أرسله غليبا؟ ألعل بوبر يأخذ المال لنفسه؟<ffx:sadness>أوه، ماذا أفعل الآن... ماذا أفعل..."
+  },
+  {
+    "id": "voices\\m3_02_dead_moscow\\dmc_013_5_stealthtutorial_06_11_08",
+    "source": "<ffx:disgust_light>Come on, throw it!<ffx:neutral>",
+    "before": "<ffx:disgust_light>هيا، ارميها!<ffx:neutral>",
+    "target": "<ffx:disgust_light>هيا، ارمِها!<ffx:neutral>"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\tribal_1\\disturb\\disturb_react_uni_05",
+    "source": "What shaitan...?",
+    "before": "اي شيطان...؟",
+    "target": "أي شيطان...؟"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_1\\danger\\attacking_enemy_02",
+    "source": "Die, beast!",
+    "before": "اموت يا وحش",
+    "target": "مت أيها الوحش!"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_022_badend_crowd_04",
+    "source": "Death to the heretics! Shoot them!",
+    "before": "الموت للزنادقة! اطلاق النار عليهم!",
+    "target": "الموت للزنادقة! أطلقوا النار عليهم!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_1\\uber_alert\\uber_alert_threat_switch_03",
+    "source": "I'm gonna fucking...",
+    "before": "انا سأمارس الجنس...",
+    "target": "سوف... تبًا..."
+  }
+]

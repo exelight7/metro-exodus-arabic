@@ -1,0 +1,174 @@
+{
+  "std": "1.0",
+  "created": "2026-11-02",
+  "game": {
+    "name": "Metro Exodus",
+    "slug": "MetroExodus",
+    "engine": "other",
+    "engine_version": "4A Engine / VFX version 3",
+    "version": "steam_local",
+    "store": "steam",
+    "notes": "Regression repair: one native subtitle control, complete regular font, no PUA masks or padding, original loader timing. In-game appearance awaits user confirmation; never launch game."
+  },
+  "langs": {
+    "source": "en",
+    "target": "ar"
+  },
+  "render": {
+    "mode": "visual",
+    "harakat": "strip",
+    "digits": "western",
+    "decision": "D-002",
+    "verified_in_game": false,
+    "arabic_base_direction": "rtl",
+    "wrap_before_bidi": true,
+    "right_alignment": "native_default_no_artificial_padding",
+    "rtl_typewriter_animation_supported": false,
+    "padding_disabled": true,
+    "loading_alignment": "native_right_1",
+    "loading_wrap": "actual_regular_glyph_advances",
+    "loading_font_size": 22,
+    "loading_typewriter_fixed": false,
+    "loading_user_test_passed": false,
+    "loading_display": "complete_paragraph_first_reveal_tick",
+    "loading_native_revision": "loading_complete_r1",
+    "loading_machine_code_emulation_passed": true,
+    "diary_layout": {
+      "note_bodies": 116,
+      "note_titles": 112,
+      "journal_pages": 84,
+      "advice_pages": 20,
+      "alignment": "native_right_1",
+      "wrap_before_bidi": true,
+      "actual_font_metrics": true,
+      "tabs_removed_at_build": true,
+      "runtime_tested": false
+    },
+    "input_icons": "separate Arabic words before shaping; two ordinary spaces either side of skip button"
+  },
+  "roles": [
+    "tech",
+    "translation",
+    "operator"
+  ],
+  "tables": [
+    {
+      "file": "03_translation/tables/game.csv",
+      "from": "02_extracted/steam_local/patch_04/content/localization/stable_us.lng",
+      "tool": "tools/metro_lng.py",
+      "key": [
+        "id"
+      ],
+      "main": true
+    }
+  ],
+  "fonts": [
+    {
+      "file": "04_fonts/build/noto_arabic_pf.ttf",
+      "from": [
+        "04_fonts/src/NotoSansArabic.ttf"
+      ],
+      "license": "OFL-1.1"
+    }
+  ],
+  "vars": {},
+  "pipeline": [
+    {
+      "name": "localization",
+      "run": "{py} tools/build_localization.py"
+    },
+    {
+      "name": "diary_and_loading_ui",
+      "run": "{py} tools/build_diary_ui.py"
+    },
+    {
+      "name": "package",
+      "run": "{py} tools/build_completion_patch.py --revision final_review_r1"
+    },
+    {
+      "name": "verify_repair",
+      "run": "{py} tools/verify_repair_patch.py --revision final_review_r1"
+    },
+    {
+      "name": "verify_formal_terms",
+      "run": "{py} tools/verify_formal_terms.py --revision final_review_r1"
+    },
+    {
+      "name": "verify_comprehensive_integrity",
+      "run": "{py} tools/verify_comprehensive_integrity.py --revision final_review_r1"
+    },
+    {
+      "name": "verify_final_review",
+      "run": "{py} tools/verify_final_review.py"
+    }
+  ],
+  "paths": {
+    "game_dir": "Set your compatible local Steam game path",
+    "scripts": "tools/vendor/game-arabization"
+  },
+  "releases": [],
+  "draft_pipeline_command": "python tools/build_localization.py --draft",
+  "progress": {
+    "total_entries": 38221,
+    "machine_draft": 36434,
+    "reviewed": 947,
+    "preserved": 840,
+    "untranslated": 0,
+    "installed": false,
+    "runtime_tested": false,
+    "installed_phase": 100,
+    "installed_revision": "final_review_r1",
+    "installed_text_scope": "all_extracted_lng_entries",
+    "quality_fully_reviewed": false,
+    "runtime_entries": 38223,
+    "supplemental_reviewed": 2,
+    "latest_contextual_review_changes": 11,
+    "latest_whole_table_audit": 38221,
+    "closing_checks_passed": true
+  },
+  "local_tools_sources": [
+    "https://github.com/ShokerStlk/MetroEX",
+    "https://github.com/tsnest/MetroTools"
+  ],
+  "subtitle_layout": {
+    "speaker_position": "right_of_body",
+    "native_actor_prefix": "suppressed",
+    "speaker_name_color": "white_temporarily",
+    "independent_speaker_toggle_supported": false,
+    "logical_wrap_chars": 60,
+    "timed_entries_reviewed": 39,
+    "video_timelines_reviewed": 5,
+    "runtime_verified": false,
+    "dialogue_color": "white",
+    "color_method": "single_native_control_full_font",
+    "color_runtime_verified": false,
+    "independent_orange_name_color_pending": true
+  },
+  "translation_policy": "Formal Arabic for gameplay concepts; no phonetic English. Preserve canonical people/places, proper names, bound input tags and explicitly requested English graphics technology names.",
+  "installer": {
+    "version": "0.1.0-review",
+    "source": "tools/installer",
+    "release_dir": "09_release/installer-review",
+    "patch_revision": "final_review_r1",
+    "platforms": [
+      "Windows x86_64",
+      "Linux x86_64 / Windows game via Proton"
+    ],
+    "native_linux_game_supported": false,
+    "design_approved": false,
+    "live_game_modified": false,
+    "game_started": false,
+    "qa_report": "08_qa/audit/installer_review.json"
+  },
+  "publication": {
+    "repository": "https://github.com/exelight7/metro-exodus-arabic",
+    "tag": "v0.2.0-beta.1",
+    "release_url": "https://github.com/exelight7/metro-exodus-arabic/releases/tag/v0.2.0-beta.1",
+    "status": "source_release_prepared",
+    "asset_count": null,
+    "publicly_verified": true,
+    "user_authorized": true,
+    "date": "2026-11-04"
+  },
+  "portable_recovery": "python tools/recover_project.py --game GAME_PATH --out NEW_WORKSPACE"
+}

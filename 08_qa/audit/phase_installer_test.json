@@ -1,0 +1,11 @@
+{
+  "sequential_install": [
+    25,
+    50,
+    75
+  ],
+  "cumulative_text_sets": true,
+  "uninstall_restored_original": true,
+  "supplemental_files_removed": true,
+  "game_started": false
+}

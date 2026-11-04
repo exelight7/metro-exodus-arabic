@@ -1,0 +1,1706 @@
+[
+  {
+    "id": "voices\\universal_m3\\factions\\merc_2\\context\\context_alert_tank_02",
+    "source": "The tank over there! He's near it!",
+    "before": "الدبابة هناك! انه بالقرب منه!",
+    "after": "الدبابة هناك! إنه بالقرب منها!"
+  },
+  {
+    "id": "$controls_gamepad_ps3",
+    "source": "WIRELESS CONTROLLER",
+    "before": "وحدة تحكم لاسلكية",
+    "after": "يد تحكم لاسلكية"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_1\\context\\context_alert_carriage_02",
+    "source": "(whistle) Guys! That carriage! He's there!",
+    "before": "(صافرة) يا رفاق! تلك العربة! انه هناك!",
+    "after": "(صافرة) يا رفاق! تلك العربة! إنه هناك!"
+  },
+  {
+    "id": "$options",
+    "source": "OPTIONS",
+    "before": "الخيارات",
+    "after": "الإعدادات"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_3\\context\\context_alert_up_01",
+    "source": "He's up there!",
+    "before": "انه هناك!",
+    "after": "إنه هناك!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\tribal_3\\context\\context_alert_down_01",
+    "source": "See? He's down there! Down there!",
+    "before": "يرى؟ انه هناك! هناك!",
+    "after": "أترون؟ إنه هناك في الأسفل! في الأسفل!"
+  },
+  {
+    "id": "menu_category_wpn_barrel",
+    "source": "BARREL",
+    "before": "برميل",
+    "after": "السبطانة"
+  },
+  {
+    "id": "$quit_game_3d",
+    "source": "<menu_back> QUIT GAME",
+    "before": "<menu_back>قم بإنهاء اللعبة",
+    "after": "<menu_back> الخروج من اللعبة"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_022_sam_captured_boatride_arrival_03_01",
+    "source": "Look, it's the boss!",
+    "before": "انظروا، انه رئيسه!",
+    "after": "انظروا، إنه الزعيم!"
+  },
+  {
+    "id": "$general_hint_38_cstm",
+    "source": "You can choose from different control layouts in the Options - Controls menu.",
+    "before": "يمكنك الاختيار من بين تخطيطات التحكم المختلفة في قائمة الخيارات - عناصر التحكم.",
+    "after": "يمكنك الاختيار من بين تخطيطات التحكم المختلفة في قائمة الإعدادات - عناصر التحكم."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_2\\context\\context_alert_tree_01",
+    "source": "The tree! He's behind it!",
+    "before": "الشجرة! انه وراء ذلك!",
+    "after": "الشجرة! إنه خلفها!"
+  },
+  {
+    "id": "voices\\m3_12_valley\\val_40_5_admiral_parrot_05",
+    "source": "To hell with her! To hell!",
+    "before": "إلى الجحيم معها! الى الجحيم!",
+    "after": "إلى الجحيم معها! إلى الجحيم!"
+  },
+  {
+    "id": "$ctrl_map_xbox",
+    "source": "JOURNAL",
+    "before": "مجلة",
+    "after": "اليوميات"
+  },
+  {
+    "id": "$ctrl_backward",
+    "source": "BACKWARD",
+    "before": "إلى الوراء",
+    "after": "للخلف"
+  },
+  {
+    "id": "$color_space",
+    "source": "COLOR SPACE",
+    "before": "مساحة اللون",
+    "after": "نطاق الألوان"
+  },
+  {
+    "id": "$gp_wpn_reload",
+    "source": "RELOAD",
+    "before": "إعادة تحميل",
+    "after": "إعادة التلقيم"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_1\\context\\context_alert_fence_02",
+    "source": "The fence over there! He's behind it!",
+    "before": "السياج هناك! انه وراء ذلك!",
+    "after": "السياج هناك! إنه وراء ذلك!"
+  },
+  {
+    "id": "voices\\m3_dlc1\\dlc1_74_2_quarrel_01_11",
+    "source": "You are a respectable man, Yakov, how can you let him do this to you?!",
+    "before": "انت راجل محترم ياكوف ازاي تخليه يعمل فيك كده؟!",
+    "after": "أنت راجل محترم ياكوف ازاي تخليه يعمل فيك كده؟!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_3\\context\\context_alert_tree_03",
+    "source": "The tree over there! He's behind it!",
+    "before": "الشجرة هناك! انه وراء ذلك!",
+    "after": "الشجرة هناك! إنه وراء ذلك!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_2\\context\\context_alert_down_02",
+    "source": "I see him! He's down there!",
+    "before": "أراه! انه هناك!",
+    "after": "أراه! إنه هناك!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_3\\context\\context_alert_barrels_02",
+    "source": "Guys! He's at the barrels!",
+    "before": "يا رفاق! انه في البراميل!",
+    "after": "يا رفاق! إنه عند البراميل!"
+  },
+  {
+    "id": "menu_category_wpn_additional",
+    "source": "SIDE MOUNT",
+    "before": "جبل جانبي",
+    "after": "ملحق جانبي"
+  },
+  {
+    "id": "menu_category_craft_devices",
+    "source": "DEVICES CRAFTING",
+    "before": "صياغة الأجهزة",
+    "after": "صناعة المعدات"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_3\\context\\context_alert_trees_02",
+    "source": "He's in them trees over there!",
+    "before": "انه في تلك الأشجار هناك!",
+    "after": "إنه في تلك الأشجار هناك!"
+  },
+  {
+    "id": "menu_category_wpn_scope",
+    "source": "SCOPE",
+    "before": "النطاق",
+    "after": "المنظار"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_2\\context\\context_alert_down_02",
+    "source": "He's down there!",
+    "before": "انه هناك!",
+    "after": "إنه هناك!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_3\\context\\context_alert_shack_03",
+    "source": "I just saw him! See that shack!? He's there!",
+    "before": "لقد رأيته للتو! هل ترى ذلك الكوخ !؟ انه هناك!",
+    "after": "لقد رأيته للتو! هل ترى ذلك الكوخ !؟ إنه هناك!"
+  },
+  {
+    "id": "$move_xbox_rstick",
+    "source": "RS",
+    "before": "روبية",
+    "after": "RS"
+  },
+  {
+    "id": "$controller_ps4",
+    "source": "PS4",
+    "before": "بلاي ستيشن 4",
+    "after": "PS4"
+  },
+  {
+    "id": "$srgb_limited",
+    "source": "SRGB LIMITED",
+    "before": "إس آر جي بي المحدودة",
+    "after": "sRGB Limited"
+  },
+  {
+    "id": "$gp_wpn_next",
+    "source": "NEXT WEAPON",
+    "before": "السلاح القادم",
+    "after": "السلاح التالي"
+  },
+  {
+    "id": "voices\\m3_13_dead_city\\nvs_007_meetingkolya_05",
+    "source": "<ffx:anger_light>Artyom, don’t waste time! He'll get away! <ffx:neutral>",
+    "before": "<ffx:anger_light>أرتيوم، لا تضيع الوقت! وقال انه سوف يفلت!<ffx:neutral>",
+    "after": "<ffx:anger_light>أرتيوم، لا تضيع الوقت! سيفلت منا!<ffx:neutral>"
+  },
+  {
+    "id": "$ctrl_gasmask",
+    "source": "GAS MASK",
+    "before": "قناع غاز",
+    "after": "قناع الغاز"
+  },
+  {
+    "id": "menu_category_craft_ammunition",
+    "source": "AMMUNITION CRAFTING",
+    "before": "صياغة الذخيرة",
+    "after": "صناعة الذخيرة"
+  },
+  {
+    "id": "$load_last_checkpoint",
+    "source": "LOAD LAST CHECKPOINT",
+    "before": "تحميل نقطة التفتيش الأخيرة",
+    "after": "تحميل آخر نقطة حفظ"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_1\\wounded\\wounded_gravely_05",
+    "source": "Ugh! I need help!",
+    "before": "آه! انا بحاجة الى مساعدة!",
+    "after": "آه! انا بحاجة إلى مساعدة!"
+  },
+  {
+    "id": "menu_hint_craft",
+    "source": "CRAFT",
+    "before": "حرفة",
+    "after": "صناعة"
+  },
+  {
+    "id": "voices\\m3_dlc1\\dlc1_72_9_1_search_01_03",
+    "source": "Enough already! It's taking too long!",
+    "before": "يكفي بالفعل! انها تستغرق وقتا طويلا!",
+    "after": "كفى! لقد طال الأمر كثيرًا!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_2\\context\\context_alert_bush_01",
+    "source": "(whistle) In the bushes! He's there!",
+    "before": "(صافرة) في الأدغال! انه هناك!",
+    "after": "(صافرة) في الأدغال! إنه هناك!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_3\\context\\context_alert_pass_02",
+    "source": "Got visual! He's in the pass!",
+    "before": "حصلت على البصرية! انه في الممر!",
+    "after": "أراه! إنه في الممر!"
+  },
+  {
+    "id": "$gp_charger",
+    "source": "CHARGER (HOLD)",
+    "before": "الشاحن (عقد)",
+    "after": "الشاحن (ضغط مطول)"
+  },
+  {
+    "id": "$ctrl_map",
+    "source": "JOURNAL ",
+    "before": "مجلة",
+    "after": "اليوميات"
+  },
+  {
+    "id": "$ctrl_fire",
+    "source": "FIRE",
+    "before": "حريق",
+    "after": "إطلاق النار"
+  },
+  {
+    "id": "menu_item_medkit_name",
+    "source": "MEDKIT",
+    "before": "ميدكيت",
+    "after": "حقيبة إسعافات"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_2\\uber_alert\\uber_alert_toomuchnoise_01",
+    "source": "I heard the intruder! He's over here!",
+    "before": "سمعت الدخيل! انه هنا!",
+    "after": "سمعت الدخيل! إنه هنا!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_3\\context\\context_alert_barrels_03",
+    "source": "Near those barrels! He's there!",
+    "before": "بالقرب من تلك البراميل! انه هناك!",
+    "after": "بالقرب من تلك البراميل! إنه هناك!"
+  },
+  {
+    "id": "$it",
+    "source": "ITALIAN",
+    "before": "ايطالي",
+    "after": "الإيطالية"
+  },
+  {
+    "id": "m3_08_des_diary_11",
+    "source": "<tab>Son, you were asking about that Giul broad, what I know about where she is and where comes from... I’ve no idea why are you interested, but I do have a lot to say... In the very beginning, the locals tried starting shit with us, a commotion, like. That lead them nowhere, as the Baron knew that whoever has more guns owns the joint even back then, so he got most guns. And later, as the strongest, got all the other gang leaders to submit to him, so nobody would even think of going against his will. They didn’t resist, as they’d need to bunch together to stand any chance, and they were too busy fighting between themselves to even try that.<br><br><br><tab>The locals that had no wheels just stayed low in their holes, hoping he’d just up and leave all by himself one day, but he didn’t. Instead, he started making things right here. Then they went outside, but it was too little, too late - we smashed them like they were nothing.<br><br><br><tab>Then they took to guerilla shit, gave us trouble for years... Like, some boys go out on a patrol, and as soon as their cars turn around a hill, you hear shots. And when you get there, the cars are burning and the boys dead. How, who, where from? Tough luck finding out...<br><br><br><tab>A lot of them would hide in the mountains... The ones that remained in the Baron’s lands would tell tales and sing songs of the \"free ones”, bring them food... That’s when I first heard of that bitch Giul. She was still a little squirt back then, but was completely ruthless already, stone cold murderer. She’d leave nobody alive. Of course, the slaves were all her fans. Like, \"Oh, she’s a girl, but she cuts the enemy up like nobody’s business”, so they started telling tales of her, too.<br><br><br><tab>Well, the Baron’s nobody’s fool, he knew how to deal with those bastards! We started taking hostages, executing ten slaves for one of our boys. Say, this village is helping the rebels? Put it to the torch! A local knows anything about the rebels - he’s not gonna die until he tells us everything. You catch the drift.<br><br><br><tab>Pretty soon, the slaves started avoiding them like the plague. Someone sees a slave talking to some suspicious guy? The slave’s whole family gets the knife. A slave tells his master he saw someone suspicious? Good job, pal, enjoy triple rations that moment forward, and the Baron’s thanks! The slaves started selling those fucks to us in droves. We stepped our game up, too, and within a few years they were not much more than a memory.<br><br><br><tab>That broad Giul could well be the last. Once the Baron catches her, he’ll throw the world’s biggest party for the boys, you take my word. Just don’t you ever even think of saying she’s a witch and uses her spells to keep hiding from us. The Baron does not take lightly to such remarks, I saw him use his walking stick to beat some sense into the dumbass he caught spreading that shit, saying: \"it’s you, incompetent sons of bitches, who are too dumb to catch her, so you start re-telling the slave tales!”. Beat the bastard to death, and I say he got his just desserts! That’s about all I know. We tried to find out where she was born and who were her parents, but no dice there...<br><br><br><tab>Mom sends some home treats for you, share them with the boys as customary.<br><br><tab>Give the Baron my warmest respects and gratitude, also give a handshake to all the boys who still remember me.<br><br>",
+    "before": "<tab>يا بني، كنت تسأل عن جيول برود، وما الذي أعرفه عن مكان وجودها ومن أين أتت... ليس لدي أي فكرة عن سبب اهتمامك، ولكن لدي الكثير لأقوله... في البداية، حاول السكان المحليون بدء الهراء معنا، ضجة، مثل. لم يقودهم ذلك إلى أي مكان، حيث كان البارون يعلم أن من يملك المزيد من الأسلحة كان يمتلك المفصل حتى في ذلك الوقت، لذلك حصل على معظم الأسلحة. وفي وقت لاحق، باعتباره الأقوى، جعل جميع زعماء العصابة الآخرين يخضعون له، لذلك لن يفكر أحد في مخالفة إرادته. لم يقاوموا، لأنهم كانوا بحاجة إلى التجمع معًا للحصول على أي فرصة، وكانوا مشغولين جدًا بالقتال فيما بينهم حتى لا يحاولوا ذلك.<br><br><br><tab>السكان المحليون الذين ليس لديهم عجلات ظلوا منخفضين في جحورهم، على أمل أن ينهض ويغادر بمفرده ذات يوم، لكنه لم يفعل. وبدلاً من ذلك، بدأ في صنع الأشياء هنا. ثم خرجوا، لكن الوقت كان قليلًا جدًا، ومتأخرًا جدًا - لقد حطمناهم وكأنهم لا شيء.<br><br><br><tab>ثم انتقلوا إلى حرب العصابات، وسببوا لنا المتاعب لسنوات... مثلًا، يخرج بعض الأولاد في دورية، وبمجرد أن تدور سياراتهم حول التل، تسمع طلقات نارية. وعندما تصل إلى هناك، تحترق السيارات ويموت الأولاد. كيف، من، من أين؟ من الصعب العثور على ذلك...<br><br><br><tab>الكثير منهم يختبئون في الجبال... أولئك الذين بقوا في أراضي البارون كانوا يروون الحكايات ويغنون أغاني \"الأحرار\"، ويحضرون لهم الطعام... وذلك عندما سمعت لأول مرة عن تلك العاهرة جيول. لقد كانت لا تزال بخاخة قليلاً في ذلك الوقت، لكنها كانت قاسية تمامًا بالفعل، وقاتلة باردة. وقالت انها لن تترك أحدا على قيد الحياة. وبطبيعة الحال، كان العبيد كل معجبيها. مثل، \"أوه، إنها فتاة، لكنها تقطع العدو كما لا يعني أحدًا\"، لذلك بدأوا في سرد ​​الحكايات عنها أيضًا.<br><br><br><tab>حسنًا، البارون ليس أحمق من أحد، لقد كان يعرف كيفية التعامل مع هؤلاء الأوغاد! بدأنا في أخذ الرهائن، وإعدام عشرة عبيد لأحد أولادنا. قل أن هذه القرية تساعد المتمردين؟ ضعه على الشعلة! أحد السكان المحليين يعرف أي شيء عن المتمردين، ولن يموت حتى يخبرنا بكل شيء. يمكنك التقاط الانجراف.<br><br><br><tab>وسرعان ما بدأ العبيد في تجنبهم مثل الطاعون. هل يرى أحد العبد يتحدث إلى رجل مشبوه؟ عائلة العبد بأكملها تحصل على السكين. العبد يخبر سيده أنه رأى شخصا مشبوها؟ أحسنت يا صديقي، استمتع بحصص غذائية ثلاثية في تلك اللحظة، وشكرًا للبارون! بدأ العبيد في بيع تلك الملاعين لنا بأعداد كبيرة. لقد عززنا لعبتنا أيضًا، وفي غضون سنوات قليلة لم تعد أكثر من مجرد ذكرى.<br><br><br><tab>يمكن أن يكون هذا غيول العريض هو الأخير. بمجرد أن يمسكها البارون، سيقيم أكبر حفلة في العالم للأولاد، صدقني. فقط لا تفكر أبدًا في القول إنها ساحرة وتستخدم تعاويذها لتستمر في الاختباء منا. لا يستخف البارون بمثل هذه التصريحات، فقد رأيته يستخدم عصا المشي الخاصة به ليضرب بعض المنطق في الغباء الذي أمسك به وهو ينشر هذا الهراء، قائلاً: \"إنكم أنتم، أبناء العاهرات غير الأكفاء، الذين هم أغبياء جدًا بحيث لا يمكنهم الإمساك بها، لذلك تبدأون في إعادة سرد حكايات العبيد!\". اضرب اللقيط حتى الموت، وأقول أنه حصل على حلوياته العادلة! هذا كل ما أعرفه. لقد حاولنا معرفة مكان ولادتها ومن هم والديها، ولكن لا يوجد حجر نرد هناك...<br><br><br><tab>ترسل لك والدتك بعض الهدايا المنزلية، شاركها مع الأولاد كالمعتاد.<br><br><tab>أعط البارون أحر احترامي وامتناني، وصافح أيضًا جميع الأولاد الذين ما زالوا يتذكرونني.<br><br>",
+    "after": "<tab>يا بني، كنت تسأل عن جيول برود، وما الذي أعرفه عن مكان وجودها ومن أين أتت... ليس لدي أي فكرة عن سبب اهتمامك، ولكن لدي الكثير لأقوله... في البداية، حاول السكان المحليون بدء الهراء معنا، ضجة، مثل. لم يقودهم ذلك إلى أي مكان، حيث كان البارون يعلم أن من يملك المزيد من الأسلحة كان يمتلك المفصل حتى في ذلك الوقت، لذلك حصل على معظم الأسلحة. وفي وقت لاحق، باعتباره الأقوى، جعل جميع زعماء العصابة الآخرين يخضعون له، لذلك لن يفكر أحد في مخالفة إرادته. لم يقاوموا، لأنهم كانوا بحاجة إلى التجمع معًا للحصول على أي فرصة، وكانوا مشغولين جدًا بالقتال فيما بينهم حتى لا يحاولوا ذلك.<br><br><br><tab>السكان المحليون الذين ليس لديهم عجلات ظلوا منخفضين في جحورهم، على أمل أن ينهض ويغادر بمفرده ذات يوم، لكنه لم يفعل. وبدلاً من ذلك، بدأ في صنع الأشياء هنا. ثم خرجوا، لكن الوقت كان قليلًا جدًا، ومتأخرًا جدًا - لقد حطمناهم وكأنهم لا شيء.<br><br><br><tab>ثم انتقلوا إلى حرب العصابات، وسببوا لنا المتاعب لسنوات... مثلًا، يخرج بعض الأولاد في دورية، وبمجرد أن تدور سياراتهم حول التل، تسمع طلقات نارية. وعندما تصل إلى هناك، تحترق السيارات ويموت الأولاد. كيف، من، من أين؟ من الصعب العثور على ذلك...<br><br><br><tab>الكثير منهم يختبئون في الجبال... أولئك الذين بقوا في أراضي البارون كانوا يروون الحكايات ويغنون أغاني \"الأحرار\"، ويحضرون لهم الطعام... وذلك عندما سمعت لأول مرة عن تلك العاهرة جيول. لقد كانت لا تزال بخاخة قليلاً في ذلك الوقت، لكنها كانت قاسية تمامًا بالفعل، وقاتلة باردة. وقالت أنها لن تترك أحدا على قيد الحياة. وبطبيعة الحال، كان العبيد كل معجبيها. مثل، \"أوه، إنها فتاة، لكنها تقطع العدو كما لا يعني أحدًا\"، لذلك بدأوا في سرد ​​الحكايات عنها أيضًا.<br><br><br><tab>حسنًا، البارون ليس أحمق من أحد، لقد كان يعرف كيفية التعامل مع هؤلاء الأوغاد! بدأنا في أخذ الرهائن، وإعدام عشرة عبيد لأحد أولادنا. قل أن هذه القرية تساعد المتمردين؟ ضعه على الشعلة! أحد السكان المحليين يعرف أي شيء عن المتمردين، ولن يموت حتى يخبرنا بكل شيء. يمكنك التقاط الانجراف.<br><br><br><tab>وسرعان ما بدأ العبيد في تجنبهم مثل الطاعون. هل يرى أحد العبد يتحدث إلى رجل مشبوه؟ عائلة العبد بأكملها تحصل على السكين. العبد يخبر سيده أنه رأى شخصا مشبوها؟ أحسنت يا صديقي، استمتع بحصص غذائية ثلاثية في تلك اللحظة، وشكرًا للبارون! بدأ العبيد في بيع تلك الملاعين لنا بأعداد كبيرة. لقد عززنا لعبتنا أيضًا، وفي غضون سنوات قليلة لم تعد أكثر من مجرد ذكرى.<br><br><br><tab>يمكن أن يكون هذا غيول العريض هو الأخير. بمجرد أن يمسكها البارون، سيقيم أكبر حفلة في العالم للأولاد، صدقني. فقط لا تفكر أبدًا في القول إنها ساحرة وتستخدم تعاويذها لتستمر في الاختباء منا. لا يستخف البارون بمثل هذه التصريحات، فقد رأيته يستخدم عصا المشي الخاصة به ليضرب بعض المنطق في الغباء الذي أمسك به وهو ينشر هذا الهراء، قائلاً: \"إنكم أنتم، أبناء العاهرات غير الأكفاء، الذين هم أغبياء جدًا بحيث لا يمكنهم الإمساك بها، لذلك تبدأون في إعادة سرد حكايات العبيد!\". اضرب اللقيط حتى الموت، وأقول أنه حصل على حلوياته العادلة! هذا كل ما أعرفه. لقد حاولنا معرفة مكان ولادتها ومن هم والديها، ولكن لا يوجد حجر نرد هناك...<br><br><br><tab>ترسل لك والدتك بعض الهدايا المنزلية، شاركها مع الأولاد كالمعتاد.<br><br><tab>أعط البارون أحر احترامي وامتناني، وصافح أيضًا جميع الأولاد الذين ما زالوا يتذكرونني.<br><br>"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_3\\context\\context_alert_window_01",
+    "source": "The window! He's there!",
+    "before": "النافذة! انه هناك!",
+    "after": "النافذة! إنه هناك!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_3\\context\\context_alert_tree_02",
+    "source": "Guys! That tree! He's there!",
+    "before": "يا رفاق! تلك الشجرة! انه هناك!",
+    "after": "يا رفاق! تلك الشجرة! إنه هناك!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_1\\light_alert\\light_alert_group_alarmed_call_others_04",
+    "source": "He’s in trouble! We've got to find him, guys!",
+    "before": "انه في ورطة! علينا أن نجده يا رفاق!",
+    "after": "إنه في ورطة! علينا أن نجده يا رفاق!"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_150_audiolog_tomfan_vs_klimfan_01_02",
+    "source": "What do we need them for?! He's getting away! We gotta act! Let's get him with a pincer movement, just the two of us is enough!",
+    "before": "ماذا نحتاج لهم؟! انه يبتعد! علينا أن نتصرف! دعنا نقبض عليه بحركة الكماشة، يكفينا نحن الاثنان فقط!",
+    "after": "ما حاجتنا إليهم؟! إنه يفلت منا! علينا التحرك! لنحاصره من الجانبين، نحن الاثنان كافيان!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_2\\light_alert\\light_alert_group_alarmed_call_others_01",
+    "source": "He’s not responding! Let's go search for him!",
+    "before": "انه لا يستجيب! فلنذهب للبحث عنه!",
+    "after": "إنه لا يستجيب! فلنذهب للبحث عنه!"
+  },
+  {
+    "id": "$gyro_options_menu-1",
+    "source": "MOTION CONTROLS SETTINGS",
+    "before": "إعدادات التحكم في الحركة",
+    "after": "إعدادات التحكم بالحركة"
+  },
+  {
+    "id": "$continue_game",
+    "source": "CONTINUE GAME",
+    "before": "مواصلة اللعبة",
+    "after": "متابعة اللعبة"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_015_firstattack_01_01_02",
+    "source": "<ffx:anger>Come on, push it! He's getting away!<ffx:neutral>",
+    "before": "<ffx:anger>هيا، ادفعها! انه يبتعد!<ffx:neutral>",
+    "after": "<ffx:anger>هيا، ادفعها! إنه يبتعد!<ffx:neutral>"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_2\\context\\context_alert_fence_03",
+    "source": "That fence! He's behind it!",
+    "before": "هذا السياج! انه وراء ذلك!",
+    "after": "هذا السياج! إنه وراء ذلك!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_3\\context\\context_alert_slabs_02",
+    "source": "(whistle) Concrete slabs! He's there!",
+    "before": "(صافرة) ألواح خرسانية! انه هناك!",
+    "after": "(صافرة) ألواح خرسانية! إنه هناك!"
+  },
+  {
+    "id": "$game_difficulty_mutator_no_weapon_mode",
+    "source": "No Weapon Modes",
+    "before": "لا توجد أوضاع للأسلحة",
+    "after": "بلا تعديلات للأسلحة"
+  },
+  {
+    "id": "$preferences",
+    "source": "OPTIONS",
+    "before": "الخيارات",
+    "after": "الإعدادات"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\cannibal_3\\uber_alert\\uber_alert_search_04",
+    "source": "Where are you? Where are you, meat? Come here!",
+    "before": "أين أنت؟ أين أنت يا لحم؟ تعال الى هنا!",
+    "after": "أين أنت؟ أين أنت يا لحم؟ تعال إلى هنا!"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_212_11_sniperbattle_attackingplayer_02_06",
+    "source": "He's fucking dead now!",
+    "before": "انه سخيف ميت الآن!",
+    "after": "لقد مات اللعين الآن!"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_220_07_sam_captain_partyallnight_01_06",
+    "source": "He's going to become... A pirate! With nukes! And that's it!",
+    "before": "وقال انه سوف يصبح... القراصنة! بالأسلحة النووية! وهذا كل شيء!",
+    "after": "سيصبح... قرصانًا! بأسلحة نووية! وهذا كل شيء!"
+  },
+  {
+    "id": "$ctrl_charger",
+    "source": "LIGHT / CHARGER (HOLD)",
+    "before": "الضوء / الشاحن (عقد)",
+    "after": "المصباح / الشاحن (ضغط مطول)"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_1\\context\\context_alert_up_02",
+    "source": "Guys! Look up! He's up there!",
+    "before": "شباب! ابحث عن! انه هناك!",
+    "after": "يا رفاق! انظروا إلى الأعلى! إنه هناك!"
+  },
+  {
+    "id": "voices\\m3_10_yamantau\\yam_099_cannibal_attack_02_04",
+    "source": "It's meeeeeat!",
+    "before": "انها ميييييت!",
+    "after": "إنه لحــــم!"
+  },
+  {
+    "id": "$gp_popup_equipment",
+    "source": "WEAPONS INVENTORY (HOLD)",
+    "before": "مخزون الأسلحة (عقد)",
+    "after": "قائمة الأسلحة (ضغط مطول)"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_1\\context\\context_alert_warehouse_02",
+    "source": "I just saw him! He's in storage!",
+    "before": "لقد رأيته للتو! انه في المخزن!",
+    "after": "لقد رأيته للتو! إنه في المخزن!"
+  },
+  {
+    "id": "$gasmask",
+    "source": "GAS MASK",
+    "before": "قناع غاز",
+    "after": "قناع الغاز"
+  },
+  {
+    "id": "menu_category_wpn_forearm",
+    "source": "FOREND",
+    "before": "مقدمة",
+    "after": "واقي اليد"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_020_portmissionoutcomegood_01",
+    "source": "Stay calm! It's us!",
+    "before": "ابقَ هادئًا! انها نحن!",
+    "after": "اهدؤوا! نحن هنا!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_1\\context\\context_alert_warehouse_01",
+    "source": "He's in the storage!",
+    "before": "انه في المخزن!",
+    "after": "إنه في المخزن!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_1\\context\\context_alert_shack_03",
+    "source": "(whistle) That shack! He's there!",
+    "before": "(صافرة) ذلك الكوخ! انه هناك!",
+    "after": "(صافرة) ذلك الكوخ! إنه هناك!"
+  },
+  {
+    "id": "$gp_inventory",
+    "source": "INVENTORY (HOLD)",
+    "before": "المخزون (الاحتفاظ)",
+    "after": "المعدات (ضغط مطول)"
+  },
+  {
+    "id": "$mmb",
+    "source": "MMB",
+    "before": "إم إم بي",
+    "after": "MMB"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_1\\wounded\\wounded_lightly_04",
+    "source": "Ah, you...",
+    "before": "اه انت...",
+    "after": "اه أنت..."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_2\\dog\\dog_missing_01",
+    "source": "Beast! Come here! ...Fuck! Where is that dog?",
+    "before": "وحش! تعال الى هنا! ...اللعنة! أين ذلك الكلب؟",
+    "after": "وحش! تعال إلى هنا! ...اللعنة! أين ذلك الكلب؟"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_3\\context\\context_alert_steps_02",
+    "source": "That ladder! He's there!",
+    "before": "هذا السلم! انه هناك!",
+    "after": "هذا السلم! إنه هناك!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_2\\context\\context_alert_down_01",
+    "source": "Guys! He's down there!",
+    "before": "شباب! انه هناك!",
+    "after": "شباب! إنه هناك!"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_120_taleoftwobrothers_brothes_reunion_01_13",
+    "source": "He's coming back soon... Then you'll see!",
+    "before": "انه يعود قريبا... ثم سترى!",
+    "after": "سيعود قريبًا... وسترون حينها!"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_212_16_sniperbattle_searchforsam_01_04",
+    "source": "Find that fucker people! He's still here!",
+    "before": "العثور على هذا الناس اللعين! انه لا يزال هنا!",
+    "after": "اعثروا على ذلك اللعين يا رفاق! إنه ما زال هنا!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_1\\danger\\enemy_dead_animal_03",
+    "source": "It finally croaked!",
+    "before": "انها ملتوية أخيرا!",
+    "after": "لقد مات أخيرًا!"
+  },
+  {
+    "id": "$custom_menu_attach_xbox",
+    "source": "Attach <menu_buy>",
+    "before": "نعلق<menu_buy>",
+    "after": "تركيب <menu_buy>"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_2\\context\\context_alert_shack_01",
+    "source": "I see him! That shack! He's over there!",
+    "before": "أراه! هذا الكوخ! انه هناك!",
+    "after": "أراه! هذا الكوخ! إنه هناك!"
+  },
+  {
+    "id": "$load_last_checkpoint_date",
+    "source": "LOAD LAST CHECKPOINT (<autosave_date> min ago)",
+    "before": "تحميل نقطة التحقق الأخيرة (منذ دقيقة<autosave_date>)",
+    "after": "تحميل آخر نقطة حفظ (منذ <autosave_date> دقيقة)"
+  },
+  {
+    "id": "menu_ex_survival",
+    "source": "MEDKIT",
+    "before": "ميدكيت",
+    "after": "حقيبة إسعافات"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_1\\light_alert\\light_alert_group_alarmed_call_goingalert_morethanone_03",
+    "source": "Heeey! Where are you guys? Need any help?",
+    "before": "هيي! أين أنتم يا رفاق؟ بحاجة الى أي مساعدة؟",
+    "after": "هيي! أين أنتم يا رفاق؟ بحاجة إلى أي مساعدة؟"
+  },
+  {
+    "id": "$ctrl_reload",
+    "source": "RELOAD",
+    "before": "إعادة تحميل",
+    "after": "إعادة التلقيم"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_040_dock_04_guards_04_03",
+    "source": "It's closed!",
+    "before": "انها مغلقة!",
+    "after": "إنها مغلقة!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_3\\context\\context_alert_carriage_03",
+    "source": "I see him! That carriage! He's over there!",
+    "before": "أراه! تلك العربة! انه هناك!",
+    "after": "أراه! تلك العربة! إنه هناك!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_2\\uber_alert\\uber_alert_group_search_waitforsearchcomplete_03",
+    "source": "Hey, drifter! Come here! Chick-chick-chick-chick-CHICKEN! Hahaha!",
+    "before": "مهلا، التائه! تعال الى هنا! كتكوت كتكوت كتكوت كتكوت الدجاج! هاهاها!",
+    "after": "مهلا، التائه! تعال إلى هنا! كتكوت كتكوت كتكوت كتكوت الدجاج! هاهاها!"
+  },
+  {
+    "id": "$lang_sound_downloaded",
+    "source": "New voice language is available. Do you want to select it?",
+    "before": "لغة صوتية جديدة متاحة. هل تريد اختياره؟",
+    "after": "تتوفر لغة حوار جديدة. هل تريد اختيارها؟"
+  },
+  {
+    "id": "$rec709",
+    "source": "REC.709",
+    "before": "التوصية 709",
+    "after": "Rec.709"
+  },
+  {
+    "id": "$controller_xbox",
+    "source": "XBOX",
+    "before": "اكس بوكس",
+    "after": "Xbox"
+  },
+  {
+    "id": "$gp_filter_gasmask",
+    "source": "SWAP FILTER / GAS MASK (HOLD)",
+    "before": "تبديل الفلتر / قناع الغاز (تعليق)",
+    "after": "تبديل المرشح / قناع الغاز (ضغط مطول)"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_040_07_portmission_annastealthupport_10",
+    "source": "He's going strainght for you, hide!",
+    "before": "انه سوف يجهد بالنسبة لك، إخفاء!",
+    "after": "إنه يتجه نحوك مباشرة، اختبئ!"
+  },
+  {
+    "id": "menu_ammo_arrow_name",
+    "source": "CROSSBOW BOLT",
+    "before": "القوس والنشاب بولت",
+    "after": "سهم القوس"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_3\\context\\context_alert_slabs_03",
+    "source": "Guys! He's behind them slabs!",
+    "before": "شباب! انه وراءهم ألواح!",
+    "after": "يا رفاق! إنه خلف تلك الألواح!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_2\\alert\\alert_group_gonnalook_metoo_01",
+    "source": "I'm coming too...",
+    "before": "انا قادم ايضا...",
+    "after": "انا قادم أيضًا..."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_1\\dog\\dog_missing_02",
+    "source": "Come, boy! Hey! Come here! Where is that dog now?",
+    "before": "تعال يا فتى! يا! تعال الى هنا! أين ذلك الكلب الآن؟",
+    "after": "تعال يا فتى! يا! تعال إلى هنا! أين ذلك الكلب الآن؟"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_3\\context\\context_alert_logs_03",
+    "source": "Behind those logs! He's there!",
+    "before": "خلف تلك السجلات! انه هناك!",
+    "after": "خلف تلك الجذوع! إنه هناك!"
+  },
+  {
+    "id": "$game_difficulty_mutator_iron_mode",
+    "source": "Iron Mode ",
+    "before": "وضع الحديد",
+    "after": "وضع الرجل الحديدي"
+  },
+  {
+    "id": "$auto_detect",
+    "source": "AUTO DETECT",
+    "before": "كشف تلقائي",
+    "after": "اكتشاف تلقائي"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_3\\context\\context_alert_pillar_02",
+    "source": "The pillar over there! He's behind it!",
+    "before": "العمود هناك! انه وراء ذلك!",
+    "after": "العمود هناك! إنه وراء ذلك!"
+  },
+  {
+    "id": "$gp_medkit",
+    "source": "MEDKIT",
+    "before": "ميدكيت",
+    "after": "حقيبة إسعافات"
+  },
+  {
+    "id": "$ctrl_medkit",
+    "source": "MEDKIT",
+    "before": "ميدكيت",
+    "after": "حقيبة إسعافات"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_1\\dog\\dog_missing_01",
+    "source": "Come! Come here! Where are you, boy?",
+    "before": "تعال! تعال الى هنا! أين أنت يا فتى؟",
+    "after": "تعال! تعال إلى هنا! أين أنت يا فتى؟"
+  },
+  {
+    "id": "menu_hint_salvage",
+    "source": "SALVAGE",
+    "before": "إنقاذ",
+    "after": "تفكيك"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_3\\dog\\dog_missing_02",
+    "source": "Come here! Come! Hey!  Where are you, boy? Come here!",
+    "before": "تعال هنا! يأتي! يا!  أين أنت يا فتى؟ تعال الى هنا!",
+    "after": "تعال هنا! يأتي! يا!  أين أنت يا فتى؟ تعال إلى هنا!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\spartans\\sam\\combat\\combat_enemykilled_cqc_01",
+    "source": "Go to hell...",
+    "before": "اذهب الى الجحيم...",
+    "after": "اذهب إلى الجحيم..."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_2\\context\\context_alert_up_02",
+    "source": "He's up there!",
+    "before": "انه هناك!",
+    "after": "إنه هناك!"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_022_goodend_05",
+    "source": "<ffx:anger>Hear me brothers! Hold your fire!",
+    "before": "<ffx:anger>إسمعوا لي أيها الإخوة! امسك النار الخاص بك!",
+    "after": "<ffx:anger>اسمعوا لي أيها الإخوة! امسك النار الخاص بك!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_2\\uber_alert\\uber_alert_toomuchnoise_01",
+    "source": "I heard him, people! He's over here!",
+    "before": "سمعته يا قوم! انه هنا!",
+    "after": "سمعته يا قوم! إنه هنا!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_2\\wounded\\wounded_lightly_03",
+    "source": "Ah, you...",
+    "before": "اه انت...",
+    "after": "اه أنت..."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_2\\context\\context_alert_up_01",
+    "source": "Guys! He's up there!",
+    "before": "شباب! انه هناك!",
+    "after": "شباب! إنه هناك!"
+  },
+  {
+    "id": "$game_difficulty_mutator_armored_mode",
+    "source": "Armored Enemies",
+    "before": "أعداء مدرعة",
+    "after": "أعداء مدرعون"
+  },
+  {
+    "id": "$dx_11_options",
+    "source": "DIRECTX 11 OPTIONS",
+    "before": "خيارات DirectX 11",
+    "after": "إعدادات DirectX 11"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_3\\context\\context_alert_barrels_02",
+    "source": "Look at those barrels! He's near them!",
+    "before": "انظر إلى تلك البراميل! انه بالقرب منهم!",
+    "after": "انظر إلى تلك البراميل! إنه بالقرب منهم!"
+  },
+  {
+    "id": "$gp_time_wpn_down",
+    "source": "TIME / HOLSTER (HOLD)",
+    "before": "الوقت / الحافظة (عقد)",
+    "after": "الوقت / إخفاء السلاح (ضغط مطول)"
+  },
+  {
+    "id": "$nvidia_demo_ssao",
+    "source": "SSAO+IBL",
+    "before": "ساساو + إبل",
+    "after": "SSAO+IBL"
+  },
+  {
+    "id": "$gp_wpn_light",
+    "source": "LIGHT",
+    "before": "ضوء",
+    "after": "المصباح"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_2\\wounded\\wounded_lightly_05",
+    "source": "Ah, you...",
+    "before": "اه انت...",
+    "after": "اه أنت..."
+  },
+  {
+    "id": "$rmb",
+    "source": "RMB",
+    "before": "يوان",
+    "after": "RMB"
+  },
+  {
+    "id": "$gp_photomode",
+    "source": "PHOTO MODE (HOLD)",
+    "before": "وضع الصورة (عقد)",
+    "after": "وضع التصوير (ضغط مطول)"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\cannibal_2\\wounded\\wounded_lightly_03",
+    "source": "Ah, you...",
+    "before": "اه انت...",
+    "after": "اه أنت..."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_2\\context\\context_alert_window_01",
+    "source": "The window! He's there!",
+    "before": "النافذة! انه هناك!",
+    "after": "النافذة! إنه هناك!"
+  },
+  {
+    "id": "$quit_game",
+    "source": "QUIT GAME",
+    "before": "قم بإنهاء اللعبة",
+    "after": "الخروج من اللعبة"
+  },
+  {
+    "id": "$quit_to_main_menu",
+    "source": "QUIT TO MAIN MENU",
+    "before": "قم بالخروج من القائمة الرئيسية",
+    "after": "العودة إلى القائمة الرئيسية"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_2\\context\\context_alert_house_01",
+    "source": "Guys! The house! He's there!",
+    "before": "شباب! المنزل! انه هناك!",
+    "after": "شباب! المنزل! إنه هناك!"
+  },
+  {
+    "id": "voices\\m3_09_summer\\sum_001_7_2_tabletalk_02_88",
+    "source": "<ffx:smile>Yes! To life!<ffx:neutral>",
+    "before": "<ffx:smile>نعم! الى الحياة!<ffx:neutral>",
+    "after": "<ffx:smile>نعم! إلى الحياة!<ffx:neutral>"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_2\\context\\context_alert_shack_01",
+    "source": "Guys! That shack! He's over there!",
+    "before": "شباب! هذا الكوخ! انه هناك!",
+    "after": "شباب! هذا الكوخ! إنه هناك!"
+  },
+  {
+    "id": "$gp_use_xbox",
+    "source": "USE / INTERACT ",
+    "before": "الاستخدام / التفاعل",
+    "after": "استخدام / تفاعل"
+  },
+  {
+    "id": "$gp_wpn_dynamite",
+    "source": "THROW SECONDARY",
+    "before": "رمي الثانوية",
+    "after": "رمي سلاح ثانوي"
+  },
+  {
+    "id": "$god_mode",
+    "source": "God Mode",
+    "before": "وضع الله",
+    "after": "وضع الحصانة"
+  },
+  {
+    "id": "voices\\m3_02_dead_moscow\\dmc_010_02_baseinfiltration_02_05",
+    "source": "<ffx:fear_light>Yes, sir! It's under constant watch! <ffx:neutral>",
+    "before": "<ffx:fear_light>نعم يا سيدي! انها تحت المراقبة المستمرة!<ffx:neutral>",
+    "after": "<ffx:fear_light>نعم يا سيدي! إنها تحت المراقبة المستمرة!<ffx:neutral>"
+  },
+  {
+    "id": "$loading_progress",
+    "source": "LOADING...<load_progress>%",
+    "before": "جار التحميل...<load_progress>%",
+    "after": "جارٍ التحميل...<load_progress>%"
+  },
+  {
+    "id": "$gyro_sens-1",
+    "source": "MOTION CONTROLS SENSITIVITY",
+    "before": "الحركة تتحكم في الحساسية",
+    "after": "حساسية التحكم بالحركة"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_3\\wounded\\wounded_lightly_03",
+    "source": "Ah, you...",
+    "before": "اه انت...",
+    "after": "اه أنت..."
+  },
+  {
+    "id": "$game_difficulty_mutator_grenadier_mode",
+    "source": "Grenadiers",
+    "before": "غريناديرز",
+    "after": "رماة القنابل"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_3\\dog\\dog_missing_01",
+    "source": "Hey, boy! Come here! Here? Quick! Where is that dog?",
+    "before": "مهلا يا فتى! تعال الى هنا! هنا؟ سريع! أين ذلك الكلب؟",
+    "after": "مهلا يا فتى! تعال إلى هنا! هنا؟ سريع! أين ذلك الكلب؟"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_080_twoneutrals_seastories_02_06",
+    "source": "Of course! It's bullshit!",
+    "before": "بالطبع! انها هراء!",
+    "after": "بالطبع! هذا هراء!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_1\\context\\context_alert_up_02",
+    "source": "I see him! He's up there!",
+    "before": "أراه! انه هناك!",
+    "after": "أراه! إنه هناك!"
+  },
+  {
+    "id": "$qte_hold",
+    "source": "HOLD",
+    "before": "ضغط مستمر",
+    "after": "ضغط مطول"
+  },
+  {
+    "id": "voices\\m3_13_dead_city\\nvs_011_driveback_21",
+    "source": "<ffx:wonder_strong>Get up! It's very close now!<ffx:neutral>",
+    "before": "<ffx:wonder_strong>انهض! انها قريبة جدا الآن!<ffx:neutral>",
+    "after": "<ffx:wonder_strong>انهض! إنها قريبة جدًا الآن!<ffx:neutral>"
+  },
+  {
+    "id": "menu_ammo_arrow_desc",
+    "source": "Bolt Description",
+    "before": "وصف الترباس",
+    "after": "وصف سهم القوس"
+  },
+  {
+    "id": "$controls_preset",
+    "source": "LAYOUT",
+    "before": "التخطيط",
+    "after": "تخطيط الأزرار"
+  },
+  {
+    "id": "$ctrl_strafe_right",
+    "source": "STRAFE RIGHT",
+    "before": "تحرك نحو اليمين",
+    "after": "التحرك يمينًا"
+  },
+  {
+    "id": "$ctrl_forward",
+    "source": "FORWARD",
+    "before": "إلى الأمام",
+    "after": "للأمام"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_2\\context\\context_alert_car_01",
+    "source": "That car! He's there!",
+    "before": "هذه السيارة! انه هناك!",
+    "after": "هذه السيارة! إنه هناك!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_1\\context\\context_alert_down_03",
+    "source": "I see him! He's down there!",
+    "before": "أراه! انه هناك!",
+    "after": "أراه! إنه هناك!"
+  },
+  {
+    "id": "$srgb",
+    "source": "SRGB",
+    "before": "إس آر جي بي",
+    "after": "sRGB"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\cannibal_3\\stunned\\stunned_found_02",
+    "source": "Whaaa? He's live! Hey! That rat just knocked our guy out!",
+    "before": "ماذا؟ انه حي! يا! لقد طرد هذا الفأر رجلنا للتو!",
+    "after": "ماذا؟ إنه حي! مهلاً! لقد أفقد ذلك الجرذ رجلنا وعيه للتو!"
+  },
+  {
+    "id": "$gp_gasmask",
+    "source": "GAS MASK (HOLD)",
+    "before": "قناع الغاز (عقد)",
+    "after": "قناع الغاز (ضغط مطول)"
+  },
+  {
+    "id": "$custom_menu_detach_xbox",
+    "source": "Detach <menu_buy>",
+    "before": "افصل<menu_buy>",
+    "after": "إزالة <menu_buy>"
+  },
+  {
+    "id": "$ctrl_crouch",
+    "source": "CROUCH",
+    "before": "كراوتش",
+    "after": "الانحناء"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\cannibal_3\\context\\context_alert_down_01",
+    "source": "There's the rat! He's down there!",
+    "before": "هناك الفئران! انه هناك!",
+    "after": "ها هو الجرذ! إنه هناك في الأسفل!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_1\\context\\context_alert_window_01",
+    "source": "The window! He's there!",
+    "before": "النافذة! انه هناك!",
+    "after": "النافذة! إنه هناك!"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_160_40_boatbase_outpost_01_02",
+    "source": "It's simple. They can be trained, with some effort, of course. The hardest part is teaching them not to jump at people without a command, but once they learn that, it's smooth sailing.",
+    "before": "انها بسيطة. ويمكن تدريبهم ببعض الجهد بالطبع. الجزء الأصعب هو تعليمهم عدم القفز على الأشخاص دون أمر، ولكن بمجرد أن يتعلموا ذلك، يصبح الأمر سلسًا.",
+    "after": "الأمر بسيط. يمكن تدريبها ببعض الجهد طبعًا. أصعب ما في الأمر تعليمها ألا تنقض على الناس دون أمر، لكن ما إن تتعلم ذلك حتى تصبح الأمور سهلة."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\tribal_2\\uber_alert\\uber_alert_01",
+    "source": "He is here! He's close! Get him, make Myrza happy!",
+    "before": "إنه هنا! انه قريب! احصل عليه، واجعل ميرزا ​​سعيدًا!",
+    "after": "إنه هنا! إنه قريب! أمسكوا به وأسعدوا ميرزا!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_3\\context\\context_alert_shack_03",
+    "source": "See him, guys! That shack! He's fucking there!",
+    "before": "رؤيته يا شباب! هذا الكوخ! انه سخيف هناك!",
+    "after": "أراه يا رفاق! ذلك الكوخ! اللعين هناك!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_1\\dog\\dog_missing_01",
+    "source": "Come here! Where are you? Come here, you... Forgive me, Fish, I almost swore...",
+    "before": "تعال الى هنا! أين أنت؟ تعال هنا، أنت... سامحني يا فيش، لقد كدت أقسم...",
+    "after": "تعال إلى هنا! أين أنت؟ تعال هنا، أنت... سامحني يا فيش، لقد كدت أقسم..."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_2\\context\\context_alert_up_03",
+    "source": "I see him! He's up there!",
+    "before": "أراه! انه هناك!",
+    "after": "أراه! إنه هناك!"
+  },
+  {
+    "id": "$gyro_enable-1",
+    "source": "MOTION CONTROLS AIMING",
+    "before": "ضوابط الحركة تهدف",
+    "after": "التصويب بالتحكم بالحركة"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_3\\context\\context_alert_barrels_02",
+    "source": "Those barrels! He's near them!",
+    "before": "تلك البراميل! انه بالقرب منهم!",
+    "after": "تلك البراميل! إنه بالقرب منهم!"
+  },
+  {
+    "id": "$gp_wpn_down",
+    "source": "HOLSTER (HOLD)",
+    "before": "الحافظة (عقد)",
+    "after": "إخفاء السلاح (ضغط مطول)"
+  },
+  {
+    "id": "$gp_sprint",
+    "source": "SPRINT",
+    "before": "سبرينت",
+    "after": "الركض السريع"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\cannibal_2\\uber_alert\\uber_alert_toomuchnoise_03",
+    "source": "he's here! Here! Here, everyone! I hear meat here!",
+    "before": "انه هنا! هنا! هنا الجميع! أسمع اللحوم هنا!",
+    "after": "إنه هنا! هنا! تعالوا جميعًا! أسمع لحمًا هنا!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_1\\dog\\dog_missing_02",
+    "source": "Hey, where are you? Come here! Why does he always has to run off...",
+    "before": "مهلا، أين أنت؟ تعال الى هنا! لماذا عليه الهروب دائما...",
+    "after": "مهلا، أين أنت؟ تعال إلى هنا! لماذا عليه الهروب دائما..."
+  },
+  {
+    "id": "$game_difficulty_mutator_tough_creatures",
+    "source": "Tougher Creatures",
+    "before": "مخلوقات أشد",
+    "after": "مخلوقات أشد قوة"
+  },
+  {
+    "id": "$game_difficulty_mutator_developers_comments",
+    "source": "Developer Commentary",
+    "before": "تعليق المطور",
+    "after": "تعليقات المطورين"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_1\\dog\\dog_missing_01",
+    "source": "Come here! Where the fuck is that dumb dog?",
+    "before": "تعال الى هنا! أين هو بحق الجحيم هذا الكلب الغبي؟",
+    "after": "تعال إلى هنا! أين هو بحق الجحيم هذا الكلب الغبي؟"
+  },
+  {
+    "id": "$gp_rui",
+    "source": "RELOAD / INTERACT / PUMP (HOLD)",
+    "before": "إعادة التحميل / التفاعل / المضخة (الانتظار)",
+    "after": "إعادة التلقيم / التفاعل / الضخ (ضغط مطول)"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_1\\light_alert\\light_alert_group_alarmed_call_others_01",
+    "source": "Alarm, brethren! He's not answering!",
+    "before": "إنذار أيها الإخوة! انه لا يجيب!",
+    "after": "إنذار أيها الإخوة! إنه لا يجيب!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_3\\context\\context_alert_down_02",
+    "source": "Down there! He's there!",
+    "before": "هناك! انه هناك!",
+    "after": "هناك! إنه هناك!"
+  },
+  {
+    "id": "$gp_use",
+    "source": "USE / INTERACT ",
+    "before": "الاستخدام / التفاعل",
+    "after": "استخدام / تفاعل"
+  },
+  {
+    "id": "$no_ringing_sounds",
+    "source": "NO TINNITUS SOUNDS",
+    "before": "لا يوجد أصوات طنين",
+    "after": "إيقاف أصوات الطنين"
+  },
+  {
+    "id": "$ctrl_sprint",
+    "source": "SPRINT",
+    "before": "سبرينت",
+    "after": "الركض السريع"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_2\\context\\context_alert_shack_02",
+    "source": "See that shack, guys? He's there!",
+    "before": "هل ترون ذلك الكوخ يا رفاق؟ انه هناك!",
+    "after": "هل ترون ذلك الكوخ يا رفاق؟ إنه هناك!"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_110_taleoftwobrothers_brother2_ranting_01_02",
+    "source": "He's insane! Completely off his rocker...",
+    "before": "انه مجنون! تماما من الروك له..",
+    "after": "إنه مجنون! لقد فقد صوابه تمامًا..."
+  },
+  {
+    "id": "$game_subtitles_background",
+    "source": "SUBTITLE BACKGROUND",
+    "before": "خلفية الترجمة",
+    "after": "خلفية الترجمة النصية"
+  },
+  {
+    "id": "$gyro_invert_y_axis-1",
+    "source": "INVERT MOTION CONTROLS (Y-AXIS)",
+    "before": "عكس عناصر التحكم في الحركة (المحور Y)",
+    "after": "عكس التحكم بالحركة (المحور Y)"
+  },
+  {
+    "id": "$gp_filter",
+    "source": "SWAP FILTER",
+    "before": "مرشح المبادلة",
+    "after": "تبديل المرشح"
+  },
+  {
+    "id": "$ctrl_inventory",
+    "source": "INVENTORY",
+    "before": "المخزون",
+    "after": "المعدات"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_3\\context\\context_alert_tank_03",
+    "source": "He's hiding! At that tank over there!",
+    "before": "انه يختبئ! في تلك الدبابة هناك!",
+    "after": "إنه يختبئ! في تلك الدبابة هناك!"
+  },
+  {
+    "id": "$left",
+    "source": "LEFT",
+    "before": "اليسار",
+    "after": "يسار"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_120_taleoftwobrothers_brothes_reunion_01_19",
+    "source": "Wait a minute... But why...",
+    "before": "إنتظر لحظة...ولكن لماذا...",
+    "after": "انتظر لحظة...ولكن لماذا..."
+  },
+  {
+    "id": "voices\\m3_13_dead_city\\nvs_006_enterfirststation_14",
+    "source": "Come here!",
+    "before": "تعال الى هنا!",
+    "after": "تعال إلى هنا!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\cannibal_3\\context\\context_alert_up_03",
+    "source": "He's up there! Look!",
+    "before": "انه هناك! ينظر!",
+    "after": "إنه هناك في الأعلى! انظروا!"
+  },
+  {
+    "id": "$game_difficulty_new_game_plus",
+    "source": "NEW GAME PLUS",
+    "before": "لعبة جديدة زائد",
+    "after": "لعبة جديدة+"
+  },
+  {
+    "id": "menu_item_throwing_knife_name",
+    "source": "THROWING KNIFE",
+    "before": "رمي السكين",
+    "after": "سكين رمي"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_090_scouts_conversation_01_10",
+    "source": "You're right there... Haha...",
+    "before": "انت هناك..ههههه..",
+    "after": "أنت هناك..ههههه.."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_1\\wounded\\wounded_lightly_04",
+    "source": "Ah, you...",
+    "before": "اه انت...",
+    "after": "اه أنت..."
+  },
+  {
+    "id": "$use_defaults",
+    "source": "USE DEFAULTS",
+    "before": "استخدم الافتراضيات",
+    "after": "استعادة الإعدادات الافتراضية"
+  },
+  {
+    "id": "menu_category_wpn_magazine",
+    "source": "MAGAZINE",
+    "before": "مجلة",
+    "after": "مخزن الذخيرة"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_1\\context\\context_alert_carriage_03",
+    "source": "Visual! See that carriage? He's there!",
+    "before": "مرئي! هل ترى تلك العربة؟ انه هناك!",
+    "after": "أراه! أترون تلك العربة؟ إنه هناك!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_2\\context\\context_alert_pass_01",
+    "source": "I see that bastard! He's in the passage!",
+    "before": "أرى ذلك اللقيط! انه في الممر!",
+    "after": "أرى ذلك اللقيط! إنه في الممر!"
+  },
+  {
+    "id": "$game_difficulty_mutator_sneaky_combat_behaviour",
+    "source": "Sneaky Behavior",
+    "before": "سلوك متستر",
+    "after": "سلوك مخادع"
+  },
+  {
+    "id": "$resume_game",
+    "source": "RESUME GAME",
+    "before": "استئناف اللعبة",
+    "after": "متابعة اللعبة"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_1\\context\\context_alert_pass_02",
+    "source": "See the enemy! He's in the pass!",
+    "before": "شاهد العدو! انه في الممر!",
+    "after": "أرى العدو! إنه في الممر!"
+  },
+  {
+    "id": "$gp_wpn_fire",
+    "source": "FIRE",
+    "before": "حريق",
+    "after": "إطلاق النار"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_1\\light_alert\\light_alert_group_alarmed_call_others_04",
+    "source": "Heads up, boys! He's not replying! What do we do now?",
+    "before": "ارفعوا رؤوسكم يا أولاد! انه لا يرد! ماذا نفعل الآن؟",
+    "after": "ارفعوا رؤوسكم يا أولاد! إنه لا يرد! ماذا نفعل الآن؟"
+  },
+  {
+    "id": "$gp_wpn_fast_knife",
+    "source": "MELEE ATTACK",
+    "before": "هجوم المشاجرة",
+    "after": "هجوم قريب"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\cannibal_2\\stunned\\stunned_found_03",
+    "source": "Here, everyone! Come here! He knocked this fool out, haha!",
+    "before": "هنا الجميع! تعال الى هنا! لقد طرد هذا الأحمق ، هاها!",
+    "after": "هنا الجميع! تعال إلى هنا! لقد طرد هذا الأحمق ، هاها!"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_212_11_10_sniperbattle_samtooclose_01_02",
+    "source": "He's too close! Get him, guys!",
+    "before": "انه قريب جدا! احصل عليه يا شباب!",
+    "after": "إنه قريب جدا! احصل عليه يا شباب!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_3\\context\\context_alert_up_02",
+    "source": "He's up there! I see him!",
+    "before": "انه هناك! أراه!",
+    "after": "إنه هناك! أراه!"
+  },
+  {
+    "id": "$move_xbox_lstick",
+    "source": "LS",
+    "before": "إل إس",
+    "after": "LS"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_3\\context\\context_alert_carriage_03",
+    "source": "See him, guys! That carriage! He's fucking there!",
+    "before": "رؤيته يا شباب! تلك العربة! انه سخيف هناك!",
+    "after": "رؤيته يا شباب! تلك العربة! إنه سخيف هناك!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_2\\dog\\dog_missing_03",
+    "source": "Het! Where are you, boy? Come here! Come, I have some food for you! Weird... Where is that dog?",
+    "before": "هيت! أين أنت يا فتى؟ تعال الى هنا! تعال، لدي بعض الطعام لك! غريب... أين ذلك الكلب؟",
+    "after": "هيت! أين أنت يا فتى؟ تعال إلى هنا! تعال، لدي بعض الطعام لك! غريب... أين ذلك الكلب؟"
+  },
+  {
+    "id": "$gp_wpn_down_xbox",
+    "source": "HOLSTER (HOLD)",
+    "before": "الحافظة (عقد)",
+    "after": "إخفاء السلاح (ضغط مطول)"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_3\\dog\\dog_missing_02",
+    "source": "Come here, girl! Come here! Where is she, I wonder...",
+    "before": "تعالي هنا يا فتاة! تعال الى هنا! أين هي يا ترى...",
+    "after": "تعالي هنا يا فتاة! تعال إلى هنا! أين هي يا ترى..."
+  },
+  {
+    "id": "$gp_popup_secondary",
+    "source": "SECONDARY INVENTORY(HOLD)",
+    "before": "المخزون الثانوي (الاحتفاظ)",
+    "after": "قائمة المعدات الثانوية (ضغط مطول)"
+  },
+  {
+    "id": "$general_hint_38_xbox",
+    "source": "You can choose from different control layouts in the Options - Controls menu.",
+    "before": "يمكنك الاختيار من بين تخطيطات التحكم المختلفة في قائمة الخيارات - عناصر التحكم.",
+    "after": "يمكنك الاختيار من بين تخطيطات التحكم المختلفة في قائمة الإعدادات - عناصر التحكم."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_2\\context\\context_alert_pillar_01",
+    "source": "Guys! He's over there! Behind that pillar!",
+    "before": "شباب! انه هناك! خلف هذا العمود!",
+    "after": "شباب! إنه هناك! خلف هذا العمود!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_1\\context\\context_alert_down_02",
+    "source": "I see him! He's down there!",
+    "before": "أراه! انه هناك!",
+    "after": "أراه! إنه هناك!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_2\\dog\\dog_commands_01",
+    "source": "Come here!",
+    "before": "تعال الى هنا!",
+    "after": "تعال إلى هنا!"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_212_11_05_sniperbattle_secondwavespawn_01_04",
+    "source": "Guys, get the fucker! He's still alive!",
+    "before": "يا رفاق، احصلوا على اللعين! انه لا يزال على قيد الحياة!",
+    "after": "يا رفاق، أمسكوا باللعين! إنه ما زال حيًا!"
+  },
+  {
+    "id": "$gp_gasmask_xbox",
+    "source": "GAS MASK (HOLD)",
+    "before": "قناع الغاز (عقد)",
+    "after": "قناع الغاز (ضغط مطول)"
+  },
+  {
+    "id": "menu_trade_category_craft",
+    "source": "CRAFTING",
+    "before": "صياغة",
+    "after": "الصناعة"
+  },
+  {
+    "id": "menu_category_wpn_butt",
+    "source": "STOCK AND GRIP",
+    "before": "المخزون والقبضة",
+    "after": "الأخمص والقبضة"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_1\\context\\context_alert_warehouse_02",
+    "source": "I just saw him! He's in storage!",
+    "before": "لقد رأيته للتو! انه في المخزن!",
+    "after": "لقد رأيته للتو! إنه في المخزن!"
+  },
+  {
+    "id": "$hdr",
+    "source": "HDR",
+    "before": "تقرير التنمية البشرية",
+    "after": "HDR"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\tribal_2\\uber_alert\\uber_alert_toomuchnoise_01",
+    "source": "Here! Here! I heard him right here! Quick, he's here!",
+    "before": "هنا! هنا! لقد سمعته هنا! بسرعة، انه هنا!",
+    "after": "هنا! هنا! لقد سمعته هنا! بسرعة، إنه هنا!"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_045_dock_boatguards_01_13",
+    "source": "Well, she's all yours!",
+    "before": "حسنا، انها كل شيء لك!",
+    "after": "حسنًا، إنها لكم!"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_099_poker_game_aftermath_01_05",
+    "source": "<ffx:fear>Oh, what do I do now.. What do I do... And who is this... Did Glyba send him? Could Bober be taking the dough for himself? <ffx:sadness>Oh, what do I do now... What do I do...",
+    "before": "<ffx:fear>اه ماذا افعل الان.. ماذا افعل... ومن هذا... هل ارسله غليبا؟ هل يمكن أن يأخذ بوبر العجين لنفسه؟<ffx:sadness>أوه ماذا أفعل الآن... ماذا أفعل...",
+    "after": "<ffx:fear>اه ماذا افعل الآن.. ماذا افعل... ومن هذا... هل ارسله غليبا؟ هل يمكن أن يأخذ بوبر العجين لنفسه؟<ffx:sadness>أوه ماذا أفعل الآن... ماذا أفعل..."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_3\\context\\context_alert_crates_01",
+    "source": "(whistle) Crates! He's there!",
+    "before": "(صافرة) الصناديق! انه هناك!",
+    "after": "(صافرة) الصناديق! إنه هناك!"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_656_60_assault_group_02_search_pillage_conversation_06",
+    "source": "Fuck no! It's ours! We're pirates, so start acting like one - take shit and kill all who interfere!",
+    "before": "اللعنة لا! انها لنا! نحن قراصنة، لذا ابدأ بالتصرف كواحد منهم - خذ الأمور على محمل الجد واقتل كل من يتدخل!",
+    "after": "كلا، تبًا! إنها لنا! نحن قراصنة، فتصرفوا كقراصنة: استولوا على ما تريدون واقتلوا كل من يعترضكم!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_3\\wounded\\wounded_lightly_03",
+    "source": "Ah, you...",
+    "before": "اه انت...",
+    "after": "اه أنت..."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_2\\dog\\dog_missing_01",
+    "source": "Here! Come, boy! Come here! Where in the realm of the Fish are you? ",
+    "before": "هنا! تعال يا فتى! تعال الى هنا! أين أنت في عالم السمك؟",
+    "after": "هنا! تعال يا فتى! تعال إلى هنا! أين أنت في عالم السمك؟"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_004_sam_captain_meeting_01_04",
+    "source": "Wow! A submarine! It's freaking huge!",
+    "before": "واو! غواصة! انها ينقط ضخمة!",
+    "after": "يا للروعة! غواصة! إنها ضخمة جدًا!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_1\\dog\\dog_missing_01",
+    "source": "Come here!  Where are you, you slacker?",
+    "before": "تعال الى هنا!  أين أنت أيها الكسول؟",
+    "after": "تعال إلى هنا!  أين أنت أيها الكسول؟"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_040_dock_04_guards_04_05",
+    "source": "It's just closed!",
+    "before": "انها مغلقة فقط!",
+    "after": "إنها مغلقة فحسب!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_2\\uber_alert\\uber_alert_single_threat_notfound_03",
+    "source": "The fucking chickenshit! He's not here! Gotta look for him again! Shit!",
+    "before": "الدجاجة اللعينة! انه ليس هنا! يجب أن أبحث عنه مرة أخرى! القرف!",
+    "after": "ذلك الجبان اللعين! إنه ليس هنا! علي البحث عنه من جديد! تبًا!"
+  },
+  {
+    "id": "$photo_mode_hide_ui_pc",
+    "source": "R",
+    "before": "ر",
+    "after": "R"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_2\\context\\context_alert_pass_01",
+    "source": "The passage! He's there!",
+    "before": "المرور! انه هناك!",
+    "after": "المرور! إنه هناك!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_1\\decoy\\decoy_hit_reaction_02",
+    "source": "Hey! You! Come here! I want your name, now!",
+    "before": "يا! أنت! تعال الى هنا! أريد اسمك، الآن!",
+    "after": "يا! أنت! تعال إلى هنا! أريد اسمك، الآن!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_3\\context\\context_alert_shack_01",
+    "source": "Guys! That shack over there! He's there!",
+    "before": "يا رفاق! ذلك الكوخ هناك! انه هناك!",
+    "after": "يا رفاق! ذلك الكوخ هناك! إنه هناك!"
+  },
+  {
+    "id": "$gp_popup_weapons",
+    "source": "WEAPONS INVENTORY (HOLD)",
+    "before": "مخزون الأسلحة (عقد)",
+    "after": "قائمة الأسلحة (ضغط مطول)"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_2\\context\\context_alert_fence_01",
+    "source": "The fence! He's behind it!",
+    "before": "السياج! انه وراء ذلك!",
+    "after": "السياج! إنه وراء ذلك!"
+  },
+  {
+    "id": "$game_subtitles_size",
+    "source": "SUBTITLE SIZE",
+    "before": "حجم الترجمة",
+    "after": "حجم الترجمة النصية"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_2\\light_alert\\light_alert_group_alarmed_call_others_01",
+    "source": "He’s not responding! Let's go look for him, guys!",
+    "before": "انه لا يستجيب! فلنذهب للبحث عنه يا شباب!",
+    "after": "إنه لا يستجيب! فلنذهب للبحث عنه يا شباب!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_2\\dog\\dog_commands_01",
+    "source": "Come here!",
+    "before": "تعال الى هنا!",
+    "after": "تعال إلى هنا!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_1\\context\\context_alert_house_01",
+    "source": "(whistle) That house! He's there!",
+    "before": "(صافرة) هذا المنزل! انه هناك!",
+    "after": "(صافرة) هذا المنزل! إنه هناك!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_2\\wounded\\wounded_lightly_03",
+    "source": "Ah, you...",
+    "before": "اه انت...",
+    "after": "اه أنت..."
+  },
+  {
+    "id": "$nvidia_demo_rtao",
+    "source": "Raytraced AO+GI",
+    "before": "تتبع الأشعة AO+GI",
+    "after": "Raytraced AO+GI"
+  },
+  {
+    "id": "$ctrl_strafe_left",
+    "source": "STRAFE LEFT",
+    "before": "تحرك لليسار",
+    "after": "التحرك يسارًا"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_2\\dog\\dog_missing_02",
+    "source": "Come here! Hey!  What's the matter with this dog...",
+    "before": "تعال الى هنا! يا!  ما بال هذا الكلب...",
+    "after": "تعال إلى هنا! يا!  ما بال هذا الكلب..."
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_004_sam_captain_meeting_01_04_01",
+    "source": "Wow! A submarine! It's freaking huge! A nice ticket home...",
+    "before": "واو! غواصة! انها ينقط ضخمة! تذكرة جميلة للمنزل...",
+    "after": "يا للروعة! غواصة! إنها ضخمة جدًا! وسيلة رائعة للعودة إلى الديار..."
+  },
+  {
+    "id": "$ingame_menu_select_options",
+    "source": "SELECT",
+    "before": "اختر",
+    "after": "اختيار"
+  },
+  {
+    "id": "$gp_map",
+    "source": "JOURNAL",
+    "before": "مجلة",
+    "after": "اليوميات"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_1\\context\\context_alert_pillar_03",
+    "source": "(whistle) Guys! That pillar! He's there!",
+    "before": "(صافرة) يا رفاق! تلك الركن! انه هناك!",
+    "after": "(صافرة) يا رفاق! ذلك العمود! إنه هناك!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_2\\dog\\dog_missing_02",
+    "source": "Hey! Beast! Come here! What the fuck is up with him today... Fucking crazy...",
+    "before": "يا! وحش! تعال الى هنا! ما الذي يحدث معه اليوم...يا له من جنون...",
+    "after": "يا! وحش! تعال إلى هنا! ما الذي يحدث معه اليوم...يا له من جنون..."
+  },
+  {
+    "id": "voices\\m3_10_yamantau\\yam_010_welcometohell_02",
+    "source": "<ffx:smile>Everything is going as planned, everyone is <ffx:anger>fine! So far...",
+    "before": "<ffx:smile>كل شيء يسير كما هو مخطط له، الجميع<ffx:anger>بخير! حتى الان...",
+    "after": "<ffx:smile>كل شيء يسير كما هو مخطط له، الجميع<ffx:anger>بخير! حتى الآن..."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_3\\context\\context_alert_pass_01",
+    "source": "The passage! He's there!",
+    "before": "المرور! انه هناك!",
+    "after": "المرور! إنه هناك!"
+  },
+  {
+    "id": "voices\\m3_dlc1\\dlc1_102_olkach_again_01_02",
+    "source": "Ah, she's dead...",
+    "before": "اه انها ماتت...",
+    "after": "آه، لقد ماتت..."
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_024_tower_bandits_talk_03_02",
+    "source": "<ffx:wonder>Why? It's just lightning and mold here! <ffx:neutral>",
+    "before": "<ffx:wonder>لماذا؟ انها مجرد البرق والعفن هنا!<ffx:neutral>",
+    "after": "<ffx:wonder>لماذا؟ لا يوجد هنا سوى البرق والعفن!<ffx:neutral>"
+  },
+  {
+    "id": "$video_quality",
+    "source": "QUALITY",
+    "before": "الجودة",
+    "after": "جودة الرسوم"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_3\\species\\confused_single_threat_subsided_01",
+    "source": "It's over... Well, that's fine by me...",
+    "before": "لقد إنتهى...حسناً، هذا جيد بالنسبة لي...",
+    "after": "لقد انتهى...حسناً، هذا جيد بالنسبة لي..."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\cannibal_3\\context\\context_alert_down_03",
+    "source": "Down! He's there!",
+    "before": "تحت! انه هناك!",
+    "after": "تحت! إنه هناك!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_2\\context\\context_alert_shack_02",
+    "source": "Visual! See that shack? He's there!",
+    "before": "مرئية! هل ترى ذلك الكوخ؟ انه هناك!",
+    "after": "مرئية! هل ترى ذلك الكوخ؟ إنه هناك!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_2\\danger\\enemy_dead_animal_03",
+    "source": "It croaked! Finally!",
+    "before": "انها ملتوية! أخيراً!",
+    "after": "لقد مات! أخيرًا!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_1\\context\\context_alert_down_02",
+    "source": "He's down there!",
+    "before": "انه هناك!",
+    "after": "إنه هناك!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_1\\uber_alert\\uber_alert_toomuchnoise_01",
+    "source": "I heard that, drifter! He's over here!",
+    "before": "لقد سمعت ذلك أيها التائه! انه هنا!",
+    "after": "سمعته أيها الجوال! إنه هنا!"
+  },
+  {
+    "id": "voices\\m3_13_dead_city\\nvs_120_blind_affect_eatingcorpse_04",
+    "source": "It's old...",
+    "before": "انها قديمة...",
+    "after": "إنها قديمة..."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_1\\context\\context_alert_up_02",
+    "source": "I see him! He's up there!",
+    "before": "أراه! انه هناك!",
+    "after": "أراه! إنه هناك!"
+  },
+  {
+    "id": "menu_ammo_shotgun_name",
+    "source": "SHOTGUN AMMO",
+    "before": "ذخيرة البندقية",
+    "after": "ذخيرة الخرطوش"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_2\\uber_alert\\uber_alert_toomuchnoise_02",
+    "source": "Surround him, guys! He's over there! I just heard him!",
+    "before": "أحيطوا به يا شباب! انه هناك! لقد سمعته للتو!",
+    "after": "أحيطوا به يا شباب! إنه هناك! لقد سمعته للتو!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_3\\dog\\dog_missing_01",
+    "source": "Come, boy! Come here!",
+    "before": "تعال يا فتى! تعال الى هنا!",
+    "after": "تعال يا فتى! تعال إلى هنا!"
+  },
+  {
+    "id": "$gp_wpn_aim",
+    "source": "AIM",
+    "before": "الهدف",
+    "after": "التصويب"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\cannibal_1\\uber_alert\\uber_alert_enemy_human_01",
+    "source": "Aaaa! He's there!",
+    "before": "اااا! انه هناك!",
+    "after": "آآآه! إنه هناك!"
+  },
+  {
+    "id": "$gp_popup_devices",
+    "source": "EQUIPMENT INVENTORY (HOLD)",
+    "before": "مخزون المعدات (الاحتفاظ)",
+    "after": "قائمة المعدات (ضغط مطول)"
+  },
+  {
+    "id": "$de",
+    "source": "GERMAN",
+    "before": "ألمانية",
+    "after": "الألمانية"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\tribal_1\\context\\context_alert_down_01",
+    "source": "There! He's down there!",
+    "before": "هناك! انه هناك!",
+    "after": "هناك! إنه هناك!"
+  },
+  {
+    "id": "$right",
+    "source": "RIGHT",
+    "before": "صحيح",
+    "after": "يمين"
+  },
+  {
+    "id": "$gyro_invert_x_axis-1",
+    "source": "INVERT MOTION CONTROLS (X-AXIS)",
+    "before": "عكس عناصر التحكم في الحركة (المحور السيني)",
+    "after": "عكس التحكم بالحركة (المحور X)"
+  },
+  {
+    "id": "$gp_lighter",
+    "source": "LIGHTER",
+    "before": "أخف وزنا",
+    "after": "الولاعة"
+  },
+  {
+    "id": "$gp_backpack",
+    "source": "BACKPACK (HOLD)",
+    "before": "حقيبة الظهر (عقد)",
+    "after": "حقيبة الظهر (ضغط مطول)"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_1\\uber_alert\\uber_alert_toomuchnoise_01",
+    "source": "Solid sound contact! He's over here!",
+    "before": "اتصال صوتي قوي! انه هنا!",
+    "after": "أسمعه بوضوح! إنه هنا!"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_016_briefing_03_07",
+    "source": "<ffx:anger_light>Artyom! Come here! <ffx:neutral>",
+    "before": "<ffx:anger_light>أرتيوم! تعال الى هنا!<ffx:neutral>",
+    "after": "<ffx:anger_light>أرتيوم! تعال إلى هنا!<ffx:neutral>"
+  },
+  {
+    "id": "$exposure_hdr",
+    "source": "HDR EXPOSURE",
+    "before": "التعرض لتقنية HDR",
+    "after": "تعريض HDR"
+  },
+  {
+    "id": "$vo_volume",
+    "source": "VOICE VOLUME",
+    "before": "مستوى الحوار",
+    "after": "مستوى صوت الحوار"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_3\\species\\confused_group_threat_subsided_reply_02",
+    "source": "You said it...",
+    "before": "انت قلتها...",
+    "after": "أنت قلتها..."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_3\\context\\context_alert_down_01",
+    "source": "I see that intruder! He's down there!",
+    "before": "أرى ذلك الدخيل! انه هناك!",
+    "after": "أرى ذلك الدخيل! إنه هناك!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_1\\context\\context_alert_carriage_03",
+    "source": "Guys! See that carriage? He's there!",
+    "before": "شباب! هل ترى تلك العربة؟ انه هناك!",
+    "after": "شباب! هل ترى تلك العربة؟ إنه هناك!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_1\\context\\context_alert_warehouse_01",
+    "source": "The storage! He's in there!",
+    "before": "التخزين! انه هناك!",
+    "after": "المخزن! إنه بالداخل!"
+  }
+]

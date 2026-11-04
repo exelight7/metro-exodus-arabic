@@ -1,0 +1,44 @@
+[
+  {
+    "font": "credits_names",
+    "dimension": 1024,
+    "arabic_size": 74,
+    "original_chars": 203,
+    "total_chars": 336
+  },
+  {
+    "font": "credits_titles",
+    "dimension": 1024,
+    "arabic_size": 74,
+    "original_chars": 203,
+    "total_chars": 336
+  },
+  {
+    "font": "main_menu_lcd",
+    "dimension": 512,
+    "arabic_size": 36,
+    "original_chars": 203,
+    "total_chars": 336
+  },
+  {
+    "font": "map",
+    "dimension": 1024,
+    "arabic_size": 39,
+    "original_chars": 203,
+    "total_chars": 336
+  },
+  {
+    "font": "menu",
+    "dimension": 512,
+    "arabic_size": 39,
+    "original_chars": 203,
+    "total_chars": 336
+  },
+  {
+    "font": "regular",
+    "dimension": 512,
+    "arabic_size": 38,
+    "original_chars": 203,
+    "total_chars": 336
+  }
+]

@@ -1,0 +1,1172 @@
+[
+  {
+    "id": "m3_bagpack_hint_popup_1",
+    "source": "CRAFT CONSUMABLES",
+    "before": "المواد الاستهلاكية الحرفية",
+    "after": "صنع المستلزمات"
+  },
+  {
+    "id": "menu_customize_cat_scope_name",
+    "source": "SIGHTS",
+    "before": "المعالم السياحية",
+    "after": "أدوات التصويب"
+  },
+  {
+    "id": "menu_customize_barrel_std_compensator_name",
+    "source": "STANDARD BARREL AND COMPENSATOR",
+    "before": "البرميل القياسي والمعوض",
+    "after": "السبطانة القياسي والمعوض"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_041_27_dock_05_allstuffreceived_04",
+    "source": "This one should not just feel familiar, it's the real McCoy: a .45 automatic straight from Tom's premium stock!",
+    "before": "لا ينبغي أن يبدو هذا الشخص مألوفًا فحسب، بل إنه مكوي الحقيقي: أوتوماتيكي .45 مباشرة من مخزون توم المتميز!",
+    "after": "لا ينبغي أن يبدو هذا الشخص مألوفًا فحسب، بل إنه مكوي الحقيقي: آلي .45 مباشرة من مخزون توم المتميز!"
+  },
+  {
+    "id": "$gp_crouch_toggle",
+    "source": "CROUCH TOGGLE",
+    "before": "تبديل الانحناء",
+    "after": "تبديل وضع الانحناء"
+  },
+  {
+    "id": "menu_customize_stock_sniper_handgun_name",
+    "source": "SNIPER STOCK",
+    "before": "أخمص القناصة",
+    "after": "أخمص للقنص"
+  },
+  {
+    "id": "menu_customize_barrel_short_flash_hider_name",
+    "source": "SHORT BARREL AND FLASH SUPPRESSOR",
+    "before": "برميل قصير ومانع فلاش",
+    "after": "سبطانة قصيرة ومانع وميض"
+  },
+  {
+    "id": "hint_ingame_melee_1_ps3",
+    "source": "Press <#wpn_fast_knife> to kill your opponent.<br>Press <use> to knock him out.",
+    "before": "اضغط على <#wpn_fast_knife> لقتل خصمك.<br>اضغط على <use> ليطرده.",
+    "after": "اضغط على <#wpn_fast_knife> لقتل خصمك.<br>اضغط على <use> لإفقاده الوعي."
+  },
+  {
+    "id": "m3_hint_ingame_gasmask_filter_xbox",
+    "source": "Swap your filter. Hold <popup_devices> to open the equipment menu.",
+    "before": "قم بتبديل الفلتر الخاص بك. اضغط باستمرار على <popup_devices> لفتح قائمة المعدات.",
+    "after": "قم بتبديل المرشح الخاص بك. اضغط باستمرار على <popup_devices> لفتح قائمة المعدات."
+  },
+  {
+    "id": "menu_customize_silencer_044_name",
+    "source": "SUPPRESSOR",
+    "before": "القامع",
+    "after": "كاتم الصوت"
+  },
+  {
+    "id": "general_hint_68_cstm",
+    "source": "When the gas mask is in use, your watch shows time remaining until the current filter runs out. You can view your total filter capacity on the Equipment Inventory by holding <popup_devices>.",
+    "before": "عندما يكون قناع الغاز قيد الاستخدام، تعرض ساعتك الوقت المتبقي حتى نفاد الفلتر الحالي. يمكنك عرض سعة الفلتر الإجمالية في مخزون المعدات بالضغط على <popup_devices>.",
+    "after": "عندما يكون قناع الغاز قيد الاستخدام، تعرض ساعتك الوقت المتبقي حتى نفاد المرشح الحالي. يمكنك عرض سعة المرشح الإجمالية في قائمة المعدات بالضغط على <popup_devices>."
+  },
+  {
+    "id": "voices\\m3_13_dead_city\\nvs_005_drivingtalk_41",
+    "source": "<ffx:sadness_light>We'll have to walk from here. <ffx:wonder_light>And we'll have to be quick: the radiation's rising, <ffx:sadness_light>the filter's won't last long. <ffx:neutral>",
+    "before": "<ffx:sadness_light>سيتعين علينا السير من هنا.<ffx:wonder_light>وعلينا أن نكون سريعين: الإشعاع يرتفع،<ffx:sadness_light>الفلتر لن يدوم طويلاً.<ffx:neutral>",
+    "after": "<ffx:sadness_light>سيتعين علينا السير من هنا.<ffx:wonder_light>وعلينا أن نكون سريعين: الإشعاع يرتفع،<ffx:sadness_light>المرشح لن يدوم طويلاً.<ffx:neutral>"
+  },
+  {
+    "id": "menu_category_craft_devices",
+    "source": "DEVICES CRAFTING",
+    "before": "صناعة المعدات",
+    "after": "صنع المعدات"
+  },
+  {
+    "id": "$wpn_upt_shotgun_name",
+    "source": "UNDERSLUNG SHOTGUN",
+    "before": "بندقية تحت الماء",
+    "after": "بندقية خرطوش سفلية"
+  },
+  {
+    "id": "controller_layout_timeholster",
+    "source": "TIME / HOLSTER (HOLD)",
+    "before": "الوقت / الحافظة (عقد)",
+    "after": "الوقت / إخفاء السلاح (ضغط مطول)"
+  },
+  {
+    "id": "m3_general_hint_32",
+    "source": "In critical situations, press <medkit> to use a medkit.",
+    "before": "في المواقف الحرجة، اضغط على <medkit> لاستخدام مجموعة الأدوات الطبية.",
+    "after": "في المواقف الحرجة، اضغط على <medkit> لاستخدام حقيبة الإسعافات."
+  },
+  {
+    "id": "menu_customize_barrel_kolya_auto_name",
+    "source": "LONG BARREL WITH FULL AUTO",
+    "before": "برميل طويل مع تلقائي كامل",
+    "after": "سبطانة طويل مع تلقائي كامل"
+  },
+  {
+    "id": "m3_dia_weapon_ashot_intro",
+    "source": "<tab>What firearm could be simpler than a shotgun? Perhaps, some extremely primitive zipgun, but those aren’t known for their efficiency. A buckshot salvo, though, will make even the toughest and meanest mutants at least think about their next actions carefully... <br><br><tab>Besides, shotgun ammo is easier to handload than any other kind, so the popularity of this class of weapons is nothing surprising. Their variety, though, never cease to amaze me, even after I learned that functional shotguns could be made from lengths of water pipes, like most of Ashot variants are...<br><br> <tab>Still, anything, from one to four barrels, not counting different chokes, stocks, recoil compensators and sights? Even within the Order, the only standard as far as the shotguns are concerned is their caliber. I can’t wrap my mind around how Tokarev manages to know them all inside out...<br><br>",
+    "before": "<tab>ما هو السلاح الناري الذي يمكن أن يكون أبسط من البندقية؟ ربما تكون بعض البنادق المضغوطة بدائية للغاية، لكنها غير معروفة بكفاءتها. ومع ذلك، فإن طلقة الرصاص ستجعل حتى أصعب المتحولين وأكثرهم شرًا على الأقل يفكرون في تصرفاتهم التالية بعناية...<br><br><tab>علاوة على ذلك، فإن ذخيرة البندقية أسهل في التحميل من أي نوع آخر، لذا فإن شعبية هذه الفئة من الأسلحة ليست مفاجئة. ومع ذلك، فإن تنوعها لا يتوقف أبدًا عن إدهاشي، حتى بعد أن علمت أن البنادق الوظيفية يمكن صنعها من أطوال أنابيب المياه، مثل معظم أنواع أشوت...<br><br><tab>ومع ذلك، أي شيء، من برميل واحد إلى أربعة براميل، دون احتساب الاختناقات المختلفة، والأسهم، ومعوضات الارتداد، والمشاهد؟ حتى داخل التنظيم، المعيار الوحيد فيما يتعلق بالبنادق هو عيارها. لا أستطيع أن أستوعب كيف تمكن توكاريف من التعرف عليهم جميعًا من الداخل إلى الخارج...<br><br>",
+    "after": "<tab>ما هو السلاح الناري الذي يمكن أن يكون أبسط من البندقية؟ ربما تكون بعض البنادق المضغوطة بدائية للغاية، لكنها غير معروفة بكفاءتها. ومع ذلك، فإن طلقة الرصاص ستجعل حتى أصعب المتحولين وأكثرهم شرًا على الأقل يفكرون في تصرفاتهم التالية بعناية...<br><br><tab>علاوة على ذلك، فإن ذخيرة البندقية أسهل في التحميل من أي نوع آخر، لذا فإن شعبية هذه الفئة من الأسلحة ليست مفاجئة. ومع ذلك، فإن تنوعها لا يتوقف أبدًا عن إدهاشي، حتى بعد أن علمت أن البنادق الوظيفية يمكن صنعها من أطوال أنابيب المياه، مثل معظم أنواع أشوت...<br><br><tab>ومع ذلك، أي شيء، من سبطانة واحد إلى أربعة براميل، دون احتساب الاختناقات المختلفة، والأسهم، ومعوضات الارتداد، والمشاهد؟ حتى داخل التنظيم، المعيار الوحيد فيما يتعلق بالبنادق هو عيارها. لا أستطيع أن أستوعب كيف تمكن توكاريف من التعرف عليهم جميعًا من الداخل إلى الخارج...<br><br>"
+  },
+  {
+    "id": "menu_category_craft_ammunition",
+    "source": "AMMUNITION CRAFTING",
+    "before": "صناعة الذخيرة",
+    "after": "صنع الذخيرة"
+  },
+  {
+    "id": "menu_hint_craft",
+    "source": "CRAFT",
+    "before": "صناعة",
+    "after": "صنع"
+  },
+  {
+    "id": "menu_customise_barrel_2_name",
+    "source": "BARREL 2 NAME",
+    "before": "اسم البرميل 2",
+    "after": "اسم السبطانة 2"
+  },
+  {
+    "id": "m3_wpn_down_hint",
+    "source": "Hold <wpn_down> to holster your weapon.",
+    "before": "أمسك <wpn_down> لحافظة سلاحك.",
+    "after": "أمسك <wpn_down> لإخفاء سلاحك."
+  },
+  {
+    "id": "menu_customise_barrel_3_name",
+    "source": "BARREL 3 NAME",
+    "before": "اسم البرميل 3",
+    "after": "اسم السبطانة 3"
+  },
+  {
+    "id": "scan_on",
+    "source": "RECEIVER \\ HOLD <USE>",
+    "before": "المتلقي \\ عقد <USE>",
+    "after": "المتلقي \\ اضغط باستمرار <USE>"
+  },
+  {
+    "id": "$med_name",
+    "source": "MEDKIT",
+    "before": "ميدكيت",
+    "after": "حقيبة الإسعافات"
+  },
+  {
+    "id": "voices\\m3_10_yamantau\\yam_015_thermopylae_battlechatter_sam_04_02",
+    "source": "Gotta reload!",
+    "before": "فلدي إعادة تحميل!",
+    "after": "فلدي إعادة تلقيم!"
+  },
+  {
+    "id": "menu_customize_barrel_long_compensator_dsc",
+    "source": "Designed to increase accuracy and damage, this barrel and muzzle attachment combo is not the best choice for the more dynamic firefights.",
+    "before": "تم تصميم مجموعة ملحقات البرميل والكمامة هذه لزيادة الدقة والضرر، وهي ليست الخيار الأفضل لمعارك إطلاق النار الأكثر ديناميكية.",
+    "after": "تم تصميم مجموعة ملحقات السبطانة والكمامة هذه لزيادة الدقة والضرر، وهي ليست الخيار الأفضل لمعارك إطلاق النار الأكثر ديناميكية."
+  },
+  {
+    "id": "m3_suit_upg_helm_15_desc",
+    "source": "These add-on tactical backpack compartments provide space for carrying an extended supply of consumables, such as medkits and filters.",
+    "before": "توفر مقصورات حقيبة الظهر التكتيكية الإضافية هذه مساحة لحمل كمية كبيرة من المواد الاستهلاكية، مثل الأطقم الطبية والمرشحات.",
+    "after": "توفر مقصورات حقيبة الظهر التكتيكية الإضافية هذه مساحة لحمل كمية كبيرة من المواد الاستهلاكية، مثل حقائب الإسعافات والمرشحات."
+  },
+  {
+    "id": "menu_item_medkit_name",
+    "source": "MEDKIT",
+    "before": "حقيبة إسعافات",
+    "after": "حقيبة الإسعافات"
+  },
+  {
+    "id": "m3_dia_equip_gasmask_title",
+    "source": "GAS MASK",
+    "before": "قناع غاز",
+    "after": "قناع الغاز"
+  },
+  {
+    "id": "m3_wpn_down_hint_light",
+    "source": "HOLD <wpn_down> ",
+    "before": "عقد <wpn_down>",
+    "after": "اضغط باستمرار <wpn_down>"
+  },
+  {
+    "id": "menu_customise_barrel_4_name",
+    "source": "BARREL 4 NAME",
+    "before": "اسم البرميل 4",
+    "after": "اسم السبطانة 4"
+  },
+  {
+    "id": "menu_customise_barrel_1_name",
+    "source": "BARREL 1 NAME",
+    "before": "اسم البرميل 1",
+    "after": "اسم السبطانة 1"
+  },
+  {
+    "id": "m3_hint_ingame_gasmask_filter_easy",
+    "source": "<filter> FILTER",
+    "before": "مرشح <filter>",
+    "after": "<filter> المرشح"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_1\\danger\\reloading_03",
+    "source": "Need a reload!",
+    "before": "بحاجة إلى إعادة تحميل!",
+    "after": "بحاجة إلى إعادة تلقيم!"
+  },
+  {
+    "id": "$reload_easy_hint_xbox",
+    "source": "<rui> Reload",
+    "before": "تحديث <rui>",
+    "after": "<rui> إعادة التلقيم"
+  },
+  {
+    "id": "menu_customize_collimator_closed_name",
+    "source": "CLOSED REFLEX SIGHT",
+    "before": "البصر المنعكس المغلق",
+    "after": "منظار انعكاسي مغلق"
+  },
+  {
+    "id": "m3_flashlight_hint",
+    "source": "<wpn_light> FLASHLIGHT",
+    "before": "مصباح يدوي <wpn_light>",
+    "after": "<wpn_light> المصباح اليدوي"
+  },
+  {
+    "id": "m3_special_ammo_hint",
+    "source": "Tikhar rifle can be loaded with Incendiary Ammunition. Open weapon inventory by holding <popup_weapons>",
+    "before": "يمكن تحميل بندقية تيخار بالذخيرة الحارقة. افتح مخزون الأسلحة بالضغط على <popup_weapons>",
+    "after": "يمكن تحميل بندقية تيخار بالذخيرة الحارقة. افتح قائمة الأسلحة بالضغط على <popup_weapons>"
+  },
+  {
+    "id": "quick_save",
+    "source": "QUICK SAVE",
+    "before": "حفظ سريع",
+    "after": "الحفظ السريع"
+  },
+  {
+    "id": "controller_layout_throwsecondaryweaponinventory",
+    "source": "THROW SECONDARY / DISMANTLE WEAPON / WEAPON INVENTORY (HOLD)",
+    "before": "إلقاء الأسلحة الثانوية / تفكيك الأسلحة / مخزون الأسلحة (عقد)",
+    "after": "إلقاء الأسلحة الثانوية / تفكيك الأسلحة / قائمة الأسلحة (ضغط مطول)"
+  },
+  {
+    "id": "voices\\m3_13_dead_city\\nvs_007_firstwalkwithkirill_04_07",
+    "source": "<ffx:wonder_light>Green stuff? What's that? <ffx:neutral>",
+    "before": "<ffx:wonder_light>الأشياء الخضراء؟ ما هذا؟<ffx:neutral>",
+    "after": "<ffx:wonder_light>المادة الخضراء؟ ما هذا؟<ffx:neutral>"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_3\\danger\\reloading_03",
+    "source": "Fucking reloading!",
+    "before": "إعادة تحميل سخيف!",
+    "after": "إعادة تلقيم سخيف!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_1\\danger\\reloading_03",
+    "source": "I have to reload now!",
+    "before": "لا بد لي من إعادة تحميل الآن!",
+    "after": "لا بد لي من إعادة تلقيم الآن!"
+  },
+  {
+    "id": "menu_customise_barrel_6_desc",
+    "source": "Barrel 6 Description",
+    "before": "وصف برميل 6",
+    "after": "وصف سبطانة 6"
+  },
+  {
+    "id": "hint_ingame_melee_2_gamepad",
+    "source": "<wpn_reload>Kill<br><use> Knock Out",
+    "before": "<wpn_reload> اقتل<br><use> بالضربة القاضية",
+    "after": "<wpn_reload> اقتل<br><use> إفقاد الوعي"
+  },
+  {
+    "id": "m3_crouch_hint",
+    "source": "<crouch> Crouch",
+    "before": "<crouch> كراوتش",
+    "after": "<crouch> الانحناء"
+  },
+  {
+    "id": "general_hint_68_xbox",
+    "source": "When the gas mask is in use, your watch shows time remaining until the current filter runs out. You can view your total filter capacity on the Equipment Inventory by holding <popup_devices>.",
+    "before": "عندما يكون قناع الغاز قيد الاستخدام، تعرض ساعتك الوقت المتبقي حتى نفاد الفلتر الحالي. يمكنك عرض سعة الفلتر الإجمالية في مخزون المعدات بالضغط على <popup_devices>.",
+    "after": "عندما يكون قناع الغاز قيد الاستخدام، تعرض ساعتك الوقت المتبقي حتى نفاد المرشح الحالي. يمكنك عرض سعة المرشح الإجمالية في قائمة المعدات بالضغط على <popup_devices>."
+  },
+  {
+    "id": "menu_customise_barrel_4_desc",
+    "source": "Barrel 4 Description",
+    "before": "وصف برميل 4",
+    "after": "وصف سبطانة 4"
+  },
+  {
+    "id": "m3_death_menu_hint_1",
+    "source": "In critical situations, press <medkit> to use a medkit.",
+    "before": "في المواقف الحرجة، اضغط على <medkit> لاستخدام مجموعة الأدوات الطبية.",
+    "after": "في المواقف الحرجة، اضغط على <medkit> لاستخدام حقيبة الإسعافات."
+  },
+  {
+    "id": "boat_use",
+    "source": "BOAT \\ HOLD <use>",
+    "before": "القارب \\ عقد <use>",
+    "after": "القارب \\ اضغط باستمرار <use>"
+  },
+  {
+    "id": "menu_customise_barrel_6_name",
+    "source": "BARREL 6 NAME",
+    "before": "اسم البرميل 6",
+    "after": "اسم السبطانة 6"
+  },
+  {
+    "id": "m3_craft_crafting",
+    "source": "CRAFTING COST:",
+    "before": "تكلفة الصياغة:",
+    "after": "تكلفة الصنع:"
+  },
+  {
+    "id": "menu_customize_barrel_short_silencer_big_dsc",
+    "source": "Tries to suppress sound with mixed results, while staying a bit more compact than a full-scale barrel.",
+    "before": "يحاول قمع الصوت بنتائج مختلطة، مع البقاء مضغوطًا قليلاً أكثر من البرميل واسع النطاق.",
+    "after": "يحاول قمع الصوت بنتائج مختلطة، مع البقاء مضغوطًا قليلاً أكثر من السبطانة واسع النطاق."
+  },
+  {
+    "id": "$wpn_upt_long_barrel_name",
+    "source": "EXTENDED BARREL",
+    "before": "برميل ممتد",
+    "after": "سبطانة ممتد"
+  },
+  {
+    "id": "menu_customize_barrel2_name",
+    "source": "DOUBLE BARRELS",
+    "before": "برميل مزدوج",
+    "after": "سبطانة مزدوج"
+  },
+  {
+    "id": "menu_ex_survival",
+    "source": "MEDKIT",
+    "before": "حقيبة إسعافات",
+    "after": "حقيبة الإسعافات"
+  },
+  {
+    "id": "$ctrl_crouch_toggle",
+    "source": "CROUCH TOGGLE",
+    "before": "تبديل الانحناء",
+    "after": "تبديل وضع الانحناء"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_2\\danger\\reloading_01",
+    "source": "Cover me, guys! Reload!",
+    "before": "غطوني يا شباب! إعادة تحميل!",
+    "after": "غطوني يا شباب! إعادة تلقيم!"
+  },
+  {
+    "id": "menu_customize_system_semi_auto_barrel_dsc",
+    "source": "The long barrel and semi-automatic receiver turn the weapon into a long-range marksman rifle, substantially increasing bullet velocity and damage. On the downside, the weapon becomes a harder to aim quick and its recoil gets much stronger.",
+    "before": "يقوم البرميل الطويل والمستقبل شبه الأوتوماتيكي بتحويل السلاح إلى بندقية الرماية بعيدة المدى، مما يزيد بشكل كبير من سرعة الرصاصة والضرر. على الجانب السلبي، يصبح من الصعب تصويب السلاح بسرعة ويصبح ارتداده أقوى بكثير.",
+    "after": "يقوم السبطانة الطويل والمستقبل شبه الآلي بتحويل السلاح إلى بندقية الرماية بعيدة المدى، مما يزيد بشكل كبير من سرعة الرصاصة والضرر. على الجانب السلبي، يصبح من الصعب تصويب السلاح بسرعة ويصبح ارتداده أقوى بكثير."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_2\\danger\\reloading_02",
+    "source": "Gotta reload, people!",
+    "before": "فلدي إعادة تحميل، والناس!",
+    "after": "فلدي إعادة تلقيم، والناس!"
+  },
+  {
+    "id": "menu_customize_cat_stock_name",
+    "source": "STOCK",
+    "before": "المخزون",
+    "after": "الأخمص"
+  },
+  {
+    "id": "$wpn_upt_shotgun_sil_name",
+    "source": "SHOTGUN SUPPRESSOR",
+    "before": "مثبط البندقية",
+    "after": "كاتم صوت لبندقية الخرطوش"
+  },
+  {
+    "id": "$wpn_upt_flash_hider_dsc",
+    "source": "Reduces recoil, improving accuracy; eliminates muzzle flash, which can be quite blinding in the dark of the tunnels.",
+    "before": "يقلل من الارتداد، ويحسن الدقة؛ يزيل وميض الكمامة، والذي يمكن أن يسبب العمى تمامًا في ظلام الأنفاق.",
+    "after": "يقلل من الارتداد، ويحسن الدقة؛ يزيل وميض الفوهة، والذي يمكن أن يسبب العمى تمامًا في ظلام الأنفاق."
+  },
+  {
+    "id": "m3_general_hint_68",
+    "source": "When the gas mask is in use, your watch shows time remaining until the current filter runs out. You can view your total filter capacity in the Equipment Inventory by holding <popup_weapons>",
+    "before": "عندما يكون قناع الغاز قيد الاستخدام، تعرض ساعتك الوقت المتبقي حتى نفاد الفلتر الحالي. يمكنك عرض سعة الفلتر الإجمالية في مخزون المعدات بالضغط على <popup_weapons>",
+    "after": "عندما يكون قناع الغاز قيد الاستخدام، تعرض ساعتك الوقت المتبقي حتى نفاد المرشح الحالي. يمكنك عرض سعة المرشح الإجمالية في قائمة المعدات بالضغط على <popup_weapons>"
+  },
+  {
+    "id": "$wpn_upt_padonag_mag_dsc",
+    "source": "Perfectly complements the pistol's main selling point, its high rate of fire, allowing for longer shooting sprees with less reloads.",
+    "before": "يكمل تمامًا نقطة البيع الرئيسية للمسدس، وهي معدل إطلاق النار المرتفع، مما يسمح بفترات إطلاق نار أطول مع عمليات إعادة تحميل أقل.",
+    "after": "يكمل تمامًا نقطة البيع الرئيسية للمسدس، وهي معدل إطلاق النار المرتفع، مما يسمح بفترات إطلاق نار أطول مع عمليات إعادة تلقيم أقل."
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_014_springattack_01_58",
+    "source": "<ffx:sadness>My filter's almost done for... <ffx:neutral>",
+    "before": "<ffx:sadness>لقد أوشك الفلتر على الانتهاء لـ...<ffx:neutral>",
+    "after": "<ffx:sadness>لقد أوشك المرشح على الانتهاء لـ...<ffx:neutral>"
+  },
+  {
+    "id": "m3_pause_menu_hint_torchlight_name",
+    "source": "Flashlight",
+    "before": "مصباح يدوي",
+    "after": "المصباح اليدوي"
+  },
+  {
+    "id": "$wpn_upt_sl_dsc",
+    "source": "Hides the muzzle flash and muffles the shots, decreasing spread at the same time. Projectile speed is also decreased, leading to more damage falloff. ",
+    "before": "يخفي فلاش الكمامة ويكتم اللقطات، مما يقلل من الانتشار في نفس الوقت. كما انخفضت سرعة المقذوف، مما أدى إلى مزيد من الضرر.",
+    "after": "يخفي وميض الفوهة ويكتم اللقطات، مما يقلل من الانتشار في نفس الوقت. كما انخفضت سرعة المقذوف، مما أدى إلى مزيد من الضرر."
+  },
+  {
+    "id": "menu_customize_barrel_kolya_silencer_dsc",
+    "source": "Barrel with an improvised suppressor mounted on it. Useful for stealth.",
+    "before": "برميل مع القامع المرتجل المثبت عليه. مفيدة للتسلل.",
+    "after": "سبطانة مع كاتم الصوت المرتجل المثبت عليه. مفيدة للتسلل."
+  },
+  {
+    "id": "$gp_medkit",
+    "source": "MEDKIT",
+    "before": "حقيبة إسعافات",
+    "after": "حقيبة الإسعافات"
+  },
+  {
+    "id": "$ctrl_medkit",
+    "source": "MEDKIT",
+    "before": "حقيبة إسعافات",
+    "after": "حقيبة الإسعافات"
+  },
+  {
+    "id": "menu_customize_short_barrel_044_name",
+    "source": "SHORT BARREL",
+    "before": "برميل قصير",
+    "after": "سبطانة قصير"
+  },
+  {
+    "id": "$wpn_upt_shotgun_sil_dsc",
+    "source": "Hides the muzzle flash and slightly muffles the shots, decreasing shot spread. Shot speed is also decreased, leading to more damage falloff.",
+    "before": "يخفي فلاش الكمامة ويكتم اللقطات قليلاً، مما يقلل من انتشار الطلقة. يتم أيضًا تقليل سرعة التسديد، مما يؤدي إلى مزيد من الضرر.",
+    "after": "يخفي وميض الفوهة ويكتم اللقطات قليلاً، مما يقلل من انتشار الطلقة. يتم أيضًا تقليل سرعة التسديد، مما يؤدي إلى مزيد من الضرر."
+  },
+  {
+    "id": "$wpn_upt_shotgun_barr_name",
+    "source": "EXTENDED BARREL",
+    "before": "برميل ممتد",
+    "after": "سبطانة ممتد"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\spartans\\sam\\danger\\reload_03",
+    "source": "Need a reload!",
+    "before": "بحاجة إلى إعادة تحميل!",
+    "after": "بحاجة إلى إعادة تلقيم!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\spartans\\sam\\combat\\combat_medkitused_05",
+    "source": "Never leave home without a medkit!",
+    "before": "لا تغادر المنزل أبدًا بدون مجموعة طبية!",
+    "after": "لا تغادر المنزل أبدًا بدون حقيبة الإسعافات!"
+  },
+  {
+    "id": "menu_customise_barrel_7_desc",
+    "source": "Barrel 7 Description",
+    "before": "وصف برميل 7",
+    "after": "وصف سبطانة 7"
+  },
+  {
+    "id": "gas_death_2",
+    "source": "Your filter ran out and you suffocated. Make sure you craft or look around for more filters, and change them when they run out.",
+    "before": "نفد الفلتر الخاص بك واختنقت. تأكد من إنشاء المزيد من المرشحات أو البحث عنها، وقم بتغييرها عند نفادها.",
+    "after": "نفد المرشح الخاص بك واختنقت. تأكد من إنشاء المزيد من المرشحات أو البحث عنها، وقم بتغييرها عند نفادها."
+  },
+  {
+    "id": "hint_ingame_melee_1_gamepad",
+    "source": "Press <wpn_next> to kill your opponent.<br>Press <rui> to knock him out.",
+    "before": "اضغط على <wpn_next> لقتل خصمك.<br>اضغط على <rui> ليطرده.",
+    "after": "اضغط على <wpn_next> لقتل خصمك.<br>اضغط على <rui> لإفقاده الوعي."
+  },
+  {
+    "id": "m3_lighter_hint_menu_hint",
+    "source": "LIGHTER",
+    "before": "أخف وزنا",
+    "after": "الولاعة"
+  },
+  {
+    "id": "m3_craft_craft",
+    "source": "CRAFT",
+    "before": "حرفة",
+    "after": "صنع"
+  },
+  {
+    "id": "voices\\m3_02_dead_moscow\\dmc_002_chasingtrain_reload_01",
+    "source": "<ffx:anger_light>Reload! Cover me!<ffx:neutral>",
+    "before": "تحديث<ffx:anger_light>! غطيني!<ffx:neutral>",
+    "after": "إعادة التلقيم<ffx:anger_light>! غطيني!<ffx:neutral>"
+  },
+  {
+    "id": "menu_customise_barrel_5_desc",
+    "source": "Barrel 5 Description",
+    "before": "وصف برميل 5",
+    "after": "وصف سبطانة 5"
+  },
+  {
+    "id": "m3_dlc01_general_hint_23",
+    "source": "In critical situations, press <medkit> to use a medkit.",
+    "before": "في المواقف الحرجة، اضغط على <medkit> لاستخدام مجموعة الأدوات الطبية.",
+    "after": "في المواقف الحرجة، اضغط على <medkit> لاستخدام حقيبة الإسعافات."
+  },
+  {
+    "id": "m3_dlc01_general_hint_8",
+    "source": "Don't forget to collect crafting resources! Along the way, you may encounter workbenches where you could craft medkits and flamethrower fuel.",
+    "before": "لا تنس جمع الموارد الحرفية! على طول الطريق، قد تصادف مناضد عمل حيث يمكنك صناعة الأدوات الطبية ووقود قاذف اللهب.",
+    "after": "لا تنس جمع الموارد المصنوعة! على طول الطريق، قد تصادف مناضد عمل حيث يمكنك صناعة الأدوات الطبية ووقود قاذف اللهب."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\spartans\\sam\\danger\\reload_01",
+    "source": "Gotta reload!",
+    "before": "فلدي إعادة تحميل!",
+    "after": "فلدي إعادة تلقيم!"
+  },
+  {
+    "id": "m3_dia_weapon_kalash_intro",
+    "source": "<tab>Despite the venerable age of this weapon which before the Judgment Day had played a considerable part in hundreds of conflicts all over the world, its unparalleled reliability and considerable firepower make it a prized possession in the tunnels of the Metro and, of course, on the surface... <br><br><tab>A standard Kalash is simply a solid assault rifle with all its characteristic pros and cons, but thanks to the talent of Sparta’s gunsmiths (and Tokarev personally), the model our Order fields can accommodate a huge variety of upgrades, from extended magazine to various sights. <br><br><tab>Not only that, with a few simple operations (and spare parts) it can be turned into a weapon of a different class - from a short machine pistol that excels at close range, to a light machine gun. This does not mean that the underlying concept’s simplicity and reliability have been sacrificed, either - even though my Kalash is many years my senior, it saved my bacon on many an occasion, and would shoot like nothing happened even after taking a dip in the marsh... <br><br><tab>Weapons are something we people are definitely good at making. They will probably be ready to kill years after there remains nobody on the face of the planet capable of pulling the trigger...<br><br>",
+    "before": "<tab>على الرغم من العمر الجليل لهذا السلاح الذي لعب قبل يوم القيامة دورًا كبيرًا في مئات الصراعات في جميع أنحاء العالم، إلا أن موثوقيته التي لا مثيل لها وقوته النارية الكبيرة تجعله ملكية ثمينة في أنفاق المترو، وبالطبع على السطح...<br><br><tab>إن كلاش القياسية هي ببساطة بندقية هجومية صلبة بكل إيجابياتها وسلبياتها المميزة، ولكن بفضل موهبة صانعو الأسلحة في سبارتا (وتوكاريف شخصيًا)، يمكن أن يستوعب نموذج حقول الطلب لدينا مجموعة كبيرة ومتنوعة من الترقيات، بدءًا من المجلة الموسعة وحتى المعالم السياحية المختلفة.<br><br><tab>ليس هذا فحسب، فمن خلال بعض العمليات البسيطة (وقطع الغيار) يمكن تحويله إلى سلاح من فئة مختلفة - من مسدس آلي قصير يتفوق على مسافة قريبة، إلى مدفع رشاش خفيف. هذا لا يعني أنه قد تم التضحية ببساطة المفهوم الأساسي وموثوقيته أيضًا - على الرغم من أن الكلاش الخاص بي أكبر مني بسنوات عديدة، إلا أنه أنقذ لحم الخنزير المقدد الخاص بي في العديد من المناسبات، وكان يطلق النار وكأن شيئًا لم يحدث حتى بعد السباحة في المستنقع...<br><br><tab>الأسلحة هي شيء نجيد صنعه نحن البشر بالتأكيد. من المحتمل أن يكونوا مستعدين للقتل بعد سنوات من عدم وجود أي شخص على وجه الكوكب قادر على الضغط على الزناد...<br><br>",
+    "after": "<tab>على الرغم من العمر الجليل لهذا السلاح الذي لعب قبل يوم القيامة دورًا كبيرًا في مئات الصراعات في جميع أنحاء العالم، إلا أن موثوقيته التي لا مثيل لها وقوته النارية الكبيرة تجعله ملكية ثمينة في أنفاق المترو، وبالطبع على السطح...<br><br><tab>إن كلاش القياسية هي ببساطة بندقية هجومية صلبة بكل إيجابياتها وسلبياتها المميزة، ولكن بفضل موهبة صانعو الأسلحة في سبارتا (وتوكاريف شخصيًا)، يمكن أن يستوعب نموذج حقول الطلب لدينا مجموعة كبيرة ومتنوعة من الترقيات، بدءًا من المجلة الموسعة وحتى أدوات التصويب المختلفة.<br><br><tab>ليس هذا فحسب، فمن خلال بعض العمليات البسيطة (وقطع الغيار) يمكن تحويله إلى سلاح من فئة مختلفة - من مسدس آلي قصير يتفوق على مسافة قريبة، إلى مدفع رشاش خفيف. هذا لا يعني أنه قد تم التضحية ببساطة المفهوم الأساسي وموثوقيته أيضًا - على الرغم من أن الكلاش الخاص بي أكبر مني بسنوات عديدة، إلا أنه أنقذ لحم الخنزير المقدد الخاص بي في العديد من المناسبات، وكان يطلق النار وكأن شيئًا لم يحدث حتى بعد السباحة في المستنقع...<br><br><tab>الأسلحة هي شيء نجيد صنعه نحن البشر بالتأكيد. من المحتمل أن يكونوا مستعدين للقتل بعد سنوات من عدم وجود أي شخص على وجه الكوكب قادر على الضغط على الزناد...<br><br>"
+  },
+  {
+    "id": "menu_customize_stock_semi_sniper_name",
+    "source": "SNIPER STOCK, GRIP AND FOREND",
+    "before": "أخمص القناصة والقبضة والأمام",
+    "after": "أخمص وقبضة وواقية يد للقنص"
+  },
+  {
+    "id": "voices\\m3_02_dead_moscow\\dmc_002_chasingtrain_reload_02",
+    "source": "<ffx:anger_light>Reloading! Give me cover!<ffx:neutral>",
+    "before": "إعادة تحميل<ffx:anger_light>! أعطني غطاء!<ffx:neutral>",
+    "after": "إعادة تلقيم<ffx:anger_light>! أعطني غطاء!<ffx:neutral>"
+  },
+  {
+    "id": "hint_ingame_melee_2",
+    "source": "<medkit> Kill<br><use> Knock Out",
+    "before": "<medkit> اقتل<br><use> بالضربة القاضية",
+    "after": "<medkit> اقتل<br><use> إفقاد الوعي"
+  },
+  {
+    "id": "m3_gasmask_hint_upd",
+    "source": "HOLD <facepalm> GASMASK",
+    "before": "عقد<facepalm>قناع الغاز",
+    "after": "اضغط باستمرار<facepalm>قناع الغاز"
+  },
+  {
+    "id": "m3_flashlight_hint_menu_hint",
+    "source": "FLASHLIGHT",
+    "before": "مصباح يدوي",
+    "after": "المصباح اليدوي"
+  },
+  {
+    "id": "met_det_desc",
+    "source": "Previously used in mining for locating mineral deposits via directional scanning, the device was reconfigured to respond to small quantities of metal, ignoring the large metal objects scattered everywhere after the War. Helps to find resources used in crafting.",
+    "before": "تم استخدام الجهاز سابقًا في التعدين لتحديد موقع الرواسب المعدنية عبر المسح الاتجاهي، وتم إعادة تكوينه للاستجابة للكميات الصغيرة من المعدن، وتجاهل الأجسام المعدنية الكبيرة المنتشرة في كل مكان بعد الحرب. يساعد على العثور على الموارد المستخدمة في الصياغة.",
+    "after": "تم استخدام الجهاز سابقًا في التعدين لتحديد موقع الرواسب المعدنية عبر المسح الاتجاهي، وتم إعادة تكوينه للاستجابة للكميات الصغيرة من المعدن، وتجاهل الأجسام المعدنية الكبيرة المنتشرة في كل مكان بعد الحرب. يساعد على العثور على الموارد المستخدمة في الصنع."
+  },
+  {
+    "id": "menu_customize_barrel_short_silencer_shotgun_name",
+    "source": "SHORT BARREL AND SUPPRESSOR",
+    "before": "برميل قصير والقامع",
+    "after": "سبطانة قصيرة وكاتم صوت"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_2\\danger\\reloading_01",
+    "source": "Cover my ass, guys! Gotta reload!",
+    "before": "تغطية مؤخرتي، يا شباب! فلدي إعادة تحميل!",
+    "after": "تغطية مؤخرتي، يا شباب! فلدي إعادة تلقيم!"
+  },
+  {
+    "id": "menu_customize_heavy_stock_grip_name",
+    "source": "HEAVY STOCK AND GRIP",
+    "before": "مخزون ثقيل وقبضة",
+    "after": "أخمص وقبضة ثقيلان"
+  },
+  {
+    "id": "menu_customise_barrel_1_desc",
+    "source": "Barrel 1 Description",
+    "before": "وصف برميل 1",
+    "after": "وصف سبطانة 1"
+  },
+  {
+    "id": "$wpn_upt_ubl_butt_name",
+    "source": "STOCK",
+    "before": "المخزون",
+    "after": "الأخمص"
+  },
+  {
+    "id": "m3_dlc01_general_hint_16",
+    "source": "In critical situations, press <medkit> to use a medkit.",
+    "before": "في المواقف الحرجة، اضغط على <medkit> لاستخدام مجموعة الأدوات الطبية.",
+    "after": "في المواقف الحرجة، اضغط على <medkit> لاستخدام حقيبة الإسعافات."
+  },
+  {
+    "id": "menu_customize_short_barrel_044_dsc",
+    "source": "Shorter barrel makes the rifle lighter, allowing you to perform all actions with it a little faster.  ",
+    "before": "البرميل الأقصر يجعل البندقية أخف وزنًا، مما يسمح لك بتنفيذ جميع الإجراءات بها بشكل أسرع قليلاً.",
+    "after": "السبطانة الأقصر يجعل البندقية أخف وزنًا، مما يسمح لك بتنفيذ جميع الإجراءات بها بشكل أسرع قليلاً."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_3\\danger\\reloading_02",
+    "source": "I need to reload!",
+    "before": "أنا بحاجة إلى إعادة تحميل!",
+    "after": "أنا بحاجة إلى إعادة تلقيم!"
+  },
+  {
+    "id": "$wpn_upt_tihar_scope_name",
+    "source": "2X SIGHT",
+    "before": "2X البصر",
+    "after": "منظار بتكبير 2X"
+  },
+  {
+    "id": "menu_customize_barrel_kolya_short_name",
+    "source": "SHORT BARREL",
+    "before": "برميل قصير",
+    "after": "سبطانة قصير"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\tribal_3\\danger\\reloading_02",
+    "source": "I need reload!",
+    "before": "أحتاج إلى إعادة تحميل!",
+    "after": "أحتاج إلى إعادة تلقيم!"
+  },
+  {
+    "id": "menu_customize_barrel_long_compensator_name",
+    "source": "LONG BARREL AND COMPENSATOR",
+    "before": "برميل طويل ومعوض",
+    "after": "سبطانة طويل ومعوض"
+  },
+  {
+    "id": "voices\\m3_dlc_comments\\burunduk\\dlc_comments_canyon_rest_place_part_02",
+    "source": "The large open spaces, the day and night cycle and its influence on the NPCs and creatures of the level, dynamic weather, player-controllable vehicles, resource loot and craft mechanics - these and many others were first made work here.",
+    "before": "المساحات المفتوحة الكبيرة، ودورة النهار والليل وتأثيرها على الشخصيات غير القابلة للعب والمخلوقات على المستوى، والطقس الديناميكي، والمركبات التي يمكن للاعب التحكم فيها، ونهب الموارد والميكانيكا الحرفية - تم إنشاء هذه وغيرها الكثير هنا لأول مرة.",
+    "after": "المساحات المفتوحة الكبيرة، ودورة النهار والليل وتأثيرها على الشخصيات غير القابلة للعب والمخلوقات على المستوى، والطقس الديناميكي، والمركبات التي يمكن للاعب التحكم فيها، ونهب الموارد والميكانيكا المصنوعة - تم إنشاء هذه وغيرها الكثير هنا لأول مرة."
+  },
+  {
+    "id": "menu_customize_silencer_044_dsc",
+    "source": "Hides the muzzle flash and muffles the shots. Projectile speed is also decreased, leading to more damage falloff. ",
+    "before": "يخفي فلاش الكمامة ويكتم الطلقات. كما انخفضت سرعة المقذوف، مما أدى إلى مزيد من الضرر.",
+    "after": "يخفي وميض الفوهة ويكتم الطلقات. كما انخفضت سرعة المقذوف، مما أدى إلى مزيد من الضرر."
+  },
+  {
+    "id": "m3_suit_upg_slot_2",
+    "source": "FLASHLIGHT",
+    "before": "مصباح يدوي",
+    "after": "المصباح اليدوي"
+  },
+  {
+    "id": "menu_customize_barrel_std_choke_duckbill_name",
+    "source": "STANDARD BARREL AND DUCKBILL CHOKE",
+    "before": "برميل قياسي وخنق منقار البط",
+    "after": "سبطانة قياسي وخنق منقار البط"
+  },
+  {
+    "id": "menu_customize_stock_sammy_sniper_name",
+    "source": "SNIPER STOCK",
+    "before": "أخمص القناصة",
+    "after": "أخمص للقنص"
+  },
+  {
+    "id": "controller_layout_reloadammochangeusemeleestun",
+    "source": "RELOAD / PUMPING (HOLD) / AMMO CHANGE (IN WEAPON INVENTORY) / USE / MELEE STUN",
+    "before": "إعادة التحميل / الضخ (الانتظار) / تغيير الذخيرة (في مخزون الأسلحة) / الاستخدام / الصاعقة المشاجرة",
+    "after": "إعادة التحميل / الضخ (الانتظار) / تغيير الذخيرة (في قائمة الأسلحة) / الاستخدام / الصاعقة المشاجرة"
+  },
+  {
+    "id": "gas_death_1",
+    "source": "Your filter ran out and you suffocated. Make sure you keep an eye on your watch timer and change your filters out if you have them.",
+    "before": "نفد الفلتر الخاص بك واختنقت. تأكد من مراقبة مؤقت الساعة لديك وتغيير المرشحات إذا كانت لديك.",
+    "after": "نفد المرشح الخاص بك واختنقت. تأكد من مراقبة مؤقت الساعة لديك وتغيير المرشحات إذا كانت لديك."
+  },
+  {
+    "id": "$ctrl_inventory",
+    "source": "INVENTORY",
+    "before": "المعدات",
+    "after": "قائمة المعدات"
+  },
+  {
+    "id": "voices\\m3_10_yamantau\\yam_015_thermopylae_battlechatter_sam_04_01",
+    "source": "Reload!",
+    "before": "إعادة تحميل!",
+    "after": "إعادة تلقيم!"
+  },
+  {
+    "id": "menu_customize_long_barrel_044_dsc",
+    "source": "Longer barrel provides better rifle accuracy and damage.",
+    "before": "يوفر البرميل الأطول دقة وأضرارًا أفضل للبندقية.",
+    "after": "يوفر السبطانة الأطول دقة وأضرارًا أفضل للبندقية."
+  },
+  {
+    "id": "m3_lighter_hint_popup_easy",
+    "source": "<lighter> Lighter",
+    "before": "<lighter> ولاعة",
+    "after": "<lighter> الولاعة"
+  },
+  {
+    "id": "menu_customize_sights_post_name",
+    "source": "IRON SIGHTS",
+    "before": "مشاهد الحديد",
+    "after": "أدوات التصويب الحديدية"
+  },
+  {
+    "id": "ACH_constructor_DESC_unlocked",
+    "source": "Spent 500 consumable resources on crafting.",
+    "before": "أنفق 500 من الموارد الاستهلاكية على الصياغة.",
+    "after": "أنفق 500 من الموارد الاستهلاكية على الصنع."
+  },
+  {
+    "id": "$wpn_upt_duplet_butt_name",
+    "source": "STOCK",
+    "before": "المخزون",
+    "after": "الأخمص"
+  },
+  {
+    "id": "m3_weapon_popup_hint_menu_hint",
+    "source": "WEAPON INVENTORY",
+    "before": "مخزون الأسلحة",
+    "after": "قائمة الأسلحة"
+  },
+  {
+    "id": "menu_customize_barrel_short_dsc",
+    "source": "Shortest possible piece of pipe that could serve as a shotgun barrel without endangering the shooter. Extremely easy to handle.",
+    "before": "أقصر قطعة أنبوب ممكنة يمكن أن تكون بمثابة برميل بندقية دون تعريض مطلق النار للخطر. من السهل للغاية التعامل معها.",
+    "after": "أقصر قطعة أنبوب ممكنة يمكن أن تكون بمثابة سبطانة بندقية دون تعريض مطلق النار للخطر. من السهل للغاية التعامل معها."
+  },
+  {
+    "id": "m3_special_ammo_hint_xbox",
+    "source": "Tikhar rifle can be loaded with Incendiary Ammunition. Open weapon inventory by holding <popup_equipment>",
+    "before": "يمكن تحميل بندقية تيخار بالذخيرة الحارقة. افتح مخزون الأسلحة بالضغط على <popup_equipment>",
+    "after": "يمكن تحميل بندقية تيخار بالذخيرة الحارقة. افتح قائمة الأسلحة بالضغط على <popup_equipment>"
+  },
+  {
+    "id": "menu_customize_barrel_shotgun_long_name",
+    "source": "LONG BARREL",
+    "before": "برميل طويل",
+    "after": "سبطانة طويل"
+  },
+  {
+    "id": "menu_customize_system_semi_auto_barrel_name",
+    "source": "SEMI-AUTOMATIC SYSTEM",
+    "before": "نظام شبه أوتوماتيكي",
+    "after": "نظام نصف آلي"
+  },
+  {
+    "id": "m3_general_hint_41",
+    "source": "An attached silencer greatly reduces muzzle flash, which would otherwise illuminate you in a dark environment.",
+    "before": "كاتم الصوت المرفق يقلل بشكل كبير من وميض الكمامة، والذي قد يضيء لك في بيئة مظلمة.",
+    "after": "كاتم الصوت المرفق يقلل بشكل كبير من وميض الفوهة، والذي قد يضيء لك في بيئة مظلمة."
+  },
+  {
+    "id": "menu_customize_stock_std_sniper_name",
+    "source": "ASSAULT STOCK, GRIP AND FOREND",
+    "before": "أخمص الهجوم والقبضة والأمام",
+    "after": "أخمص وقبضة وواقية يد للهجوم"
+  },
+  {
+    "id": "menu_customize_cat_barrel_name",
+    "source": "BARREL",
+    "before": "برميل",
+    "after": "سبطانة"
+  },
+  {
+    "id": "m3_gasmask_hint_upd_xbox",
+    "source": "HOLD <gasmask> GASMASK",
+    "before": "عقد <gasmask> قناع الغاز",
+    "after": "اضغط باستمرار <gasmask> قناع الغاز"
+  },
+  {
+    "id": "sayga_dsc",
+    "source": "This pre-war automatic shotgun is very reliable and has a high rate of fire, which makes it a great weapon for dealing with packs of mutants. ",
+    "before": "هذه البندقية الأوتوماتيكية التي كانت موجودة قبل الحرب موثوقة للغاية ولها معدل إطلاق نار مرتفع، مما يجعلها سلاحًا رائعًا للتعامل مع مجموعات المتحولين.",
+    "after": "هذه البندقية الآلية التي كانت موجودة قبل الحرب موثوقة للغاية ولها معدل إطلاق نار مرتفع، مما يجعلها سلاحًا رائعًا للتعامل مع مجموعات المتحولين."
+  },
+  {
+    "id": "menu_customise_barrel_7_name",
+    "source": "BARREL 7 NAME",
+    "before": "اسم البرميل 7",
+    "after": "اسم السبطانة 7"
+  },
+  {
+    "id": "m3_06_diary_11_dsc",
+    "source": "<tab>Sep. 18<br><br><tab>Finally! I managed to get those spores from the polluted zone... The month I spent improving the filter was worth it. The substrate is ready, time to start planting...<br><br><br><tab>Oct. 11<br><br><tab>Mycelium is growing well, I’ll be getting the first mushrooms soon. The distiller is almost finished, can’t waste any time.<br><br><br><tab>Nov. 9<br><br><tab>The first batch is ready, I’ve seeded the test media.<br><br><tab>Control media show normal bacterial colony growth, test samples are clear.<br><br><br><tab>Nov. 15<br><br><tab>Test samples still clear... Success?<br><br><br><tab>Dec. 20<br><br><tab>All rats are alive. Enough delays, time to move on to actual test. Pneumonia seems too risky, angina will have to do.<br><br><br><tab>Dec. 23<br><br><tab>Classic angina symptoms. 5 cC P.O. There are no syringes to be found anywhere anyways.<br><br><br><tab>Dec. 24<br><br><tab>No changes<br><br><br><tab>Dec. 25<br><br><tab>Noticeable improvement.<br><br><br><tab>Dec. 27<br><br><tab>High spirits, gen. cond. imp.<br><br><br><tab>Dec 29<br><br><tab>Angina sympt. eliminated.<br><br><tab>High spirits, light sensitivity.<br><br><tab>Knocking noise outside.<br><br><br><tab>Jan. 1<br><br><tab>Dosage: 6 cC P.O.<br><br><tab>Perfect health, no side effects, amazing clarity of thought and perception!<br><br><br><tab>Jan. 9<br><br><tab>Thoughts clear, perfect health, irritating knocking noises outside. Need better rectification, remove impurities, increase act. agent cont.<br><br><br><tab>Feb. 2<br><br><tab>New batch done, triple rectification.<br><br><tab>Dosage: 7 cC P.O., Perfect state of health! No extraneous noises! An influx of vigor, perfect muscle tone! I feel like flying! Too many ideas to record! This is the discovery of the century!<br><br><br><tab>5<br><br><tab>Knocking outside, roof, walls, floor - brings me down<br><br><tab>Tremor<br><br><tab>Inc. dosage to 8 cC P.O. Better. Feet warm, hands enormous, gnarly.<br><br><br><tab>?<br><br><tab>I’m back in conscience... Tremor. Shivering. Vomiting.<br><br><br><tab>?<br><br><tab>Knocking again, the room swims<br><br><tab>Inc. dosage to 8 cC P.O., 3 t.i.d.<br><br><br><tab>?<br><br><tab>They have arrived... They are waiting!<br><br><br><tab>?<br><br><tab>This is the smile!<br><br><br>",
+    "before": "<tab>18 سبتمبر<br><br><tab>أخيرًا! تمكنت من الحصول على تلك الجراثيم من المنطقة الملوثة... الشهر الذي أمضيته في تحسين الفلتر كان يستحق كل هذا العناء. الركيزة جاهزة، حان الوقت لبدء الزراعة...<br><br><br><tab>11 أكتوبر<br><br><tab>ينمو الفطر بشكل جيد، وسأحصل على الفطر الأول قريبًا. لقد انتهى جهاز التقطير تقريبًا، ولا يمكن إضاعة أي وقت.<br><br><br><tab>9 نوفمبر<br><br><tab>الدفعة الأولى جاهزة، لقد قمت بزرع وسائط الاختبار.<br><br><tab>تظهر وسائط التحكم نموًا طبيعيًا للمستعمرة البكتيرية، وعينات الاختبار واضحة.<br><br><br><tab>15 نوفمبر<br><br><tab>لا تزال عينات الاختبار واضحة... هل نجحت؟<br><br><br><tab>20 ديسمبر<br><br><tab>جميع الفئران على قيد الحياة. ما يكفي من التأخير، حان الوقت للانتقال إلى الاختبار الفعلي. يبدو الالتهاب الرئوي محفوفًا بالمخاطر للغاية، ويجب أن تفعل الذبحة الصدرية.<br><br><br><tab>23 ديسمبر<br><br><tab>أعراض الذبحة الصدرية الكلاسيكية. 5 سي سي ص. لا توجد محاقن يمكن العثور عليها في أي مكان على أي حال.<br><br><br><tab>24 ديسمبر<br><br><tab>لا تغييرات<br><br><br><tab>25 ديسمبر<br><br><tab>تحسن ملحوظ.<br><br><br><tab>27 ديسمبر<br><br><tab>الروح المعنوية العالية، الجنرال. شرط. عفريت.<br><br><br><tab>29 ديسمبر<br><br><tab>أعراض الذبحة الصدرية. مستبعد.<br><br><tab>معنويات عالية، حساسية للضوء.<br><br><tab>ضجيج طرق بالخارج.<br><br><br><tab>1 يناير<br><br><tab>الجرعة: 6 سنتيليترات ص.ب.<br><br><tab>صحة مثالية، بدون آثار جانبية، وضوح مذهل في الفكر والإدراك!<br><br><br><tab>9 يناير<br><br><tab>أفكار واضحة، صحة مثالية، أصوات طرق مزعجة في الخارج. تحتاج إلى تصحيح أفضل، وإزالة الشوائب، وزيادة الفعل. تابع الوكيل<br><br><br><tab>2 فبراير<br><br><tab>تم إنجاز دفعة جديدة، تصحيح ثلاثي.<br><br><tab>الجرعة: 7 سم مكعب P.O.، حالة صحية مثالية! لا ضوضاء غريبة! تدفق النشاط، ونغمة العضلات المثالية! أشعر بالرغبة في الطيران! هناك الكثير من الأفكار للتسجيل! هذا هو اكتشاف القرن!<br><br><br><tab>5<br><br><tab>طرق خارج المنزل، السقف، الجدران، الأرضية - ينزلني<br><br><tab>رعشة<br>جرعة<br><tab>Inc.‎ تصل إلى 8 سنتيليترات ص.ب. أحسن. الأقدام دافئة، والأيدي ضخمة، وشائكة.<br><br><br><tab>؟<br><br><tab>لقد عدت إلى الضمير... رعشة. يرتجف. القيء.<br><br><br><tab>؟<br><br><tab>بالطرق مرة أخرى، تسبح الغرفة<br><br><tab>Inc.<br><br><br><tab>؟<br><br><tab>لقد وصلوا... إنهم ينتظرون!<br><br><br><tab>؟<br><br><tab>هذه هي الابتسامة!<br><br><br>",
+    "after": "<tab>18 سبتمبر<br><br><tab>أخيرًا! تمكنت من الحصول على تلك الجراثيم من المنطقة الملوثة... الشهر الذي أمضيته في تحسين المرشح كان يستحق كل هذا العناء. الركيزة جاهزة، حان الوقت لبدء الزراعة...<br><br><br><tab>11 أكتوبر<br><br><tab>ينمو الفطر بشكل جيد، وسأحصل على الفطر الأول قريبًا. لقد انتهى جهاز التقطير تقريبًا، ولا يمكن إضاعة أي وقت.<br><br><br><tab>9 نوفمبر<br><br><tab>الدفعة الأولى جاهزة، لقد قمت بزرع وسائط الاختبار.<br><br><tab>تظهر وسائط التحكم نموًا طبيعيًا للمستعمرة البكتيرية، وعينات الاختبار واضحة.<br><br><br><tab>15 نوفمبر<br><br><tab>لا تزال عينات الاختبار واضحة... هل نجحت؟<br><br><br><tab>20 ديسمبر<br><br><tab>جميع الفئران على قيد الحياة. ما يكفي من التأخير، حان الوقت للانتقال إلى الاختبار الفعلي. يبدو الالتهاب الرئوي محفوفًا بالمخاطر للغاية، ويجب أن تفعل الذبحة الصدرية.<br><br><br><tab>23 ديسمبر<br><br><tab>أعراض الذبحة الصدرية الكلاسيكية. 5 سي سي ص. لا توجد محاقن يمكن العثور عليها في أي مكان على أي حال.<br><br><br><tab>24 ديسمبر<br><br><tab>لا تغييرات<br><br><br><tab>25 ديسمبر<br><br><tab>تحسن ملحوظ.<br><br><br><tab>27 ديسمبر<br><br><tab>الروح المعنوية العالية، الجنرال. شرط. عفريت.<br><br><br><tab>29 ديسمبر<br><br><tab>أعراض الذبحة الصدرية. مستبعد.<br><br><tab>معنويات عالية، حساسية للضوء.<br><br><tab>ضجيج طرق بالخارج.<br><br><br><tab>1 يناير<br><br><tab>الجرعة: 6 سنتيليترات ص.ب.<br><br><tab>صحة مثالية، بدون آثار جانبية، وضوح مذهل في الفكر والإدراك!<br><br><br><tab>9 يناير<br><br><tab>أفكار واضحة، صحة مثالية، أصوات طرق مزعجة في الخارج. تحتاج إلى تصحيح أفضل، وإزالة الشوائب، وزيادة الفعل. تابع الوكيل<br><br><br><tab>2 فبراير<br><br><tab>تم إنجاز دفعة جديدة، تصحيح ثلاثي.<br><br><tab>الجرعة: 7 سم مكعب P.O.، حالة صحية مثالية! لا ضوضاء غريبة! تدفق النشاط، ونغمة العضلات المثالية! أشعر بالرغبة في الطيران! هناك الكثير من الأفكار للتسجيل! هذا هو اكتشاف القرن!<br><br><br><tab>5<br><br><tab>طرق خارج المنزل، السقف، الجدران، الأرضية - ينزلني<br><br><tab>رعشة<br>جرعة<br><tab>Inc.‎ تصل إلى 8 سنتيليترات ص.ب. أحسن. الأقدام دافئة، والأيدي ضخمة، وشائكة.<br><br><br><tab>؟<br><br><tab>لقد عدت إلى الضمير... رعشة. يرتجف. القيء.<br><br><br><tab>؟<br><br><tab>بالطرق مرة أخرى، تسبح الغرفة<br><br><tab>Inc.<br><br><br><tab>؟<br><br><tab>لقد وصلوا... إنهم ينتظرون!<br><br><br><tab>؟<br><br><tab>هذه هي الابتسامة!<br><br><br>"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_13_6_riggertack_01_20",
+    "source": "<ffx:anger>Reload! Cover me!<ffx:neutral>",
+    "before": "تحديث<ffx:anger>! غطيني!<ffx:neutral>",
+    "after": "إعادة التلقيم<ffx:anger>! غطيني!<ffx:neutral>"
+  },
+  {
+    "id": "$medkit_easy_hint",
+    "source": "<medkit> Medkit",
+    "before": "<medkit> ميدكيت",
+    "after": "<medkit> حقيبة الإسعافات"
+  },
+  {
+    "id": "menu_customize_barrel_shotgun_long_dsc",
+    "source": "The long barrel provides a considerable damage boost along with a small increase in accuracy at the expense of handling convenience. ",
+    "before": "يوفر البرميل الطويل تعزيزًا كبيرًا للضرر إلى جانب زيادة طفيفة في الدقة على حساب سهولة التعامل.",
+    "after": "يوفر السبطانة الطويل تعزيزًا كبيرًا للضرر إلى جانب زيادة طفيفة في الدقة على حساب سهولة التعامل."
+  },
+  {
+    "id": "menu_customize_barrel_kolya_short_dsc",
+    "source": "Standard short barrel from the original manufacturer.",
+    "before": "برميل قصير قياسي من الشركة المصنعة الأصلية.",
+    "after": "سبطانة قصير قياسي من الشركة المصنعة الأصلية."
+  },
+  {
+    "id": "voices\\m3_10_yamantau\\yam_015_thermopylae_battlechatter_idiot_04_02",
+    "source": "Reload!",
+    "before": "إعادة تحميل!",
+    "after": "إعادة تلقيم!"
+  },
+  {
+    "id": "menu_customize_heavy_barrel_044_name",
+    "source": "HEAVY BARREL",
+    "before": "برميل ثقيل",
+    "after": "سبطانة ثقيل"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_006_annasniping_reload_01",
+    "source": "Reload!",
+    "before": "إعادة تحميل!",
+    "after": "إعادة تلقيم!"
+  },
+  {
+    "id": "menu_trade_category_craft",
+    "source": "CRAFTING",
+    "before": "الصناعة",
+    "after": "الصنع"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\cannibal_1\\danger\\reloading_01",
+    "source": "Eeeh, reload!",
+    "before": "إييه، إعادة تحميل!",
+    "after": "إييه، إعادة تلقيم!"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_13_6_riggertack_01_24",
+    "source": "Gotta reload!",
+    "before": "فلدي إعادة تحميل!",
+    "after": "فلدي إعادة تلقيم!"
+  },
+  {
+    "id": "ACH_constructor_DESC",
+    "source": "Spend 500 consumable resources on crafting.",
+    "before": "أنفق 500 من الموارد الاستهلاكية على الصياغة.",
+    "after": "أنفق 500 من الموارد الاستهلاكية على الصنع."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_1\\danger\\reloading_03",
+    "source": "Shit! Need a reload!",
+    "before": "القرف! بحاجة إلى إعادة تحميل!",
+    "after": "القرف! بحاجة إلى إعادة تلقيم!"
+  },
+  {
+    "id": "menu_customize_std_barrel_044_dsc",
+    "source": "Any steel pipe with an improvised iron sight attached automatically becomes a barrel.",
+    "before": "أي أنبوب فولاذي متصل بمنظار حديدي مرتجل يصبح تلقائيًا برميلًا.",
+    "after": "أي أنبوب فولاذي متصل بمنظار حديدي مرتجل يصبح تلقائيًا سبطانةًا."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_1\\danger\\reloading_03",
+    "source": "Need a reload!",
+    "before": "بحاجة إلى إعادة تحميل!",
+    "after": "بحاجة إلى إعادة تلقيم!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\tribal_2\\danger\\reloading_03",
+    "source": "Shit, I reload!",
+    "before": "اللعنة، أنا إعادة تحميل!",
+    "after": "اللعنة، أنا إعادة تلقيم!"
+  },
+  {
+    "id": "m3_lighter_hint_easy",
+    "source": "<lighter> Lighter",
+    "before": "<lighter> ولاعة",
+    "after": "<lighter> الولاعة"
+  },
+  {
+    "id": "menu_customize_system_pneumo_helsing_dsc",
+    "source": "Pneumatic bow system speeds up the crossbow reloading process, increasing its rate of fire considerably.",
+    "before": "يعمل نظام القوس الهوائي على تسريع عملية إعادة تحميل القوس والنشاب، مما يزيد من معدل إطلاق النار بشكل كبير.",
+    "after": "يعمل نظام القوس الهوائي على تسريع عملية إعادة تلقيم القوس والنشاب، مما يزيد من معدل إطلاق النار بشكل كبير."
+  },
+  {
+    "id": "m3_general_hint_68_cstm",
+    "source": "When the gas mask is in use, your watch shows time remaining until the current filter runs out. You can view your total filter capacity in the Equipment Inventory by holding <popup_devices>",
+    "before": "عندما يكون قناع الغاز قيد الاستخدام، تعرض ساعتك الوقت المتبقي حتى نفاد الفلتر الحالي. يمكنك عرض سعة الفلتر الإجمالية في مخزون المعدات بالضغط على <popup_devices>",
+    "after": "عندما يكون قناع الغاز قيد الاستخدام، تعرض ساعتك الوقت المتبقي حتى نفاد المرشح الحالي. يمكنك عرض سعة المرشح الإجمالية في قائمة المعدات بالضغط على <popup_devices>"
+  },
+  {
+    "id": "$wpn_upt_sl_name",
+    "source": "SUPPRESSOR",
+    "before": "القامع",
+    "after": "كاتم الصوت"
+  },
+  {
+    "id": "menu_customise_barrel_3_desc",
+    "source": "Barrel 3 Description",
+    "before": "وصف برميل 3",
+    "after": "وصف سبطانة 3"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\spartans\\sam\\danger\\reload_04",
+    "source": "Gotta reload!",
+    "before": "فلدي إعادة تحميل!",
+    "after": "فلدي إعادة تلقيم!"
+  },
+  {
+    "id": "menu_customize_std_barrel_044_name",
+    "source": "STANDARD BARREL",
+    "before": "برميل قياسي",
+    "after": "سبطانة قياسي"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_220_10_sam_captain_firetraps_01_01",
+    "source": "Oh, I almost forgot! While going downstairs, could you reload the traps? The mutants do visit this place from time to time...",
+    "before": "أوه، لقد نسيت تقريبا! أثناء النزول إلى الطابق السفلي، هل يمكنك إعادة تحميل الفخاخ؟ المتحولون يقومون بزيارة هذا المكان من وقت لآخر...",
+    "after": "أوه، لقد نسيت تقريبا! أثناء النزول إلى الطابق السفلي، هل يمكنك إعادة تلقيم الفخاخ؟ المتحولون يقومون بزيارة هذا المكان من وقت لآخر..."
+  },
+  {
+    "id": "menu_customize_std_stock_grip_name",
+    "source": "STANDARD STOCK AND GRIP",
+    "before": "المخزون القياسي والقبضة",
+    "after": "أخمص وقبضة قياسيان"
+  },
+  {
+    "id": "controller_layout_wipeusegasmask",
+    "source": "WIPE / USE GASMASK (HOLD)",
+    "before": "مسح / استخدام قناع الغاز (عقد)",
+    "after": "مسح / استخدام قناع الغاز (ضغط مطول)"
+  },
+  {
+    "id": "$reload",
+    "source": "Press <wpn_reload> to reload weapon.",
+    "before": "اضغط على <wpn_reload> لإعادة تحميل السلاح.",
+    "after": "اضغط على <wpn_reload> لإعادة تلقيم السلاح."
+  },
+  {
+    "id": "m3_bagpack_hint_xbox",
+    "source": "Hold <popup_devices> to open equipment inventory.",
+    "before": "اضغط باستمرار على <popup_devices> لفتح مخزون المعدات.",
+    "after": "اضغط باستمرار على <popup_devices> لفتح قائمة المعدات."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\spartans\\sam\\danger\\reload_02",
+    "source": "Reload needed!",
+    "before": "إعادة تحميل اللازمة!",
+    "after": "إعادة تلقيم اللازمة!"
+  },
+  {
+    "id": "quick_load",
+    "source": "QUICK LOAD",
+    "before": "تحميل سريع",
+    "after": "التحميل السريع"
+  },
+  {
+    "id": "menu_customise_barrel_2_desc",
+    "source": "Barrel 2 Description",
+    "before": "وصف برميل 2",
+    "after": "وصف سبطانة 2"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_3\\danger\\reloading_02",
+    "source": "A reload!",
+    "before": "إعادة تحميل!",
+    "after": "إعادة تلقيم!"
+  },
+  {
+    "id": "hs_resources_spent_for_craft",
+    "source": "Resources spent for craft",
+    "before": "الموارد التي تنفق على الحرفة",
+    "after": "الموارد المستخدمة في الصنع"
+  },
+  {
+    "id": "menu_customize_collimator_name",
+    "source": "REFLEX SIGHT",
+    "before": "البصر المنعكس",
+    "after": "منظار انعكاسي"
+  },
+  {
+    "id": "$dinamyt_st_name",
+    "source": "STICKY GRENADE",
+    "before": "قنبلة لزجة",
+    "after": "قنبلة لاصقة"
+  },
+  {
+    "id": "voices\\m3_dlc1\\dlc1_73_3_crowdunrest_01_04",
+    "source": "Cough up the green stuff! You gave us nothing last week!",
+    "before": "السعال حتى الأشياء الخضراء! لم تعطنا شيئًا الأسبوع الماضي!",
+    "after": "السعال حتى المادة الخضراء! لم تعطنا شيئًا الأسبوع الماضي!"
+  },
+  {
+    "id": "$wpn_upt_flash_hider_name",
+    "source": "FLASH SUPPRESSOR",
+    "before": "فلاش المكثف",
+    "after": "مانع وميض الفوهة"
+  },
+  {
+    "id": "m3_dia_equip_gasmask_filter_upgrade_found",
+    "source": "<tab>At least, the new filter provides a lot more breathing time than the old ones did - that unknown medic who’d made it sure did a great job...<br><br>",
+    "before": "<tab>على الأقل، يوفر الفلتر الجديد وقتًا أطول بكثير للتنفس مقارنة بالفلتر القديم - ذلك المسعف المجهول الذي تأكد من أنه قام بعمل رائع...<br><br>",
+    "after": "<tab>على الأقل، يوفر المرشح الجديد وقتًا أطول بكثير للتنفس مقارنة بالفلتر القديم - ذلك المسعف المجهول الذي تأكد من أنه قام بعمل رائع...<br><br>"
+  },
+  {
+    "id": "$reload_easy_hint",
+    "source": "<wpn_reload> Reload",
+    "before": "تحديث <wpn_reload>",
+    "after": "<wpn_reload> إعادة التلقيم"
+  },
+  {
+    "id": "m3_hint_ingame_gasmask_filter_popup",
+    "source": "Press <filter> to swap a filter.",
+    "before": "اضغط على <filter> لتبديل الفلتر.",
+    "after": "اضغط على <filter> لتبديل المرشح."
+  },
+  {
+    "id": "hint_ingame_melee_2_ps3",
+    "source": "<#wpn_fast_knife> Kill<br><use> Knock Out",
+    "before": "<#wpn_fast_knife> اقتل<br><use> بالضربة القاضية",
+    "after": "<#wpn_fast_knife> اقتل<br><use> إفقاد الوعي"
+  },
+  {
+    "id": "m3_charger_hint_2_upd_light",
+    "source": "HOLD <wpn_light> CHARGER",
+    "before": "عقد شاحن <wpn_light>",
+    "after": "اضغط باستمرار شاحن <wpn_light>"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_1\\danger\\reloading_02",
+    "source": "A reload!",
+    "before": "إعادة تحميل!",
+    "after": "إعادة تلقيم!"
+  },
+  {
+    "id": "menu_customise_barrel_5_name",
+    "source": "BARREL 5 NAME",
+    "before": "اسم البرميل 5",
+    "after": "اسم السبطانة 5"
+  },
+  {
+    "id": "hint_ingame_melee_1",
+    "source": "Press <medkit> to kill your opponent.<br>Press <use> to knock him out.",
+    "before": "اضغط على <medkit> لقتل خصمك.<br>اضغط على <use> ليطرده.",
+    "after": "اضغط على <medkit> لقتل خصمك.<br>اضغط على <use> لإفقاده الوعي."
+  },
+  {
+    "id": "menu_customize_long_barrel_044_name",
+    "source": "LONG BARREL",
+    "before": "برميل طويل",
+    "after": "سبطانة طويل"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_3\\danger\\reloading_03",
+    "source": "I have to reload brethren!",
+    "before": "لا بد لي من إعادة تحميل الإخوة!",
+    "after": "لا بد لي من إعادة تلقيم الإخوة!"
+  },
+  {
+    "id": "menu_customize_barrel_short_silencer_big_name",
+    "source": "SHORT BARREL AND SUPPRESSOR",
+    "before": "برميل قصير والقامع",
+    "after": "سبطانة قصيرة وكاتم صوت"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_3\\danger\\reloading_02",
+    "source": "Fucking shit! Reload!",
+    "before": "القرف سخيف! إعادة تحميل!",
+    "after": "القرف سخيف! إعادة تلقيم!"
+  },
+  {
+    "id": "menu_customize_barrel_kolya_silencer_name",
+    "source": "SHORT BARREL AND SUPPRESSOR",
+    "before": "برميل قصير والقامع",
+    "after": "سبطانة قصيرة وكاتم صوت"
+  },
+  {
+    "id": "menu_customize_barrel_short_silencer_shotgun_dsc",
+    "source": "Barrel with an improvised suppressor mounted on it. Useful for stealth.",
+    "before": "برميل مع القامع المرتجل المثبت عليه. مفيدة للتسلل.",
+    "after": "سبطانة مع كاتم الصوت المرتجل المثبت عليه. مفيدة للتسلل."
+  },
+  {
+    "id": "m3_general_hint_68_xbox",
+    "source": "When the gas mask is in use, your watch shows time remaining until the current filter runs out. You can view your total filter capacity in the Equipment Inventory by holding <popup_devices>",
+    "before": "عندما يكون قناع الغاز قيد الاستخدام، تعرض ساعتك الوقت المتبقي حتى نفاد الفلتر الحالي. يمكنك عرض سعة الفلتر الإجمالية في مخزون المعدات بالضغط على <popup_devices>",
+    "after": "عندما يكون قناع الغاز قيد الاستخدام، تعرض ساعتك الوقت المتبقي حتى نفاد المرشح الحالي. يمكنك عرض سعة المرشح الإجمالية في قائمة المعدات بالضغط على <popup_devices>"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_2\\danger\\reloading_01",
+    "source": "Cover me! Reload!",
+    "before": "غطيني! إعادة تحميل!",
+    "after": "غطيني! إعادة تلقيم!"
+  },
+  {
+    "id": "menu_customize_nvscope_name",
+    "source": "NV SCOPE",
+    "before": "نطاق نيفادا",
+    "after": "منظار رؤية ليلية"
+  },
+  {
+    "id": "menu_customize_stock_std_handgun_name",
+    "source": "STANDARD STOCK",
+    "before": "الأخمص القياسي",
+    "after": "أخمص قياسي"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_1\\danger\\reloading_02",
+    "source": "Wait! Gotta reload!",
+    "before": "انتظر! فلدي إعادة تحميل!",
+    "after": "انتظر! فلدي إعادة تلقيم!"
+  },
+  {
+    "id": "menu_customise_butt_3_desc",
+    "source": "Stock 3 Description",
+    "before": "وصف المخزون 3",
+    "after": "وصف الأخمص 3"
+  },
+  {
+    "id": "m3_wpn_down_sprint_hint",
+    "source": "To sprint further, hold <wpn_down> to holster your weapon. ",
+    "before": "للعدو أكثر، أمسك <wpn_down> لحافظة سلاحك.",
+    "after": "للعدو أكثر، أمسك <wpn_down> لإخفاء سلاحك."
+  },
+  {
+    "id": "voices\\m3_02_dead_moscow\\dmc_005_topoftheworld_04",
+    "source": "<ffx:fear>Come on, replace your filter! <ffx:wonder>Haven't you spent enough time in the sickbay?<ffx:neutral>",
+    "before": "<ffx:fear>هيا، استبدل الفلتر الخاص بك!<ffx:wonder>ألم تقضي وقتًا كافيًا في حجرة المرضى؟<ffx:neutral>",
+    "after": "<ffx:fear>هيا، استبدل المرشح الخاص بك!<ffx:wonder>ألم تقضي وقتًا كافيًا في حجرة المرضى؟<ffx:neutral>"
+  },
+  {
+    "id": "menu_customize_barrel_short_name",
+    "source": "SHORT BARREL",
+    "before": "برميل قصير",
+    "after": "سبطانة قصير"
+  },
+  {
+    "id": "$photomode_filter",
+    "source": "FILTER",
+    "before": "مرشح",
+    "after": "المرشح"
+  },
+  {
+    "id": "m3_hint_ingame_gasmask_filter",
+    "source": "Press <filter> to swap a filter.",
+    "before": "اضغط على <filter> لتبديل الفلتر.",
+    "after": "اضغط على <filter> لتبديل المرشح."
+  },
+  {
+    "id": "menu_customize_system_pneumo_autopump_name",
+    "source": "AUTOMATIC PNEUMATIC SYSTEM",
+    "before": "نظام هوائي أوتوماتيكي",
+    "after": "نظام هوائي آلي"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_3\\danger\\reloading_01",
+    "source": "Cover me, brethren! I need to reload!",
+    "before": "غطوني أيها الإخوة! أنا بحاجة إلى إعادة تحميل!",
+    "after": "غطوني أيها الإخوة! أنا بحاجة إلى إعادة تلقيم!"
+  }
+]

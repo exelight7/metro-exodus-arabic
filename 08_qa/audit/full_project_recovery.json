@@ -1,0 +1,15 @@
+{
+  "recovered_index_exact": true,
+  "recovered_payload_exact": true,
+  "native_recipe_verified": true,
+  "current_csv_rebuild_payload_exact": true,
+  "all_12_assets_reproduced": true,
+  "unrelated_index_records_preserved": true,
+  "existing_output_refused": true,
+  "game_directory_output_refused": true,
+  "unsupported_version_refused": true,
+  "live_game_hashes_unchanged": true,
+  "game_launched": false,
+  "payload_sha256": "46e3188d1b89a78d4435bfe6e366bb6e302679bc13c6dbbc23cd739ca49303ac",
+  "original_assets_recovered": 12
+}

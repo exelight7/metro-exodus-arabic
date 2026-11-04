@@ -1,0 +1,27 @@
+{
+  "glyph_checks": 496,
+  "recovered_characters": {
+    "credits_names": "jrL0",
+    "credits_titles": "vJKQS",
+    "main_menu_lcd": "bG7",
+    "main_menu": "cdkS",
+    "map": "MQU",
+    "menu": "cdkS",
+    "regular": "cgDE",
+    "typewriter": "MQU"
+  },
+  "english_labels": {
+    "$vsync": "VSync",
+    "$direct_x": "DirectX",
+    "$raytrace": "NVIDIA RTX",
+    "$rtgi": "Ray Tracing",
+    "options_video_hairworks": "HairWorks",
+    "$adv_phisics": "Advanced PhysX",
+    "$tesselation": "Tessellation",
+    "$shading_rate": "Shading Rate",
+    "$dlss": "DLSS",
+    "$af_16x": "AF 16X"
+  },
+  "all_localization_text_preserved": true,
+  "runtime_tested": false
+}

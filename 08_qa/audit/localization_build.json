@@ -1,0 +1,26 @@
+{
+  "total": 38221,
+  "runtime_entries": 38223,
+  "supplemental_reviewed_entries": 2,
+  "statuses": {
+    "draft": 36434,
+    "skip": 840,
+    "reviewed": 947
+  },
+  "origins": {
+    "machine_draft": 36434,
+    "preserved": 840,
+    "reviewed": 947
+  },
+  "original_characters": 203,
+  "built_characters": 336,
+  "roundtrip_original_sha256": "edc121baec72a2c173045df267e52c283f780a07e6ef879386c98b57e90e2786",
+  "built_sha256": "82d77c88a86a8de8fa61acdbea1fee8b3b8d8f18c26a69a4c480bc382bdf19a8",
+  "issues": [],
+  "subtitle_layout": {
+    "integrated_speaker_entries": 10758,
+    "timed_entries": 39
+  },
+  "runtime_tested": false,
+  "render_mode": "visual_assumed_unverified"
+}

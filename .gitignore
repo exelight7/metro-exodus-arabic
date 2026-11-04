@@ -1,8 +1,6 @@
 __pycache__/
 *.pyc
 .venv/
-build/
-dist/
 *.spec
 *.exe
 *.AppImage
@@ -12,3 +10,11 @@ dist/
 *.pyd
 .metro_arabic/
 .env
+01_original/
+02_extracted/
+06_build/
+07_patch/
+09_release/
+backups/
+tools/upstream/
+dist/

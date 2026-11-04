@@ -1,0 +1,227 @@
+[
+  {
+    "id": "voices\\m3_12_valley\\val_40_5_admiral_parrot_05",
+    "before": "إلى الجحيم معها! الى الجحيم!",
+    "after": "إلى الجحيم معها! إلى الجحيم!"
+  },
+  {
+    "id": "voices\\m3_dlc1\\dlc1_74_2_quarrel_01_11",
+    "before": "انت راجل محترم ياكوف ازاي تخليه يعمل فيك كده؟!",
+    "after": "أنت راجل محترم ياكوف ازاي تخليه يعمل فيك كده؟!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_1\\wounded\\wounded_gravely_05",
+    "before": "آه! انا بحاجة الى مساعدة!",
+    "after": "آه! انا بحاجة إلى مساعدة!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\cannibal_3\\uber_alert\\uber_alert_search_04",
+    "before": "أين أنت؟ أين أنت يا لحم؟ تعال الى هنا!",
+    "after": "أين أنت؟ أين أنت يا لحم؟ تعال إلى هنا!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_1\\wounded\\wounded_lightly_04",
+    "before": "اه انت...",
+    "after": "اه أنت..."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_2\\dog\\dog_missing_01",
+    "before": "وحش! تعال الى هنا! ...اللعنة! أين ذلك الكلب؟",
+    "after": "وحش! تعال إلى هنا! ...اللعنة! أين ذلك الكلب؟"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_1\\light_alert\\light_alert_group_alarmed_call_goingalert_morethanone_03",
+    "before": "هيي! أين أنتم يا رفاق؟ بحاجة الى أي مساعدة؟",
+    "after": "هيي! أين أنتم يا رفاق؟ بحاجة إلى أي مساعدة؟"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_2\\uber_alert\\uber_alert_group_search_waitforsearchcomplete_03",
+    "before": "مهلا، التائه! تعال الى هنا! كتكوت كتكوت كتكوت كتكوت الدجاج! هاهاها!",
+    "after": "مهلا، التائه! تعال إلى هنا! كتكوت كتكوت كتكوت كتكوت الدجاج! هاهاها!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_2\\alert\\alert_group_gonnalook_metoo_01",
+    "before": "انا قادم ايضا...",
+    "after": "انا قادم أيضًا..."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_1\\dog\\dog_missing_02",
+    "before": "تعال يا فتى! يا! تعال الى هنا! أين ذلك الكلب الآن؟",
+    "after": "تعال يا فتى! يا! تعال إلى هنا! أين ذلك الكلب الآن؟"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_1\\dog\\dog_missing_01",
+    "before": "تعال! تعال الى هنا! أين أنت يا فتى؟",
+    "after": "تعال! تعال إلى هنا! أين أنت يا فتى؟"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_3\\dog\\dog_missing_02",
+    "before": "تعال هنا! يأتي! يا!  أين أنت يا فتى؟ تعال الى هنا!",
+    "after": "تعال هنا! يأتي! يا!  أين أنت يا فتى؟ تعال إلى هنا!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\spartans\\sam\\combat\\combat_enemykilled_cqc_01",
+    "before": "اذهب الى الجحيم...",
+    "after": "اذهب إلى الجحيم..."
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_022_goodend_05",
+    "before": "<ffx:anger>إسمعوا لي أيها الإخوة! امسك النار الخاص بك!",
+    "after": "<ffx:anger>اسمعوا لي أيها الإخوة! امسك النار الخاص بك!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_2\\wounded\\wounded_lightly_03",
+    "before": "اه انت...",
+    "after": "اه أنت..."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_2\\wounded\\wounded_lightly_05",
+    "before": "اه انت...",
+    "after": "اه أنت..."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\cannibal_2\\wounded\\wounded_lightly_03",
+    "before": "اه انت...",
+    "after": "اه أنت..."
+  },
+  {
+    "id": "voices\\m3_09_summer\\sum_001_7_2_tabletalk_02_88",
+    "before": "<ffx:smile>نعم! الى الحياة!<ffx:neutral>",
+    "after": "<ffx:smile>نعم! إلى الحياة!<ffx:neutral>"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_3\\wounded\\wounded_lightly_03",
+    "before": "اه انت...",
+    "after": "اه أنت..."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_3\\dog\\dog_missing_01",
+    "before": "مهلا يا فتى! تعال الى هنا! هنا؟ سريع! أين ذلك الكلب؟",
+    "after": "مهلا يا فتى! تعال إلى هنا! هنا؟ سريع! أين ذلك الكلب؟"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_1\\dog\\dog_missing_01",
+    "before": "تعال الى هنا! أين أنت؟ تعال هنا، أنت... سامحني يا فيش، لقد كدت أقسم...",
+    "after": "تعال إلى هنا! أين أنت؟ تعال هنا، أنت... سامحني يا فيش، لقد كدت أقسم..."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_1\\dog\\dog_missing_02",
+    "before": "مهلا، أين أنت؟ تعال الى هنا! لماذا عليه الهروب دائما...",
+    "after": "مهلا، أين أنت؟ تعال إلى هنا! لماذا عليه الهروب دائما..."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_1\\dog\\dog_missing_01",
+    "before": "تعال الى هنا! أين هو بحق الجحيم هذا الكلب الغبي؟",
+    "after": "تعال إلى هنا! أين هو بحق الجحيم هذا الكلب الغبي؟"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_120_taleoftwobrothers_brothes_reunion_01_19",
+    "before": "إنتظر لحظة...ولكن لماذا...",
+    "after": "انتظر لحظة...ولكن لماذا..."
+  },
+  {
+    "id": "voices\\m3_13_dead_city\\nvs_006_enterfirststation_14",
+    "before": "تعال الى هنا!",
+    "after": "تعال إلى هنا!"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_090_scouts_conversation_01_10",
+    "before": "انت هناك..ههههه..",
+    "after": "أنت هناك..ههههه.."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_1\\wounded\\wounded_lightly_04",
+    "before": "اه انت...",
+    "after": "اه أنت..."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\cannibal_2\\stunned\\stunned_found_03",
+    "before": "هنا الجميع! تعال الى هنا! لقد طرد هذا الأحمق ، هاها!",
+    "after": "هنا الجميع! تعال إلى هنا! لقد طرد هذا الأحمق ، هاها!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_2\\dog\\dog_missing_03",
+    "before": "هيت! أين أنت يا فتى؟ تعال الى هنا! تعال، لدي بعض الطعام لك! غريب... أين ذلك الكلب؟",
+    "after": "هيت! أين أنت يا فتى؟ تعال إلى هنا! تعال، لدي بعض الطعام لك! غريب... أين ذلك الكلب؟"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_3\\dog\\dog_missing_02",
+    "before": "تعالي هنا يا فتاة! تعال الى هنا! أين هي يا ترى...",
+    "after": "تعالي هنا يا فتاة! تعال إلى هنا! أين هي يا ترى..."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_2\\dog\\dog_commands_01",
+    "before": "تعال الى هنا!",
+    "after": "تعال إلى هنا!"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_099_poker_game_aftermath_01_05",
+    "before": "<ffx:fear>اه ماذا افعل الان.. ماذا افعل... ومن هذا... هل ارسله غليبا؟ هل يمكن أن يأخذ بوبر العجين لنفسه؟<ffx:sadness>أوه ماذا أفعل الآن... ماذا أفعل...",
+    "after": "<ffx:fear>اه ماذا افعل الآن.. ماذا افعل... ومن هذا... هل ارسله غليبا؟ هل يمكن أن يأخذ بوبر العجين لنفسه؟<ffx:sadness>أوه ماذا أفعل الآن... ماذا أفعل..."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_3\\wounded\\wounded_lightly_03",
+    "before": "اه انت...",
+    "after": "اه أنت..."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_2\\dog\\dog_missing_01",
+    "before": "هنا! تعال يا فتى! تعال الى هنا! أين أنت في عالم السمك؟",
+    "after": "هنا! تعال يا فتى! تعال إلى هنا! أين أنت في عالم السمك؟"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_1\\dog\\dog_missing_01",
+    "before": "تعال الى هنا!  أين أنت أيها الكسول؟",
+    "after": "تعال إلى هنا!  أين أنت أيها الكسول؟"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_1\\decoy\\decoy_hit_reaction_02",
+    "before": "يا! أنت! تعال الى هنا! أريد اسمك، الآن!",
+    "after": "يا! أنت! تعال إلى هنا! أريد اسمك، الآن!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_2\\dog\\dog_commands_01",
+    "before": "تعال الى هنا!",
+    "after": "تعال إلى هنا!"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_2\\wounded\\wounded_lightly_03",
+    "before": "اه انت...",
+    "after": "اه أنت..."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_2\\dog\\dog_missing_02",
+    "before": "تعال الى هنا! يا!  ما بال هذا الكلب...",
+    "after": "تعال إلى هنا! يا!  ما بال هذا الكلب..."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_2\\dog\\dog_missing_02",
+    "before": "يا! وحش! تعال الى هنا! ما الذي يحدث معه اليوم...يا له من جنون...",
+    "after": "يا! وحش! تعال إلى هنا! ما الذي يحدث معه اليوم...يا له من جنون..."
+  },
+  {
+    "id": "voices\\m3_10_yamantau\\yam_010_welcometohell_02",
+    "before": "<ffx:smile>كل شيء يسير كما هو مخطط له، الجميع<ffx:anger>بخير! حتى الان...",
+    "after": "<ffx:smile>كل شيء يسير كما هو مخطط له، الجميع<ffx:anger>بخير! حتى الآن..."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_3\\species\\confused_single_threat_subsided_01",
+    "before": "لقد إنتهى...حسناً، هذا جيد بالنسبة لي...",
+    "after": "لقد انتهى...حسناً، هذا جيد بالنسبة لي..."
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_3\\dog\\dog_missing_01",
+    "before": "تعال يا فتى! تعال الى هنا!",
+    "after": "تعال يا فتى! تعال إلى هنا!"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_016_briefing_03_07",
+    "before": "<ffx:anger_light>أرتيوم! تعال الى هنا!<ffx:neutral>",
+    "after": "<ffx:anger_light>أرتيوم! تعال إلى هنا!<ffx:neutral>"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_3\\species\\confused_group_threat_subsided_reply_02",
+    "before": "انت قلتها...",
+    "after": "أنت قلتها..."
+  }
+]

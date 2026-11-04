@@ -1,0 +1,12 @@
+{
+  "revision": "comprehensive_r2",
+  "installed": true,
+  "live_index_and_all_payload_hashes_verified": true,
+  "payloads_verified": 22,
+  "index_sha256": "3f8d4fe9ce51247802982f5b1361f8985f5cc38e950df5736830f172b39bb355",
+  "native_loading_companion_preserved": true,
+  "executable_sha256": "784b2deeca2270731851622a7789d1684eb4e6551bb051e20ca15bd9ad7d5333",
+  "clean_original_preserved": true,
+  "runtime_tested": false,
+  "game_started": false
+}

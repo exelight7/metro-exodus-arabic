@@ -1,0 +1,402 @@
+[
+  {
+    "id": "menu_customize_magazine_revolver_small_name",
+    "source": "3-SHOT CYLINDER",
+    "target": "أسطوانة من 3 طلقات"
+  },
+  {
+    "id": "menu_customize_magazine_flame_big_name",
+    "source": "BIG TANK",
+    "target": "خزان كبير"
+  },
+  {
+    "id": "menu_customize_magazine_huge_vyhlop_dsc",
+    "source": "Huge magazine with 60 rounds of ammunition.",
+    "target": "مخزن ضخم يتسع لـ60 طلقة."
+  },
+  {
+    "id": "menu_customize_magazine_revolver_std_da_dsc",
+    "source": "6-chambered cylinder with double-action mechanism increasing revolver rate of fire considerably.",
+    "target": "أسطوانة من 6 حجرات بآلية مزدوجة الفعل تزيد معدل إطلاق المسدس الدوار بدرجة كبيرة."
+  },
+  {
+    "id": "menu_customize_magazine_gatling_small_name",
+    "source": "QUADRANT-TYPE MAGAZINE",
+    "target": "مخزن رباعي الشكل"
+  },
+  {
+    "id": "menu_customize_magazine_shotgun_drum_3_dsc",
+    "source": "Smaller version of the shotgun cylinder. This magazine only holds three rounds, but can be quickly replaced with a new one.",
+    "target": "نسخة أصغر من أسطوانة بندقية الخرطوش. تتسع لثلاث طلقات فقط، لكن يمكن استبدالها بسرعة بأخرى."
+  },
+  {
+    "id": "menu_customize_magazine_revolver_small_dsc",
+    "source": "3-chambered cylinder with single-action mechanism. Not the best choice, but still better than nothing.",
+    "target": "أسطوانة من 3 حجرات بآلية أحادية الفعل. ليست الخيار الأفضل، لكنها أفضل من لا شيء."
+  },
+  {
+    "id": "menu_customize_magazine_big_dsc",
+    "source": "Large magazine holding up to 45 rounds of ammunition. Quite heavy. ",
+    "target": "مخزن كبير يتسع لما يصل إلى 45 طلقة. ثقيل نسبيًا."
+  },
+  {
+    "id": "menu_customize_magazine_043_huge_name",
+    "source": "EXTENDED MAGAZINE",
+    "target": "مخزن موسع"
+  },
+  {
+    "id": "menu_customize_magazine_small_name",
+    "source": "SMALL MAGAZINE",
+    "target": "مخزن صغير"
+  },
+  {
+    "id": "menu_customize_magazine_kolya_big_dsc",
+    "source": "Big magazine holding 16 rounds of ammunition, noticeably heavy.",
+    "target": "مخزن كبير يتسع لـ16 طلقة، ووزنه ثقيل بوضوح."
+  },
+  {
+    "id": "menu_customize_magazine_huge_name",
+    "source": "HIGH CAPACITY MAGAZINE",
+    "target": "مخزن كبير السعة"
+  },
+  {
+    "id": "menu_customize_magazine_043_name",
+    "source": "SINGLE COLUMN MAGAZINE",
+    "target": "مخزن أحادي الصف"
+  },
+  {
+    "id": "menu_customize_magazine_flame_small_name",
+    "source": "SMALL TANK",
+    "target": "خزان صغير"
+  },
+  {
+    "id": "menu_customize_magazine_ubludok_small_name",
+    "source": "SMALL MAGAZINE",
+    "target": "مخزن صغير"
+  },
+  {
+    "id": "menu_customize_magazine_043_huge_dsc",
+    "source": "The extended magazine holds up to 15 rounds of ammunition and, paired with a semi-automatic receiver increases rate of fire considerably at the cost of decreased accuracy and damage dealt to the target.",
+    "target": "يتسع المخزن الموسع لما يصل إلى 15 طلقة. وعند استخدامه مع آلية نصف آلية، يزيد معدل الإطلاق بدرجة كبيرة على حساب الدقة والضرر الملحق بالهدف."
+  },
+  {
+    "id": "menu_customize_magazine_ubludok_small_dsc",
+    "source": "Small magazine holding 15 rounds of ammunition. The lightest possible option.",
+    "target": "مخزن صغير يتسع لـ15 طلقة. أخف الخيارات المتاحة."
+  },
+  {
+    "id": "menu_customize_magazine_makeshift_std_name",
+    "source": "ROTOR MAGAZINE",
+    "target": "مخزن دوار"
+  },
+  {
+    "id": "menu_customize_magazine_huge_vyhlop_name",
+    "source": "HIGH CAPACITY MAGAZINE",
+    "target": "مخزن كبير السعة"
+  },
+  {
+    "id": "menu_customize_magazine_kolya_huge_dsc",
+    "source": "Huge magazine holding up to 32 rounds of ammunition. The heaviest, may affect the steadiness of your aim.",
+    "target": "مخزن ضخم يتسع لما يصل إلى 32 طلقة. هو الأثقل، وقد يؤثر على ثبات التصويب."
+  },
+  {
+    "id": "menu_customize_magazine_043_small_name",
+    "source": "NO MAGAZINE",
+    "target": "بلا مخزن"
+  },
+  {
+    "id": "menu_customize_magazine_sammy_small_dsc",
+    "source": "Small magazine created specifically for this rifle improves its handling and accuracy by adjusting the weapon's balance. Can hold up to 11 standard or incendiary rounds.",
+    "target": "مخزن صغير صُمم خصيصًا لهذه البندقية. يحسن سهولة استخدامها ودقتها بتعديل توازنها، ويتسع لما يصل إلى 11 طلقة عادية أو حارقة."
+  },
+  {
+    "id": "menu_customize_magazine_makeshift_ext_name",
+    "source": "HORIZONTAL MAGAZINE",
+    "target": "مخزن أفقي"
+  },
+  {
+    "id": "menu_customize_magazine_ubludok_std_name",
+    "source": "STANDARD MAGAZINE",
+    "target": "مخزن قياسي"
+  },
+  {
+    "id": "menu_customize_magazine_dsc",
+    "source": "Standard magazine holding 30 rounds of ammunition.",
+    "target": "مخزن قياسي يتسع لـ30 طلقة."
+  },
+  {
+    "id": "menu_customize_magazine_043_big_name",
+    "source": "STAGGERED MAGAZINE",
+    "target": "مخزن مزدوج الصف"
+  },
+  {
+    "id": "menu_customize_magazine_kolya_big_name",
+    "source": "EXTENDED MAGAZINE",
+    "target": "مخزن موسع"
+  },
+  {
+    "id": "menu_customize_magazine_sammy_std_dsc",
+    "source": "Standard size magazine created specifically for this rifle, can hold up to 30 standard or incendiary rounds.",
+    "target": "مخزن قياسي صُمم خصيصًا لهذه البندقية، ويتسع لما يصل إلى 30 طلقة عادية أو حارقة."
+  },
+  {
+    "id": "menu_customize_magazine_helsing_big_name",
+    "source": "EXTENDED MAGAZINE",
+    "target": "مخزن موسع"
+  },
+  {
+    "id": "menu_customize_magazine_revolver_std_sa_dsc",
+    "source": "6-chambered cylinder with single-action mechanism. The classic six-shooter.",
+    "target": "أسطوانة من 6 حجرات بآلية أحادية الفعل. التصميم الكلاسيكي للمسدس سداسي الطلقات."
+  },
+  {
+    "id": "menu_customize_magazine_flame_big_dsc",
+    "source": "This re-purposed metal fire extinguisher contains a significant amount of fuel but makes the flamethrower much heavier and bulkier.",
+    "target": "طفاية حريق معدنية أعيد تجهيزها لتخزين كمية كبيرة من الوقود، لكنها تجعل قاذف اللهب أثقل وأكبر حجمًا بكثير."
+  },
+  {
+    "id": "menu_customize_magazine_helsing_std_dsc",
+    "source": "Heavier than the small magazine, but capable of holding 3 bolts.",
+    "target": "أثقل من المخزن الصغير، لكنه يتسع لـ3 سهام."
+  },
+  {
+    "id": "menu_customize_magazine_ubludok_huge_dsc",
+    "source": "Magazine holding up to 100 rounds of ammunition. The heaviest, which may affect your steady aim. ",
+    "target": "مخزن يتسع لما يصل إلى 100 طلقة. هو الأثقل، وقد يؤثر على ثبات التصويب."
+  },
+  {
+    "id": "menu_customize_magazine_043_small_dsc",
+    "source": "Standard for old-style rifles - only one round in the chamber.",
+    "target": "التصميم المعتاد للبنادق القديمة: طلقة واحدة فقط في حجرة الإطلاق."
+  },
+  {
+    "id": "menu_customize_magazine_ubludok_huge_name",
+    "source": "HIGH CAPACITY MAGAZINE",
+    "target": "مخزن كبير السعة"
+  },
+  {
+    "id": "menu_customize_magazine_makeshift_huge_name",
+    "source": "HELICAL MAGAZINE",
+    "target": "مخزن حلزوني"
+  },
+  {
+    "id": "menu_customize_magazine_name",
+    "source": "MAGAZINE",
+    "target": "مخزن الذخيرة"
+  },
+  {
+    "id": "menu_customize_magazine_revolver_std_sa_name",
+    "source": "6-SHOT CYLINDER",
+    "target": "أسطوانة من 6 طلقات"
+  },
+  {
+    "id": "menu_customize_magazine_flame_std_name",
+    "source": "STANDARD TANK",
+    "target": "خزان قياسي"
+  },
+  {
+    "id": "menu_customize_magazine_big_name",
+    "source": "EXTENDED MAGAZINE",
+    "target": "مخزن موسع"
+  },
+  {
+    "id": "menu_customize_magazine_flame_std_dsc",
+    "source": "Three daisy-chained plastic fire extinguisher tanks contain the perfect amount of fuel for portable flamethrower.",
+    "target": "ثلاثة خزانات بلاستيكية لطفايات حريق موصولة على التوالي، توفر كمية الوقود المثالية لقاذف لهب محمول."
+  },
+  {
+    "id": "menu_customize_magazine_flame_huge_name",
+    "source": "EXTENDED TANK",
+    "target": "خزان موسع"
+  },
+  {
+    "id": "menu_customize_magazine_sammy_small_name",
+    "source": "SMALL MAGAZINE",
+    "target": "مخزن صغير"
+  },
+  {
+    "id": "menu_customize_magazine_shotgun_box_10_dsc",
+    "source": "Large shotgun magazine holding 10 rounds of ammunition.",
+    "target": "مخزن كبير لبندقية الخرطوش يتسع لـ10 طلقات."
+  },
+  {
+    "id": "menu_customize_magazine_revolver_big_name",
+    "source": "8-SHOT CYLINDER",
+    "target": "أسطوانة من 8 طلقات"
+  },
+  {
+    "id": "menu_customize_magazine_revolver_std_da_name",
+    "source": "6-SHOT DOUBLE-ACTION CYLINDER",
+    "target": "أسطوانة مزدوجة الفعل من 6 طلقات"
+  },
+  {
+    "id": "menu_customize_magazine_kolya_small_dsc",
+    "source": "Small magazine holding 8 rounds of ammunition. The lightest possible option.",
+    "target": "مخزن صغير يتسع لـ8 طلقات. أخف الخيارات المتاحة."
+  },
+  {
+    "id": "menu_customize_magazine_makeshift_std_dsc",
+    "source": "Cylindric magazine that can hold 18 steel balls or 6 capsules.",
+    "target": "مخزن أسطواني يتسع لـ18 كرة فولاذية أو 6 كبسولات."
+  },
+  {
+    "id": "menu_customize_magazine_kolya_huge_name",
+    "source": "HIGH CAPACITY MAGAZINE",
+    "target": "مخزن كبير السعة"
+  },
+  {
+    "id": "menu_customize_magazine_shotgun_drum_6_name",
+    "source": "FIXED CYLINDER",
+    "target": "أسطوانة ثابتة"
+  },
+  {
+    "id": "menu_customize_magazine_ubludok_big_dsc",
+    "source": "Big magazine holding 50 rounds of ammunition, quite heavy. ",
+    "target": "مخزن كبير يتسع لـ50 طلقة، وثقيل نسبيًا."
+  },
+  {
+    "id": "menu_customize_magazine_revolver_big_dsc",
+    "source": "8-chambered cylinder with double-action mechanism. Probably the best drum you can find in post-war world. ",
+    "target": "أسطوانة من 8 حجرات بآلية مزدوجة الفعل. لعلها أفضل أسطوانة يمكنك العثور عليها في عالم ما بعد الحرب."
+  },
+  {
+    "id": "menu_customize_magazine_helsing_std_name",
+    "source": "MEDIUM MAGAZINE",
+    "target": "مخزن متوسط"
+  },
+  {
+    "id": "menu_customize_magazine_helsing_big_dsc",
+    "source": "Big cylindric magazine containing up to 6 bolts. Noticeably heavier.",
+    "target": "مخزن أسطواني كبير يتسع لما يصل إلى 6 سهام، ووزنه أثقل بوضوح."
+  },
+  {
+    "id": "menu_customize_magazine_gatling_small_dsc",
+    "source": "This quadrant-shaped magazine can hold up to 75 rounds of ammunition, while staying considerably less bulky than pan-type magazines.",
+    "target": "مخزن رباعي الشكل يتسع لما يصل إلى 75 طلقة، ويشغل حيزًا أقل بكثير من المخازن القرصية."
+  },
+  {
+    "id": "menu_customize_magazine_makeshift_small_name",
+    "source": "TUBE MAGAZINE",
+    "target": "مخزن أنبوبي"
+  },
+  {
+    "id": "menu_customize_magazine_ubludok_big_name",
+    "source": "EXTENDED MAGAZINE",
+    "target": "مخزن موسع"
+  },
+  {
+    "id": "menu_customize_magazine_043_big_dsc",
+    "source": "Extended magazine holds up to 10 staggered rounds of ammunition. A straight-pull bolt allows the shooter to chamber a round and fire it all the while observing the target through the scope.",
+    "target": "مخزن موسع يتسع لـ10 طلقات مرتبة في صفين متداخلين. تتيح آلية الترباس مستقيم السحب تلقيم الطلقة وإطلاقها مع إبقاء الهدف تحت المراقبة عبر المنظار."
+  },
+  {
+    "id": "menu_customize_magazine_huge_dsc",
+    "source": "An oversized magazine holding 75 rounds of ammunition. The heaviest possible option.",
+    "target": "مخزن ضخم يتسع لـ75 طلقة. أثقل الخيارات المتاحة."
+  },
+  {
+    "id": "menu_customize_magazine_ubludok_std_dsc",
+    "source": "Standard-size magazine holding up to 30 rounds of ammunition.",
+    "target": "مخزن قياسي يتسع لما يصل إلى 30 طلقة."
+  },
+  {
+    "id": "menu_customize_magazine_043_dsc",
+    "source": "Single-column magazine holding 5 rounds of ammunition. A straight-pull bolt allows the shooter to chamber a round and fire it all the while observing the target through the scope.",
+    "target": "مخزن أحادي الصف يتسع لـ5 طلقات. تتيح آلية الترباس مستقيم السحب تلقيم الطلقة وإطلاقها مع إبقاء الهدف تحت المراقبة عبر المنظار."
+  },
+  {
+    "id": "menu_customize_magazine_kolya_small_name",
+    "source": "SMALL MAGAZINE",
+    "target": "مخزن صغير"
+  },
+  {
+    "id": "menu_customize_magazine_shotgun_belt_dsc",
+    "source": "This box magazine with 20 rounds of ammunition can be detached from the weapon and replaced by another, but this operation takes time.",
+    "target": "مخزن صندوقي يتسع لـ20 طلقة. يمكن فصله عن السلاح واستبداله بآخر، لكن ذلك يستغرق وقتًا."
+  },
+  {
+    "id": "menu_customize_magazine_sammy_std_name",
+    "source": "STANDARD MAGAZINE",
+    "target": "مخزن قياسي"
+  },
+  {
+    "id": "menu_customize_magazine_flame_small_dsc",
+    "source": "Small and light tank from a portable stove contains small amount of fuel.",
+    "target": "خزان صغير وخفيف مأخوذ من موقد محمول، يحتوي على كمية قليلة من الوقود."
+  },
+  {
+    "id": "menu_customize_magazine_small_dsc",
+    "source": "Small magazine holding 20 rounds of ammunition, light and compact. ",
+    "target": "مخزن صغير يتسع لـ20 طلقة، خفيف وصغير الحجم."
+  },
+  {
+    "id": "menu_customize_magazine_helsing_small_dsc",
+    "source": "The simplest magazine, containing one bolt on the top of the bow, is also the lightest.",
+    "target": "أبسط المخازن وأخفها، يحمل سهمًا واحدًا فوق القوس."
+  },
+  {
+    "id": "menu_customize_magazine_sammy_huge_dsc",
+    "source": "Huge magazine created specifically for this rifle. It's weight may affect your steadiness of aim and accuracy, but on the flip side it can hold up to 100 standard or incendiary rounds.",
+    "target": "مخزن ضخم صُمم خصيصًا لهذه البندقية. قد يؤثر وزنه على ثبات التصويب ودقته، لكنه يتسع لما يصل إلى 100 طلقة عادية أو حارقة."
+  },
+  {
+    "id": "menu_customize_magazine_makeshift_ext_dsc",
+    "source": "Extended version of tube magazine that can hold 27 steel balls or 9 capsules. ",
+    "target": "نسخة موسعة من المخزن الأنبوبي، تتسع لـ27 كرة فولاذية أو 9 كبسولات."
+  },
+  {
+    "id": "menu_customize_magazine_helsing_huge_dsc",
+    "source": "Huge cylindric magazine that contains 8 bolts. A lot heavier than all the other ones, but allows you to reload less often.",
+    "target": "مخزن أسطواني ضخم يتسع لـ8 سهام. أثقل بكثير من بقية المخازن، لكنه يقلل الحاجة إلى إعادة التلقيم."
+  },
+  {
+    "id": "menu_customize_magazine_shotgun_drum_3_name",
+    "source": "SMALL CYLINDER",
+    "target": "أسطوانة صغيرة"
+  },
+  {
+    "id": "menu_customize_magazine_shotgun_belt_name",
+    "source": "BOX MAGAZINE",
+    "target": "مخزن صندوقي"
+  },
+  {
+    "id": "menu_customize_magazine_helsing_huge_name",
+    "source": "HIGH CAPACITY MAGAZINE",
+    "target": "مخزن كبير السعة"
+  },
+  {
+    "id": "menu_customize_magazine_flame_huge_dsc",
+    "source": "Extended tank makes the flamethrower super heavy and uncomfortable to use, but provides  enormous fuel reserve.",
+    "target": "يجعل الخزان الموسع قاذف اللهب ثقيلًا جدًا وصعب الاستخدام، لكنه يوفر احتياطيًا هائلًا من الوقود."
+  },
+  {
+    "id": "menu_customize_magazine_makeshift_small_dsc",
+    "source": "This small makeshift magazine can hold up to 9 steel balls or 3 capsules.",
+    "target": "مخزن صغير مرتجل الصنع يتسع لما يصل إلى 9 كرات فولاذية أو 3 كبسولات."
+  },
+  {
+    "id": "menu_customize_magazine_helsing_small_name",
+    "source": "SMALL MAGAZINE",
+    "target": "مخزن صغير"
+  },
+  {
+    "id": "menu_customize_magazine_sammy_huge_name",
+    "source": "HIGH CAPACITY MAGAZINE",
+    "target": "مخزن كبير السعة"
+  },
+  {
+    "id": "menu_customize_magazine_shotgun_box_10_name",
+    "source": "SHOTGUN MAGAZINE",
+    "target": "مخزن بندقية خرطوش"
+  },
+  {
+    "id": "menu_customize_magazine_shotgun_drum_6_dsc",
+    "source": "This six-round shell holder provides the best reload speed and rate of fire a shotgun could ever achieve.",
+    "target": "حامل يتسع لست طلقات خرطوش، ويوفر أفضل سرعة تلقيم ومعدل إطلاق يمكن أن تحققهما بندقية خرطوش."
+  },
+  {
+    "id": "menu_customize_magazine_makeshift_huge_dsc",
+    "source": "Auger magazine using a rotating helical screw to hold up to 36 steel balls or 12 capsules. ",
+    "target": "مخزن حلزوني يستخدم لولبًا دوارًا لحمل ما يصل إلى 36 كرة فولاذية أو 12 كبسولة."
+  }
+]

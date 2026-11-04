@@ -1,0 +1,32 @@
+{
+  "settings_checked": [
+    "$video_resolution",
+    "$aspect_ratio",
+    "$sound_effect_volume",
+    "$sound_music_volume",
+    "$vo_volume",
+    "spatial_audio",
+    "$crosshair",
+    "hitmarks_mode",
+    "$localizable_signs",
+    "toggle_aim_mode",
+    "$qte_hold",
+    "dlc_extras_menu",
+    "$direct_x",
+    "$dx_12",
+    "$dlss",
+    "$vsync",
+    "$raytrace",
+    "$rtgi",
+    "options_video_hairworks",
+    "$adv_phisics",
+    "$tesselation",
+    "$shading_rate",
+    "$af_16x"
+  ],
+  "technology_names_preserved": true,
+  "lcd_menu_glyph_coverage": true,
+  "lcd_native_alpha_rectangles": true,
+  "revision_upgrade_and_uninstall_verified": true,
+  "runtime_tested": false
+}

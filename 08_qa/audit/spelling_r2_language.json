@@ -1,0 +1,17 @@
+{
+  "revision": "spelling_r2",
+  "scanned_entries": 38221,
+  "changed_entries": 203,
+  "reviewed_short_entries": 44,
+  "statuses": {
+    "draft": 36611,
+    "skip": 840,
+    "reviewed": 770
+  },
+  "rules_idempotent": true,
+  "settings_canonical_labels_preserved": true,
+  "runtime_tested": false,
+  "all_sentences_linguistically_reviewed": false,
+  "live_index_and_all_payload_hashes_verified": true,
+  "all_213_settings_labels_preserved": true
+}

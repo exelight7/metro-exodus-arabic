@@ -1,0 +1,19 @@
+{
+  "executable_read_only": true,
+  "executable_sha256": "d4ab0e9b076d324f6b8ddad601fd9dda68c0c593adb7b0019944d560bc9875a5",
+  "user_evidence": [
+    "USER_HOME/Videos/Radeon ReLive/Metro Exodus/Metro Exodus_2026.11.03-12.54_1.png",
+    "USER_HOME/Videos/Radeon ReLive/Metro Exodus/Metro Exodus_2026.11.03-12.54_2.png",
+    "USER_HOME/Videos/Radeon ReLive/Metro Exodus/Metro Exodus_2026.11.03-12.54_3.png",
+    "USER_HOME/Videos/Radeon ReLive/Metro Exodus/Metro Exodus_2026.11.03-12.54_4.png"
+  ],
+  "finding": "Screenshots show visual-order prefixes: the end of each Arabic line appears before its beginning. Native right alignment cannot reverse prefix reveal.",
+  "native_loading_data_ctor": "0x140726520",
+  "native_typewriter_serializer": "0x1407275a0",
+  "typewriter_click_time_read": "object+0x38 / loading object+0x60",
+  "native_reveal_counter_increment": "0x14072b30e inc dword [rbx+0x234]",
+  "native_delay_random_division": "0x14072b331 divss xmm1,[rbx+0x5c]",
+  "conclusion": "Timing only changes when the prefix grows. No asset-only RTL reveal switch established. Do not deploy guessed zero timing, repeat withdrawn acceleration, or modify executable without a separately verified implementation.",
+  "rtl_reveal_fixed": false,
+  "runtime_tested_by_agent": false
+}

@@ -1,0 +1,18 @@
+{
+  "single_native_control": true,
+  "complete_visible_body_font": true,
+  "visible_regular_letters_digits": 252,
+  "packaged_ascii_checks": 496,
+  "speaker_lines": 10699,
+  "timed_entries": 39,
+  "timed_cues": 311,
+  "private_mask_and_padding_characters": 0,
+  "loader_restored": true,
+  "unrelated_menu_records_preserved": 210,
+  "dialogue_color": "white",
+  "speaker_color": "white_temporarily",
+  "orange_name_color_pending": true,
+  "runtime_tested": false,
+  "total_runtime_entries": 38223,
+  "supplemental_reviewed_entries": 2
+}

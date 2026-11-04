@@ -1,0 +1,37 @@
+LINUX_APPIMAGE_RUNTIME_START
+EXTRACT_EXIT:0
+test_changed_base_refused (test_core.InstallerTests.test_changed_base_refused) ... ok
+test_concurrent_lock_refused (test_core.InstallerTests.test_concurrent_lock_refused) ... ok
+test_config_option_off (test_core.InstallerTests.test_config_option_off) ... ok
+test_config_restore_allowlist (test_core.InstallerTests.test_config_restore_allowlist) ... ok
+test_conflicting_payload_not_overwritten (test_core.InstallerTests.test_conflicting_payload_not_overwritten) ... ok
+test_corrupt_backup_not_restored (test_core.InstallerTests.test_corrupt_backup_not_restored) ... ok
+test_corrupt_delta_refused_before_write (test_core.InstallerTests.test_corrupt_delta_refused_before_write) ... ok
+test_crash_recovery (test_core.InstallerTests.test_crash_recovery) ... ok
+test_existing_external_patch_can_be_adopted (test_core.InstallerTests.test_existing_external_patch_can_be_adopted) ... ok
+test_failed_reinstall_retains_restore_receipt (test_core.InstallerTests.test_failed_reinstall_retains_restore_receipt) ... ok
+test_game_not_running_required (test_core.InstallerTests.test_game_not_running_required) ... ok
+test_install_after_restore (test_core.InstallerTests.test_install_after_restore) ... ok
+test_install_and_restore (test_core.InstallerTests.test_install_and_restore) ... ok
+test_language_changed_by_user_preserved (test_core.InstallerTests.test_language_changed_by_user_preserved) ... ok
+test_lz4_block_dictionary (test_core.InstallerTests.test_lz4_block_dictionary) ... ok
+test_native_linux_refused (test_core.InstallerTests.test_native_linux_refused) ... ok
+test_reinstall_idempotent (test_core.InstallerTests.test_reinstall_idempotent) ... ok
+test_rollback_each_mutation (test_core.InstallerTests.test_rollback_each_mutation) ... ok
+test_unknown_game_refused (test_core.InstallerTests.test_unknown_game_refused) ... ok
+test_user_settings_preserved_on_restore (test_core.InstallerTests.test_user_settings_preserved_on_restore) ... ok
+
+----------------------------------------------------------------------
+Ran 20 tests in 3.622s
+
+OK
+CORE_TEST_EXIT:0
+Detected locale "C" with character encoding "ANSI_X3.4-1968", which is not UTF-8.
+Qt depends on a UTF-8 locale, but has failed to switch to one.
+If this causes problems, reconfigure your locale. See the locale(1) manual
+for more information.
+UI_TEST_EXIT:0
+LINUX_SCREENSHOT_BYTES 144771
+[PNG saved as installer_linux.png]
+LINUX_QA_DONE
+[   50.111323] reboot: Power down

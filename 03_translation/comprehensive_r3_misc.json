@@ -1,0 +1,13 @@
+{
+  "menu_customize_barrel_kolya_silencer_dsc": "سبطانة مزودة بكاتم صوت مرتجل، مفيدة للتخفي.",
+  "m3_guitar_sit": "اضغط باستمرار على <use> لالتقاط القيثارة.",
+  "m3_guitar_stand_up": "اضغط باستمرار على <crouch_toggle> لإعادة القيثارة إلى مكانها والنهوض.",
+  "m3_guitar_use": "اضغط على <use> للعزف على القيثارة.",
+  "voices\\m3_06_bridge\\bri_011_schrage_musik_brief_01": "<ffx:smile_light>سمعنا شخصا يعزف على القيثارة هناك... <ffx:wide_smile_light>هؤلاء الرجال لا يجيدون العزف إطلاقا! <ffx:neutral>",
+  "voices\\m3_06_spring\\spr_005_level2_03": "<ffx:wonder>يا عم توكاريف! <ffx:smile>سأتعلم العزف على القيثارة! <ffx:neutral>",
+  "voices\\m3_12_valley\\val_40_3_admiral_guitar_01_01": "<ffx:anger>مهلا! انتبه للقيثارة! <ffx:neutral>",
+  "voices\\m3_12_valley\\val_40_3_admiral_guitar_01_08": "<ffx:wonder>ما رأيك أن تعزف شيئا بدلا من ترك القيثارة؟ <ffx:smile>أود سماع أغنية من أغاني البحارة! <ffx:neutral>",
+  "voices\\m3_06_spring\\spr_005_level1_02": "<ffx:wonder>إذن يا أرتيوم، هل ترغب في أن نعزف معا؟ <ffx:smile>هيا، التقط القيثارة! <ffx:neutral>",
+  "voices\\m3_06_bridge\\bri_012_saving_private_teddy_radio_06": "وأمر آخر. سمعت عزفا على قيثارة من ذلك البرج. كان صوت الآلة جميلا، لكن العازف... آه، إنه سيئ للغاية! أعلم أن الأمر خطير، لكن... إن سنحت لك الفرصة، فأنقذ تلك الآلة!",
+  "voices\\m3_06_bridge\\bri_011_schrage_musik_brief_05": "إذن، <ffx:wonder>ألن تحرر تلك القيثارة؟ <ffx:smile>أسعد صديقا قديما؛ فستيبان <ffx:wide_smile_light>بارع في العزف على الأوتار الستة، ويعزف <ffx:wonder>موسيقى الروك الكلاسيكية ببراعة! <ffx:neutral>"
+}

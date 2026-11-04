@@ -1,0 +1,50 @@
+{
+  "revision": "loading_complete_r1",
+  "original_sha256": "d4ab0e9b076d324f6b8ddad601fd9dda68c0c593adb7b0019944d560bc9875a5",
+  "patched_sha256": "784b2deeca2270731851622a7789d1684eb4e6551bb051e20ca15bd9ad7d5333",
+  "mechanism": "full paragraph on first native reveal tick",
+  "machine_code_emulated": true,
+  "original_prefix_bug_reproduced": true,
+  "renderer_record_bounds_preserved": true,
+  "original_and_patched_draw_function_identical": true,
+  "cases": [
+    {
+      "case": "voices\\m3_02_dead_moscow\\dmc_000_narration_01",
+      "lines": 10,
+      "full_first_reveal": true,
+      "stable_next_frames": true
+    },
+    {
+      "case": "empty",
+      "lines": 1,
+      "full_first_reveal": true,
+      "stable_next_frames": true
+    },
+    {
+      "case": "one",
+      "lines": 1,
+      "full_first_reveal": true,
+      "stable_next_frames": true
+    },
+    {
+      "case": "mixed",
+      "lines": 1,
+      "full_first_reveal": true,
+      "stable_next_frames": true
+    },
+    {
+      "case": "many",
+      "lines": 300,
+      "full_first_reveal": true,
+      "stable_next_frames": true
+    }
+  ],
+  "loading_entries": 351,
+  "all_loading_entries_emulated": 351,
+  "longest_budget_required": 1403,
+  "budget": 1048576,
+  "runtime_game_tested": false,
+  "game_launched": false,
+  "rtl_animation": false,
+  "limitations": "Font/layout/sound interfaces stubbed; real game integration still needs user confirmation."
+}

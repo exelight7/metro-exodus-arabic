@@ -1,0 +1,12 @@
+{
+  "m3_06_bri_chapter_desc": {
+    "id": "m3_06_bri_chapter_desc",
+    "source": "<tab>For twenty years we’ve been thinking that neither the Government, nor the President or the military High Command had survived... As it turns out, they’re still around... The question is, where were they while we were eating each other alive in the Metro? We’ll have a lot to ask them about once we reach Yamantau... If we reach it.<br><tab>The ruins of our country are, as Miller says, under enemy control, and we’ll have to fight through to our goal. A small team against the occupation armies... What chance do we have to succeed? To get the answers? What chance does my commander have to be pardoned? That’s all he thinks about - get his pardon, get back to Metro, get back to the usual life. The life I have always been running from...",
+    "archive": "content.vfx"
+  },
+  "voices\\m3_dlc1\\dlc1_150_petrovitch_dies_01_02": {
+    "id": "voices\\m3_dlc1\\dlc1_150_petrovitch_dies_01_02",
+    "source": "Report on the way you got rid of your conscience? Answer for my granddaughter...",
+    "archive": "patch_02.vfx"
+  }
+}

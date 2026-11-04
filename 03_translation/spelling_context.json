@@ -1,0 +1,468 @@
+{
+  "voices\\universal_m3\\factions\\merc_2\\context\\context_alert_tank_02": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\forest_1\\context\\context_alert_carriage_02": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\bandit_3\\context\\context_alert_up_01": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\tribal_3\\context\\context_alert_down_01": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\m3_dlc2\\dlc2_022_sam_captured_boatride_arrival_03_01": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\bridger_2\\context\\context_alert_tree_01": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\merc_1\\context\\context_alert_fence_02": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\merc_3\\context\\context_alert_tree_03": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\bandit_2\\context\\context_alert_down_02": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\bandit_3\\context\\context_alert_barrels_02": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\bandit_3\\context\\context_alert_trees_02": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\merc_2\\context\\context_alert_down_02": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\merc_3\\context\\context_alert_shack_03": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\m3_dlc1\\dlc1_72_9_1_search_01_03": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\forest_2\\context\\context_alert_bush_01": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\merc_3\\context\\context_alert_pass_02": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\forest_2\\uber_alert\\uber_alert_toomuchnoise_01": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\merc_3\\context\\context_alert_barrels_03": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\merc_3\\context\\context_alert_window_01": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\forest_3\\context\\context_alert_tree_02": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\forest_1\\light_alert\\light_alert_group_alarmed_call_others_04": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\m3_dlc2\\dlc2_150_audiolog_tomfan_vs_klimfan_01_02": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\merc_2\\light_alert\\light_alert_group_alarmed_call_others_01": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\m3_08_desert\\des_015_firstattack_01_01_02": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\merc_2\\context\\context_alert_fence_03": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\forest_3\\context\\context_alert_slabs_02": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\m3_dlc2\\dlc2_212_11_sniperbattle_attackingplayer_02_06": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\forest_1\\context\\context_alert_up_02": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\m3_10_yamantau\\yam_099_cannibal_attack_02_04": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\forest_1\\context\\context_alert_warehouse_02": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\m3_06_bridge\\bri_020_portmissionoutcomegood_01": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\forest_1\\context\\context_alert_warehouse_01": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\forest_1\\context\\context_alert_shack_03": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\forest_3\\context\\context_alert_steps_02": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\forest_2\\context\\context_alert_down_01": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\m3_dlc2\\dlc2_120_taleoftwobrothers_brothes_reunion_01_13": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\m3_dlc2\\dlc2_212_16_sniperbattle_searchforsam_01_04": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\forest_1\\danger\\enemy_dead_animal_03": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\merc_2\\context\\context_alert_shack_01": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\m3_dlc2\\dlc2_040_dock_04_guards_04_03": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\merc_3\\context\\context_alert_carriage_03": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\m3_06_bridge\\bri_040_07_portmission_annastealthupport_10": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\bandit_3\\context\\context_alert_slabs_03": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\forest_3\\context\\context_alert_logs_03": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\merc_3\\context\\context_alert_pillar_02": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\merc_2\\context\\context_alert_up_02": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\merc_2\\uber_alert\\uber_alert_toomuchnoise_01": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\forest_2\\context\\context_alert_up_01": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\forest_3\\context\\context_alert_barrels_02": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\bridger_2\\context\\context_alert_window_01": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\forest_2\\context\\context_alert_house_01": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\forest_2\\context\\context_alert_shack_01": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\m3_02_dead_moscow\\dmc_010_02_baseinfiltration_02_05": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\m3_dlc2\\dlc2_080_twoneutrals_seastories_02_06": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\bridger_1\\context\\context_alert_up_02": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\m3_13_dead_city\\nvs_011_driveback_21": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\merc_2\\context\\context_alert_car_01": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\bridger_1\\context\\context_alert_down_03": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\cannibal_3\\stunned\\stunned_found_02": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\cannibal_3\\context\\context_alert_down_01": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\bridger_1\\context\\context_alert_window_01": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\m3_dlc2\\dlc2_160_40_boatbase_outpost_01_02": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\tribal_2\\uber_alert\\uber_alert_01": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\bandit_3\\context\\context_alert_shack_03": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\bandit_2\\context\\context_alert_up_03": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\merc_3\\context\\context_alert_barrels_02": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\cannibal_2\\uber_alert\\uber_alert_toomuchnoise_03": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\bridger_1\\light_alert\\light_alert_group_alarmed_call_others_01": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\merc_3\\context\\context_alert_down_02": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\forest_2\\context\\context_alert_shack_02": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\m3_dlc2\\dlc2_110_taleoftwobrothers_brother2_ranting_01_02": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\merc_3\\context\\context_alert_tank_03": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\cannibal_3\\context\\context_alert_up_03": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\merc_1\\context\\context_alert_carriage_03": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\forest_2\\context\\context_alert_pass_01": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\merc_1\\context\\context_alert_pass_02": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\bandit_1\\light_alert\\light_alert_group_alarmed_call_others_04": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\m3_dlc2\\dlc2_212_11_10_sniperbattle_samtooclose_01_02": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\merc_3\\context\\context_alert_up_02": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\bandit_3\\context\\context_alert_carriage_03": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\forest_2\\context\\context_alert_pillar_01": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\merc_1\\context\\context_alert_down_02": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\m3_dlc2\\dlc2_212_11_05_sniperbattle_secondwavespawn_01_04": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\merc_1\\context\\context_alert_warehouse_02": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\tribal_2\\uber_alert\\uber_alert_toomuchnoise_01": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\m3_dlc2\\dlc2_045_dock_boatguards_01_13": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\forest_3\\context\\context_alert_crates_01": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\m3_dlc2\\dlc2_656_60_assault_group_02_search_pillage_conversation_06": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\m3_dlc2\\dlc2_004_sam_captain_meeting_01_04": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\m3_dlc2\\dlc2_040_dock_04_guards_04_05": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\bandit_2\\uber_alert\\uber_alert_single_threat_notfound_03": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\bridger_2\\context\\context_alert_pass_01": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\forest_3\\context\\context_alert_shack_01": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\bridger_2\\context\\context_alert_fence_01": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\forest_2\\light_alert\\light_alert_group_alarmed_call_others_01": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\forest_1\\context\\context_alert_house_01": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\m3_dlc2\\dlc2_004_sam_captain_meeting_01_04_01": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\forest_1\\context\\context_alert_pillar_03": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\bridger_3\\context\\context_alert_pass_01": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\m3_dlc1\\dlc1_102_olkach_again_01_02": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\m3_06_bridge\\bri_024_tower_bandits_talk_03_02": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\cannibal_3\\context\\context_alert_down_03": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\merc_2\\context\\context_alert_shack_02": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\bandit_2\\danger\\enemy_dead_animal_03": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\bandit_1\\context\\context_alert_down_02": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\forest_1\\uber_alert\\uber_alert_toomuchnoise_01": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\m3_13_dead_city\\nvs_120_blind_affect_eatingcorpse_04": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\merc_1\\context\\context_alert_up_02": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\forest_2\\uber_alert\\uber_alert_toomuchnoise_02": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\cannibal_1\\uber_alert\\uber_alert_enemy_human_01": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\tribal_1\\context\\context_alert_down_01": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\merc_1\\uber_alert\\uber_alert_toomuchnoise_01": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\forest_3\\context\\context_alert_down_01": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\forest_1\\context\\context_alert_carriage_03": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "voices\\universal_m3\\factions\\bridger_1\\context\\context_alert_warehouse_01": {
+    "انه": "إنه",
+    "انها": "إنها"
+  },
+  "m3_08_des_diary_11": {
+    "انها": "أنها"
+  },
+  "voices\\m3_06_bridge\\bri_040_lightningfighters_start_conversation_01_09": {
+    "اي": "أي"
+  }
+}

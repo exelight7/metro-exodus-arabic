@@ -1,0 +1,394 @@
+[
+  {
+    "id": "voices\\m3_06_bridge\\bri_099_audiolog_tower_01",
+    "source": "Simon, the bridge is done for... The fanatics have taken over, I was prepared to give them a quarter of the cargo, but they wouldn’t even hear me out... Wanted me to leave my diesel first. And fuck that noise, I’m not pushing the platform with a fucking handcar for two hundred klicks! We’re neck-deep in the red, though... So I’m sending Serge to you with this message... Sell the diesel to the Brothers, they were offering good cash for it... And get that ferry! Or a self-propelled barge... Or a tugboat... Do you understand me, Simon? No haggling! As soon as the others hear about the bridge, any piece of shit that floats would be worth its weight in gold! But we could still bounce back if we do it fast... Get to it, Simon! Time is money!",
+    "target": "سيمون، الجسر جاهز... لقد تولى المتعصبون زمام الأمور، وكنت على استعداد لإعطائهم ربع الحمولة، لكنهم لم يسمعوني حتى... أرادوا مني أن أترك الديزل الخاص بي أولاً. وتبا لهذا الضجيج، فأنا لا أدفع المنصة بعربة يدوية لعينة لمئتي نقرة! ومع ذلك، نحن غارقون في المخاطر... لذا أرسل إليك سيرج بهذه الرسالة... قم ببيع الديزل إلى الأخوة، لقد كانوا يعرضون أموالًا جيدة مقابل ذلك... واحصل على تلك العبارة! أو بارجة ذاتية الدفع... أو زورق قطر... هل تفهمني يا سيمون؟ لا المساومة! بمجرد أن يسمع الآخرون عن الجسر، فإن أي قطعة من الفضلات تطفو تساوي وزنها ذهبًا! ولكن لا يزال بإمكاننا الارتداد إذا فعلنا ذلك بسرعة... افعل ذلك يا سايمون! الوقت هو المال!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_10_yamantau\\yam_010_welcometohell_11",
+    "source": "<ffx:sadness>Watch your tone, young lady! <ffx:smile_light>Do as that young man does: he woke up long ago, <ffx:wonder_light>but quietly listens to wise people talk!",
+    "target": "<ffx:sadness>انتبهي إلى نبرة صوتك أيتها السيدة الشابة!<ffx:smile_light>افعل كما يفعل ذلك الشاب: لقد استيقظ منذ فترة طويلة،<ffx:wonder_light>ولكنه يستمع بهدوء إلى كلام الحكماء!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_3\\decoy\\uber_alert_decoy_reaction_05",
+    "source": "Yeah, throw some more shit you fucking ape! Hahaha!",
+    "target": "نعم، ارمي المزيد من الهراء أيها القرد اللعين! هاهاها!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_059_insideoilrig_tribaloppression_05_22",
+    "source": "<ffx:disgust>Throw this piece of shit out of here! <ffx:anger>Throw it away!<ffx:neutral>",
+    "target": "<ffx:disgust>ارمي هذه القطعة من القرف من هنا!<ffx:anger>رميها بعيدا!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\spartans\\sam\\loot\\loot_snaketrap_corpse_05",
+    "source": "Fuck! Do this again, I dare you!",
+    "target": "اللعنة! افعل هذا مرة أخرى، أتحداك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_3\\boat\\boatcombatallies_05",
+    "source": "Shoot the bastard! Shoot him, he's sailing away!",
+    "target": "اطلاق النار على اللقيط! أطلق عليه النار، فهو يبحر بعيدًا!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_02_dead_moscow\\dmc_030_2_goingtotheaurora_guardstalk_01_02",
+    "source": "<ffx:disgust_light>Mikha, you stay with Yermak.<ffx:neutral>",
+    "target": "<ffx:disgust_light>ميخا، ابقي مع يرماك.<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_12_valley\\val_32_bandits_pirates_01_05",
+    "source": "<ffx:anger>Like a fucking broken record! What exam? What teacher? <ffx:wonder_strong>What the fuck? <ffx:neutral>",
+    "target": "<ffx:anger>مثل الرقم القياسي المكسور! اي امتحان؟ اي معلم؟<ffx:wonder_strong>ما هي اللعنة؟<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_2\\decoy\\danger_seen_decoy_reaction_04",
+    "source": "Throw your gun next, you dumb fuck!",
+    "target": "ارمي بندقيتك بعد ذلك، أيها الغبي اللعين!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_3\\light_alert\\light_alert_waiting_for_searchcomplete_08",
+    "source": "Just stay put, what's the use of running around like that...",
+    "target": "فقط ابقى مكانك، ما فائدة الركض هكذا...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc1\\dlc1_500_miller_khlebnikov_conversation_02",
+    "source": "I need a breather too. Boy, do these hunks of iron chafe! Gotta watch out not to stay for too long, though...",
+    "target": "أنا بحاجة إلى استراحة أيضا. يا فتى، افعل هذه الكتل من الحديد! يجب أن أحذر من البقاء لفترة طويلة، على الرغم من ذلك.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc1\\dlc1_10_millerkirill_01_04",
+    "source": "Yes, Sir! I can!",
+    "target": "نعم يا سيدي! أنا استطيع!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_02_dead_moscow\\dmc_020_court_guardstalk_01_07",
+    "source": "<ffx:sadness>Yeah... Well, <ffx:anger_light>do something about it then, <ffx:smile_light>or else you're up for a chewing out!<ffx:neutral>",
+    "target": "<ffx:sadness>نعم... حسنًا،<ffx:anger_light>افعل شيئًا حيال ذلك،<ffx:smile_light>وإلا فأنت مستعد للمضغ!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_3\\knife\\uber_alert__seen_knife_reaction_05",
+    "source": "Ha! Throw another one, you couldn't hit me even if I glued my boots to the floor!",
+    "target": "ها! ارمي واحدة أخرى، لن تتمكن من ضربي حتى لو ألصقت حذائي على الأرض!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_1\\danger\\attacking_enemy_03",
+    "source": "Die, you freak!",
+    "target": "اموت يا غريب!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_3\\decoy\\uber_alert_decoy_reaction_04",
+    "source": "Throw more shit you dumbass, maybe that will make me chase it, hahaha!",
+    "target": "ارمي المزيد من الهراء أيها الأحمق، ربما هذا سيجعلني أطارده، هاهاها!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_12_autumn\\aut_010_idiottalk_01_03",
+    "source": "<ffx:smile>I think that Colonel and you will do it! So... <ffx:wonder>Just do what you must, and <ffx:smile>everything will come out right! <ffx:neutral>",
+    "target": "<ffx:smile>أعتقد أن العقيد وأنت سوف تفعل ذلك! لذا...<ffx:wonder>فقط افعل ما يجب عليك، و<ffx:smile>سيصبح كل شيء على ما يرام!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_059_6_1_45_02_tribaltalkplayer_01_04",
+    "source": "<ffx:wonder>You no listen? <ffx:disgust>Do how you want... <ffx:anger>Master will teach you! <ffx:smile_light>He will, yes! <ffx:neutral>",
+    "target": "<ffx:wonder>أنت لا تستمع؟<ffx:disgust>افعل ما تريد...<ffx:anger>المعلم سوف يعلمك!<ffx:smile_light>سيفعل، نعم!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\spartans\\sam\\loot\\loot_corpse_14",
+    "source": "Ew... Gnarly...",
+    "target": "اي...نارلي...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_02_dead_moscow\\dmc_010_05_yermakhangar_01_05",
+    "source": "<ffx:anger>Rules!? What rules!? <ffx:disgust>You're shooting people like dogs! You... <ffx:neutral>",
+    "target": "قواعد<ffx:anger>!؟ اي قواعد!؟<ffx:disgust>أنت تطلق النار على الناس مثل الكلاب! أنت...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_2\\decoy\\uber_alert_decoy_reaction_05",
+    "source": "Yeah, yeah, throw some more... I'll find your ass soon, we'll see what you'll be throwing next...",
+    "target": "نعم، نعم، ارمي المزيد... سأجد مؤخرتك قريبًا، وسنرى ما سترميه بعد ذلك...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_2\\car\\carcombatallies_06",
+    "source": "Get that fucker! Shoot the windshield!",
+    "target": "احصل على هذا اللعين! اطلاق النار على الزجاج الأمامي!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_170_30_kulturmultur_viewers_and_projectionist_05_03",
+    "source": "Did you just break something?! Fix it! Get to it!",
+    "target": "هل كسرت شيئا للتو؟! اصلاحه! احصل عليه!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_1\\free\\combat_calmdown_foreveralone_02",
+    "source": "Oh... It's finally over...",
+    "target": "اه...اخيراً انتهى...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_035_oasisfort_oppressedtribals_01_04",
+    "source": "<ffx:fear>Yes, yes, uly myrza, do everything, do quick, <ffx:smile>boss happy, very happy... <ffx:neutral>",
+    "target": "<ffx:fear>نعم، نعم، أولي ميرزا، افعل كل شيء، افعل سريعًا، رئيس<ffx:smile>سعيد، سعيد جدًا...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_2\\decoy\\uber_alert_decoy_reaction_01",
+    "source": "Throw another can, maybe that one will distract me!",
+    "target": "ارمي علبة أخرى، ربما هذه سوف تشتت انتباهي!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_1\\car\\carcombatallies_01",
+    "source": "Shoot the windshield! The windshield!",
+    "target": "اطلاق النار على الزجاج الأمامي! الزجاج الأمامي!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_3\\decoy\\danger_seen_decoy_reaction_02",
+    "source": "Throw yourself off cliff next time!",
+    "target": "ارمي نفسك من الهاوية في المرة القادمة!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_2\\neutral\\guard_weaponwarninglast_03",
+    "source": "Do as I say or I shoot!",
+    "target": "افعل كما أقول أو سأطلق النار!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_02_dead_moscow\\dmc_040_5_yermakcomment_01_03",
+    "source": "<ffx:fear_light>Do something about the guards, please...<ffx:neutral>",
+    "target": "<ffx:fear_light>افعل شيئًا بشأن الحراس، من فضلك...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_05_chase\\cha_001_chasestart_02_41_01",
+    "source": "You tell me! Where are you taking that train, huh? On a simple joyride?!",
+    "target": "اخبرني! أين تأخذ هذا القطار، هاه؟ في رحلة بسيطة؟!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_02_dead_moscow\\dmc_000_5_spartans_radio_01_01",
+    "source": "Miller here. Idiot, give me a sitrep.",
+    "target": "ميلر هنا. احمق، أعطني تقرير الموقف.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_1\\uber_alert\\uber_alert_single_nocoveravailable_05",
+    "source": "You dog... Show yourself, come on...",
+    "target": "يا كلب...اظهر نفسك، هيا...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_spring\\spr_006_level3_10",
+    "source": "<ffx:wonder>So... Anyway, next time, of course, do your thing, but remember that I <ffx:smile>warned you! Ha-ha! <ffx:neutral>",
+    "target": "<ffx:wonder>إذن... على أية حال، في المرة القادمة، بالطبع، افعل ما تريد، لكن تذكر أنني حذرتك<ffx:smile>! ها ها!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_02_dead_moscow\\dmc_030_5_goingtotheaurora_guardstalk_03_05",
+    "source": "<ffx:sadness>Well, if you say so... <ffx:anger_light>Still, this is suspicious. <ffx:wonder_light>You do your thing, and I'll just stay here, <ffx:wonder>just in case!<ffx:neutral>",
+    "target": "<ffx:sadness>حسنًا، إذا قلت ذلك...<ffx:anger_light>لا يزال هذا أمرًا مريبًا.<ffx:wonder_light>افعل ما تريد، وسأبقى هنا،<ffx:wonder>تحسبًا!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_006_sectant_torch_reaction_01_01",
+    "source": "<ffx:fear_strong>Aaah! It's a sin, a sin! Put it out! <ffx:fear_light>",
+    "target": "<ffx:fear_strong>آآآه! إنها خطيئة، خطيئة! اخمادها!<ffx:fear_light>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_06_diary_10_dsc",
+    "source": "Servant of our Lord Alevtina, age - 79, old age.<br><br><br>Servant of our Lord Pyotr, age - 60, mushroom poisoning.<br><br><br>Servant of our Lord Mikhail, age - 42, lack of faith (succumbed to a demon of electricity).<br><br><br>Servant of our Lord Zakhar, age - 31, lack of faith (succumbed to a demon of electricity).<br><br><br>Servant of our Lord Vitalii, age - 48, lack of faith (succumbed to a demon of electricity).<br><br><br>Servant of our Lord Oleg, age - 32, lack of faith (succumbed to a demon of electricity).<br><br><br>Servant of our Lord Tatiana, age - 46, consumption.<br><br><br>Servant of our Lord Natalia, age - 45, consumption.<br><br><br>Servant of our Lord Valentina, age - 30, lack of faith (Devoured by Tsar-Fish when drawing water).<br><br><br>Servant of our Lord Natalia, age - 8, hunger.<br><br><br>Servant of our Lord Stepan, age - 22, gargoyle attack.<br><br><br>Servant of our Lord Ilia, age - 45, heathen atrocity.<br><br><br>Servant of our Lord Boris, age - 56, heathen atrocity.<br><br><br>Servant of our Lord Yakov, age - 34, heathen atrocity.<br><br><br>Servant of our Lord Abram, age - 67, pneumonia.<br><br><br>Servant of our Lord Kirill, age - 33, lack of faith (devoured by Tsar-Fish when fishing).<br><br><br>Servant of our Lord Nikodim, age - 40, gargoyle attack.<br><br><br>Servant of our Lord Vasili, age - 62, gargoyle attack.<br><br><br>Servant of our Lord Evgeni, age - 54, drowning.<br><br><br>Servant of our Lord Aleksandr, age - 41, fell from the bridge.<br><br><br>Servant of our Lord Inna, age - 6, hunger.<br><br><br>Servant of our Lord Alyosha, age - 5, hunger.<br><br><br>Servant of our Lord Barbara, age - 13, pneumonia.<br><br><br>Servant of our Lord Ivan, age - 38, drowning.<br><br><br>Servant of our Lord Simon, age - 45, consumption.<br><br><br>Servant of our Lord Larisa, age - 27, puerperal fever.<br><br><br>Servant of our Lord Natalia, age - 25, puerperal fever.<br><br><br>Servant of our Lord Mikhail, age - 25, lack of faith (suicide, after Natalia, his wife, died).<br><br><br>Servant of our Lord Nikolai, age - 0, stillborn (Natalia's and Mikhail's son).<br><br><br>Servant of our Lord Stepan, age - 47, excessive fasting.<br><br><br>Servant of our Lord Alexei, age - 18, lack of faith (devoured by Tsar-Fish when fishing).<br><br><br>Non-believer from the South unknown, age - unknown, black fever.<br><br><br>Servant of our Lord Vasilisa, age - 23, black fever (caught the fever while tending to the sick from traveler from the south, God rest her merciful soul).<br><br><br>Recorded by Vasili, unworthy servant of our Lord",
+    "target": "خادمة ربنا أليفتينا عمرها 79 سنة شيخوخة.<br><br><br>خادم الرب بيوتر، العمر - 60 عامًا، تسمم بالفطر.<br><br><br>خادم سيدنا ميخائيل، العمر - 42، قلة الإيمان (استسلم لشيطان الكهرباء).<br><br><br>خادم سيدنا زخار، العمر - 31 سنة، قليل الإيمان (استسلم لشيطان الكهرباء).<br><br><br>خادم ربنا فيتالي، العمر - 48، قلة الإيمان (استسلم لشيطان الكهرباء).<br><br><br>خادم سيدنا أوليغ، العمر - 32، قلة الإيمان (استسلم لشيطان الكهرباء).<br><br><br>خادمة ربنا تاتيانا، العمر - 46 سنة، استهلاك.<br><br><br>خادمة ربنا ناتاليا، العمر - 45 سنة، استهلاك.<br><br><br>خادمة سيدنا فالنتينا، العمر - 30 عامًا، قلة الإيمان (التهمتها سمكة القيصر عند سحب الماء).<br><br><br>خادمة ربنا ناتاليا، العمر - 8 سنوات، جوعة.<br><br><br>خادم سيدنا ستيبان، العمر - 22 عامًا، هجوم مغرغول.<br><br><br>خادم سيدنا إيليا، العمر - 45 عامًا، فظائع وثنية.<br><br><br>خادم سيدنا بوريس، العمر - 56 عامًا، فظائع وثنية.<br><br><br>خادم سيدنا يعقوب، العمر - 34 عامًا، فظائع وثنية.<br><br><br>خادم سيدنا ابرام، العمر - 67، التهاب رئوي.<br><br><br>خادم سيدنا كيريل، العمر - 33 عامًا، قلة الإيمان (التهمته سمكة القيصر عند الصيد).<br><br><br>خادم سيدنا نيقوديم، العمر - 40 عامًا، هجوم مغرغول.<br><br><br>خادم سيدنا فاسيلي، العمر - 62 عامًا، هجوم مغرغول.<br><br><br>خادم ربنا يفجيني، العمر - 54، يغرق.<br><br><br>خادم سيدنا ألكسندر، عمره - 41 عامًا، سقط من الجسر.<br><br><br>خادمة سيدنا إينا، العمر - 6 سنوات، الجوع.<br><br><br>خادم سيدنا أليوشا، العمر - 5 سنوات، جوع.<br><br><br>خادمة سيدنا باربرا، العمر - 13 عامًا، التهاب رئوي.<br><br><br>خادم ربنا إيفان، العمر - 38 عامًا، يغرق.<br><br><br>خادم سيدنا سمعان، العمر - 45 سنة، استهلاك.<br><br><br>خادمة سيدنا لاريسا، العمر - 27 عامًا، حمى النفاس.<br><br><br>خادمة ربنا ناتاليا، العمر - 25 عامًا، حمى النفاس.<br><br><br>خادم سيدنا ميخائيل، العمر - 25 سنة، عدم الإيمان (انتحار، بعد وفاة زوجته ناتاليا).<br><br><br>خادم الرب نيكولاي، العمر - 0، مولود ميت (ابن نتاليا وميخائيل).<br><br><br>خادم سيدنا ستيبان، العمر - 47، مفرط الصيام.<br><br><br>خادم سيدنا أليكسي، العمر - 18 عامًا، قلة الإيمان (التهمته سمكة القيصر عند الصيد).<br><br><br>غير مؤمن من الجنوب غير معروف، العمر - غير معروف، الحمى السوداء.<br><br><br>خادمة سيدنا فاسيليسا، العمر - 23 عامًا، حمى سوداء (أصيبت بالحمى أثناء رعاية المرضى من مسافر من الجنوب، رحمها الله الرحيمة).<br><br><br>سجله فاسيلي، خادم الرب غير المستحق",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_2\\neutral\\guard_weaponwarninglast_03",
+    "source": "Do as I say or I shoot!",
+    "target": "افعل كما أقول أو سأطلق النار!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\cannibal_3\\free\\free_safe_03",
+    "source": "They told me to stay here... Stay and wait... What's the use in waiting - they won't give me no meat... No meat, never any meat...",
+    "target": "قالوا لي ابقى هنا... ابق وانتظر... ما فائدة الانتظار - لن يعطوني لحماً... لا لحماً، لا لحماً أبداً...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_3\\danger\\attacking_enemy_01",
+    "source": "Die, you freak!",
+    "target": "اموت يا غريب!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_750_piercombat_01_03",
+    "source": "Come on! Shoot the bastard!",
+    "target": "تعال! اطلاق النار على اللقيط!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_3\\knife\\uber_alert__seen_knife_reaction_05",
+    "source": "Missed with that knife! Throw another one, maybe that would hit, haha!",
+    "target": "غاب مع هذا السكين! ارمي واحدة أخرى، ربما ستضرب، هاها!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_3\\danger\\attacking_human_02",
+    "source": "Die, you motherfucker!",
+    "target": "اموت يا عاهرة!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_12_valley\\val_003_80_alchemist_01_08",
+    "source": "<ffx:disgust>So you holster you gun? Going to torture me? <ffx:disgust_strong>Do your worst, I’m not afraid! <ffx:neutral>",
+    "target": "<ffx:disgust>إذن أنت تحمل مسدسك؟ هل ستعذبني؟<ffx:disgust_strong>افعل أسوأ ما لديك، أنا لست خائفًا!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_040_lightningfighters_start_conversation_01_09",
+    "source": "<ffx:wonder>By the way, I do remember getting a hold of some canned food in the winter of Fifteenth <ffx:smile_light>and visiting your mom... The things she would do for a can of meat! <ffx:disgust_light>When were you born, son, eh? Which month? I mean, you'd better shut your mouth, <ffx:smile>because it's a grave sin for a child to speak against his <ffx:wide_smile>father! Hahaha!",
+    "target": "<ffx:wonder>بالمناسبة، أتذكر أنني حصلت على بعض الأطعمة المعلبة في شتاء الخامس عشر<ffx:smile_light>وزيارة والدتك... الأشياء التي كانت ستفعلها مقابل علبة لحم!<ffx:disgust_light>متى ولدت يا بني ايه؟ اي شهر؟ أعني أنه من الأفضل أن تغلق فمك،<ffx:smile>لأنه خطيئة كبيرة أن يتحدث الطفل ضد والده<ffx:wide_smile>! هاهاها!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_1\\knife\\uber_alert__seen_knife_reaction_04",
+    "source": "What?! Aah, I see! So you think you can throw some knives, you dog? Well, come on, do it again!",
+    "target": "ماذا؟! اه، أرى! هل تعتقد أنه يمكنك رمي بعض السكاكين أيها الكلب؟ حسنا، هيا، افعل ذلك مرة أخرى!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_13_dead_city\\nvs_005_drivingtalk_21",
+    "source": "<ffx:anger_light>Floor it!",
+    "target": "<ffx:anger_light>ارضيه!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_3\\decoy\\danger_seen_decoy_reaction_02",
+    "source": "Throw a shit nugget next, you mad ape!",
+    "target": "ارمي كتلة صلبة بعد ذلك، أيها القرد المجنون!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_12_valley\\val_40_2_admiral_shouts_01_18",
+    "source": "All right, do what you want down there, you may even shoot yourself! Just don't expect us to save you once you run out of ammo!",
+    "target": "حسنًا، افعل ما تريد هناك، ربما تطلق النار على نفسك! لا تتوقع منا أن ننقذك بمجرد نفاد الذخيرة!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_004_sam_captain_meeting_01_07",
+    "source": "Damn, another American... Seriously, talk about coincidence!",
+    "target": "تبا أمريكي آخر... بجد اتكلم عن الصدفة!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_099_poker_game_aftermath_01_05",
+    "source": "<ffx:fear>Oh, what do I do now.. What do I do... And who is this... Did Glyba send him? Could Bober be taking the dough for himself? <ffx:sadness>Oh, what do I do now... What do I do...",
+    "target": "<ffx:fear>اه ماذا افعل الآن.. ماذا افعل... ومن هذا... هل ارسله غليبا؟ هل يمكن أن يأخذ بوبر العجين لنفسه؟<ffx:sadness>أوه ماذا أفعل الآن... ماذا أفعل...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_02_dead_moscow\\dmc_013_5_stealthtutorial_06_11_08",
+    "source": "<ffx:disgust_light>Come on, throw it!<ffx:neutral>",
+    "target": "<ffx:disgust_light>هيا، ارميها!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\tribal_1\\disturb\\disturb_react_uni_05",
+    "source": "What shaitan...?",
+    "target": "اي شيطان...؟",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_1\\danger\\attacking_enemy_02",
+    "source": "Die, beast!",
+    "target": "اموت يا وحش",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_022_badend_crowd_04",
+    "source": "Death to the heretics! Shoot them!",
+    "target": "الموت للزنادقة! اطلاق النار عليهم!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_039_1_oasisfort_cardanreacttoshots_01_03",
+    "source": "<ffx:wonder>Gunshots? Who the fuck would go down there to shoot? <ffx:anger>And if someone did, he's dead now. <ffx:wonder>They shut up already, didn't they? <ffx:disgust>Do the same! <ffx:neutral>",
+    "target": "طلقات نارية<ffx:wonder>؟ من سينزل هناك ليطلق النار؟<ffx:anger>وإذا فعل أحدهم ذلك، فهو ميت الآن.<ffx:wonder>لقد صمتوا بالفعل، أليس كذلك؟<ffx:disgust>افعل نفس الشيء!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  }
+]

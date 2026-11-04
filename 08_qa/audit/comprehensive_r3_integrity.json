@@ -1,0 +1,18 @@
+{
+  "revision": "comprehensive_r3",
+  "changed_entries_numbers_preserved": 162,
+  "graphics_exception_entries_preserved": 11,
+  "reading_profiles": {
+    "journal": 84,
+    "note": 116,
+    "advice": 20
+  },
+  "reading_metrics_match_packaged_fonts": true,
+  "loading_records_checked": 200,
+  "input_spacing_idempotent_across_all_rows": 38221,
+  "input_entries": 145,
+  "reading_lines_within_actual_native_columns": true,
+  "known_literal_down_and_sexual_idiom_errors_remaining": 0,
+  "runtime_tested": false,
+  "note": "Pattern and structural checks support the reviewed edits; unreviewed prose remains draft."
+}

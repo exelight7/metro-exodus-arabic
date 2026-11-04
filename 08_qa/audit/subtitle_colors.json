@@ -1,0 +1,21 @@
+{
+  "modified_records": [
+    51
+  ],
+  "unrelated_menu_records_preserved": true,
+  "dialogue_rgba": [
+    255,
+    255,
+    255,
+    255
+  ],
+  "speaker_rgba": [
+    255,
+    255,
+    255,
+    255
+  ],
+  "method": "single_native_subtitle_control_with_full_font",
+  "orange_speaker_color_pending": true,
+  "runtime_tested": false
+}

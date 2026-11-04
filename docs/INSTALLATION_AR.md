@@ -1,4 +1,4 @@
-# تثبيت تعريب Metro Exodus — v0.1.0-beta.1
+# تثبيت تعريب Metro Exodus — v0.2.0-beta.1
 
 تعريب غير رسمي للحزمة الحالية final_review_r1. أغلق اللعبة قبل التثبيت والاسترجاع.
 يلزم إصدار Steam الخاص بـWindows المطابق لبصمات المثبت. النسخة الأصلية للعبة على
@@ -6,7 +6,7 @@ Linux ونسخة Enhanced Edition غير مدعومتين.
 
 ## Windows
 
-1. حمل `Metro-Arabic-Installer-Windows.exe` من [الإصدار](https://github.com/exelight7/metro-exodus-arabic/releases/tag/v0.1.0-beta.1).
+1. حمل `Metro-Arabic-Installer-Windows.exe` من [الإصدار](https://github.com/exelight7/metro-exodus-arabic/releases/tag/v0.2.0-beta.1).
 2. افتحه وحدد مجلد اللعبة الذي يحتوي على `MetroExodus.exe`؛ يدعم اكتشاف مكتبات Steam.
 3. اضغط «فحص الملفات»، ثم «تثبيت التعريب».
 4. إذا تعذرت الكتابة في مجلد اللعبة، أغلق المثبت وشغله كمسؤول ثم أعد المحاولة.

@@ -1,0 +1,828 @@
+[
+  {
+    "id": "voices\\universal_m3\\factions\\merc_2\\context\\context_alert_tank_02",
+    "source": "The tank over there! He's near it!",
+    "target": "الدبابة هناك! انه بالقرب منه!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_1\\context\\context_alert_carriage_02",
+    "source": "(whistle) Guys! That carriage! He's there!",
+    "target": "(صافرة) يا رفاق! تلك العربة! انه هناك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_3\\context\\context_alert_up_01",
+    "source": "He's up there!",
+    "target": "انه هناك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\tribal_3\\context\\context_alert_down_01",
+    "source": "See? He's down there! Down there!",
+    "target": "يرى؟ انه هناك! هناك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_022_sam_captured_boatride_arrival_03_01",
+    "source": "Look, it's the boss!",
+    "target": "انظروا، انه رئيسه!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_2\\context\\context_alert_tree_01",
+    "source": "The tree! He's behind it!",
+    "target": "الشجرة! انه وراء ذلك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_1\\context\\context_alert_fence_02",
+    "source": "The fence over there! He's behind it!",
+    "target": "السياج هناك! انه وراء ذلك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_3\\context\\context_alert_tree_03",
+    "source": "The tree over there! He's behind it!",
+    "target": "الشجرة هناك! انه وراء ذلك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_2\\context\\context_alert_down_02",
+    "source": "I see him! He's down there!",
+    "target": "أراه! انه هناك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_3\\context\\context_alert_barrels_02",
+    "source": "Guys! He's at the barrels!",
+    "target": "يا رفاق! انه في البراميل!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_3\\context\\context_alert_trees_02",
+    "source": "He's in them trees over there!",
+    "target": "انه في تلك الأشجار هناك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_2\\context\\context_alert_down_02",
+    "source": "He's down there!",
+    "target": "انه هناك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_3\\context\\context_alert_shack_03",
+    "source": "I just saw him! See that shack!? He's there!",
+    "target": "لقد رأيته للتو! هل ترى ذلك الكوخ !؟ انه هناك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_13_dead_city\\nvs_007_meetingkolya_05",
+    "source": "<ffx:anger_light>Artyom, don’t waste time! He'll get away! <ffx:neutral>",
+    "target": "<ffx:anger_light>أرتيوم، لا تضيع الوقت! وقال انه سوف يفلت!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc1\\dlc1_72_9_1_search_01_03",
+    "source": "Enough already! It's taking too long!",
+    "target": "يكفي بالفعل! انها تستغرق وقتا طويلا!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_2\\context\\context_alert_bush_01",
+    "source": "(whistle) In the bushes! He's there!",
+    "target": "(صافرة) في الأدغال! انه هناك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_3\\context\\context_alert_pass_02",
+    "source": "Got visual! He's in the pass!",
+    "target": "حصلت على البصرية! انه في الممر!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_2\\uber_alert\\uber_alert_toomuchnoise_01",
+    "source": "I heard the intruder! He's over here!",
+    "target": "سمعت الدخيل! انه هنا!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_3\\context\\context_alert_barrels_03",
+    "source": "Near those barrels! He's there!",
+    "target": "بالقرب من تلك البراميل! انه هناك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_08_des_diary_11",
+    "source": "<tab>Son, you were asking about that Giul broad, what I know about where she is and where comes from... I’ve no idea why are you interested, but I do have a lot to say... In the very beginning, the locals tried starting shit with us, a commotion, like. That lead them nowhere, as the Baron knew that whoever has more guns owns the joint even back then, so he got most guns. And later, as the strongest, got all the other gang leaders to submit to him, so nobody would even think of going against his will. They didn’t resist, as they’d need to bunch together to stand any chance, and they were too busy fighting between themselves to even try that.<br><br><br><tab>The locals that had no wheels just stayed low in their holes, hoping he’d just up and leave all by himself one day, but he didn’t. Instead, he started making things right here. Then they went outside, but it was too little, too late - we smashed them like they were nothing.<br><br><br><tab>Then they took to guerilla shit, gave us trouble for years... Like, some boys go out on a patrol, and as soon as their cars turn around a hill, you hear shots. And when you get there, the cars are burning and the boys dead. How, who, where from? Tough luck finding out...<br><br><br><tab>A lot of them would hide in the mountains... The ones that remained in the Baron’s lands would tell tales and sing songs of the \"free ones”, bring them food... That’s when I first heard of that bitch Giul. She was still a little squirt back then, but was completely ruthless already, stone cold murderer. She’d leave nobody alive. Of course, the slaves were all her fans. Like, \"Oh, she’s a girl, but she cuts the enemy up like nobody’s business”, so they started telling tales of her, too.<br><br><br><tab>Well, the Baron’s nobody’s fool, he knew how to deal with those bastards! We started taking hostages, executing ten slaves for one of our boys. Say, this village is helping the rebels? Put it to the torch! A local knows anything about the rebels - he’s not gonna die until he tells us everything. You catch the drift.<br><br><br><tab>Pretty soon, the slaves started avoiding them like the plague. Someone sees a slave talking to some suspicious guy? The slave’s whole family gets the knife. A slave tells his master he saw someone suspicious? Good job, pal, enjoy triple rations that moment forward, and the Baron’s thanks! The slaves started selling those fucks to us in droves. We stepped our game up, too, and within a few years they were not much more than a memory.<br><br><br><tab>That broad Giul could well be the last. Once the Baron catches her, he’ll throw the world’s biggest party for the boys, you take my word. Just don’t you ever even think of saying she’s a witch and uses her spells to keep hiding from us. The Baron does not take lightly to such remarks, I saw him use his walking stick to beat some sense into the dumbass he caught spreading that shit, saying: \"it’s you, incompetent sons of bitches, who are too dumb to catch her, so you start re-telling the slave tales!”. Beat the bastard to death, and I say he got his just desserts! That’s about all I know. We tried to find out where she was born and who were her parents, but no dice there...<br><br><br><tab>Mom sends some home treats for you, share them with the boys as customary.<br><br><tab>Give the Baron my warmest respects and gratitude, also give a handshake to all the boys who still remember me.<br><br>",
+    "target": "<tab>يا بني، كنت تسأل عن جيول برود، وما الذي أعرفه عن مكان وجودها ومن أين أتت... ليس لدي أي فكرة عن سبب اهتمامك، ولكن لدي الكثير لأقوله... في البداية، حاول السكان المحليون بدء الهراء معنا، ضجة، مثل. لم يقودهم ذلك إلى أي مكان، حيث كان البارون يعلم أن من يملك المزيد من الأسلحة كان يمتلك المفصل حتى في ذلك الوقت، لذلك حصل على معظم الأسلحة. وفي وقت لاحق، باعتباره الأقوى، جعل جميع زعماء العصابة الآخرين يخضعون له، لذلك لن يفكر أحد في مخالفة إرادته. لم يقاوموا، لأنهم كانوا بحاجة إلى التجمع معًا للحصول على أي فرصة، وكانوا مشغولين جدًا بالقتال فيما بينهم حتى لا يحاولوا ذلك.<br><br><br><tab>السكان المحليون الذين ليس لديهم عجلات ظلوا منخفضين في جحورهم، على أمل أن ينهض ويغادر بمفرده ذات يوم، لكنه لم يفعل. وبدلاً من ذلك، بدأ في صنع الأشياء هنا. ثم خرجوا، لكن الوقت كان قليلًا جدًا، ومتأخرًا جدًا - لقد حطمناهم وكأنهم لا شيء.<br><br><br><tab>ثم انتقلوا إلى حرب العصابات، وسببوا لنا المتاعب لسنوات... مثلًا، يخرج بعض الأولاد في دورية، وبمجرد أن تدور سياراتهم حول التل، تسمع طلقات نارية. وعندما تصل إلى هناك، تحترق السيارات ويموت الأولاد. كيف، من، من أين؟ من الصعب العثور على ذلك...<br><br><br><tab>الكثير منهم يختبئون في الجبال... أولئك الذين بقوا في أراضي البارون كانوا يروون الحكايات ويغنون أغاني \"الأحرار\"، ويحضرون لهم الطعام... وذلك عندما سمعت لأول مرة عن تلك العاهرة جيول. لقد كانت لا تزال بخاخة قليلاً في ذلك الوقت، لكنها كانت قاسية تمامًا بالفعل، وقاتلة باردة. وقالت انها لن تترك أحدا على قيد الحياة. وبطبيعة الحال، كان العبيد كل معجبيها. مثل، \"أوه، إنها فتاة، لكنها تقطع العدو كما لا يعني أحدًا\"، لذلك بدأوا في سرد ​​الحكايات عنها أيضًا.<br><br><br><tab>حسنًا، البارون ليس أحمق من أحد، لقد كان يعرف كيفية التعامل مع هؤلاء الأوغاد! بدأنا في أخذ الرهائن، وإعدام عشرة عبيد لأحد أولادنا. قل أن هذه القرية تساعد المتمردين؟ ضعه على الشعلة! أحد السكان المحليين يعرف أي شيء عن المتمردين، ولن يموت حتى يخبرنا بكل شيء. يمكنك التقاط الانجراف.<br><br><br><tab>وسرعان ما بدأ العبيد في تجنبهم مثل الطاعون. هل يرى أحد العبد يتحدث إلى رجل مشبوه؟ عائلة العبد بأكملها تحصل على السكين. العبد يخبر سيده أنه رأى شخصا مشبوها؟ أحسنت يا صديقي، استمتع بحصص غذائية ثلاثية في تلك اللحظة، وشكرًا للبارون! بدأ العبيد في بيع تلك الملاعين لنا بأعداد كبيرة. لقد عززنا لعبتنا أيضًا، وفي غضون سنوات قليلة لم تعد أكثر من مجرد ذكرى.<br><br><br><tab>يمكن أن يكون هذا غيول العريض هو الأخير. بمجرد أن يمسكها البارون، سيقيم أكبر حفلة في العالم للأولاد، صدقني. فقط لا تفكر أبدًا في القول إنها ساحرة وتستخدم تعاويذها لتستمر في الاختباء منا. لا يستخف البارون بمثل هذه التصريحات، فقد رأيته يستخدم عصا المشي الخاصة به ليضرب بعض المنطق في الغباء الذي أمسك به وهو ينشر هذا الهراء، قائلاً: \"إنكم أنتم، أبناء العاهرات غير الأكفاء، الذين هم أغبياء جدًا بحيث لا يمكنهم الإمساك بها، لذلك تبدأون في إعادة سرد حكايات العبيد!\". اضرب اللقيط حتى الموت، وأقول أنه حصل على حلوياته العادلة! هذا كل ما أعرفه. لقد حاولنا معرفة مكان ولادتها ومن هم والديها، ولكن لا يوجد حجر نرد هناك...<br><br><br><tab>ترسل لك والدتك بعض الهدايا المنزلية، شاركها مع الأولاد كالمعتاد.<br><br><tab>أعط البارون أحر احترامي وامتناني، وصافح أيضًا جميع الأولاد الذين ما زالوا يتذكرونني.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_3\\context\\context_alert_window_01",
+    "source": "The window! He's there!",
+    "target": "النافذة! انه هناك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_3\\context\\context_alert_tree_02",
+    "source": "Guys! That tree! He's there!",
+    "target": "يا رفاق! تلك الشجرة! انه هناك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_1\\light_alert\\light_alert_group_alarmed_call_others_04",
+    "source": "He’s in trouble! We've got to find him, guys!",
+    "target": "انه في ورطة! علينا أن نجده يا رفاق!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_150_audiolog_tomfan_vs_klimfan_01_02",
+    "source": "What do we need them for?! He's getting away! We gotta act! Let's get him with a pincer movement, just the two of us is enough!",
+    "target": "ماذا نحتاج لهم؟! انه يبتعد! علينا أن نتصرف! دعنا نقبض عليه بحركة الكماشة، يكفينا نحن الاثنان فقط!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_2\\light_alert\\light_alert_group_alarmed_call_others_01",
+    "source": "He’s not responding! Let's go search for him!",
+    "target": "انه لا يستجيب! فلنذهب للبحث عنه!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_015_firstattack_01_01_02",
+    "source": "<ffx:anger>Come on, push it! He's getting away!<ffx:neutral>",
+    "target": "<ffx:anger>هيا، ادفعها! انه يبتعد!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_2\\context\\context_alert_fence_03",
+    "source": "That fence! He's behind it!",
+    "target": "هذا السياج! انه وراء ذلك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_3\\context\\context_alert_slabs_02",
+    "source": "(whistle) Concrete slabs! He's there!",
+    "target": "(صافرة) ألواح خرسانية! انه هناك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_212_11_sniperbattle_attackingplayer_02_06",
+    "source": "He's fucking dead now!",
+    "target": "انه سخيف ميت الآن!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_220_07_sam_captain_partyallnight_01_06",
+    "source": "He's going to become... A pirate! With nukes! And that's it!",
+    "target": "وقال انه سوف يصبح... القراصنة! بالأسلحة النووية! وهذا كل شيء!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_1\\context\\context_alert_up_02",
+    "source": "Guys! Look up! He's up there!",
+    "target": "شباب! ابحث عن! انه هناك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_10_yamantau\\yam_099_cannibal_attack_02_04",
+    "source": "It's meeeeeat!",
+    "target": "انها ميييييت!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_1\\context\\context_alert_warehouse_02",
+    "source": "I just saw him! He's in storage!",
+    "target": "لقد رأيته للتو! انه في المخزن!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_020_portmissionoutcomegood_01",
+    "source": "Stay calm! It's us!",
+    "target": "ابقَ هادئًا! انها نحن!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_1\\context\\context_alert_warehouse_01",
+    "source": "He's in the storage!",
+    "target": "انه في المخزن!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_1\\context\\context_alert_shack_03",
+    "source": "(whistle) That shack! He's there!",
+    "target": "(صافرة) ذلك الكوخ! انه هناك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_3\\context\\context_alert_steps_02",
+    "source": "That ladder! He's there!",
+    "target": "هذا السلم! انه هناك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_2\\context\\context_alert_down_01",
+    "source": "Guys! He's down there!",
+    "target": "شباب! انه هناك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_120_taleoftwobrothers_brothes_reunion_01_13",
+    "source": "He's coming back soon... Then you'll see!",
+    "target": "انه يعود قريبا... ثم سترى!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_212_16_sniperbattle_searchforsam_01_04",
+    "source": "Find that fucker people! He's still here!",
+    "target": "العثور على هذا الناس اللعين! انه لا يزال هنا!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_1\\danger\\enemy_dead_animal_03",
+    "source": "It finally croaked!",
+    "target": "انها ملتوية أخيرا!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_2\\context\\context_alert_shack_01",
+    "source": "I see him! That shack! He's over there!",
+    "target": "أراه! هذا الكوخ! انه هناك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_040_dock_04_guards_04_03",
+    "source": "It's closed!",
+    "target": "انها مغلقة!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_3\\context\\context_alert_carriage_03",
+    "source": "I see him! That carriage! He's over there!",
+    "target": "أراه! تلك العربة! انه هناك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_040_07_portmission_annastealthupport_10",
+    "source": "He's going strainght for you, hide!",
+    "target": "انه سوف يجهد بالنسبة لك، إخفاء!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_3\\context\\context_alert_slabs_03",
+    "source": "Guys! He's behind them slabs!",
+    "target": "شباب! انه وراءهم ألواح!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_3\\context\\context_alert_logs_03",
+    "source": "Behind those logs! He's there!",
+    "target": "خلف تلك السجلات! انه هناك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_3\\context\\context_alert_pillar_02",
+    "source": "The pillar over there! He's behind it!",
+    "target": "العمود هناك! انه وراء ذلك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_2\\context\\context_alert_up_02",
+    "source": "He's up there!",
+    "target": "انه هناك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_2\\uber_alert\\uber_alert_toomuchnoise_01",
+    "source": "I heard him, people! He's over here!",
+    "target": "سمعته يا قوم! انه هنا!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_2\\context\\context_alert_up_01",
+    "source": "Guys! He's up there!",
+    "target": "شباب! انه هناك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_3\\context\\context_alert_barrels_02",
+    "source": "Look at those barrels! He's near them!",
+    "target": "انظر إلى تلك البراميل! انه بالقرب منهم!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_2\\context\\context_alert_window_01",
+    "source": "The window! He's there!",
+    "target": "النافذة! انه هناك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_2\\context\\context_alert_house_01",
+    "source": "Guys! The house! He's there!",
+    "target": "شباب! المنزل! انه هناك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_2\\context\\context_alert_shack_01",
+    "source": "Guys! That shack! He's over there!",
+    "target": "شباب! هذا الكوخ! انه هناك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_02_dead_moscow\\dmc_010_02_baseinfiltration_02_05",
+    "source": "<ffx:fear_light>Yes, sir! It's under constant watch! <ffx:neutral>",
+    "target": "<ffx:fear_light>نعم يا سيدي! انها تحت المراقبة المستمرة!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_080_twoneutrals_seastories_02_06",
+    "source": "Of course! It's bullshit!",
+    "target": "بالطبع! انها هراء!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_1\\context\\context_alert_up_02",
+    "source": "I see him! He's up there!",
+    "target": "أراه! انه هناك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_13_dead_city\\nvs_011_driveback_21",
+    "source": "<ffx:wonder_strong>Get up! It's very close now!<ffx:neutral>",
+    "target": "<ffx:wonder_strong>انهض! انها قريبة جدا الآن!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_2\\context\\context_alert_car_01",
+    "source": "That car! He's there!",
+    "target": "هذه السيارة! انه هناك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_1\\context\\context_alert_down_03",
+    "source": "I see him! He's down there!",
+    "target": "أراه! انه هناك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\cannibal_3\\stunned\\stunned_found_02",
+    "source": "Whaaa? He's live! Hey! That rat just knocked our guy out!",
+    "target": "ماذا؟ انه حي! يا! لقد طرد هذا الفأر رجلنا للتو!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\cannibal_3\\context\\context_alert_down_01",
+    "source": "There's the rat! He's down there!",
+    "target": "هناك الفئران! انه هناك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_1\\context\\context_alert_window_01",
+    "source": "The window! He's there!",
+    "target": "النافذة! انه هناك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_160_40_boatbase_outpost_01_02",
+    "source": "It's simple. They can be trained, with some effort, of course. The hardest part is teaching them not to jump at people without a command, but once they learn that, it's smooth sailing.",
+    "target": "انها بسيطة. ويمكن تدريبهم ببعض الجهد بالطبع. الجزء الأصعب هو تعليمهم عدم القفز على الأشخاص دون أمر، ولكن بمجرد أن يتعلموا ذلك، يصبح الأمر سلسًا.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\tribal_2\\uber_alert\\uber_alert_01",
+    "source": "He is here! He's close! Get him, make Myrza happy!",
+    "target": "إنه هنا! انه قريب! احصل عليه، واجعل ميرزا ​​سعيدًا!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_3\\context\\context_alert_shack_03",
+    "source": "See him, guys! That shack! He's fucking there!",
+    "target": "رؤيته يا شباب! هذا الكوخ! انه سخيف هناك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_2\\context\\context_alert_up_03",
+    "source": "I see him! He's up there!",
+    "target": "أراه! انه هناك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_3\\context\\context_alert_barrels_02",
+    "source": "Those barrels! He's near them!",
+    "target": "تلك البراميل! انه بالقرب منهم!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\cannibal_2\\uber_alert\\uber_alert_toomuchnoise_03",
+    "source": "he's here! Here! Here, everyone! I hear meat here!",
+    "target": "انه هنا! هنا! هنا الجميع! أسمع اللحوم هنا!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_1\\light_alert\\light_alert_group_alarmed_call_others_01",
+    "source": "Alarm, brethren! He's not answering!",
+    "target": "إنذار أيها الإخوة! انه لا يجيب!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_3\\context\\context_alert_down_02",
+    "source": "Down there! He's there!",
+    "target": "هناك! انه هناك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_2\\context\\context_alert_shack_02",
+    "source": "See that shack, guys? He's there!",
+    "target": "هل ترون ذلك الكوخ يا رفاق؟ انه هناك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_110_taleoftwobrothers_brother2_ranting_01_02",
+    "source": "He's insane! Completely off his rocker...",
+    "target": "انه مجنون! تماما من الروك له..",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_3\\context\\context_alert_tank_03",
+    "source": "He's hiding! At that tank over there!",
+    "target": "انه يختبئ! في تلك الدبابة هناك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\cannibal_3\\context\\context_alert_up_03",
+    "source": "He's up there! Look!",
+    "target": "انه هناك! ينظر!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_1\\context\\context_alert_carriage_03",
+    "source": "Visual! See that carriage? He's there!",
+    "target": "مرئي! هل ترى تلك العربة؟ انه هناك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_2\\context\\context_alert_pass_01",
+    "source": "I see that bastard! He's in the passage!",
+    "target": "أرى ذلك اللقيط! انه في الممر!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_1\\context\\context_alert_pass_02",
+    "source": "See the enemy! He's in the pass!",
+    "target": "شاهد العدو! انه في الممر!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_1\\light_alert\\light_alert_group_alarmed_call_others_04",
+    "source": "Heads up, boys! He's not replying! What do we do now?",
+    "target": "ارفعوا رؤوسكم يا أولاد! انه لا يرد! ماذا نفعل الآن؟",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_212_11_10_sniperbattle_samtooclose_01_02",
+    "source": "He's too close! Get him, guys!",
+    "target": "انه قريب جدا! احصل عليه يا شباب!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_3\\context\\context_alert_up_02",
+    "source": "He's up there! I see him!",
+    "target": "انه هناك! أراه!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_3\\context\\context_alert_carriage_03",
+    "source": "See him, guys! That carriage! He's fucking there!",
+    "target": "رؤيته يا شباب! تلك العربة! انه سخيف هناك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_2\\context\\context_alert_pillar_01",
+    "source": "Guys! He's over there! Behind that pillar!",
+    "target": "شباب! انه هناك! خلف هذا العمود!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_1\\context\\context_alert_down_02",
+    "source": "I see him! He's down there!",
+    "target": "أراه! انه هناك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_212_11_05_sniperbattle_secondwavespawn_01_04",
+    "source": "Guys, get the fucker! He's still alive!",
+    "target": "يا رفاق، احصلوا على اللعين! انه لا يزال على قيد الحياة!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_1\\context\\context_alert_warehouse_02",
+    "source": "I just saw him! He's in storage!",
+    "target": "لقد رأيته للتو! انه في المخزن!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\tribal_2\\uber_alert\\uber_alert_toomuchnoise_01",
+    "source": "Here! Here! I heard him right here! Quick, he's here!",
+    "target": "هنا! هنا! لقد سمعته هنا! بسرعة، انه هنا!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_045_dock_boatguards_01_13",
+    "source": "Well, she's all yours!",
+    "target": "حسنا، انها كل شيء لك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_3\\context\\context_alert_crates_01",
+    "source": "(whistle) Crates! He's there!",
+    "target": "(صافرة) الصناديق! انه هناك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_656_60_assault_group_02_search_pillage_conversation_06",
+    "source": "Fuck no! It's ours! We're pirates, so start acting like one - take shit and kill all who interfere!",
+    "target": "اللعنة لا! انها لنا! نحن قراصنة، لذا ابدأ بالتصرف كواحد منهم - خذ الأمور على محمل الجد واقتل كل من يتدخل!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_004_sam_captain_meeting_01_04",
+    "source": "Wow! A submarine! It's freaking huge!",
+    "target": "واو! غواصة! انها ينقط ضخمة!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_040_dock_04_guards_04_05",
+    "source": "It's just closed!",
+    "target": "انها مغلقة فقط!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_2\\uber_alert\\uber_alert_single_threat_notfound_03",
+    "source": "The fucking chickenshit! He's not here! Gotta look for him again! Shit!",
+    "target": "الدجاجة اللعينة! انه ليس هنا! يجب أن أبحث عنه مرة أخرى! القرف!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_2\\context\\context_alert_pass_01",
+    "source": "The passage! He's there!",
+    "target": "المرور! انه هناك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_3\\context\\context_alert_shack_01",
+    "source": "Guys! That shack over there! He's there!",
+    "target": "يا رفاق! ذلك الكوخ هناك! انه هناك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_2\\context\\context_alert_fence_01",
+    "source": "The fence! He's behind it!",
+    "target": "السياج! انه وراء ذلك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_2\\light_alert\\light_alert_group_alarmed_call_others_01",
+    "source": "He’s not responding! Let's go look for him, guys!",
+    "target": "انه لا يستجيب! فلنذهب للبحث عنه يا شباب!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_1\\context\\context_alert_house_01",
+    "source": "(whistle) That house! He's there!",
+    "target": "(صافرة) هذا المنزل! انه هناك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_004_sam_captain_meeting_01_04_01",
+    "source": "Wow! A submarine! It's freaking huge! A nice ticket home...",
+    "target": "واو! غواصة! انها ينقط ضخمة! تذكرة جميلة للمنزل...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_1\\context\\context_alert_pillar_03",
+    "source": "(whistle) Guys! That pillar! He's there!",
+    "target": "(صافرة) يا رفاق! تلك الركن! انه هناك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_3\\context\\context_alert_pass_01",
+    "source": "The passage! He's there!",
+    "target": "المرور! انه هناك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc1\\dlc1_102_olkach_again_01_02",
+    "source": "Ah, she's dead...",
+    "target": "اه انها ماتت...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_024_tower_bandits_talk_03_02",
+    "source": "<ffx:wonder>Why? It's just lightning and mold here! <ffx:neutral>",
+    "target": "<ffx:wonder>لماذا؟ انها مجرد البرق والعفن هنا!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\cannibal_3\\context\\context_alert_down_03",
+    "source": "Down! He's there!",
+    "target": "تحت! انه هناك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_2\\context\\context_alert_shack_02",
+    "source": "Visual! See that shack? He's there!",
+    "target": "مرئية! هل ترى ذلك الكوخ؟ انه هناك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_2\\danger\\enemy_dead_animal_03",
+    "source": "It croaked! Finally!",
+    "target": "انها ملتوية! أخيراً!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_1\\context\\context_alert_down_02",
+    "source": "He's down there!",
+    "target": "انه هناك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_1\\uber_alert\\uber_alert_toomuchnoise_01",
+    "source": "I heard that, drifter! He's over here!",
+    "target": "لقد سمعت ذلك أيها التائه! انه هنا!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_13_dead_city\\nvs_120_blind_affect_eatingcorpse_04",
+    "source": "It's old...",
+    "target": "انها قديمة...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_1\\context\\context_alert_up_02",
+    "source": "I see him! He's up there!",
+    "target": "أراه! انه هناك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_2\\uber_alert\\uber_alert_toomuchnoise_02",
+    "source": "Surround him, guys! He's over there! I just heard him!",
+    "target": "أحيطوا به يا شباب! انه هناك! لقد سمعته للتو!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\cannibal_1\\uber_alert\\uber_alert_enemy_human_01",
+    "source": "Aaaa! He's there!",
+    "target": "اااا! انه هناك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\tribal_1\\context\\context_alert_down_01",
+    "source": "There! He's down there!",
+    "target": "هناك! انه هناك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_1\\uber_alert\\uber_alert_toomuchnoise_01",
+    "source": "Solid sound contact! He's over here!",
+    "target": "اتصال صوتي قوي! انه هنا!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_3\\context\\context_alert_down_01",
+    "source": "I see that intruder! He's down there!",
+    "target": "أرى ذلك الدخيل! انه هناك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_1\\context\\context_alert_carriage_03",
+    "source": "Guys! See that carriage? He's there!",
+    "target": "شباب! هل ترى تلك العربة؟ انه هناك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_1\\context\\context_alert_warehouse_01",
+    "source": "The storage! He's in there!",
+    "target": "التخزين! انه هناك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  }
+]

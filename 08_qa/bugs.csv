@@ -1,0 +1,6 @@
+id,date,status,severity,screen,description,evidence,fix,decision
+B-001,2026-11-02,fixed_pending_visual_verification,major,main_menu_lcd,Distorted Arabic on the small LCD,USER_HOME/Videos/Radeon ReLive/Metro Exodus/Metro Exodus_2026.11.02-13.09.png,settings_r1 native mask/alpha/mipmap rebuild,D-005
+B-002,2026-11-02,fixed_file_verified,major,settings,Incorrect machine settings labels and translated technology names,USER_HOME/Videos/Radeon ReLive/Metro Exodus/Metro Exodus_2026.11.02-13.09_8.png,Reviewed overrides and English technology labels,D-005
+B-003,2026-11-02,fixed_packaged_glyphs_verified,major,graphics settings and other fonts,Source negative bitmap coordinates interpreted unsigned caused missing native glyphs,08_qa/render_tests/graphics_font_before_after.png,settings_r2 signed crop coordinates and 496 glyph regressions,D-006
+B-004,2026-11-02,fixed_pending_visual_verification,major,subtitles,Native LTR prefix placed Arabic speaker to the left and glued it to the body,08_qa/render_tests/subtitle_order_preview.png,dialogue_r1 integrated logical name and pre-wrap,D-007
+B-005,2026-11-02,timelines_file_verified,major,cinematics,Five story-video timelines and other timed records remained English,08_qa/audit/dialogue_r1.json,39 timed entries manually translated; exact time marker preservation,D-007

@@ -1,0 +1,25 @@
+{
+  "revision": "review_r1",
+  "main_entries": 38221,
+  "supplemental_entries": 2,
+  "runtime_entries": 38223,
+  "statuses": {
+    "draft": 36839,
+    "skip": 840,
+    "reviewed": 542
+  },
+  "assignment_coverage_percent": 100,
+  "fully_reviewed_game": false,
+  "remaining_voice_latin": [
+    {
+      "id": "voices\\m3_dlc_comments\\burunduk\\dlc_comments_intro_part_02",
+      "target": "استماعك إلى هذا التسجيل يعني أن اهتمامك باللعبة دفعك إلى خوضها مرة أخرى. إذًا، لم تذهب جهود فريق 4A Games هباءً."
+    }
+  ],
+  "retained_latin_reason": "4A Games is a company name; graphics technologies and platform brands also intentionally remain English.",
+  "exact_rtl_alignment_verified": false,
+  "orange_speaker_color_pending": true,
+  "runtime_tested": false,
+  "original_backup_retained": true,
+  "live_index_and_all_prior_payload_hashes_verified": true
+}

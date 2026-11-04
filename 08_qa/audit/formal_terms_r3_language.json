@@ -1,0 +1,231 @@
+{
+  "revision": "formal_terms_r3",
+  "audited_rows": 38221,
+  "canonical_labels": 79,
+  "context_rules": 22,
+  "changed_entries": 43,
+  "unrelated_entries_preserved": 38180,
+  "forbidden_transliterations_remaining": [],
+  "other_payloads_identical": true,
+  "canonical_speaker_names_preserved": true,
+  "tags_and_timelines_preserved": true,
+  "runtime_tested": false,
+  "changes": [
+    {
+      "id": "menu_customize_system_pneumo_autopump_flame_dsc",
+      "source": "When air pressure in the flamethrower's reservoir falls below normal level, an electric pump automatically tops it off. You can still use the hand pump if need be.",
+      "target": "عندما ينخفض ضغط الهواء في خزان قاذف اللهب عن المستوى الطبيعي، تعيده مضخة كهربائية تلقائيا إلى ذلك المستوى. ويمكنك استخدام المضخة اليدوية عند الحاجة."
+    },
+    {
+      "id": "new_general_hint_30",
+      "source": "Pump up your pneumatic weapons by holding down <wpn_reload> and pressing <wpn_fire>",
+      "target": "اضغط باستمرار على <wpn_reload> ثم اضغط على <wpn_fire> لضخ الهواء في السلاح الهوائي."
+    },
+    {
+      "id": "m3_flamethrower_upd_xbox",
+      "source": "Pump flamethrower pressure up by holding down <rui> and pressing <wpn_fire>",
+      "target": "اضغط باستمرار على <rui> ثم اضغط على <wpn_fire> لضخ الهواء في قاذف اللهب."
+    },
+    {
+      "id": "m3_decoy_hint",
+      "source": "You found a decoy, use it to distract the enemy. Hold <wpn_dynamite> to choose throwing weapons.",
+      "target": "عثرت على طعم صوتي؛ استخدمه لتشتيت العدو. اضغط باستمرار على <wpn_dynamite> لاختيار أسلحة الرمي."
+    },
+    {
+      "id": "m3_suit_upg_helm_14_name",
+      "source": "THROWING WEAPONS HARNESS",
+      "target": "حمالة أسلحة الرمي"
+    },
+    {
+      "id": "m3_craft_decoy_name",
+      "source": "DECOY",
+      "target": "طعم صوتي"
+    },
+    {
+      "id": "$dagger_name",
+      "source": "THROWING KNIFE",
+      "target": "سكين رمي"
+    },
+    {
+      "id": "m3_charger_pump",
+      "source": " Tap <wpn_fire> to pump the charger.",
+      "target": "اضغط على <wpn_fire> لتشغيل ذراع الشاحن."
+    },
+    {
+      "id": "m3_dlc01_general_hint_12",
+      "source": "Pump up your flamethrower by holding down <wpn_reload> and pressing <wpn_fire>",
+      "target": "اضغط باستمرار على <wpn_reload> ثم اضغط على <wpn_fire> لضخ الهواء في قاذف اللهب."
+    },
+    {
+      "id": "m3_general_hint_23",
+      "source": "Use correct tools depending on the situation. Shotguns are very effective at close range, while the assault rifles excel at medium to long ranges.",
+      "target": "اختر السلاح المناسب للموقف. بنادق الخرطوش فعالة جدا على المدى القريب، بينما تتفوق البنادق الهجومية على المدى المتوسط والبعيد."
+    },
+    {
+      "id": "ammo_arrows_name",
+      "source": "BOLTS",
+      "target": "أسهم النشاب"
+    },
+    {
+      "id": "m3_general_hint_59",
+      "source": "If you miss with a throwing knife, you can always collect it from the wall it sticks in. If you hit, you can remove it from the body of your adversary.",
+      "target": "إذا أخطأت الهدف بسكين رمي، فاستعدها من الجدار الذي علقت فيه. وإذا أصبت العدو، فيمكنك انتزاعها من جسده."
+    },
+    {
+      "id": "$heavy_shotgun_dsc",
+      "source": "This buckshot-firing heavy machine gun is deadly at close range, but eats through ammo at a high pace and does not accept silencers.",
+      "target": "يطلق هذا السلاح الرشاش الثقيل الخرطوش، وهو فتاك من مسافة قريبة، لكنه يستهلك الذخيرة بسرعة ولا يقبل تركيب كاتم صوت."
+    },
+    {
+      "id": "m3_dlc01_general_hint_12_cstm",
+      "source": "Pump up your flamethrower by holding down <rui> and pressing <wpn_fire>",
+      "target": "اضغط باستمرار على <rui> ثم اضغط على <wpn_fire> لضخ الهواء في قاذف اللهب."
+    },
+    {
+      "id": "$dagger_dsc",
+      "source": "The perfect stealthy short-range weapon, a throwing knife can be cold-wrought from spring steel by any skilled metalworker.",
+      "target": "سلاح مثالي للقتل الصامت من مسافة قريبة. يستطيع أي صانع معادن ماهر تشكيل سكين رمي على البارد من فولاذ النوابض."
+    },
+    {
+      "id": "m3_flamethrower_upd",
+      "source": "Pump flamethrower pressure up by holding down <wpn_reload> and pressing <wpn_fire>",
+      "target": "اضغط باستمرار على <wpn_reload> ثم اضغط على <wpn_fire> لضخ الهواء في قاذف اللهب."
+    },
+    {
+      "id": "m3_decoy_hint_xbox",
+      "source": "You found a decoy, use it to distract the enemy. Hold <popup_secondary> to choose throwing weapons.",
+      "target": "عثرت على طعم صوتي؛ استخدمه لتشتيت العدو. اضغط باستمرار على <popup_secondary> لاختيار أسلحة الرمي."
+    },
+    {
+      "id": "$wpn_upt_shotgun_dsc",
+      "source": "The makeshift underslung shotgun increases the weapon's firepower at close range and is capable of finishing a mutant with a point-blank shot.",
+      "target": "تزيد بندقية الخرطوش السفلية المرتجلة قوة السلاح على المدى القريب، ويمكنها قتل متحول بطلقة من مسافة ملاصقة."
+    },
+    {
+      "id": "ammo_arrows_explosive_dsc",
+      "source": "Explosive bolts deal a lot of damage when they hit the target, at the cost of completely negating the crossbow's inherent advantage of stealthiness.",
+      "target": "تسبب أسهم النشاب المتفجرة ضررا كبيرا عند إصابة الهدف، لكنها تلغي تماما ميزة التخفي التي يتمتع بها النشاب."
+    },
+    {
+      "id": "ammo_arrows_explosive_name",
+      "source": "EXPLOSIVE BOLTS",
+      "target": "أسهم نشاب متفجرة"
+    },
+    {
+      "id": "menu_customize_system_pneumo_big_dsc",
+      "source": "Hight capacity pneumatic system contains a significant amount of compressed air, allowing for firing many more shots without pumping it up.",
+      "target": "يختزن هذا النظام الهوائي عالي السعة كمية كبيرة من الهواء المضغوط، مما يتيح إطلاق طلقات أكثر بكثير قبل الحاجة إلى ضخ الهواء مجددا."
+    },
+    {
+      "id": "m3_pheumatics_upd_xbox",
+      "source": "Pump pneumatic weapons by holding down <rui> and pressing <wpn_fire>",
+      "target": "اضغط باستمرار على <rui> ثم اضغط على <wpn_fire> لضخ الهواء في السلاح الهوائي."
+    },
+    {
+      "id": "$duplet_dsc",
+      "source": "The 12-gauge shotgun is one of the best close combat weapons ever. A blast from both of its barrels can kill almost any mutant on the spot.",
+      "target": "بندقية خرطوش من عيار 12، وتعد من أفضل أسلحة القتال القريب. إطلاق سبطانتيها معا قادر على قتل معظم المتحولين في الحال."
+    },
+    {
+      "id": "menu_customize_system_pneumo_std_dsc",
+      "source": "Makeshift hand-operated air pump. Works well, but quickly loses air if the pressure is above normal.",
+      "target": "مضخة هواء مرتجلة تعمل يدويا. تؤدي عملها جيدا، لكنها تسرب الهواء بسرعة عندما يتجاوز الضغط المستوى الطبيعي."
+    },
+    {
+      "id": "m3_suit_upg_helm_14_desc",
+      "source": "Additional straps and pockets for throwing weapons, allowing  the wearer to double their stocks.",
+      "target": "أحزمة وجيوب إضافية لحمل أسلحة الرمي، تتيح مضاعفة الكمية المحمولة منها."
+    },
+    {
+      "id": "$general_hint_30",
+      "source": "Pump pneumatic weapons by holding down <wpn_reload> and pressing <wpn_fire>.",
+      "target": "اضغط باستمرار على <wpn_reload> ثم اضغط على <wpn_fire> لضخ الهواء في السلاح الهوائي."
+    },
+    {
+      "id": "menu_item_bait_name",
+      "source": "DECOY",
+      "target": "طعم صوتي"
+    },
+    {
+      "id": "m3_dia_weapon_decoy_title",
+      "source": "DECOY",
+      "target": "طعم صوتي"
+    },
+    {
+      "id": "controller_layout_reloadammochangeusemeleestun",
+      "source": "RELOAD / PUMPING (HOLD) / AMMO CHANGE (IN WEAPON INVENTORY) / USE / MELEE STUN",
+      "target": "إعادة التلقيم / ضخ الهواء (ضغط مطول) / تغيير الذخيرة (من قائمة الأسلحة) / التفاعل / إفقاد الوعي بضربة قريبة"
+    },
+    {
+      "id": "menu_customize_system_pneumo_autopump_dsc",
+      "source": "When pressure in the system falls below normal level, an electric pump automatically tops it off. You can still use the hand pump if need be.",
+      "target": "عندما ينخفض ضغط النظام عن المستوى الطبيعي، تعيده مضخة كهربائية تلقائيا إلى ذلك المستوى. ويمكنك استخدام المضخة اليدوية عند الحاجة."
+    },
+    {
+      "id": "m3_secondary_choose_hint",
+      "source": "You found a decoy. Press <wpn_dynamite> to throw. ",
+      "target": "عثرت على طعم صوتي. اضغط على <wpn_dynamite> لرميه."
+    },
+    {
+      "id": "_notforE3_$general_hint_12",
+      "source": "Bolts and knives do not disappear after shooting or throwing them. They can be picked up and used again.",
+      "target": "لا تختفي أسهم النشاب والسكاكين بعد إطلاقها أو رميها؛ يمكنك التقاطها واستخدامها مجددا."
+    },
+    {
+      "id": "m3_death_menu_hint_8",
+      "source": "Use correct tools depending on the situation. Shotguns are very effective at close range, while the assault rifles excel at medium to long ranges.",
+      "target": "اختر السلاح المناسب للموقف. بنادق الخرطوش فعالة جدا على المدى القريب، بينما تتفوق البنادق الهجومية على المدى المتوسط والبعيد."
+    },
+    {
+      "id": "m3_pheumatics_upd",
+      "source": "Pump pneumatic weapons by holding down <wpn_reload> and pressing <wpn_fire>",
+      "target": "اضغط باستمرار على <wpn_reload> ثم اضغط على <wpn_fire> لضخ الهواء في السلاح الهوائي."
+    },
+    {
+      "id": "m3_dlc01_general_hint_12_xbox",
+      "source": "Pump up your flamethrower by holding down <rui> and pressing <wpn_fire>",
+      "target": "اضغط باستمرار على <rui> ثم اضغط على <wpn_fire> لضخ الهواء في قاذف اللهب."
+    },
+    {
+      "id": "$general_hint_26_cstm",
+      "source": "You can fire both barrels of the shotgun by pressing <wpn_aim> to fire the left barrel and <wpn_fire> to fire the right barrel.",
+      "target": "يمكنك إطلاق سبطانتي بندقية الخرطوش؛ اضغط على <wpn_aim> لإطلاق السبطانة اليسرى وعلى <wpn_fire> لإطلاق اليمنى."
+    },
+    {
+      "id": "general_hint_81",
+      "source": "When you sneak up on an enemy, you don't have to execute him. You can also knock him out by pressing <use>.",
+      "target": "عند التسلل خلف عدو، لا يتعين عليك قتله؛ يمكنك إفقاده الوعي بالضغط على <use>."
+    },
+    {
+      "id": "m3_suit_upg_unload_empty_desc",
+      "source": "Allows carrying a limited amount of ammunition, throwing weapons and consumables, such as medkits and filters.",
+      "target": "يتيح حمل كمية محدودة من الذخيرة وأسلحة الرمي والمستلزمات، مثل حقائب الإسعافات والمرشحات."
+    },
+    {
+      "id": "menu_customize_system_pneumo_big_flame_dsc",
+      "source": "Hight capacity pneumatic system can contain a significant amount of compressed air, allowing for longer sustained fire without pumping it up.",
+      "target": "يختزن هذا النظام الهوائي عالي السعة كمية كبيرة من الهواء المضغوط، مما يتيح مواصلة إطلاق النار مدة أطول قبل الحاجة إلى ضخ الهواء مجددا."
+    },
+    {
+      "id": "menu_item_throwing_knife_desc",
+      "source": "The perfect stealthy short-range weapon, a throwing knife can be cold-wrought from spring steel by any skilled metalworker.",
+      "target": "سلاح مثالي للقتل الصامت من مسافة قريبة. يستطيع أي صانع معادن ماهر تشكيل سكين رمي على البارد من فولاذ النوابض."
+    },
+    {
+      "id": "$general_hint_41",
+      "source": "Use the right tool for the right situation. Shotguns are very effective at close range, while an assault rifle is much better at medium to long ranges.",
+      "target": "اختر السلاح المناسب للموقف. بنادق الخرطوش فعالة جدا على المدى القريب، بينما تتفوق البنادق الهجومية على المدى المتوسط والبعيد."
+    },
+    {
+      "id": "$general_hint_26_xbox",
+      "source": "You can fire both barrels of the shotgun by pressing <wpn_aim> to fire the left barrel and <wpn_fire> to fire the right barrel.",
+      "target": "يمكنك إطلاق سبطانتي بندقية الخرطوش؛ اضغط على <wpn_aim> لإطلاق السبطانة اليسرى وعلى <wpn_fire> لإطلاق اليمنى."
+    },
+    {
+      "id": "_notforE3_m3_general_hint_6",
+      "source": "Bolts and knives do not disappear after being shoot or throwing. They can be picked up and used again.",
+      "target": "لا تختفي أسهم النشاب والسكاكين بعد إطلاقها أو رميها؛ يمكنك التقاطها واستخدامها مجددا."
+    }
+  ],
+  "language_scope": "Whole-table terminology rules and contextual corrections; not a full manual sentence review."
+}

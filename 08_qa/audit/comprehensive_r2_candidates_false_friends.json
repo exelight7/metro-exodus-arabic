@@ -1,0 +1,674 @@
+[
+  {
+    "id": "menu_customize_scope_high_dsc",
+    "source": "This sniper sight allows easy aiming at extremely long distances, but significantly limits the field of view.",
+    "target": "يسهل منظار القنص هذا التصويب إلى أهداف بعيدة جدا، لكنه يضيق مجال الرؤية بدرجة كبيرة.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "dlc1_000_narration_text_loadscreen_02_karmagood",
+    "source": "<tab>When a system crumbles, you can seldom precisely point out the case of its demise. Here, it was obvious for all to see. Reserves of \"green stuff\" ran out, and no matter how hard the stalkers and Colonel Khlebnikov’s people were looking for more, there was none to be found.<br><br><tab>Judging by Kirill’s story, at that moment OSKOM really had no choice but to conserve what little reserves they still had left and stop issuing the radioprotector to all but the personnel most critical for evacuation effort. Judging by my experience, that was not going to make them a lot of friends.<br><br><tab>They still tried their best, as doing nothing was only going to result in extinction, something they vowed to prevent. However unpopular expropriating the \"excess stock\" from the populace was going to make them, they went about it, and I’ve no doubt I would have done the same in that situation.<br><br>",
+    "target": "<tab>حين ينهار نظام، قلما تستطيع تحديد سبب نهايته بدقة. أما هنا فكان السبب واضحًا للجميع: نفد مخزون المادة الخضراء، ومهما بحث المستكشفون ورجال العقيد خليبنيكوف عن المزيد، لم يجدوا شيئًا.<br><br><tab>بحسب رواية كيريل، لم يبق أمام أوسكوم حينها سوى الحفاظ على الاحتياطي الضئيل المتبقي، وقصر توزيع العقار الواقي من الإشعاع على الأفراد الذين لا غنى عنهم في عملية الإخلاء. ومن واقع خبرتي، لم يكن هذا القرار ليكسبهم كثيرًا من الأصدقاء.<br><br><tab>مع ذلك، بذلوا ما في وسعهم؛ فالوقوف مكتوفي الأيدي كان سيؤدي إلى الفناء، وهو ما تعهدوا بمنعه. كانوا يعلمون أن مصادرة المخزون الفائض من السكان ستجعلهم مكروهين، لكنهم مضوا في ذلك، ولا أشك أنني كنت سأفعل مثلهم في ذلك الموقف.<br><br>",
+    "status": "reviewed",
+    "translation_origin": "reviewed"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_040_dock_04_01_guards_01_02",
+    "source": "We're checking our stocks here, you see...",
+    "target": "نحن نتحقق من مخزوننا هنا، كما ترى...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_041_27_dock_05_allstuffreceived_04",
+    "source": "This one should not just feel familiar, it's the real McCoy: a .45 automatic straight from Tom's premium stock!",
+    "target": "لا ينبغي أن يبدو هذا الشخص مألوفًا فحسب، بل إنه مكوي الحقيقي: آلي .45 مباشرة من مخزون توم المتميز!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_014_springattack_01_39",
+    "source": "<ffx:disgust>It's hot even through the suit... <ffx:neutral>",
+    "target": "<ffx:disgust>الجو حار حتى من خلال البدلة...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_12_autumn\\aut_011_kresttalk_01_08_alyoshawounded",
+    "source": "<ffx:wonder>Alyosha, too... Why should he care for those overgrown children you met at that valley? <ffx:sadness>They shot his spine up! <ffx:wonder_strong>But no, he's really worried about them, <ffx:sadness_light>tries to contact them with that radio... I would understand him being worried for Olga, <ffx:wonder_strong>but he wants to warn them all!<ffx:neutral>",
+    "target": "<ffx:wonder>أليوشا أيضًا... لماذا يجب أن يهتم بهؤلاء الأطفال الكبار الذين قابلتهم في ذلك الوادي؟<ffx:sadness>أطلقوا النار على عموده الفقري!<ffx:wonder_strong>لكن لا، إنه قلق حقًا عليهم،<ffx:sadness_light>يحاول الاتصال بهم عبر هذا الراديو... أتفهم قلقه على أولغا،<ffx:wonder_strong>لكنه يريد تحذيرهم جميعًا!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_loader_diary_story_06_01_prologue",
+    "source": "<tab>After all those years in the underground, the air of the surface seemed incredibly fresh, intoxicating... But that was not the cause of the crew's euphoria. Our journey finally had a definite purpose provided by the transmission from the Government bunker in the Urals. <br><br><tab>We spent twenty years thinking that neither the Government nor military High Command had survived. As it turned out, they were still around... <br><br><tab>Where were they while we were eating each other alive in the Metro? <br><br><tab>We had lots of questions to ask them once we reached Yamantau... if we ever would. The ruins of our country were under enemy control according to Miller, and we would have to fight through to our goal. A small team against the occupation armies... What chance did we have to succeed? To get some answers?<br><br><tab>Yet, setting out on our recon mission, Anna and I did not ponder these questions, we just kept filling our lungs with that sweet fresh air, splashing about the spring puddles like children out for the first walk after a long sickness...<br><br><tab>When I docked the old and battered, but still surprisingly water-tight boat at the goal, it became apparent why our arrival terrified the locals. These fanatics are for some reason convinced that it was electricity that brought about mankind’s demise, so they avoid any and all technology like the plague. On the other hand, they have a grain of reason in their belief, for technical progress did in fact enable our self-destruction.<br><br><tab>They didn’t get me with their trap thanks to a little girl and her mother, who had been held by the fanatics in that murky and damp ruin for about a year... If the locals would do such things, was there any real hope that they’d be inclined to let us cross the bridge? <br><br>",
+    "target": "<tab>بعد كل تلك السنوات التي قضاها تحت الأرض، بدا هواء السطح منعشًا ومسكرًا بشكل لا يصدق... لكن هذا لم يكن سبب نشوة الطاقم. أخيرًا كان لرحلتنا هدف محدد تم توفيره من خلال البث من المخبأ الحكومي في جبال الأورال.<br><br><tab>لقد أمضينا عشرين عامًا ونحن نعتقد أنه لا الحكومة ولا القيادة العسكرية العليا قد تمكنت من البقاء. كما اتضح فيما بعد، كانوا لا يزالون موجودين...<br><br><tab>أين كانوا بينما كنا نأكل بعضنا البعض على قيد الحياة في المترو؟<br><br><tab>كان لدينا الكثير من الأسئلة لنطرحها عليهم بمجرد وصولنا إلى يامانتاو... إذا فعلنا ذلك. كانت أنقاض بلادنا تحت سيطرة العدو وفقًا لميلر، وكان علينا القتال حتى هدفنا. فريق صغير ضد جيوش الاحتلال.. ما هي فرصتنا للنجاح؟ للحصول على بعض الإجابات؟<br><br><tab>ومع ذلك، أثناء انطلاقنا في مهمتنا الاستطلاعية، لم نفكر أنا وآنا في هذه الأسئلة، لقد واصلنا ملء رئتينا بهذا الهواء النقي الحلو، ونرش الماء في برك الربيع مثل الأطفال الذين يخرجون في أول نزهة بعد مرض طويل...<br><br><tab>عندما رست على القديم والمنهك، ولكن لا يزال من المدهش قاربًا مانعًا لتسرب المياه نحو الهدف، أصبح من الواضح سبب رعب وصولنا للسكان المحليين. هؤلاء المتعصبون مقتنعون لسبب ما بأن الكهرباء هي التي أدت إلى زوال البشرية، لذلك يتجنبون أي تكنولوجيا مثل الطاعون. ومن ناحية أخرى، لديهم ذرة من العقل في اعتقادهم، لأن التقدم التقني مكّننا في الواقع من تدمير أنفسنا.<br><br><tab>لم ينالوا مني بفخهم بفضل فتاة صغيرة وأمها، اللتين احتجزهما المتعصبون في ذلك الخراب الغامض والرطب لمدة عام تقريبًا... إذا كان السكان المحليون سيفعلون مثل هذه الأشياء، فهل كان هناك أي أمل حقيقي في أن يسمحوا لنا بعبور الجسر؟<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_pause_menu_hint_suit_name",
+    "source": "Spartan suit",
+    "target": "بدلة سبارتان",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "game_description",
+    "source": "Metro Exodus is an epic, story-driven first person shooter from 4A Games that blends deadly combat and stealth with exploration and survival horror in one of the most immersive game worlds ever created.Explore the Russian wilderness across vast, non-linear levels and follow a thrilling story-line that spans an entire year through spring, summer and autumn to the depths of nuclear winter.Inspired by the novels of Dmitry Glukhovsky, Metro Exodus continues Artyom’s story in the greatest Metro adventure yet.Embark on an incredible journey - board the Aurora, a heavily modified steam locomotive, and join a handful of survivors as they search for a new life in the East.Experience Sandbox Survival - a gripping story links together classic Metro gameplay with new huge, non-linear levels.A beautiful, hostile world - discover the post-apocalyptic Russian wilderness, brought to life with stunning day / night cycles and dynamic weather.Deadly combat and stealth - scavenge and craft in the field to customize your arsenal of hand-made weaponry, and engage human and mutant foes in thrilling tactical combat.Your choices determine your comrades’ fate - not all your companions will survive the journey; your decisions have consequence in a gripping storyline that offers massive re-playability.The ultimate in atmosphere and immersion - a flickering candle in the darkness; a ragged gasp as your gasmask frosts over; the howl of a mutant on the night wind - Metro will immerse and terrify you like no other game...",
+    "target": "مترو إكسودس هي لعبة تصويب ملحمية من منظور الشخص الأول مبنية على قصة من 4A Games تمزج القتال المميت والتسلل مع الاستكشاف ورعب البقاء في واحدة من أكثر عوالم الألعاب غامرة على الإطلاق. استكشف البرية الروسية عبر مستويات شاسعة وغير خطية واتبع قصة مثيرة تمتد على مدار عام كامل خلال الربيع والصيف والخريف إلى أعماق الشتاء النووي. مستوحاة من روايات ديمتري جلوخوفسكي، تستمر مترو إكسودس قصة أرتيوم في أعظم مغامرة مترو حتى الآن. انطلق في رحلة مذهلة - استقل أورورا، وهي قاطرة بخارية معدلة بشكل كبير، وانضم إلى حفنة من الناجين أثناء بحثهم عن حياة جديدة في الشرق. استمتع بتجربة العوالم المفتوحة البقاء - قصة آسرة تربط بين لعبة المترو الكلاسيكية ومستويات جديدة ضخمة وغير خطية. عالم جميل ومعادي - اكتشف البرية الروسية في مرحلة ما بعد نهاية العالم، تم إحياءها من خلال دورات نهارية / ليلية مذهلة وديناميكية الطقس. قتال مميت وتسلل - قم بالبحث والحرف في الميدان لتخصيص ترسانتك من الأسلحة المصنوعة يدويًا، وإشراك الأعداء البشريين والمتحولين في قتال تكتيكي مثير. اختياراتك تحدد مصير رفاقك - لن ينجو جميع رفاقك من الرحلة؛ قراراتك لها عواقب في قصة جذابة توفر إمكانية إعادة لعب هائلة. أقصى درجات الجو والانغماس - شمعة وامضة في الظلام؛ شهقة خشنة بينما يتجمد قناع الغاز الخاص بك؛ عواء المتحولة في ريح الليل - لعبة مترو سوف تغمرك وترعبك بشكل لا مثيل له في أي لعبة أخرى...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_220_sam_captain_fuelrods_briefing_01_09",
+    "source": "Radiation's off the charts there though, so I wouldn't even try without a protective suit.",
+    "target": "بالرغم من ذلك، فإن الإشعاع خارج المخططات هناك، لذا لن أحاول حتى بدون بدلة واقية.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "menu_customize_collimator_dsc",
+    "source": "This pre-war sight makes aiming the gun at close and medium range easier, without sacrificing much of the field of view. ",
+    "target": "يسهل هذا المنظار المصنوع قبل الحرب التصويب على المدى القريب والمتوسط، دون أن يضيق مجال الرؤية كثيرا.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_085_6_copisland_lamps_02_07",
+    "source": "Well, I'll do the rounds, no prob... Will take me a while... (removed comma)",
+    "target": "حسنًا، سأقوم بالجولات، لا يوجد احتمال... سوف يستغرق الأمر بعض الوقت... (تمت إزالة الفاصلة)",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "$wpn_upt_ventil_mag_name",
+    "source": "EXTENDED MAGAZINE",
+    "target": "مجلة موسعة",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "menu_customise_magazine_1_desc",
+    "source": "Magazine 1 Description",
+    "target": "وصف المجلة 1",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "menu_customize_cat_magazine_name",
+    "source": "MAGAZINE",
+    "target": "مجلة",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "$wpn_upt_padonag_mag_name",
+    "source": "EXTENDED MAGAZINE",
+    "target": "مجلة موسعة",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc1\\dlc1_14_1_burntunnels_audiodiary_01_03",
+    "source": "And I just go: \"So, are you telling me to steal them from another station? You know as well as I do they don't make them no more! Or, do you think I'll just shoot all my green stuff at once and go topside to get it? You want results - you either get me the parts or go and...\" Well, I told him to fuck himself...",
+    "target": "فقلت له: «أتطلب مني إذن أن أسرقها من محطة أخرى؟ أنت تعلم مثلي أنهم لم يعودوا يصنعونها! أم تظن أنني سأحقن نفسي بكل مخزوني من المادة الخضراء دفعة واحدة، وأصعد إلى السطح لجلبها؟ إن أردت نتائج، فأحضر لي قطع الغيار، وإلا فاذهب...» حسنا، طلبت منه الذهاب إلى الجحيم...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_13_nvs_diary_3_dsc",
+    "source": "<tab>To: Private KHLEBNIKOV<br><br><tab>For the duration of the Commander’s absence, private KHLEBNIKOV is hereby given charge of the Shelter. Beside his regular duties, he is until further notice ordered to:<br><br><br>1) Keep the Shelter door LOCKED under any circumstances. Check the lock twice when stepping out of the Shelter.<br><br>2) Check the mushroom field twice a day, burning any discovered slime to ashes together with affected substrate - it’s better to lose one patch than the whole field.<br><br>3) Never go to the dirty stations.<br><br>4) Check and re-set the traps at least once in two days, there’s no need for the animals to suffer needlessly, even if they are mutants.<br><br>5) Eat the liver.<br><br>6) Eat the liver, no excuses!<br><br>7) Keep the radio battery charged, be ready for contact every noon, half an hour window of opportunity.<br><br>8) Cheer up!<br><br><br><tab>Lieutenant-Colonel Khlebnikov<br><br>",
+    "target": "<tab>إلى: الجندي خليبنيكوف<br><br><tab>طوال مدة غياب القائد، يتم بموجب هذا تكليف الجندي خليبنيكوف بمسؤولية الملجأ. بالإضافة إلى واجباته العادية، أُمر حتى إشعار آخر بما يلي:<br><br><br>1) إبقاء باب المأوى مغلقًا تحت أي ظرف من الظروف. تحقق من القفل مرتين عند الخروج من الملجأ.<br><br>2) افحص حقل الفطر مرتين يوميًا، واحرق أي مادة طينية مكتشفة إلى رماد مع الركيزة المصابة - من الأفضل أن تفقد رقعة واحدة بدلاً من فقدان الحقل بأكمله.<br><br>3) لا تذهب أبدًا إلى المحطات القذرة.<br><br>4) تحقق من المصائد وأعد ضبطها مرة واحدة على الأقل كل يومين، ليست هناك حاجة لأن تعاني الحيوانات بلا داع، حتى لو كانت متحولة.<br><br>5) أكل الكبد.<br><br>6) أكل الكبد بلا أعذار!<br><br>7) احتفظ ببطارية الراديو مشحونة، وكن جاهزًا للاتصال ظهر كل يوم، مع وجود فرصة نصف ساعة.<br><br>8) ابتهج!<br><br><br><tab>اللفتنانت كولونيل كليبنيكوف<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc1\\dlc1_74_1_pa_address_01_04",
+    "source": "The radioprotector confiscations are being carried out for the common good. Report the irresponsible elements attempting to hide their stock. Remember, they are hiding it from you and your children!",
+    "target": "يتم تنفيذ مصادرة أجهزة الحماية من الإشعاع من أجل الصالح العام. الإبلاغ عن العناصر غير المسؤولة التي تحاول إخفاء مخزونها. تذكر أنهم يخفون ذلك عنك وعن أطفالك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_016_9_1_breakingcamp_station_02_03",
+    "source": "<ffx:wonder>Don't you know? <ffx:smile_light>A nosalis is drinking from a puddle, <ffx:wonder_light>when a passing-by stalker sees it and takes a shot. <ffx:anger_light>The nosalis is still drinking. Another shot - <ffx:wonder>it's still drinking! <ffx:sadness>And then it says to itself <ffx:wonder>\"Weird, I keep drinking, but it only makes me feel worse...”<ffx:neutral>",
+    "target": "<ffx:wonder>ألا تعلم؟<ffx:smile_light>الأنف يشرب من بركة مياه،<ffx:wonder_light>عندما يراه أحد المارة ويطلق النار.<ffx:anger_light>الأنف لا يزال يشرب. لقطة أخرى -<ffx:wonder>ما زال يشرب!<ffx:sadness>ثم تقول لنفسها<ffx:wonder>\"غريب، أنا أستمر في الشرب، لكنه يجعلني أشعر بالسوء فقط...\"<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_06_diary_2_dsc",
+    "source": "<tab>...What are they even thinking just bringing all this shit here? It’s got to be disposed of properly! Fucking crooks in the disposal, splitting the funds with the generals, while we get to park our asses on decades-old shit... I wonder if it gets worse or better when it expires? And which would be better for us? The barrels sure look like they could start leaking any moment now... Will need to requisition a spare protective suit... ",
+    "target": "<tab>...ما الذي يفكرون فيه حتى بإحضار كل هذا الهراء إلى هنا؟ يجب التخلص منها بشكل صحيح! المحتالون اللعينون في التخلص من الأموال، وتقاسم الأموال مع الجنرالات، بينما نترك مؤخرتنا على تفاهات عمرها عقود من الزمن... أتساءل عما إذا كان الأمر سيصبح أسوأ أم أفضل عندما تنتهي صلاحيته؟ وأيهما سيكون أفضل لنا؟ من المؤكد أن البراميل تبدو وكأنها يمكن أن تبدأ في التسرب في أي لحظة الآن... سوف تحتاج إلى طلب بدلة واقية احتياطية...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_13_6_riggertack_01_22",
+    "source": "Magazine!",
+    "target": "مجلة!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc1\\dlc1_74_2_quarrel_01_03",
+    "source": "And as soon as they get a hold of the new stock, we will be reimbursed fully and with interest, just as the paper says.",
+    "target": "وبمجرد حصولهم على المخزون الجديد، سيتم تعويضنا بالكامل مع الفائدة، تمامًا كما تقول الصحيفة.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_085_6_copisland_lamps_02_04",
+    "source": "That's the spirit, haha... Once you're done with the rounds, come back and we'll continue.",
+    "target": "هذه هي الروح، هاها... بمجرد الانتهاء من الجولات، عد وسنواصل.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc1\\dlc1_22_1_depot_equipmentcheckin_01_03",
+    "source": "Sir, take that suit off and put the flamer down, too. They have to be scrubbed for radiation.",
+    "target": "سيدي، اخلع تلك البدلة وأطفئ اللهب أيضًا. يجب أن يتم تنظيفها للإشعاع.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_13_dead_city\\nvs_008_intheshelter_01_12",
+    "source": "<ffx:sadness_light>He went to that Satcom center... <ffx:wonder_light>We were going to leave the city in Spring, he went to get the impact map, said, <ffx:wonder>we're sure to find a clear place if we get one... <ffx:neutral>",
+    "target": "<ffx:sadness_light>ذهب إلى مركز الاتصالات الفضائية هذا...<ffx:wonder_light>كنا سنغادر المدينة في الربيع، ذهب للحصول على خريطة التأثير، وقال،<ffx:wonder>نحن على يقين من أننا سنجد مكانًا واضحًا إذا حصلنا على واحدة...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_003_tt_talk_01_04_01",
+    "source": "<ffx:wonder_light>You put a glass ampule with napalm and a chemical initiator between two Tikhar bearings, <ffx:smile>and presto! <ffx:wide_smile>An incendiary bullet! <ffx:wonder_light>Can't fit many in a magazine, but the <ffx:smile>effect should compensate for that!<ffx:neutral>",
+    "target": "<ffx:wonder_light>لقد وضعت أمبولة زجاجية تحتوي على النابالم وبادئ كيميائي بين محامل تيخار<ffx:smile>والمعزوفة!<ffx:wide_smile>رصاصة حارقة!<ffx:wonder_light>لا يمكن أن تناسب العديد من المجلات، ولكن تأثير<ffx:smile>يجب أن يعوض عن ذلك!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_13_dead_city\\nvs_000_narration_07_05",
+    "source": "<tab>Looks like I absorbed too much radiation and started hallucinating... Had to take the radio-protector now, even though I hoped I could save it for the return trip. Still, I have to survive until then, and right now I need to cross the Lenin square to reach the Institute building. <br><br>",
+    "target": "<tab>يبدو أنني امتصت الكثير من الإشعاع وبدأت بالهلوسة... كان علي أن آخذ واقي الراديو الآن، على الرغم من أنني كنت آمل أن أتمكن من الاحتفاظ به لرحلة العودة. ومع ذلك، لا بد لي من البقاء على قيد الحياة حتى ذلك الحين، والآن أحتاج إلى عبور ساحة لينين للوصول إلى مبنى المعهد.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_06_spring",
+    "source": "SPRING",
+    "target": "الربيع",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc1\\dlc1_100_search_at_petrovichs_01_03",
+    "source": "An anonymous tip on excess stock, we can't ignore those... But he won't open the door.",
+    "target": "نصيحة مجهولة المصدر بشأن المخزون الزائد، لا يمكننا تجاهلها... لكنه لن يفتح الباب.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "menu_trade_category_modify",
+    "source": "SUIT",
+    "target": "بدلة",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc1\\dlc1_100_search_at_petrovichs_01_20_02",
+    "source": "Enough! We're only confiscating the excess stock!",
+    "target": "كافٍ! نحن نقوم فقط بمصادرة المخزون الزائد!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_12_autumn\\aut_000_narration_03",
+    "source": "<tab>Alyosha, who is still unable to walk after being shot in the back, is driving himself mad with worry - his Olga is there... Perhaps, he will be able to warn her via Radio and save the people there...<br><br>",
+    "target": "<tab>أليوشا، الذي لا يزال غير قادر على المشي بعد إصابته برصاصة في ظهره، يقود نفسه إلى الجنون من القلق - أولغا الخاصة به هناك... ربما سيكون قادرًا على تحذيرها عبر الراديو وإنقاذ الأشخاص هناك...<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "$wpn_upt_preved_mag_name",
+    "source": "EXTENDED MAGAZINE",
+    "target": "مجلة موسعة",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_12_autumn\\aut_011_kresttalk_01_06_dukealive",
+    "source": "<ffx:smile>Take Duke, for one... He keeps boasting about how he's going to shoot enemies up... <ffx:wonder>But in fact, when you two were at that bridge, he didn’t kill the cultists, didn’t <ffx:disgust>even shoot that Silantius, and that is a shot I'd take in a heartbeat... <ffx:wonder>So, what does that make him? <ffx:wide_smile>A kind guy, that's what! Yeah...",
+    "target": "<ffx:smile>خذ ديوك، على سبيل المثال... إنه يستمر في التفاخر بكيفية إطلاق النار على الأعداء...<ffx:wonder>ولكن في الواقع، عندما كنتما على ذلك الجسر، لم يقتل الطائفة، ولم يطلق<ffx:disgust>النار حتى على سيلانتيوس، وهذه هي اللقطة التي كنت سألتقطها بنبض القلب...<ffx:wonder>إذًا، ما الذي يجعله ذلك؟<ffx:wide_smile>رجل طيب، هذا ما! نعم...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_12_autumn\\aut_000_narration_bad",
+    "source": "<tab>We all remained silent while the Aurora was running along the poisoned sea held at bay by the dam... We believed we'd be back. Now, having seen the sword of Damocles hanging over the valley, we knew it was not meant to be. <br><br><tab>Alyosha, who is still unable to walk after being shot in the back, is driving himself mad with worry - his Olga is there... Perhaps, he will be able to warn her via Radio and save the people there...<br><br><tab>What happens next? I've no idea, I am ready for anything. Anything, but one thing. Anna... Please, hold on... Without you, I've nothing to live for, nothing to dream about... Doubly so, since if not for that dream of mine, you'd be all right now...<br><br>",
+    "target": "<tab>بقينا جميعًا صامتين بينما كانت سفينة أورورا تجري على طول البحر المسموم الذي يحاصره السد... كنا نعتقد أننا سنعود. الآن، بعد أن رأينا سيف ديموقليس معلقًا فوق الوادي، عرفنا أنه لم يكن من المفترض أن يكون كذلك.<br><br><tab>أليوشا، الذي لا يزال غير قادر على المشي بعد إصابته برصاصة في الظهر، يقود نفسه إلى الجنون من القلق - أولغا الخاصة به هناك... ربما، سيكون قادرًا على تحذيرها عبر الراديو وإنقاذ الأشخاص هناك...<br><br><tab>ماذا سيحدث بعد ذلك؟ ليس لدي أي فكرة، أنا مستعد لأي شيء. أي شيء، ولكن شيء واحد. آنا... أرجوك، انتظر... بدونك، ليس لدي ما أعيش من أجله، ولا شيء أحلم به... وهذا مضاعف، لأنه لولا حلمي هذا، لكنت بخير الآن...<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "$wpn_upt_duplet_butt_dsc",
+    "source": "This spring-loaded stock effectively compensates for recoil, increasing the gun's accuracy.",
+    "target": "يعوض هذا المخزون المحمّل بنابض الارتداد بشكل فعال، مما يزيد من دقة البندقية.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "menu_customise_magazine_4_name",
+    "source": "MAGAZINE 4 NAME",
+    "target": "اسم المجلة 4",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc1\\dlc1_100_search_at_petrovichs_01_23_02",
+    "source": "Excess stock... First you stop paying us, and now our savings are \"excess\"!",
+    "target": "المخزون الزائد... أولاً تتوقف عن الدفع لنا، والآن أصبحت مدخراتنا \"زائدة\"!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "general_hint_52",
+    "source": "Don't forget to charge your Flashlight and Night Vision goggles.",
+    "target": "لا تنس شحن المصباح ونظارات الرؤية الليلية.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_dia_weapon_revolver_intro",
+    "source": "<tab>In the Metro, where ammo is worth its weight in gold, a weapon’s reload speed is usually a distant second or even third priority, while its reliability and simplicity become critical. Humidity, dust, poor quality handmade ammunition... Pulling a revolver trigger the second time when it misfires is much faster than fixing a feed failure in an automatic pistol, and in the confines of the tunnels enemy might deny you the time needed for that altogether.<br><br><tab>That’s why the Armory station started producing copies of ancient Nagant revolvers. Soon they learned that even seven bullets sometimes are not enough to stop a charging Nosalis,so they had to switch to a more powerful (and exotic for Russia) .44 Magnum caliber. A hit with one of these is usually enough to kill a mutant on the spot. <br><br><tab>And that is exactly why such revolvers were a welcome addition to the Spartan Order’s arsenal. Besides, due to the fact that they retained the Nagant revolver’s gas sealing mechanism, they can be fitted with suppressors, and modifications introduced by our gunsmiths let them accommodate any other add-ons, from carbine type stocks to night vision sights.<br><br>",
+    "target": "<tab>في المترو، حيث تساوي الذخيرة وزنها ذهبًا، عادة ما تكون سرعة إعادة تلقيم السلاح أولوية ثانية أو حتى ثالثة بعيدة، في حين تصبح موثوقيته وبساطته أمرًا بالغ الأهمية. الرطوبة والغبار والذخيرة المصنوعة يدويًا ذات الجودة الرديئة... إن سحب زناد المسدس للمرة الثانية عندما يخطئ هو أسرع بكثير من إصلاح خلل في التغذية في مسدس آلي، وفي حدود الأنفاق قد يحرمك العدو من الوقت اللازم لذلك تمامًا.<br><br><tab>لهذا السبب بدأت محطة مخزن الأسلحة في إنتاج نسخ من مسدسات ناغان القديمة. وسرعان ما علموا أنه حتى سبع رصاصات في بعض الأحيان لا تكون كافية لإيقاف شحن النوساليس، لذلك كان عليهم التحول إلى عيار أكثر قوة (وغريبة بالنسبة لروسيا) .44 ماغنوم. عادةً ما تكون الضربة بأحد هذه العناصر كافية لقتل متحولة على الفور.<br><br><tab>وهذا هو بالضبط السبب في أن هذه المسدسات كانت إضافة مرحب بها إلى ترسانة التنظيم الإسبرطي. علاوة على ذلك، ونظرًا لاحتفاظهم بآلية إغلاق الغاز الخاصة بمسدس ناغان، يمكن تزويدهم بكاتم للصوت، والتعديلات التي أدخلها صانعو الأسلحة لدينا تسمح لهم باستيعاب أي إضافات أخرى، بدءًا من مخزونات نوع الكاربين وحتى مشاهد الرؤية الليلية.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_dia_weapon_kalash_intro",
+    "source": "<tab>Despite the venerable age of this weapon which before the Judgment Day had played a considerable part in hundreds of conflicts all over the world, its unparalleled reliability and considerable firepower make it a prized possession in the tunnels of the Metro and, of course, on the surface... <br><br><tab>A standard Kalash is simply a solid assault rifle with all its characteristic pros and cons, but thanks to the talent of Sparta’s gunsmiths (and Tokarev personally), the model our Order fields can accommodate a huge variety of upgrades, from extended magazine to various sights. <br><br><tab>Not only that, with a few simple operations (and spare parts) it can be turned into a weapon of a different class - from a short machine pistol that excels at close range, to a light machine gun. This does not mean that the underlying concept’s simplicity and reliability have been sacrificed, either - even though my Kalash is many years my senior, it saved my bacon on many an occasion, and would shoot like nothing happened even after taking a dip in the marsh... <br><br><tab>Weapons are something we people are definitely good at making. They will probably be ready to kill years after there remains nobody on the face of the planet capable of pulling the trigger...<br><br>",
+    "target": "<tab>على الرغم من العمر الجليل لهذا السلاح الذي لعب قبل يوم القيامة دورًا كبيرًا في مئات الصراعات في جميع أنحاء العالم، إلا أن موثوقيته التي لا مثيل لها وقوته النارية الكبيرة تجعله ملكية ثمينة في أنفاق المترو، وبالطبع على السطح...<br><br><tab>إن كلاش القياسية هي ببساطة بندقية هجومية صلبة بكل إيجابياتها وسلبياتها المميزة، ولكن بفضل موهبة صانعو الأسلحة في سبارتا (وتوكاريف شخصيًا)، يمكن أن يستوعب نموذج حقول الطلب لدينا مجموعة كبيرة ومتنوعة من الترقيات، بدءًا من المجلة الموسعة وحتى أدوات التصويب المختلفة.<br><br><tab>ليس هذا فحسب، فمن خلال بعض العمليات البسيطة (وقطع الغيار) يمكن تحويله إلى سلاح من فئة مختلفة - من مسدس آلي قصير يتفوق على مسافة قريبة، إلى مدفع رشاش خفيف. هذا لا يعني أنه قد تم التضحية ببساطة المفهوم الأساسي وموثوقيته أيضًا - على الرغم من أن الكلاش الخاص بي أكبر مني بسنوات عديدة، إلا أنه أنقذ لحم الخنزير المقدد الخاص بي في العديد من المناسبات، وكان يطلق النار وكأن شيئًا لم يحدث حتى بعد السباحة في المستنقع...<br><br><tab>الأسلحة هي شيء نجيد صنعه نحن البشر بالتأكيد. من المحتمل أن يكونوا مستعدين للقتل بعد سنوات من عدم وجود أي شخص على وجه الكوكب قادر على الضغط على الزناد...<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_05_winter\\win_099_radiostation_05_01_15",
+    "source": "<single_phrase_mode><time=0>With that, my dear listeners, I have to bid you farewell until the end of our technical break.<time=5300><time=5500>You’ve been listening to The First Radio, and the man ranting here was your one and only host, Max Golovnya!<time=12700><time=13120>Good luck everyone! Don’t forget to dress according to the radiation! It is Spring, after all!<time=18740>",
+    "target": "<single_phrase_mode><time=0>وبهذا، يا مستمعي الأعزاء، أودعكم حتى تنتهي استراحتنا التقنية.<time=5300><time=5500>كنتم تستمعون إلى الراديو الأول، وكان الثرثار أمام الميكروفون مقدمكم الوحيد ماكس غولوفنيا!<time=12700><time=13120>حظًا موفقًا للجميع! ولا تنسوا ارتداء ما يناسب الإشعاع! فالربيع قد حل، في النهاية!<time=18740>",
+    "status": "reviewed",
+    "translation_origin": "reviewed"
+  },
+  {
+    "id": "$general_hint_1",
+    "source": "Use the charger to charge up your nightvision goggles or to give a temporary power boost to your flashlight. Hold <wpn_light> to take it out.",
+    "target": "استخدم الشاحن لشحن نظارات الرؤية الليلية أو لزيادة قوة المصباح مؤقتا. اضغط باستمرار على <wpn_light> لإخراج الشاحن.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_12_valley\\val_004_alyoshalog_05",
+    "source": "But the radio seems to not be working properly, so I guess I'll just go to that Dam... I'll be waiting there. ",
+    "target": "ولكن يبدو أن الراديو لا يعمل بشكل صحيح، لذا أعتقد أنني سأذهب إلى ذلك السد... وسأنتظر هناك.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "menu_customise_magazine_3_desc",
+    "source": "Magazine 3 Description",
+    "target": "وصف المجلة 3",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "06_spring",
+    "source": "SPRING",
+    "target": "الربيع",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_dia_equip_suit_intro",
+    "source": "<tab>The Spartan suit is not just uniform all members of our Order wear - the suits provide a considerable degree of environmental protection which, when combined with a gas mask, allows Spartans to be reasonably safe during prolonged sorties to the Surface. <br><br><tab>The suits also accommodate a modicum of armor and padding ensuring, when combined with an armored vest, flexible and reliable protection, that can be easily configured for heaviest of engagements or reconnaissance missions, when swiftness of movement becomes the main priority. <br><br>",
+    "target": "<tab>البدلة الإسبارطية ليست مجرد زي موحد لجميع أعضاء طلبيتنا - فالبدلات توفر درجة كبيرة من الحماية البيئية والتي، عند دمجها مع قناع الغاز، تسمح للإسبارطيين بأن يكونوا آمنين بشكل معقول أثناء الطلعات الطويلة على السطح.<br><br><tab>تستوعب البدلات أيضًا قدرًا يسيرًا من الدروع والحشوة، مما يضمن، عند دمجها مع سترة مدرعة، حماية مرنة وموثوقة، يمكن تهيئتها بسهولة لأشد الاشتباكات أو مهام الاستطلاع، عندما تصبح سرعة الحركة هي الأولوية الرئيسية.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_suit_ranger_desc",
+    "source": "Hazard Suit. Provides protection from toxic fumes, fire zones and allows for longer stays in radiation hotspots.",
+    "target": "بدلة المخاطر. يوفر الحماية من الأبخرة السامة ومناطق الحرائق ويسمح بالبقاء لفترة أطول في النقاط الساخنة للإشعاع.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_dia_equip_suit_title",
+    "source": "SPARTAN SUIT",
+    "target": "بدلة سبارتان",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc1\\dlc1_000_narration_loadscreen_02_03_karmagood",
+    "source": "<tab>They still tried their best, as doing nothing was only going to result in extinction, something they vowed to prevent. However unpopular expropriating the \"excess stock\" from the populace was going to make them, they went about it, and I’ve no doubt I would have done the same in that situation.<br><br>",
+    "target": "<tab>ما زالوا يبذلون قصارى جهدهم، لأن عدم القيام بأي شيء لن يؤدي إلا إلى الانقراض، وهو الأمر الذي تعهدوا بمنعه. على الرغم من أن مصادرة \"المخزون الفائض\" من السكان كانت ستؤدي إلى عدم شعبيتها، فقد فعلوا ذلك، وليس لدي أدنى شك في أنني كنت سأفعل الشيء نفسه في هذا الموقف.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "ACH_full_armor_set_DESC_unlocked",
+    "source": "Found all upgrades for Artyom's suit.",
+    "target": "تم العثور على جميع الترقيات لبدلة أرتيوم.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_041_dock_05_shootingrange_reactions_01_02_02",
+    "source": "Great shot!",
+    "target": "لقطة رائعة!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc1\\dlc1_40_general_conversation_01_18",
+    "source": "Why the secrecy? It's good news! People would donate their stock voluntarily if we told them.",
+    "target": "لماذا السرية؟ إنها أخبار جيدة! سوف يتبرع الناس بمخزونهم طواعية إذا أخبرناهم بذلك.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "menu_customise_magazine_3_name",
+    "source": "MAGAZINE 3 NAME",
+    "target": "اسم المجلة 3",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_suit_upg_unload_empty_spartain_name",
+    "source": "SPARTAIN SUIT",
+    "target": "بدلة سبارتين",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_06_spring_narr_name",
+    "source": "SPRING",
+    "target": "الربيع",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc1\\dlc1_100_search_at_petrovichs_01_12",
+    "source": "I can't do anything. We had a tip about your stock, and had to react to that.",
+    "target": "لا أستطيع أن أفعل أي شيء. لقد تلقينا نصيحة بشأن مخزونك، وكان علينا الرد عليها.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc_comments\\titles_empty_files\\dlc_comments_spring_start_title",
+    "source": "Spring",
+    "target": "الربيع",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_12_valley\\val_000_narration_03",
+    "source": "<tab>I ran into some locals in the ruins of a children's summer camp. Looks like they're not too fond of tourists... So, that's what she meant when she said I should \"stay out of sight\"... <br> Still, I must reach the Dam - my radio got drenched, and I couldn't return the calls from the Aurora, Anna is worried... I should visit the church on the way, it's a notable landmark, Alyosha might be waiting for me there...<br><br>",
+    "target": "<tab>التقيت ببعض السكان المحليين في أنقاض معسكر صيفي للأطفال. يبدو أنهم ليسوا مغرمين جدًا بالسياح... لذا، هذا ما قصدته عندما قالت إنني يجب أن \"أبقى بعيدًا عن الأنظار\"...<br>ومع ذلك، يجب أن أصل إلى السد - الراديو الخاص بي مبلل، ولم أتمكن من الرد على المكالمات من أورورا، آنا قلقة... يجب أن أزور الكنيسة في الطريق، إنها معلم بارز، ربما يكون أليوشا في انتظاري هناك...<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "menu_customise_magazine_1_name",
+    "source": "MAGAZINE 1 NAME",
+    "target": "اسم المجلة 1",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_suit_upg_unload_empty_ranger_name",
+    "source": "RANGER SUIT",
+    "target": "بدلة الحارس",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_171_barondouble_talk_05_giultalk_01",
+    "source": "<ffx:sadness_light>Subtlety not your strong suit, young man... <ffx:wonder_light>Didn't you help that witch escape from the lighthouse? <ffx:smile>Haha! Don't shy away from taking credit, it was all part of the plan... <ffx:smile_light>If not for you, she would have been rescued by Saul's men.<ffx:neutral>",
+    "target": "<ffx:sadness_light>المهارة ليست بدلتك القوية أيها الشاب...<ffx:wonder_light>ألم تساعد تلك الساحرة على الهروب من المنارة؟<ffx:smile>هاها! لا تخجل من الحصول على الفضل، فقد كان كل ذلك جزءًا من الخطة...<ffx:smile_light>لولا وجودك لكان رجال شاول قد أنقذوها.<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc_comments\\burunduk\\dlc_comments_spring_start_part_01",
+    "source": "Spring is the first level, where the player sees the outcome of his decisions taken while playing the previous levels. ",
+    "target": "الربيع هو المستوى الأول، حيث يرى اللاعب نتيجة قراراته التي اتخذها أثناء لعب المستويات السابقة.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_dlc2_diary_08_dsc",
+    "source": "<tab>I'm writing this to put an end to any fucking discussion. Seriy's a dirty thief, he stole a crate of ammo form the last shipment, Nose did a good thing outing the fucker and got that crate as a just reward for doing so. <br><br><tab>Tail that cut Nose up is a running dog, and he knows that he oughtta be put down, so he ran away. A duty of any respectable man should be to shoot the fucker dead on sight. <br><br><tab>If any of these fuckers ever come crawling back here, they are to be shot. Sentries atop the tower are to be changed every two hours and every hour at night until Seraph eats those two fucks. If a sentry loses or breaks the night vision sight, he's dead meat, because it's the last one we have left. <br><br><tab>Owl<br><br>",
+    "target": "<tab>أنا أكتب هذا لوضع حد لأي نقاش سخيف. سيري هو لص قذر، لقد سرق صندوقًا من الذخيرة من الشحنة الأخيرة، وقام الأنف بعمل جيد في إخراج اللعين وحصل على هذا الصندوق كمكافأة عادلة مقابل قيامه بذلك.<br><br><tab>الذيل الذي قطع أنفه هو كلب يركض، وهو يعلم أنه يجب أن يُقتل، لذلك هرب. من واجب أي رجل محترم أن يطلق النار على هذا اللعين فور رؤيته.<br><br><tab>إذا عاد أي من هؤلاء الأوغاد إلى هنا، فيجب إطلاق النار عليهم. يجب تغيير الحراس الموجودين فوق البرج كل ساعتين وكل ساعة في الليل حتى يأكل ساراف هذين الرجلين. إذا فقد الحارس أو كسر رؤية الرؤية الليلية، فهو لحم ميت، لأنه آخر شخص بقي لدينا.<br><br><tab>البومة<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_05_winter\\win_099_radiostation_05_01_03",
+    "source": "<single_phrase_mode><time=0>As one would expect of early Spring, we're currently seeing some South-Eastern gusty winds.<time=6020><time=6220>And, as it's been the case for the past twenty years, these winds are bringing... <time=10920><time=11280>...Drumroll!<time=12340><time=12680>No, not pleasant smells and good mood, but radioactive dust from the Moscow Wasteland!<time=17920><time=18480>So if you’re going out it would be a good idea to dress according to the weather:<time=22500><time=22960>a gas mask or full protective gear makes for a nice choice.<time=26800><time=27260>If you decide to be risky, within a mere hour you could catch a cold and something around... two by four point five...<time=34180><time=34360>Around seventy or so microsieverts, which is nothing to sneeze at in my book!<time=39060><time=39500>So, I urge you to exercise precaution, my dear listeners...<time=43220><time=43360>Of course, if any of you are still tuned in after hearing such ground-breaking scientific insights, haha!<time=48620>",
+    "target": "<single_phrase_mode><time=0>كما نتوقع في مطلع الربيع، تهب علينا حاليًا رياح جنوبية شرقية عاصفة.<time=6020><time=6220>وكما حدث طوال العشرين عامًا الماضية، تحمل إلينا هذه الرياح...<time=10920><time=11280>قرع طبول، من فضلكم!<time=12340><time=12680>كلا، ليست الروائح الطيبة والمزاج الحسن، بل الغبار المشع من قفار موسكو!<time=17920><time=18480>لذلك، إن خرجتم، فمن الحكمة ارتداء ما يناسب الطقس...<time=22500><time=22960>قناع غاز أو طقم حماية كامل خيار مناسب.<time=26800><time=27260>وإن قررتم المخاطرة، فقد تصابون بالبرد خلال ساعة واحدة، وتتلقون نحو... اثنين في أربعة فاصلة خمسة...<time=34180><time=34360>نحو سبعين ميكروسيفرت، وهو رقم لا أراه هينًا!<time=39060><time=39500>لذا أحثكم على توخي الحذر، يا مستمعي الأعزاء...<time=43220><time=43360>هذا إن بقي أحد يستمع بعد هذه الاكتشافات العلمية المذهلة، هاها!<time=48620>",
+    "status": "reviewed",
+    "translation_origin": "reviewed"
+  },
+  {
+    "id": "ACH_full_armor_set_DESC",
+    "source": "Find all upgrades for Artyom's suit.",
+    "target": "ابحث عن جميع الترقيات لبدلة أرتيوم.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "stats_wpn_magazine",
+    "source": "MAGAZINE",
+    "target": "مجلة",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc1\\dlc1_100_search_at_petrovichs_01_10",
+    "source": "Mikhail Petrovitch, you know why we are here. I suggest you donate your excess stock voluntarily, or there will be trouble.",
+    "target": "ميخائيل بتروفيتش، أنت تعرف لماذا نحن هنا. أقترح عليك التبرع بالمخزون الزائد لديك طوعًا، وإلا ستكون هناك مشكلة.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc1\\dlc1_74_1_pa_address_01_06",
+    "source": "Citizens, we urge you to remain calm! Voluntarily submit your stocks of radioprotector to the authorities. Remember, our common duty is to stand together and ensure the common good of all the citizenry!",
+    "target": "أيها المواطنون، نحثكم على التزام الهدوء! قم بتقديم مخزونك من العقار الواقي من الإشعاع طوعًا إلى السلطات. وتذكروا أن واجبنا المشترك هو الوقوف معًا وضمان الصالح العام لجميع المواطنين!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_011_yermak_auroramonologue_01",
+    "source": "<ffx:smile_light>Frankly speaking, she's a museum piece, my old gal... <ffx:wonder>Hansa dug through some mothballs like this back home, and only because you can't really find diesel fuel now, <ffx:sadness>with most of the remaining stock going bad... <ffx:wonder_light>",
+    "target": "<ffx:smile_light>بصراحة، إنها قطعة متحف، يا فتاتي القديمة...<ffx:wonder>قامت هانسا بالحفر في بعض كرات النفتالين مثل هذه في المنزل، وذلك فقط لأنك لا تستطيع حقًا العثور على وقود الديزل الآن،<ffx:sadness>مع تلف معظم المخزون المتبقي...<ffx:wonder_light>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_12_autumn\\aut_003_briefing_01_06",
+    "source": "<ffx:wonder>Until today, we though that this shot of Novosibirsk was a simple error... <ffx:sadness>We were wrong. <ffx:neutral>",
+    "target": "<ffx:wonder>حتى اليوم، كنا نعتقد أن هذه اللقطة لنوفوسيبيرسك كانت خطأً بسيطًا...<ffx:sadness>كنا مخطئين.<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_09_summer\\sum_015_01_yermakphase2_02_04",
+    "source": "<ffx:wonder>Still, if Anna does get better in that valley ahead, <ffx:smile_light>we could winter there, and <ffx:wonder_light>decide if we want to move out next spring.<ffx:neutral>",
+    "target": "<ffx:wonder>ومع ذلك، إذا تحسنت حالة آنا في ذلك الوادي أمامنا، فيمكننا<ffx:smile_light>أن نقضي الشتاء هناك، و<ffx:wonder_light>نقرر ما إذا كنا نريد الخروج في الربيع المقبل.<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_dlc1_deathbyfire_hint_1",
+    "source": "Fire is extremely dangerous when you're not wearing a special protective suit.",
+    "target": "يعتبر الحريق خطيرًا للغاية عندما لا ترتدي بدلة واقية خاصة.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_suit_changer_hint_2_xbox",
+    "source": "<popup_devices> AND <popup_secondary> - SELECT SUIT. <br><jump> - EQUIP SELECTED  SUIT. <br><use> - CHANGE HELMET, ARMOR, AND BRACER MODIFICATIONS.",
+    "target": "<popup_devices> و <popup_secondary>- اختر البدلة.<br><jump>- تجهيز البدلة المختارة.<br><use>- تغيير تعديلات الخوذة والدرع والدعامات.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "$general_hint_31",
+    "source": "To keep your nightvision and flashlight charged, hold down <wpn_light> to bring out the universal charger and press <wpn_fire> to charge it. Put it away again by holding <wpn_light>.",
+    "target": "لشحن نظارات الرؤية الليلية والمصباح، اضغط باستمرار على <wpn_light> لإخراج الشاحن، ثم اضغط على <wpn_fire> لتشغيله. اضغط باستمرار على <wpn_light> مجددا لإعادته.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_13_nvs_diary_5_dsc",
+    "source": "<tab>December 10th<br><br><tab>Looks like we’re more or less settled now. Sure feels weird - life’s over, the whole world is cinders, nothing but static on the radio... We don’t have that much longer, with the counter ringing like an alarm-clock on steroids - the military, though, still can’t drop their charade. They’ve created a Committee, a Special one to boot! So official... The civilians don’t give much of a damn either, they used to whine about being transferred to the Sibirskaya, and when the military stopped all immigration, they just switched to bickering over spots furthest from the tunnels. What difference does it make? Hardly half of us will be still alive in a month!<br><br><tab>Feeling sick... I wonder how much radiation have I swallowed in the last month?<br><br><tab>December 15th<br><br><tab>The station manager gave out the radioprotector today. It appears, they were making the stuff at the Institute... I thought they did it to just keep the folks from panicking, but no - I felt better as soon as I took the shot. It looks like we’re going to be staying here for a little longer ...<br><br><tab>January 1st<br><br><tab>How many years have passed since... My whole life... Was there anything even worth noting in that life? I just wasted it all here, in the underground... Well, I did move to the depot - but that’s just work, you could do worse if you want your green stuff... So, I just went without writing anything down. Who cares about day-to-day stuff? You can’t even tell one year from another down here...<br><br><tab>January 2nd<br><br><tab>I just had to go and write that shit yesterday! Talk about bad luck...  Where did all those worms come from, with it being winter and all? Spent the whole day cleaning the tunnel - in the technical corridor the slime ate through all the planks, me be damned if I know what are we going to build walkways with from now on...  Still, it didn’t get the mushrooms - famine definitely is something we could do without...<br><br><tab>January 15th<br><br><tab>Our boys are back from the Surface. Two of the five, plus the spook. And they are keeping their mouths shut.<br><br><tab>Managed to get them talking over drinks - the Akademgorodok green stuff warehouse is empty now. They’ll have to cut our supply down - I’m lucky to have some set aside for a rainy day. And when that runs out... Who cares about this life anyways.<br><br><tab>February 15th<br><br><tab>I called it! They cut our handout by half. I can survive, but what are the people with families supposed to do?<br><br><tab>March 15th<br><br><tab>Another cut by half... Just one flask - this is enough to last a week here... Another week later you start puking your guts out. Another two, and it’s time to start shopping for a coffin. Though, coffins are a thing of the past now - you’re lucky if they don’t feed you to the pigs once you croak now...<br><br><tab>April 10th<br><br><tab>Gave my last five flasks to Kolya - his daughter’s got the rash already... With this, she should get better for a spell. I’m done with sitting on my butt in this hole. The others say the same... We’re going to have some fun, spread our wings a bit before closing time!<br><br>",
+    "target": "<tab>، 10 ديسمبر<br><br><tab>يبدو أننا مستقرون إلى حد ما الآن. من المؤكد أنه يبدو غريبًا - لقد انتهت الحياة، والعالم كله أصبح رمادًا، ولا شيء سوى ثابت على الراديو... لم يعد لدينا الكثير من الوقت، مع رنين العداد مثل المنبه على المنشطات - ومع ذلك، لا يزال الجيش غير قادر على إسقاط تمثيليته. لقد أنشأوا لجنة، لجنة خاصة للتمهيد! رسميًا جدًا... المدنيون أيضًا لا يكترثون كثيرًا، فقد اعتادوا التذمر من نقلهم إلى سيبيرسكايا، وعندما أوقف الجيش كل عمليات الهجرة، تحولوا إلى المشاحنات حول الأماكن الأبعد عن الأنفاق. ما الفرق الذي يحدثه؟ بالكاد سيظل نصفنا على قيد الحياة خلال شهر واحد!<br><br><tab>أشعر بالمرض... وأتساءل ما مقدار الإشعاع الذي ابتلعت في الشهر الماضي؟<br><br><tab>15 ديسمبر<br><br><tab>قام مدير المحطة اليوم بتوزيع العقار الواقي من الإشعاع. يبدو أنهم كانوا يصنعون الأشياء في المعهد... اعتقدت أنهم فعلوا ذلك فقط لمنع الناس من الذعر، لكن لا - شعرت بالتحسن بمجرد أن التقطت الصورة. يبدو أننا سنبقى هنا لفترة أطول قليلاً...<br><br><tab>الأول من يناير<br><br><tab>كم سنة مرت منذ... حياتي كلها... هل كان هناك أي شيء يستحق الذكر في تلك الحياة؟ لقد أهدرت كل شيء هنا، في تحت الأرض... حسنًا، لقد انتقلت إلى المستودع - لكن هذا مجرد عمل، يمكنك أن تفعل ما هو أسوأ إذا كنت تريد أغراضك الخضراء... لذا، ذهبت دون كتابة أي شيء. من يهتم بالأشياء اليومية؟ لا يمكنك حتى التمييز بين سنة وأخرى هنا...<br><br><tab>2 يناير<br><br><tab>كان علي أن أذهب وأكتب هذا الهراء بالأمس! تحدث عن الحظ السيئ... من أين أتت كل تلك الديدان، مع حلول الشتاء وما إلى ذلك؟ أمضيت اليوم كله في تنظيف النفق - في الممر الفني، أكل الوحل جميع الألواح الخشبية، اللعنة إذا كنت أعرف ما الذي سنبني به الممرات من الآن فصاعدًا... ومع ذلك، لم نحصل على الفطر - المجاعة بالتأكيد شيء يمكننا الاستغناء عنه...<br><br><tab>15 يناير<br><br><tab>لقد عاد أولادنا من السطح. اثنان من الخمسة، بالإضافة إلى الشبح. وهم يبقون أفواههم مغلقة.<br><br><tab>تمكنت من جعلهم يتحدثون أثناء تناول المشروبات - مستودع المواد الخضراء أكاديمغورودوك فارغ الآن. سيتعين عليهم قطع إمداداتنا - وأنا محظوظ لأنني خصصت بعضًا منها ليوم ممطر. وعندما ينفد ذلك... من يهتم بهذه الحياة على أي حال.<br><br><tab>15 فبراير<br><br><tab>لقد اتصلت به! لقد قطعوا صدقتنا إلى النصف. أستطيع البقاء على قيد الحياة، ولكن ما الذي يفترض أن يفعله الأشخاص الذين لديهم عائلات؟<br><br><tab>15 مارس<br><br><tab>قطع آخر بمقدار النصف... دورق واحد فقط - هذا يكفي لمدة أسبوع هنا... وبعد أسبوع آخر تبدأ في التقيؤ في أحشائك. اثنان آخران، وحان الوقت لبدء التسوق لشراء تابوت. على الرغم من ذلك، أصبحت التوابيت شيئًا من الماضي الآن - فأنت محظوظ إذا لم تطعمك للخنازير بمجرد أن تنعق الآن...<br><br><tab>10 أبريل<br><br><tab>أعطيت قوارير الخمس الأخيرة لكوليا - لقد أصيبت ابنته بالطفح الجلدي بالفعل... بهذا، يجب أن تحصل على أفضل للتهجئة. لقد انتهيت من الجلوس على مؤخرتي في هذه الحفرة. الآخرون يقولون الشيء نفسه... سنحظى ببعض المرح، ونفرد أجنحتنا قليلاً قبل وقت الإغلاق!<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "$wpn_upt_rpk_mag_name",
+    "source": "DRUM MAGAZINE",
+    "target": "مجلة الطبل",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "menu_customize_laser_ir_dsc",
+    "source": "The IR laser sight's invisible beam produces a very small dot on the target, which is only detectable with a night vision device.",
+    "target": "يُنتج الشعاع غير المرئي لمنظار الليزر بالأشعة تحت الحمراء نقطة صغيرة جدًا على الهدف، والتي لا يمكن اكتشافها إلا بجهاز الرؤية الليلية.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "menu_customise_magazine_2_desc",
+    "source": "Magazine 2 Description",
+    "target": "وصف المجلة 2",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_2\\free\\free_unsafe_07",
+    "source": "What are they even thinking, making us do the rounds here, where we can barely protect ourselves, much less be of any use?",
+    "target": "ما الذي يفكرون فيه حتى، مما يجعلنا نقوم بجولات هنا، حيث بالكاد نستطيع حماية أنفسنا، ناهيك عن أن تكون ذات فائدة؟",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "general_hint_76",
+    "source": "A reflex sight makes aiming your weapon easier and does not limit your field of view.",
+    "target": "يسهل المنظار الانعكاسي التصويب بالسلاح دون تضييق مجال الرؤية.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_pause_menu_hint_medkit_dsc",
+    "source": "In a critical situation, a Medkit can save your life. Don’t forget to stock up on these! ",
+    "target": "قد تنقذ حقيبة الإسعافات حياتك في المواقف الحرجة. احرص على الاحتفاظ بمخزون منها!",
+    "status": "reviewed",
+    "translation_origin": "reviewed"
+  },
+  {
+    "id": "voices\\m3_13_dead_city\\nvs_000_narration_06",
+    "source": "<tab>Kirill gave us his most prized possession, the last flasks of radio-protector that had kept him alive. He also gave us something even more precious: a hope to finally find a place we could settle in, so now we simply have no choice but to succeed and bring him back to the Aurora...<br><br>",
+    "target": "<tab>أعطانا كيريل أغلى ممتلكاته، وهي آخر قوارير جهاز حماية الراديو الذي أبقاه على قيد الحياة. لقد أعطانا أيضًا شيئًا أكثر قيمة: الأمل في العثور أخيرًا على مكان يمكننا الاستقرار فيه، لذلك ليس لدينا الآن خيار سوى النجاح وإعادته إلى أورورا...<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "$wpn_upt_sayga_mag_name",
+    "source": "EXTENDED MAGAZINE",
+    "target": "مجلة موسعة",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_014_springattack_01_57",
+    "source": "<ffx:smile>The passage to the spring! Let's go! <ffx:neutral>",
+    "target": "<ffx:smile>العبور إلى الربيع! دعنا نذهب!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_10_yamantau\\yam_010_welcometohell_15",
+    "source": "<ffx:wonder>So, Colonel... <ffx:anger_light>Now you will pick up the radio and tell the rest of your people on the train to come here, <ffx:disgust>if you don't want her to suffer for a really long time before she is served, <ffx:wonder>do you understand? <ffx:wonder_light>",
+    "target": "<ffx:wonder>إذن، أيها العقيد...<ffx:anger_light>الآن ستلتقط الراديو وتخبر بقية الأشخاص في القطار أن يأتوا إلى هنا،<ffx:disgust>إذا كنت لا تريدها أن تعاني لفترة طويلة جدًا قبل أن يتم تقديم الخدمة لها،<ffx:wonder>هل تفهم؟<ffx:wonder_light>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_05_winter\\win_099_radiostation_05_01_06",
+    "source": "<single_phrase_mode><time=0>But let’s wrap up this sidetrack and get back to weather...<time=2840><time=2960>I completely neglected to report the most important piece of information I have in that regard...<time=7700><time=7940>The one you’re all so eager to know!<time=10520><time=10980>So, here goes nothing...<time=12020><time=12440>The thermometer outside of the studio’s window currently says it’s six degrees below zero,<time=17200><time=17400>which is an outright luxury for Vyshny Volochyok, all things considered.<time=21340><time=21720>It seems that the nuclear spring that’s been hinted at since forever by every optimistically-inclined forecast enthusiast out there, has finally arrived!<time=30880>",
+    "target": "<single_phrase_mode><time=0>لكن لننهِ هذا الاستطراد ونعد إلى الطقس...<time=2840><time=2960>فقد نسيت تمامًا ذكر أهم معلومة لدي عنه...<time=7700><time=7940>تلك التي تتلهفون جميعًا إلى معرفتها!<time=10520><time=10980>حسنًا، لنبدأ...<time=12020><time=12440>يشير مقياس الحرارة خارج نافذة الاستوديو الآن إلى ست درجات تحت الصفر...<time=17200><time=17400>وهذا ترف حقيقي في فيشني فولوتشوك، إذا أخذنا كل الظروف في الاعتبار.<time=21340><time=21720>يبدو أن الربيع النووي الذي طالما بشّر به المتفائلون من هواة توقعات الطقس قد حل أخيرًا!<time=30880>",
+    "status": "reviewed",
+    "translation_origin": "reviewed"
+  },
+  {
+    "id": "menu_customise_magazine_4_desc",
+    "source": "Magazine 4 Description",
+    "target": "وصف المجلة 4",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_m08_des_suit_9_task_note",
+    "source": "Equip the new suit and pick up the backpack with a spare for Damir.",
+    "target": "ارتد البدلة الجديدة وخذ حقيبة الظهر التي تحتوي على بدلة احتياطية لدامير.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_dlc01_general_hint_7",
+    "source": "You are almost immune to flame while wearing the protective suit issued to OSKOM flamethrower-equipped troops, but without it you're just as vulnerable as everyone else.",
+    "target": "أنت تقريبًا محصن ضد اللهب أثناء ارتدائك البدلة الواقية الصادرة لقوات أوسكوم المجهزة بقاذفات اللهب، ولكن بدونها فأنت معرض للخطر مثل أي شخص آخر.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "menu_customise_magazine_2_name",
+    "source": "MAGAZINE 2 NAME",
+    "target": "اسم المجلة 2",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "$wpn_upt_ventil_mag_dsc",
+    "source": "The extended magazine allows for firing the rifle for twice as long but makes it much more cumbersome.",
+    "target": "تسمح المجلة الموسعة بإطلاق النار من البندقية لمدة أطول ولكنها تجعلها أكثر تعقيدًا.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_12_autumn\\aut_000_narration_good",
+    "source": "<tab>We all remained silent while the Aurora was running along the poisoned sea held at bay by the dam... We believed we'd be back. Now, having seen the sword of Damocles hanging over the valley, we knew it was not meant to be. <br><br><tab>Alyosha is especially worried - his Olga is there... Perhaps, he will be able to warn her via Radio and save the people there...<br><br><tab>What happens next? I've no idea, I am ready for anything. Anything, but one thing. Anna... Please, hold on... Without you, I've nothing to live for, nothing to dream about... Doubly so, since if not for that dream of mine, you'd be all right now...<br><br>",
+    "target": "<tab>بقينا جميعًا صامتين بينما كانت سفينة أورورا تجري على طول البحر المسموم الذي يحاصره السد... كنا نعتقد أننا سنعود. الآن، بعد أن رأينا سيف ديموقليس معلقًا فوق الوادي، عرفنا أنه لم يكن من المفترض أن يكون كذلك.<br><br><tab>يشعر أليوشا بالقلق بشكل خاص - أولجا الخاصة به هناك... ربما سيكون قادرًا على تحذيرها عبر الراديو وإنقاذ الأشخاص هناك...<br><br><tab>ماذا سيحدث بعد ذلك؟ ليس لدي أي فكرة، أنا مستعد لأي شيء. أي شيء، ولكن شيء واحد. آنا... أرجوك، انتظر... بدونك، ليس لدي ما أعيش من أجله، ولا شيء أحلم به... وهذا مضاعف، لأنه لولا حلمي هذا، لكنت بخير الآن...<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_05_winter\\win_000_annanews_discussion_02_01_03",
+    "source": "<ffx:sadness_light>While I could have gotten a whole bunch of MREs for the same ammo. <ffx:wonder>Or a new hazard suit... <ffx:sadness>I wish I had known there'd be no need for them... <ffx:neutral>",
+    "target": "<ffx:sadness_light>بينما كان بإمكاني الحصول على مجموعة كاملة من التوعية بمخاطر الألغام لنفس الذخيرة.<ffx:wonder>أو بدلة خطر جديدة...<ffx:sadness>أتمنى لو كنت أعرف أنه لن تكون هناك حاجة إليها...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_13_dead_city\\nvs_099_phonetalk_01_millercomment_01",
+    "source": "So, that's how they were surviving... Due to that \"green stuff\", the radio-protector the military issued...",
+    "target": "إذن، هكذا كانوا على قيد الحياة... بسبب تلك \"المادة الخضراء\"، أصدر الجيش جهاز حماية الراديو...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  }
+]

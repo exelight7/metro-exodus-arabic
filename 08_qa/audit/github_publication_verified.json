@@ -1,0 +1,61 @@
+{
+  "url": "https://github.com/exelight7/metro-exodus-arabic/releases/tag/v0.1.0-beta.1",
+  "tag": "v0.1.0-beta.1",
+  "commit": "cd505aae10b24a504e750e7c998633fcf9df10b4",
+  "public_release": true,
+  "prerelease": true,
+  "asset_count": 7,
+  "all_server_digests_match": true,
+  "public_guide_download_verified": true,
+  "assets": [
+    {
+      "id": 708892381,
+      "name": "build-metadata.json",
+      "size": 16638,
+      "digest": "sha256:faae74f674ac65c0f8a4331144551a7e7c8217b1bc37d7e953ef9737622898ee",
+      "browser_download_url": "https://github.com/exelight7/metro-exodus-arabic/releases/download/v0.1.0-beta.1/build-metadata.json"
+    },
+    {
+      "id": 708892316,
+      "name": "INSTALLATION_AR.md",
+      "size": 4281,
+      "digest": "sha256:4280bdeb4d3e9911b06b16cdd7c17ee6fd86e4f9ddac1d92c0643a977be575be",
+      "browser_download_url": "https://github.com/exelight7/metro-exodus-arabic/releases/download/v0.1.0-beta.1/INSTALLATION_AR.md"
+    },
+    {
+      "id": 708891678,
+      "name": "Metro-Arabic-Installer-Proton-x86_64.AppImage",
+      "size": 119773688,
+      "digest": "sha256:02f071edda49cadb64f0b92cce7e088e70cdc9b772e2129cb71184c672188b68",
+      "browser_download_url": "https://github.com/exelight7/metro-exodus-arabic/releases/download/v0.1.0-beta.1/Metro-Arabic-Installer-Proton-x86_64.AppImage"
+    },
+    {
+      "id": 708890848,
+      "name": "Metro-Arabic-Installer-Windows.exe",
+      "size": 43075872,
+      "digest": "sha256:e8f23bc3f45984582d0c09781f68a06ce0791167ab0de2009192251edb21bee8",
+      "browser_download_url": "https://github.com/exelight7/metro-exodus-arabic/releases/download/v0.1.0-beta.1/Metro-Arabic-Installer-Windows.exe"
+    },
+    {
+      "id": 708892214,
+      "name": "Metro-Exodus-Arabic-v0.1.0-beta.1-Source.zip",
+      "size": 5393275,
+      "digest": "sha256:83781ed4140ce4cdac879e5e4c366c5d3db4df873897a71eb018b775fae5601a",
+      "browser_download_url": "https://github.com/exelight7/metro-exodus-arabic/releases/download/v0.1.0-beta.1/Metro-Exodus-Arabic-v0.1.0-beta.1-Source.zip"
+    },
+    {
+      "id": 708892350,
+      "name": "QA.json",
+      "size": 429,
+      "digest": "sha256:f44490732e9e0fe86ddf904d6d22ce6924195168c1e30921ae881e564d4437fa",
+      "browser_download_url": "https://github.com/exelight7/metro-exodus-arabic/releases/download/v0.1.0-beta.1/QA.json"
+    },
+    {
+      "id": 708892459,
+      "name": "SHA256SUMS.txt",
+      "size": 569,
+      "digest": "sha256:dc5bf8b510fc26df3ea1d2bf008a626751dbee9cd6f11e7444b8c203e45fc18a",
+      "browser_download_url": "https://github.com/exelight7/metro-exodus-arabic/releases/download/v0.1.0-beta.1/SHA256SUMS.txt"
+    }
+  ]
+}

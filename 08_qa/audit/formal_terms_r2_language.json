@@ -1,0 +1,351 @@
+{
+  "revision": "formal_terms_r2",
+  "audited_rows": 38221,
+  "canonical_labels": 75,
+  "context_rules": 22,
+  "changed_entries": 67,
+  "unrelated_entries_preserved": 38156,
+  "forbidden_transliterations_remaining": [],
+  "other_payloads_identical": true,
+  "canonical_speaker_names_preserved": true,
+  "tags_and_timelines_preserved": true,
+  "runtime_tested": false,
+  "changes": [
+    {
+      "id": "menu_customize_system_burst_barrel_dsc",
+      "source": "The burst fire receiver and standard barrel combo is the perfectly balanced option for engaging targets at either close or long range. It's only drawback is that it can only fire 3-bullet bursts.",
+      "target": "تجمع هذه المنظومة بين آلية إطلاق الرشقات وسبطانة قياسية، لتوفر توازنا مثاليا للاشتباك القريب والبعيد. عيبها الوحيد أنها لا تطلق إلا رشقات من ثلاث طلقات."
+    },
+    {
+      "id": "menu_customize_scope_high_dsc",
+      "source": "This sniper sight allows easy aiming at extremely long distances, but significantly limits the field of view.",
+      "target": "يسهل منظار القنص هذا التصويب إلى أهداف بعيدة جدا، لكنه يضيق مجال الرؤية بدرجة كبيرة."
+    },
+    {
+      "id": "$wpn_upt_duplet_barr_name",
+      "source": "EXTENDED BARRELS",
+      "target": "سبطانات مطولة"
+    },
+    {
+      "id": "menu_customize_stock_sammy_balance_dsc",
+      "source": "Balanced metal grip and stock, assuring equally good recoil control and aim steadiness.",
+      "target": "قبضة وأخمص معدنيان متوازنان، يوفران تحكما جيدا في الارتداد وثبات التصويب على السواء."
+    },
+    {
+      "id": "$wpn_upt_duplet_barr_dsc",
+      "source": "Makes shot spread tighter, turning the shotgun from a close combat weapon into a veritable hunting gun good for medium range. ",
+      "target": "يقلل تشتت الخرطوش، فيحول البندقية من سلاح للقتال القريب إلى بندقية صيد فعالة على المدى المتوسط."
+    },
+    {
+      "id": "menu_customize_stock_sammy_heavy_dsc",
+      "source": "Heavy wooden grip and stock for better recoil control. Significantly increase weapon stability at the cost of aim steadiness.",
+      "target": "قبضة وأخمص خشبيان ثقيلان لتحسين التحكم في الارتداد. يزيدان استقرار السلاح بدرجة كبيرة على حساب ثبات التصويب."
+    },
+    {
+      "id": "menu_customize_collimator_dsc",
+      "source": "This pre-war sight makes aiming the gun at close and medium range easier, without sacrificing much of the field of view. ",
+      "target": "يسهل هذا المنظار المصنوع قبل الحرب التصويب على المدى القريب والمتوسط، دون أن يضيق مجال الرؤية كثيرا."
+    },
+    {
+      "id": "hs_bullets_fired",
+      "source": "Shots fired",
+      "target": "الطلقات المطلقة"
+    },
+    {
+      "id": "menu_customize_laser_green_dsc",
+      "source": "High visibility laser sight reassembled in a custom-made body along with a bunch of modifications.",
+      "target": "أداة تصويب ليزرية شديدة الوضوح، أعيد تركيبها في هيكل مصنوع خصيصا مع عدة تعديلات."
+    },
+    {
+      "id": "stats_wpn_rpm",
+      "source": "RATE OF FIRE",
+      "target": "معدل إطلاق النار"
+    },
+    {
+      "id": "menu_customize_barrel_long_compensator_dsc",
+      "source": "Designed to increase accuracy and damage, this barrel and muzzle attachment combo is not the best choice for the more dynamic firefights.",
+      "target": "صممت هذه المجموعة من السبطانة وملحق الفوهة لزيادة الدقة والضرر، لكنها ليست الخيار الأفضل للاشتباكات سريعة الحركة."
+    },
+    {
+      "id": "$wpn_upt_gatling_support_dsc",
+      "source": "Makes movement easier while spinning barrels and firing.",
+      "target": "يسهل الحركة أثناء دوران السبطانات وإطلاق النار."
+    },
+    {
+      "id": "menu_customize_barrel_std_choke_duckbill_dsc",
+      "source": "Duckbill choke changes the weapon's spread pattern, diverting the pellets to the sides.",
+      "target": "يغير خانق الفوهة المسطح نمط تشتت الخرطوش، فيوزع الحبيبات نحو الجانبين."
+    },
+    {
+      "id": "menu_customize_nvscope_dsc",
+      "source": "This night-vision scope allows for accurate placement of shots even in complete darkness.",
+      "target": "يتيح منظار الرؤية الليلية هذا إصابة الأهداف بدقة حتى في الظلام الدامس."
+    },
+    {
+      "id": "$game_difficulty_ranger_hard",
+      "source": "RANGER HARDCORE",
+      "target": "الحارس شديد الصعوبة"
+    },
+    {
+      "id": "menu_customize_stock_scout_sniper_dsc",
+      "source": "Light grip built of readily available materials allows its user to shoot safely.",
+      "target": "قبضة خفيفة مصنوعة من مواد متاحة، تتيح لمستخدمها إطلاق النار بأمان."
+    },
+    {
+      "id": "ACH_hardcore_DESC",
+      "source": "Complete the game in Ranger Hardcore mode.",
+      "target": "أكمل اللعبة في وضع الحارس شديد الصعوبة."
+    },
+    {
+      "id": "$wpn_upt_stabilizer_dsc",
+      "source": "This gyro stabilizer makes the Gatling gun easier to control while spinning barrels and firing.",
+      "target": "يسهل مثبت التوازن هذا التحكم في رشاش جاتلينغ أثناء دوران السبطانات وإطلاق النار."
+    },
+    {
+      "id": "menu_customize_heavy_stock_grip_dsc",
+      "source": "Heavy shoulder stock with a metal grip. Army type attachment designed to significantly decrease recoil.",
+      "target": "أخمص كتف ثقيل مع قبضة معدنية. ملحق عسكري مصمم لتقليل الارتداد بدرجة كبيرة."
+    },
+    {
+      "id": "menu_customize_barrel_short_silencer_big_dsc",
+      "source": "Tries to suppress sound with mixed results, while staying a bit more compact than a full-scale barrel.",
+      "target": "يوفر كتما متفاوت الفاعلية للصوت، مع حجم أصغر قليلا من السبطانة الكاملة."
+    },
+    {
+      "id": "menu_customize_barrel_short_flash_hider_dsc",
+      "source": "Lightest barrel and muzzle attachment combo readily available for assault rifles. ",
+      "target": "أخف مجموعة متاحة من السبطانة وملحق الفوهة للبنادق الهجومية."
+    },
+    {
+      "id": "menu_customize_stock_scout_sniper_name",
+      "source": "LIGHT GRIP AND FOREND",
+      "target": "قبضة وواقية يد خفيفتان"
+    },
+    {
+      "id": "menu_customize_system_semi_auto_barrel_dsc",
+      "source": "The long barrel and semi-automatic receiver turn the weapon into a long-range marksman rifle, substantially increasing bullet velocity and damage. On the downside, the weapon becomes a harder to aim quick and its recoil gets much stronger.",
+      "target": "تحول السبطانة الطويلة وآلية الإطلاق نصف الآلية السلاح إلى بندقية رماية بعيدة المدى، وتزيد سرعة الرصاصة وضررها كثيرا. لكن التصويب السريع يصبح أصعب، ويزداد الارتداد بدرجة كبيرة."
+    },
+    {
+      "id": "menu_customise_scope_5_desc",
+      "source": "Scope 5 Description",
+      "target": "وصف المنظار 5"
+    },
+    {
+      "id": "$wpn_upt_ubl_butt_dsc",
+      "source": "The anatomic stock makes the bastard gun easier to control, which is especially welcome in full auto.",
+      "target": "يسهل الأخمص المصمم ليلائم الجسم التحكم في السلاح، خصوصا أثناء الإطلاق الآلي الكامل."
+    },
+    {
+      "id": "menu_customise_scope_2_name",
+      "source": "SCOPE 2 NAME",
+      "target": "اسم المنظار 2"
+    },
+    {
+      "id": "$game_difficulty_ranger",
+      "source": "RANGER",
+      "target": "الحارس"
+    },
+    {
+      "id": "menu_customise_scope_4_name",
+      "source": "SCOPE 4 NAME",
+      "target": "اسم المنظار 4"
+    },
+    {
+      "id": "menu_customize_system_auto_barrel_dsc",
+      "source": "The full-auto receiver and short barrel combo may not boast highest damage and accuracy, but it still  provides best recoil control, making it perfect for short- to mid-range engagements.",
+      "target": "قد لا تحقق منظومة الإطلاق الآلي الكامل مع السبطانة القصيرة أعلى ضرر ودقة، لكنها توفر أفضل تحكم في الارتداد، مما يجعلها مثالية للاشتباكات القريبة والمتوسطة."
+    },
+    {
+      "id": "general_hint_79",
+      "source": "Shamblers can be recharged one shell at a time.",
+      "target": "يمكن تلقيم بندقية شامبلر بطلقة خرطوش واحدة في كل مرة."
+    },
+    {
+      "id": "$wpn_upt_5barrel_name",
+      "source": "FIVE-BARREL ASSEMBLY",
+      "target": "مجموعة من خمس سبطانات"
+    },
+    {
+      "id": "menu_customise_scope_4_desc",
+      "source": "Scope 4 Description",
+      "target": "وصف المنظار 4"
+    },
+    {
+      "id": "menu_customise_scope_1_name",
+      "source": "SCOPE 1 NAME",
+      "target": "اسم المنظار 1"
+    },
+    {
+      "id": "menu_customise_scope_5_name",
+      "source": "SCOPE 5 NAME",
+      "target": "اسم المنظار 5"
+    },
+    {
+      "id": "menu_customise_scope_1_desc",
+      "source": "Scope 1 Description",
+      "target": "وصف المنظار 1"
+    },
+    {
+      "id": "menu_customize_heavy_barrel_044_dsc",
+      "source": "The heaviest among the barrels, this fluted pipe provides a considerable boost to firepower.",
+      "target": "أثقل السبطانات المتاحة. تزيد هذه السبطانة المحززة القوة النارية بدرجة كبيرة."
+    },
+    {
+      "id": "menu_customise_scope_3_name",
+      "source": "SCOPE 3 NAME",
+      "target": "اسم المنظار 3"
+    },
+    {
+      "id": "menu_customize_long_barrel_044_dsc",
+      "source": "Longer barrel provides better rifle accuracy and damage.",
+      "target": "تحسن السبطانة الأطول دقة البندقية والضرر الذي تسببه."
+    },
+    {
+      "id": "$general_hint_32",
+      "source": "Aim down the sights using <wpn_aim> for a more accurate shot.",
+      "target": "استخدم <wpn_aim> للتصويب عبر أدوات التصويب والحصول على طلقة أدق."
+    },
+    {
+      "id": "m3_dlc01_general_hint_15",
+      "source": "When using ballistic weapons, aim down the sights with <wpn_aim> for a more accurate shot.",
+      "target": "عند استخدام الأسلحة النارية، صوب عبر أدوات التصويب باستخدام <wpn_aim> للحصول على طلقة أدق."
+    },
+    {
+      "id": "m3_suit_upg_unload_empty_ranger_name",
+      "source": "RANGER SUIT",
+      "target": "بدلة الحارس"
+    },
+    {
+      "id": "menu_customize_stock_std_handgun_dsc",
+      "source": "Basic grip and wooden stock that makes a weapon more comfortable to use.",
+      "target": "قبضة أساسية وأخمص خشبي يجعلان استخدام السلاح أكثر راحة."
+    },
+    {
+      "id": "sayga_dsc",
+      "source": "This pre-war automatic shotgun is very reliable and has a high rate of fire, which makes it a great weapon for dealing with packs of mutants. ",
+      "target": "بندقية خرطوش آلية من صنع ما قبل الحرب، موثوقة جدا وذات معدل إطلاق مرتفع، مما يجعلها فعالة ضد قطعان المتحولين."
+    },
+    {
+      "id": "$ubl_dsc",
+      "source": "This makeshift SMG has a high rate of fire which makes it overheat and jam rather rapidly, hence the weapon's name.",
+      "target": "يمتاز هذا الرشاش المرتجل بمعدل إطلاق مرتفع يجعله يسخن ويتعطل بسرعة، ومن هنا جاءت تسميته."
+    },
+    {
+      "id": "$wpn_upt_abzac_autof_dsc",
+      "source": "This trigger assembly allows for full-auto firing and increases rate of fire.",
+      "target": "تتيح مجموعة الزناد هذه الإطلاق الآلي الكامل وتزيد معدل إطلاق النار."
+    },
+    {
+      "id": "menu_customize_grip_kolya_heavy_dsc",
+      "source": "Heavy grip significantly reduces recoil but makes it harder to have keep the aim steady. ",
+      "target": "تقلل القبضة الثقيلة الارتداد كثيرا، لكنها تصعب الحفاظ على ثبات التصويب."
+    },
+    {
+      "id": "menu_customize_barrel_shotgun_long_dsc",
+      "source": "The long barrel provides a considerable damage boost along with a small increase in accuracy at the expense of handling convenience. ",
+      "target": "تزيد السبطانة الطويلة الضرر كثيرا وتحسن الدقة قليلا، على حساب سهولة استخدام السلاح."
+    },
+    {
+      "id": "menu_customize_stock_sniper_handgun_dsc",
+      "source": "Wooden grip and sniper wooden stock from a hunter rifle. Greatly reduces recoil.",
+      "target": "قبضة خشبية وأخمص خشبي للقنص مأخوذان من بندقية صيد. يقللان الارتداد بدرجة كبيرة."
+    },
+    {
+      "id": "menu_customize_barrel2_dsc",
+      "source": "Double barrels allow chambering two rounds, which can be shot in a salvo or separately.",
+      "target": "تتيح السبطانتان تحميل طلقتين يمكن إطلاقهما معا أو كل منهما على حدة."
+    },
+    {
+      "id": "menu_customize_std_barrel_044_dsc",
+      "source": "Any steel pipe with an improvised iron sight attached automatically becomes a barrel.",
+      "target": "أي أنبوب فولاذي تثبت عليه أداة تصويب حديدية مرتجلة يصلح لأن يصبح سبطانة."
+    },
+    {
+      "id": "menu_customize_std_stock_grip_dsc",
+      "source": "Wooden stock and grip. Traditional for Kalash.",
+      "target": "أخمص وقبضة خشبيان، وهما التجهيز التقليدي لبندقية كلاش."
+    },
+    {
+      "id": "general_hint_78",
+      "source": "A duplet can shoot both barrels at once. With a corresponding upgrade, it can shoot four shells at once.",
+      "target": "يمكن للبندقية المزدوجة إطلاق السبطانتين معا. ومع الترقية المناسبة، تستطيع إطلاق أربع طلقات خرطوش في آن واحد."
+    },
+    {
+      "id": "menu_customize_barrel_gatling_small_name",
+      "source": "SHORT BARRELS AND SPRING MECHANISM",
+      "target": "سبطانات قصيرة وآلية نابضية"
+    },
+    {
+      "id": "menu_customise_scope_3_desc",
+      "source": "Scope 3 Description",
+      "target": "وصف المنظار 3"
+    },
+    {
+      "id": "menu_customize_barrel_gatling_small_dsc",
+      "source": "This dual short-barreled mechanical-fed system boasts fast rate of fire combined with having good damage and penetration, but its drive spring slowly loses tension over time.",
+      "target": "يوفر هذا النظام الميكانيكي ذو السبطانتين القصيرتين معدل إطلاق سريع مع ضرر وقدرة اختراق جيدين، لكن نابض تشغيله يفقد شدته تدريجيا بمرور الوقت."
+    },
+    {
+      "id": "menu_customise_scope_2_desc",
+      "source": "Scope 2 Description",
+      "target": "وصف المنظار 2"
+    },
+    {
+      "id": "menu_customize_stock_semi_sniper_dsc",
+      "source": "Sniper wooden stock that looks like it was salvaged from a professional rifle. Greatly reduces recoil.",
+      "target": "أخمص خشبي للقنص يبدو منتشلا من بندقية احترافية. يقلل الارتداد بدرجة كبيرة."
+    },
+    {
+      "id": "menu_customize_stock_heavy_handgun_dsc",
+      "source": "Heavy metal grip and stock for better recoil control. Significantly increase weapon stability.",
+      "target": "قبضة وأخمص معدنيان ثقيلان لتحسين التحكم في الارتداد وزيادة استقرار السلاح بدرجة ملحوظة."
+    },
+    {
+      "id": "$wpn_upt_compensator_dsc",
+      "source": "Decreases recoil, making fire more accurate.",
+      "target": "يقلل الارتداد، فيزيد دقة إطلاق النار."
+    },
+    {
+      "id": "$wpn_upt_tihar_scope_dsc",
+      "source": "This makeshift sight has poor quality optics but offers enough magnification and precision for sniping.",
+      "target": "عدسات هذا المنظار المرتجل رديئة، لكنه يوفر تكبيرا ودقة كافيين للقنص."
+    },
+    {
+      "id": "menu_customize_stock_sammy_sniper_dsc",
+      "source": "Light grip and stock. The best possible aim steadiness at the price of decreased recoil control. Perfect choice for long-range shots.",
+      "target": "قبضة وأخمص خفيفان يوفران أفضل ثبات ممكن للتصويب على حساب التحكم في الارتداد. خيار مثالي للرماية بعيدة المدى."
+    },
+    {
+      "id": "general_hint_76",
+      "source": "A reflex sight makes aiming your weapon easier and does not limit your field of view.",
+      "target": "يسهل المنظار الانعكاسي التصويب بالسلاح دون تضييق مجال الرؤية."
+    },
+    {
+      "id": "ACH_hardcore_DESC_unlocked",
+      "source": "Completed the game in Ranger Hardcore mode.",
+      "target": "أكملت اللعبة في وضع الحارس شديد الصعوبة."
+    },
+    {
+      "id": "medved_dsc",
+      "source": "A makeshift spring-operated three barrel launcher capable of lobbing grenades of any kind. The grenades explode upon hitting anything.",
+      "target": "قاذف مرتجل يعمل بنابض وله ثلاث سبطانات، ويمكنه إطلاق مختلف أنواع القنابل اليدوية. تنفجر القنابل عند اصطدامها بأي شيء."
+    },
+    {
+      "id": "menu_customize_stock_std_shotgun_name",
+      "source": "GRIP AND HANDGUARD",
+      "target": "قبضة وواقية يد"
+    },
+    {
+      "id": "menu_customize_collimator_closed_dsc",
+      "source": "Closed collimator sight provides a clearer view of the target. ",
+      "target": "يوفر المنظار الانعكاسي المغلق رؤية أوضح للهدف."
+    },
+    {
+      "id": "menu_customize_barrel4_name",
+      "source": "FOUR BARRELS",
+      "target": "أربع سبطانات"
+    }
+  ],
+  "language_scope": "Whole-table terminology rules and contextual corrections; not a full manual sentence review."
+}

@@ -1,0 +1,30 @@
+{
+  "source": "User-supplied game-arabization skill scripts, standard 1.0",
+  "date": "2026-11-02T12:19:35",
+  "std": "1.0",
+  "files": {
+    "ar_shape.py": "3f005f0a2a018907f020867bcbd78e12c36e7b3aaed0cf0acc7f19f90ed35a9d",
+    "burn_subs.py": "d2cc47ba4ca729496a5b4f547a3880d9013f1984233ec9cdab6ea858a42b860c",
+    "charset_remap.py": "778e935d78b97be060920afff7c735f249c4641fb98270d73c1ca633d61ad3bd",
+    "font_add_presforms.py": "e62a4618975fcc1b2b5e2a46a9a535f242bc085f7cf5346952ce2375af3a1a89",
+    "font_check.py": "92bbd7351b83b0e451cc591fa1bb8c7ccb9bd0d45e02133eaeaa06aa39533dee",
+    "font_merge.py": "221beeebe1d9569cfecae265aca6422cbb5ad3edc7ce765ba9aeb1c6580e9b26",
+    "hardsub_ocr.py": "35d3f8d014bc39d3dce52d24c0ffe3f9cb76a7dfd1153417f44bcbef837b51fa",
+    "l10n_audit.py": "fc7a9dc32d21ca41569c8c9a39a560646a589f261b010b8f9aa5d466fe6d0fcf",
+    "l10n_io.py": "e32fbe077ba6ad287d39cf889d591d9a009a0714a8bf3ed0ebbcdabaf450021b",
+    "l10n_ws.py": "7af455f938361b5d70835a52c108787dea8a86aaeca22fe664ef052791be60fe",
+    "locres_tool.py": "5424e406268ed5c31c0f7e2179139858228dce543c7033c4a652081dc7fa0e29",
+    "make_ass.py": "39201c53ce16293003a85b0a1b08e9b7ceae3b7da761ce860ffd9528abe32c2b",
+    "mojibake.py": "f92e93417270c7410c1bfb7fa04c932b34d45918bf42ec13099587b02506697f",
+    "patch_builder.py": "ecb6bc65568dc3e334ddd4f5aed78ea5459b6bde12c1e17efd7e8c67188b834d",
+    "probe_file.py": "7cd16eaf4dc060a1a31c3f672fa0d6fa00558be2225e4b1befd9a871f61b4f39",
+    "rpgmv_crypt.py": "1e462fa15a562d2a6e6102703824ccf80a4a96f063187dffe8b0f1e7216263be",
+    "simulate_render.py": "cd155193cf04564d244750fbcdd7ee2ca7dbf99f6ac746ca03e9da9718848444",
+    "test_strings.py": "3c840ffe7e4fe5fc6b02a0fcb1edd62610bc893a7bd98024c46a6b899f8a0edf",
+    "tm_fill.py": "ce04fb87df1863ac6751aeb9f892dd50a0bbb0022090c90a7a66893071076ce5",
+    "tmp_sdf_atlas.py": "4f0a7510f428283bc9cd8ac55cbf1464690d72be171554094abf29944cfc0ee3",
+    "ue3_int_tool.py": "ee3af8b96707966418808942780d9e61cb1a4b320ca386c0aa22b158416393e3",
+    "ue_font_swap.py": "31840a628fafeebed01ef61ef796ff474231df0de952bd2648ef78680585f7ed",
+    "unity_text.py": "650b32521f07af00bcf20acbd75f50ecd7be32e9ce07f636f033ecabdc8acfd3"
+  }
+}

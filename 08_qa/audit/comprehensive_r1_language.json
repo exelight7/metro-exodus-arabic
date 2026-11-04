@@ -1,0 +1,1623 @@
+{
+  "revision": "comprehensive_r1",
+  "audited_rows": 38221,
+  "canonical_labels": 79,
+  "context_rules": 23,
+  "changed_entries": 265,
+  "unrelated_entries_preserved": 37958,
+  "forbidden_transliterations_remaining": [],
+  "other_payloads_identical": true,
+  "canonical_speaker_names_preserved": true,
+  "tags_and_timelines_preserved": true,
+  "runtime_tested": false,
+  "changes": [
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_2\\wounded\\wounded_lightly_05",
+      "source": "Motherfucker!",
+      "target": "يا ابن العاهرة!"
+    },
+    {
+      "id": "m3_secondary_hint_dynamite",
+      "source": "You found a grenade. Hold <wpn_dynamite> to choose one.",
+      "target": "عثرت على قنبلة يدوية. اضغط باستمرار على <wpn_dynamite> لاختيارها."
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\merc_3\\danger\\enemy_seen_alert_foreveralone_02",
+      "source": "I got you now!",
+      "target": "أمسكت بك الآن!"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\merc_2\\neutral\\guard_weaponwarning_01",
+      "source": "What the hell do you think you're doing? Stand down!",
+      "target": "ماذا تظن نفسك فاعلا بحق الجحيم؟ اخفض سلاحك!"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_1\\danger\\combat_flee_01",
+      "source": "Fuck! We're in deep shit!",
+      "target": "اللعنة! نحن في ورطة كبيرة!"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bridger_2\\context\\context_reaction_pass_03",
+      "source": "Huh? I think there's something in that passage, brethren...",
+      "target": "هاه؟ أظن أن في ذلك الممر شيئا يا إخوتي..."
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\forest_3\\context\\context_alert_pass_03",
+      "source": "There he is! In that pass!",
+      "target": "ها هو! في ذلك الممر!"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_2\\neutral\\guard_weaponwarning_privatezone_02",
+      "source": "Hey, man! Get out of here! Don't make me fucking tell you twice!",
+      "target": "يا رجل! اخرج من هنا! لا تجعلني أكرر كلامي!"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\merc_1\\danger\\enemy_dead_human_01",
+      "source": "Enemy down!",
+      "target": "سقط العدو!"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_1\\context\\context_lostenemyat_crates_02",
+      "source": "The bitch was behind those crates.",
+      "target": "كان ذلك الوغد خلف الصناديق."
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_3\\uber_alert\\uber_alert_enemy_animals_03",
+      "source": "Shit! Mutants! Look alive, people!",
+      "target": "اللعنة! متحولون! انتبهوا يا رفاق!"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_3\\species\\confused_group_question_01",
+      "source": "Yo, you get this shit?",
+      "target": "مهلا، أتفهم ما يجري؟"
+    },
+    {
+      "id": "voices\\m3_dlc2\\dlc2_004_sam_captain_meeting_01_02_05",
+      "source": "What's the hold up? Come over here!",
+      "target": "ما سبب التأخير؟ تعال إلى هنا!"
+    },
+    {
+      "id": "m3_12_val_diary_7_dsc",
+      "source": "<tab>I can’t take this anymore... I just can’t. I’d be better off alone! I can manage. I can fish, I can go mushroom-hunting... I thought one shot would be enough... I didn’t kill him! I just closed my eyes and squeezed the trigger... Everybody did the same anyways! But I just can’t do this anymore. And they keep insisting! Calling me a coward! But I just can’t kill, I’m not a murderer...",
+      "target": "<tab>لم أعد أحتمل هذا... لا أستطيع. سيكون حالي أفضل وحدي! أستطيع تدبر أمري وصيد السمك وجمع الفطر... ظننت أن طلقة واحدة ستكون كافية... لم أقتله! أغمضت عيني وضغطت على الزناد فحسب... الجميع فعلوا الشيء نفسه على أي حال! لكنني لم أعد أستطيع فعل هذا. وهم لا يكفون عن الإلحاح! ويصفونني بالجبان! لكنني لا أستطيع القتل، لست قاتلا..."
+    },
+    {
+      "id": "voices\\m3_12_valley\\val_006_woundedtalk_01_02",
+      "source": "<ffx:disgust>Damnit... Fucking backpack... <ffx:sadness>I got greedy...I got... Greedy... <ffx:neutral>",
+      "target": "<ffx:disgust>اللعنة... حقيبة الظهر اللعينة... <ffx:sadness>طمعت... لقد... طمعت... <ffx:neutral>"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_3\\context\\context_reaction_carriage_02",
+      "source": "That carriage... I think there's some bitch there...",
+      "target": "تلك العربة... أظن أن فيها وغدا ما..."
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_2\\context\\context_alert_crates_03",
+      "source": "That motherfucker! Over there, at the crates!",
+      "target": "ذلك الوغد! هناك، عند الصناديق!"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_1\\context\\context_alert_sandbags_03",
+      "source": "See the fucker? Behind those sandbags!",
+      "target": "أترون ذلك الوغد؟ خلف أكياس الرمل!"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_3\\uber_alert\\uber_alert_commenting_corpse_02",
+      "source": "You fucker... You're paying for my friend, that's for sure...",
+      "target": "أيها الوغد... ستدفع ثمن ما فعلته بصديقي، هذا مؤكد..."
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_1\\neutral\\guard_weaponwarning_03",
+      "source": "Are you fucking with me? Put the gun away, now!",
+      "target": "أتعبث معي؟ أبعد السلاح، الآن!"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_2\\light_alert\\light_alert_group_alarmed_call_goingalert_morethanone_03",
+      "source": "Guys! What's this shit supposed to mean? Where the hell are you?",
+      "target": "يا رفاق! ما معنى هذا بحق الجحيم؟ أين أنتم؟"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_2\\context\\context_reaction_pillar_01",
+      "source": "Hey, guys... What the fuck is it behind the pillar?",
+      "target": "يا رفاق... ما ذلك الشيء خلف العمود بحق الجحيم؟"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_2\\context\\context_lostenemyat_up_01",
+      "source": "The dumb fuck was up there.",
+      "target": "كان ذلك الأحمق في الأعلى."
+    },
+    {
+      "id": "voices\\m3_02_dead_moscow\\dmc_000_5_spartans_radio_01_10",
+      "source": "Good. Miller, over and out.",
+      "target": "جيد. ميلر، انتهى الاتصال."
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_3\\species\\confused_group_threat_subsided_reply_02",
+      "source": "Well, I'm cool with that - didn't want to bite it over nothing...",
+      "target": "حسنًا، لا بأس عندي؛ لم أكن أريد أن أموت بلا سبب..."
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\forest_2\\neutral\\guard_weaponwarninglast_02",
+      "source": "I'll shoot your ass if you don't stop it!",
+      "target": "سأطلق النار عليك إن لم تتوقف!"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bridger_2\\decoy\\free-uber_alert__seen_decoy_reaction_02",
+      "source": "What? A can? Well, I got you now, you filth!",
+      "target": "ماذا؟ علبة؟ حسنًا، أمسكت بك الآن أيها القذر!"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bridger_1\\context\\context_reaction_pass_02",
+      "source": "What's there in that passage, huh?",
+      "target": "ماذا يوجد في ذلك الممر، هاه؟"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_3\\dog\\dog_foundbody_react_04",
+      "source": "Shut the fuck up! What the hell is going on there?",
+      "target": "اخرس! ماذا يجري هناك بحق الجحيم؟"
+    },
+    {
+      "id": "voices\\m3_08_desert\\des_044_60_lighthouseattack_playerapproach_01_09",
+      "source": "Give me cover!",
+      "target": "غطني!"
+    },
+    {
+      "id": "m3_dlc2_task_02_04_02_note",
+      "source": "I have the suits, now I just need to reach the rendezvous point at the seafront near the Naval HQ building.",
+      "target": "حصلت على بدلات الحماية، ولم يبق إلا الوصول إلى نقطة اللقاء على الواجهة البحرية قرب مبنى مقر البحرية."
+    },
+    {
+      "id": "voices\\m3_dlc2\\dlc2_750_piercombat_01_10",
+      "source": "Get him! I want his head on a stick!",
+      "target": "أمسكوا به! أريد رأسه على عصا!"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_3\\uber_alert\\uber_alert_single_nocoveravailable_02",
+      "source": "Peek out... Just a little, you bitch... Come on... Do it...",
+      "target": "أطل برأسك... قليلا فقط أيها الوغد... هيا... افعلها..."
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_3\\neutral\\guard_weapongotocombat_02",
+      "source": "You fucker had it a-coming!",
+      "target": "لقد استحققت هذا أيها الوغد!"
+    },
+    {
+      "id": "voices\\m3_05_chase\\cha_005_couplingfail_alarm_02",
+      "source": "Fucking dumbasses! You fucks can't do shit right!",
+      "target": "أيها الحمقى اللعينون! لا تتقنون فعل شيء!"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_2\\danger\\enemy_seen_alert_03",
+      "source": "There's the bitch!",
+      "target": "ها هو الوغد!"
+    },
+    {
+      "id": "voices\\m3_dlc2\\dlc2_110_taleoftwobrothers_brother2_ranting_01_05",
+      "source": "And an asshole to boot... Stealing from his own brother!",
+      "target": "وهو وغد فوق ذلك... يسرق أخاه!"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\merc_2\\uber_alert\\uber_alert_commenting_corpse_02",
+      "source": "You motherfucker... I'll get you for him...",
+      "target": "أيها الوغد... سأنتقم له منك..."
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_3\\dog\\dog_receivethreat_04",
+      "source": "Hey! What the fuck is there?",
+      "target": "مهلا! ما الذي هناك بحق الجحيم؟"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_2\\context\\context_lostenemyat_fence_01",
+      "source": "The dumb fuck was near that fence!",
+      "target": "كان ذلك الأحمق قرب السياج!"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_1\\uber_alert\\uber_alert_commenting_corpse_04",
+      "source": "The fucker took our boy out... Well, that's gonna cost him...",
+      "target": "أسقط ذلك الوغد رفيقنا... سيدفع الثمن..."
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bridger_1\\context\\context_lostenemyat_down_03",
+      "source": "Down there, that's where that spawn of Satan was!",
+      "target": "في الأسفل، هناك كان ذلك الشيطان!"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_3\\uber_alert\\uber_alert_commenting_corpse_04",
+      "source": "The bitch took our guy out... Well, he's gonna pay for that with his ass...",
+      "target": "أسقط ذلك الوغد رفيقنا... وسيدفع الثمن غاليا..."
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_2\\uber_alert\\uber_alert_group_search_waitforsearchcomplete_07",
+      "source": "Why are you even hiding, you pussy? We're gonna find your ass anyways!",
+      "target": "لماذا تختبئ أصلا أيها الجبان؟ سنعثر عليك في كل الأحوال!"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_1\\car\\carseen_01",
+      "source": "Look! That bitch is driving our car!",
+      "target": "انظروا! ذلك الوغد يقود سيارتنا!"
+    },
+    {
+      "id": "voices\\m3_dlc2\\dlc2_850_10_outro_01_16",
+      "source": "Break it down! Take him alive!",
+      "target": "حطموها! أمسكوا به حيا!"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\merc_1\\neutral\\guard_weaponwarning_01",
+      "source": "What the... Stand down, now!",
+      "target": "ماذا... اخفض سلاحك، الآن!"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_2\\danger\\attacking_enemy_flamer_02",
+      "source": "I'm roasting some meat and you're it, motherfucker!",
+      "target": "سأشوي بعض اللحم، وأنت ذلك اللحم أيها الوغد!"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_2\\scared\\scared_now_01",
+      "source": "Fuck! What the fuck is this shit, really?",
+      "target": "اللعنة! ما هذا بحق الجحيم؟"
+    },
+    {
+      "id": "voices\\m3_dlc1\\dlc1_74_2_quarrel_01_11",
+      "source": "You are a respectable man, Yakov, how can you let him do this to you?!",
+      "target": "أنت رجل محترم يا ياكوف، فكيف تسمح له بأن يفعل بك هذا؟!"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_1\\uber_alert\\uber_alert_enemynear_01",
+      "source": "Fucking shit!",
+      "target": "اللعنة!"
+    },
+    {
+      "id": "m3_dlc2_task_02_03_note",
+      "source": "Tom says, the old Captain is the only one who knows where the nuclear fuel rods are stored, so I have to find him. I sure hope he'll be willing to talk to me once I deliver Tom's offer to him, though...",
+      "target": "يقول توم إن القبطان العجوز هو الوحيد الذي يعرف مكان تخزين قضبان الوقود النووي، لذا علي العثور عليه. آمل أن يقبل الحديث معي بعدما أنقل إليه عرض توم..."
+    },
+    {
+      "id": "ACH_all_good_DESC",
+      "source": "Assume command of the Order.",
+      "target": "تول قيادة التنظيم."
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_3\\alert\\alert_uni_01",
+      "source": "Hey, what the fuck was that just now?",
+      "target": "مهلا، ما الذي حدث للتو بحق الجحيم؟"
+    },
+    {
+      "id": "voices\\m3_12_autumn\\aut_021_02_radio_05",
+      "source": "Anyhow, I figure it’s time we fucked the forest bitches good while they’re sorta down and out.",
+      "target": "على أي حال، أظن أن الوقت قد حان لنلقن أوغاد الغابة درسا قاسيا، ما داموا في هذه الحال المزرية."
+    },
+    {
+      "id": "m3_dia_crew_stepan_summer",
+      "source": "<tab>For saving her, Katya repaid Stepan in kind. In the Caspian desert, Stepan got so ill he couldn’t even walk, much less fight. He almost died from dehydration, and if not for Katya, he would have been dead for sure. He knew whom to thank for his life, and as soon as he was able to get up, he immediately fell to one knee and proposed. Search wherever you can, you’d never find a better husband for Katya and step-father for Nastya! He’s been spending so much time with the girl, making toys for her and answering her constant questions about everything, that Nastya had already called Stepan dad several times by that time. Now that Katya was officially his wife, beholding their family happiness was a true sight for the sore eyes. At least, someone will be able to have a proper family and future... A pity, this doesn’t seem likely for Anna and me.<br><br>",
+      "target": "<tab>ردت كاتيا لستيبان الجميل، بعدما أنقذها. ففي صحراء قزوين، اشتد به المرض حتى عجز عن المشي، فما بالك بالقتال. كاد يموت من الجفاف، ولولا كاتيا لهلك حتما. عرف لمن يدين بحياته، وما إن استطاع النهوض حتى جثا على ركبة واحدة وطلب يدها. مهما بحثت، فلن تجد لكاتيا زوجا أفضل منه، ولا لناستيا أبا بديلا أفضل! كان يقضي وقتا طويلا مع الصغيرة، يصنع لها الألعاب ويجيب عن أسئلتها التي لا تنتهي عن كل شيء، حتى إنها نادته «أبي» عدة مرات قبل زواجهما. والآن، بعدما أصبحت كاتيا زوجته رسميا، صارت سعادة أسرتهما مشهدا يفرح القلب. على الأقل، سيتمكن بعضنا من تكوين أسرة حقيقية والتمتع بمستقبل... من المؤسف أن هذا لا يبدو مرجحا لي ولآنا.<br><br>"
+    },
+    {
+      "id": "m3_05_chase_task_2",
+      "source": "PLANT THE BOMB AT THE BOILER OF THE ENEMY TRAIN ENGINE",
+      "target": "ازرع القنبلة عند مرجل قاطرة قطار العدو"
+    },
+    {
+      "id": "voices\\m3_dlc2\\dlc2_170_17_kulturmultur_fidgety_bandit_01_06",
+      "source": "Nothing... All that shooting in the movie made me fidgety... Fuck them movies, really... What are they even good for?",
+      "target": "لا شيء... كل إطلاق النار في الفيلم جعلني متوترا... تبا لهذه الأفلام، حقا... ما فائدتها أصلا؟"
+    },
+    {
+      "id": "m3_dlc2_task_01_01_note",
+      "source": "If I want to get home, I need a ship. Beggars can't be choosers, so anything with half a chance of getting me anywhere close to home will do. The problem is, there don't seem to be many active shipping lines in these parts...",
+      "target": "إن أردت العودة إلى وطني، فأنا بحاجة إلى سفينة. ليس لي أن أتشرط؛ فأي وسيلة تمنحني فرصة للوصول إلى مكان قريب من وطني ستفي بالغرض. المشكلة أن حركة الملاحة تبدو شبه متوقفة في هذه الأنحاء..."
+    },
+    {
+      "id": "ACH_polite saboteur_DESC",
+      "source": "Melee-kill or stun 50 enemies.",
+      "target": "اقتل 50 عدوا بضربات قريبة، أو أفقدهم الوعي."
+    },
+    {
+      "id": "voices\\m3_08_desert\\des_016_briefing_03_19",
+      "source": "<ffx:anger_light>Let's get to business then. <ffx:wonder_light>Yermak, Krest, you prepare the Aurora. <ffx:anger_light>Finish filling the boiler with water and drain the cars' tanks. <ffx:neutral>",
+      "target": "<ffx:anger_light>فلنبدأ العمل إذن. <ffx:wonder_light>يرماك، كريست، جهزا أورورا. <ffx:anger_light>أتما ملء المرجل بالماء، وأفرغا خزانات العربات. <ffx:neutral>"
+    },
+    {
+      "id": "m3_wpn_down_civil_hint",
+      "source": "Holster your weapon so as to not scare the locals.",
+      "target": "أخف سلاحك حتى لا تخيف السكان المحليين."
+    },
+    {
+      "id": "m3_dia_equip_nv_goggles_intro",
+      "source": "<tab>Even before the War the night vision goggles were a valued commodity in the military forces even moderately concerned with wither carrying out stealthy operations or effectively foiling those. With relative fragility of such devices and perpetual darkness of the tunnels, their value and importance in the Metro grew exponentially. Obtaining a working specimen is a rare luck, and even the Order could never manage to procure enough to make night vision goggles a piece of standard-issue equipment for all of its fighters, providing them only for specific operations. Still, all the helmets issued by the Order have the necessary mounting points, and our standard power packs, usually reserved to feeding our flashlights, have additional sockets which all the Spartans can use to plug such goggles into should they obtain one.",
+      "target": "<tab>حتى قبل الحرب، كانت نظارات الرؤية الليلية عتادا ثمينا لدى أي قوة عسكرية تهتم بتنفيذ العمليات السرية أو التصدي لها. ومع هشاشة هذه الأجهزة نسبيا وظلام الأنفاق الدائم، ازدادت قيمتها وأهميتها في المترو أضعافا. إن العثور على واحدة صالحة للعمل حظ نادر، وحتى التنظيم لم يستطع تأمين ما يكفي لتجهيز جميع مقاتليه بها ضمن عتادهم المعتاد، فكان يخصصها لعمليات بعينها. ومع ذلك، تتوافر نقاط التثبيت اللازمة في جميع الخوذ التي يزودنا بها التنظيم، كما تضم بطارياتنا المعتادة، المخصصة عادة لإمداد المصابيح اليدوية بالطاقة، مقابس إضافية يستطيع أي من الإسبرطيين توصيل نظارات الرؤية الليلية بها إذا حصل على واحدة."
+    },
+    {
+      "id": "m3_m08_des_suit_9_task",
+      "source": " GET BACK TO TOKAREV ",
+      "target": "عد إلى توكاريف"
+    },
+    {
+      "id": "m3_m08_des_fuel_17_task_note",
+      "source": "The gate is open and we have to hurry to the train, while we can still escape this desolate place. ",
+      "target": "البوابة مفتوحة، وعلينا الإسراع إلى القطار ما دام بوسعنا الفرار من هذا المكان المقفر."
+    },
+    {
+      "id": "m3_m08_des_lab_6_1_task_note",
+      "source": "Giul agreed to help. She will guide me to the communications bunker.",
+      "target": "وافقت جيول على مساعدتي. ستقودني إلى مخبأ الاتصالات."
+    },
+    {
+      "id": "m3_m08_des_fuel_16_task",
+      "source": "REACH THE TOP OF THE TOWER",
+      "target": "اصعد إلى قمة البرج"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\merc_3\\uber_alert\\uber_alert_single_takingcover_02",
+      "source": "Fuck! Gotta take cover!",
+      "target": "اللعنة! علي الاحتماء!"
+    },
+    {
+      "id": "m3_dlc2_task_02_03",
+      "source": "Find the Captain",
+      "target": "ابحث عن القبطان"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\merc_1\\context\\context_alert_pass_03",
+      "source": "There he is! In that pass!",
+      "target": "ها هو! في ذلك الممر!"
+    },
+    {
+      "id": "voices\\m3_dlc1\\dlc1_14_1_burntunnels_audiodiary_01_03",
+      "source": "And I just go: \"So, are you telling me to steal them from another station? You know as well as I do they don't make them no more! Or, do you think I'll just shoot all my green stuff at once and go topside to get it? You want results - you either get me the parts or go and...\" Well, I told him to fuck himself...",
+      "target": "فقلت له: «أتطلب مني إذن أن أسرقها من محطة أخرى؟ أنت تعلم مثلي أنهم لم يعودوا يصنعونها! أم تظن أنني سأحقن نفسي بكل مخزوني من المادة الخضراء دفعة واحدة، وأصعد إلى السطح لجلبها؟ إن أردت نتائج، فأحضر لي قطع الغيار، وإلا فاذهب...» حسنا، طلبت منه الذهاب إلى الجحيم..."
+    },
+    {
+      "id": "m3_m06_sparta_fort_opendoor_task",
+      "source": "OPEN THE BUNKER EXIT",
+      "target": "افتح مخرج المخبأ"
+    },
+    {
+      "id": "m3_m06_bri_boat_wait_note",
+      "source": "The tugboat is ours. Time for the final stage of the plan - taking control of the Bridge. At dawn, we’re tajking the boat to the bridge. Duke and I will infiltrate the shantytown while Krest under the guise of a trader distracts the guards. Now I need to think if there’s anything I’m forgetting: once the Aurora crosses the river there will be no return.<br>Krest is waiting for the order to cast off...",
+      "target": "أصبحت القاطرة البحرية لنا. حان وقت المرحلة الأخيرة من الخطة: السيطرة على الجسر. سنبحر إليه عند الفجر، ونتسلل أنا وديوك إلى مدينة الصفيح، بينما يتنكر كريست في هيئة تاجر ليشغل الحراس. علي الآن التأكد من أنني لم أنس شيئا؛ فبمجرد عبور أورورا النهر، لن تكون هناك عودة.<br>ينتظر كريست الأمر بالإبحار..."
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_1\\light_alert\\light_alert_group_uni_question_02",
+      "source": "What the fuck?! Hey, did you get what that was?",
+      "target": "ما هذا بحق الجحيم؟! مهلا، أعرفت ما كان ذلك؟"
+    },
+    {
+      "id": "voices\\m3_08_desert\\des_062_spidership_bandits_talk_02_02",
+      "source": "<ffx:anger>What the fuck is up with you? <ffx:neutral>",
+      "target": "<ffx:anger> ما خطبك بحق الجحيم؟ <ffx:neutral>"
+    },
+    {
+      "id": "m3_dlc2_task_02_04_note",
+      "source": "The Captain does, indeed, know where to get the fuel rods and is even ready to help me get them, but first I need to retrieve a pair of protective suits from the local Fire Depot, as the bunker with the rods seems to have seen better days radiation-wise.",
+      "target": "يعرف القبطان بالفعل أين نجد قضبان الوقود، وهو مستعد لمساعدتي في جلبها. لكن علي أولا إحضار بدلتين للحماية من مركز الإطفاء المحلي؛ إذ يبدو أن مستويات الإشعاع قد ساءت في المخبأ الذي توجد فيه القضبان."
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_3\\knife\\free_alert_seen_knife_reaction_04",
+      "source": "Fucking shit! A knife! What the fuck? Well, some bitch is gonna pay for that!",
+      "target": "اللعنة! سكين! ما هذا بحق الجحيم؟ سيدفع أحد الأوغاد ثمن ذلك!"
+    },
+    {
+      "id": "m3_loader_diary_desert_02_stun",
+      "source": "<tab>Despite that, while passing another completely unremarkable stretch of desert, we noticed a car tailing the Aurora, that quite soon veered into the ruins of a small town. It seemed worth investigating, so I went to check the place out. On my way to the goal, I had to hide from a sandstorm in the ruins of a restaurant, where I was attacked by one of the local bandits. I had to knock him out and also took his car, ruling out any chance for a warm welcome from his buddies in the future.<br><br>",
+      "target": "<tab>رغم ذلك، بينما كنا نعبر امتدادا صحراويا عاديا آخر، لاحظنا سيارة تتعقب أورورا، ثم انحرفت بعد قليل نحو أنقاض بلدة صغيرة. بدا الأمر جديرا بالتحقق، فذهبت لتفقد المكان. وفي الطريق، اضطررت إلى الاحتماء من عاصفة رملية داخل أنقاض مطعم، حيث هاجمني أحد قطاع الطرق المحليين. اضطررت إلى إفقاده الوعي، وأخذت سيارته أيضا، فضمنت ألا يرحب بي رفاقه مستقبلا.<br><br>"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\cannibal_3\\alert\\alert_gonnalook_enroute_01",
+      "source": "Walking... Still walking there... Meat... Sweet meat!",
+      "target": "يمشي... ما زال يمشي هناك... لحم... لحم لذيذ!"
+    },
+    {
+      "id": "m3_dlc2_task_01_02",
+      "source": "The final push",
+      "target": "الاندفاعة الأخيرة"
+    },
+    {
+      "id": "m3_loader_diary_desert_02_kill",
+      "source": "<tab>Despite that, while passing another completely unremarkable stretch of desert, we noticed a car tailing the Aurora, that quite soon veered into the ruins of a small town. It was worth investigating, so I went to check the place out. On my way to the goal, I had to hide from a sandstorm in the ruins of a restaurant, where I was attacked by one of the local bandits. I had to kill him in self-defense, ruling out any chance for a warm welcome from his buddies. At least, I acquired a car for my trouble.<br><br>",
+      "target": "<tab>رغم ذلك، بينما كنا نعبر امتدادا صحراويا عاديا آخر، لاحظنا سيارة تتعقب أورورا، ثم انحرفت بعد قليل نحو أنقاض بلدة صغيرة. بدا الأمر جديرا بالتحقق، فذهبت لتفقد المكان. وفي الطريق، اضطررت إلى الاحتماء من عاصفة رملية داخل أنقاض مطعم، حيث هاجمني أحد قطاع الطرق المحليين. اضطررت إلى قتله دفاعا عن نفسي، فضمنت ألا يرحب بي رفاقه. على الأقل، خرجت من هذه المتاعب بسيارة.<br><br>"
+    },
+    {
+      "id": "voices\\m3_12_valley\\val_35_bandits_outlook_01_02",
+      "source": "<ffx:anger>Shhh! Not so loud! What the fuck is wrong with you? <ffx:neutral>",
+      "target": "<ffx:anger>صه! اخفض صوتك! ما خطبك بحق الجحيم؟ <ffx:neutral>"
+    },
+    {
+      "id": "m3_general_hint_95",
+      "source": "Demons are powerful flying mutants that are extremely hard to kill. It's best to stay under cover and avoid confrontation with them at all if possible.",
+      "target": "الشياطين متحولون طائرون أقوياء يصعب قتلهم كثيرا. الأفضل الاحتماء وتجنب مواجهتهم قدر الإمكان."
+    },
+    {
+      "id": "general_hint_89_2034",
+      "source": "Rumors have recently spread about a massive Nosalis mutant. It is said she can smell through walls, but has a weak exposed spine and vulnerable eyes.",
+      "target": "انتشرت مؤخرا شائعات عن أنثى نوساليس ضخمة. يقال إنها تشم الروائح عبر الجدران، لكن عمودها الفقري مكشوف، وعيناها عرضة للإصابة."
+    },
+    {
+      "id": "me_rp_gamepresence_028",
+      "source": "The Aurora - Pondering the consequences",
+      "target": "أورورا - التفكير في العواقب"
+    },
+    {
+      "id": "m3_07_yam_main_task_1",
+      "source": "AT THE GOAL",
+      "target": "عند الهدف"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_1\\context\\context_reaction_trees_03",
+      "source": "Hey, what the fuck is over there? Near those trees!",
+      "target": "مهلا، ما الذي هناك بحق الجحيم؟ قرب تلك الأشجار!"
+    },
+    {
+      "id": "m3_12_val_freealyosha_task",
+      "source": "FREE ALYOSHA",
+      "target": "حرر أليوشا"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_3\\uber_alert\\uber_alert_group_alert_triggered_by_ally_02",
+      "source": "What the fuck, man?",
+      "target": "ما هذا بحق الجحيم يا رجل؟"
+    },
+    {
+      "id": "m3_special_ammo_hint",
+      "source": "Tikhar rifle can be loaded with Incendiary Ammunition. Open weapon inventory by holding <popup_weapons>",
+      "target": "يمكن تلقيم بندقية تيخار بذخيرة حارقة. اضغط باستمرار على <popup_weapons> لفتح قائمة الأسلحة."
+    },
+    {
+      "id": "voices\\m3_06_bridge\\bri_012_timur_sam_accent_01_02",
+      "source": "<ffx:anger>What the fuck! Are you <ffx:disgust>fucking mad, Sam?",
+      "target": "<ffx:anger>اللعنة! هل <ffx:disgust>جننت يا سام؟"
+    },
+    {
+      "id": "m3_dlc02_general_hint_6",
+      "source": "You can obtain valuable resources by disarming a mine.",
+      "target": "يمكنك الحصول على موارد قيمة بتفكيك الألغام."
+    },
+    {
+      "id": "m3_12_val_main_task_note",
+      "source": "Who was that woman? I wish I knew her name so that I could thank her properly for saving me... Courtesy is rather low on my list of priorities at the moment, though. I lost all of my equipment in the river and the radio is broken, so I don't even have any means of contacting the Aurora. Getting to the Dam where Alyosha and I were supposed to go seems to be my best chance now. I should follow the old road...",
+      "target": "من كانت تلك المرأة؟ ليتني أعرف اسمها لأشكرها كما ينبغي على إنقاذي... لكن المجاملات ليست أولويتي الآن. فقدت جميع معداتي في النهر، وتعطل جهازي اللاسلكي، فلم تعد لدي وسيلة للاتصال بأورورا. يبدو أن أفضل فرصة لي هي الوصول إلى السد الذي كان يفترض أن نتجه إليه أنا وأليوشا. علي اتباع الطريق القديم..."
+    },
+    {
+      "id": "m3_m08_des_shtorm_3_task_note",
+      "source": "Looks like I won't be learning anything out about the water from the driver now... I should at least try and use the key I took from him to open the car.",
+      "target": "يبدو أنني لن أعرف شيئا عن الماء من السائق الآن... علي على الأقل أن أحاول فتح السيارة بالمفتاح الذي أخذته منه."
+    },
+    {
+      "id": "voices\\m3_13_dead_city\\nvs_000_narration_09",
+      "source": "<tab>I knew that Colonel would find that map and come for me, but I never expected him to give me his dose of radio-protector... I must hurry to the point of our rendezvous with the Aurora! Perhaps, it’s not too late...<br><br>",
+      "target": "<tab>كنت أعلم أن العقيد سيعثر على تلك الخريطة ويأتي لإنقاذي، لكنني لم أتوقع أن يعطيني جرعته من الدواء الواقي من الإشعاع... علي الإسراع إلى نقطة لقائنا مع أورورا! لعل الأوان لم يفت بعد...<br><br>"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_3\\light_alert\\light_alert_see_02",
+      "source": "What the fuck is that? Huh... Let's see...",
+      "target": "ما هذا بحق الجحيم؟ هاه... لنر..."
+    },
+    {
+      "id": "voices\\m3_12_valley\\val_130_01_teacherlog_01_04",
+      "source": "The children are well prepared, all that time hiking was spent well! It will be easy to teach them hunting. We have all the necessities, and what we don’t have we can make ourselves. To hell with doubt, let’s tackle problems as they arise! Survival comes first!",
+      "target": "الأطفال مستعدون جيدا، ولم يذهب وقت الترحال سدى! سيسهل تعليمهم الصيد. لدينا كل الضروريات، وما ينقصنا نصنعه بأنفسنا. تبا للشك، سنعالج المشكلات حين تظهر! النجاة أولا!"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_1\\uber_alert\\uber_alert_group_alert_triggered_by_ally_05",
+      "source": "What? Fucking shit!",
+      "target": "ماذا؟ اللعنة!"
+    },
+    {
+      "id": "m3_m08_des_brif_III_12_task_1_note",
+      "source": "While I was out cold, the bandits launched a raid against the Aurora! Well, soon they’ll be sorry they clashed with the Order! To arms!",
+      "target": "أثناء فقداني الوعي، أغار قطاع الطرق على أورورا! سيندمون قريبا على مواجهة التنظيم! إلى السلاح!"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_3\\corpse\\checking_dead_01",
+      "source": "What the fuck is up with you? Hey!",
+      "target": "ما خطبك بحق الجحيم؟ مهلا!"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_2\\context\\context_reaction_window_03",
+      "source": "Hey what the fuck is that? In the window over there?",
+      "target": "مهلا، ما ذلك بحق الجحيم؟ في تلك النافذة؟"
+    },
+    {
+      "id": "m3_dia_crew_sam_autumn",
+      "source": "<tab>No, Sam, the war is over. It was over the moment it started. You don’t have to choose your side; all the choices have been made for us. You, like all of us, need only to remain a human, and that is all. We are with you, your brothers in arms, the soldiers of the Order, with you against the whole wide world, and in the Order there are no nationalities. Without you, we would have forever stayed in the Yamantau bunker, eaten by our own ex-compatriots who had long since stopped being human beings. That’s just the way it goes, man. <br><br><tab>I think about you sometimes, Sam, now that our journey is nearing its end, be it happy or otherwise... What will you do? You dedicated your whole being to us. First, to the Order. Then, to saving your commander and, finally, to saving my Anna. But, what will you do once our train reaches the end of its line in the middle of nowhere? Will you stay with us when the journey is really over? Your old man might still be waiting for you back in California, keeping tackle ready to go fishing once you come back... Aren’t you going to visit him once the Aurora stops to never move again? Will you even hesitate to set out for home, even if that would mean walking to Vladivostok and swimming across the ocean?<br><br>",
+      "target": "<tab>لا يا سام، لقد انتهت الحرب. انتهت لحظة اندلاعها. لا داعي لأن تختار طرفا؛ فقد اتخذت جميع القرارات عنا. كل ما عليك، مثلنا جميعا، أن تحتفظ بإنسانيتك، لا أكثر. نحن معك، إخوتك في السلاح وجنود التنظيم، في مواجهة العالم أجمع، ولا مكان للجنسيات بيننا. لولاك لبقينا إلى الأبد في مخبأ يامانتاو، وليمة لمواطنينا السابقين الذين فقدوا إنسانيتهم منذ زمن. هكذا هي الحال يا صديقي. <br><br><tab>أفكر فيك أحيانا يا سام، وقد شارفت رحلتنا على نهايتها، سعيدة كانت أم غير ذلك... ماذا ستفعل؟ لقد كرست نفسك لنا: للتنظيم أولا، ثم لإنقاذ قائدك، وأخيرا لإنقاذ آنا. لكن ماذا ستفعل حين يصل قطارنا إلى نهاية خطه في مكان ناء؟ هل ستبقى معنا بعد انتهاء الرحلة حقا؟ لعل أباك ما زال ينتظرك في كاليفورنيا، وقد أعد أدوات الصيد ليخرج معك حين تعود... ألن تزوره بعدما تتوقف أورورا عن السير إلى الأبد؟ هل ستتردد في العودة إلى وطنك، حتى لو اضطررت إلى السير حتى فلاديفوستوك والسباحة عبر المحيط؟<br><br>"
+    },
+    {
+      "id": "m3_m13_main_task_6_header",
+      "source": "THE AURORA",
+      "target": "أورورا"
+    },
+    {
+      "id": "m3_dlc2_task_02_01",
+      "source": "Find nuclear fuel",
+      "target": "ابحث عن الوقود النووي"
+    },
+    {
+      "id": "general_hint_90_2034",
+      "source": "Fishermen have been getting attacked by the shrimp mutants more often lately. Some have been known to try to pull men right off their boats before they could shoot them.",
+      "target": "ازدادت مؤخرا هجمات الروبيان المتحول على الصيادين. وتحاول بعض هذه المخلوقات سحب الرجال من قواربهم قبل أن يتمكنوا من إطلاق النار عليها."
+    },
+    {
+      "id": "m3_m08_des_lab_6_task_note",
+      "source": "Somewhere on the HQ level there should be satellite images archive. I need to find the freshest ones, taken after the war, starting in 2013.",
+      "target": "يفترض أن يكون أرشيف صور الأقمار الصناعية في مكان ما بطابق المقر الرئيسي. علي العثور على أحدث الصور الملتقطة بعد الحرب، بدءا من عام 2013."
+    },
+    {
+      "id": "voices\\m3_06_bridge\\bri_010_miller_stepan_refugeetalk_06",
+      "source": "<ffx:wonder>Where, pray tell, are they going to sleep on the Aurora? <ffx:disgust>Atop the coal crates? We, <ffx:sadness_light>Spartans, can handle it...",
+      "target": "<ffx:wonder>قل لي، أين سينامون على متن أورورا؟ <ffx:disgust>فوق صناديق الفحم؟ نحن <ffx:sadness_light>الإسبرطيين نستطيع تحمل ذلك..."
+    },
+    {
+      "id": "m3_dlc2_task_02_05",
+      "source": "Return to the Captain's boat ",
+      "target": "عد إلى قارب القبطان"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_2\\decoy\\alert_decoy_reaction_03",
+      "source": "What the fuck was that, huh? What kind of ass would make noises like that?",
+      "target": "ما كان ذلك بحق الجحيم؟ أي أحمق يصدر أصواتا كهذه؟"
+    },
+    {
+      "id": "m3_m08_des_base_7_task",
+      "source": "RETURN TO BASE",
+      "target": "عد إلى القاعدة"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_3\\uber_alert\\uber_alert_05",
+      "source": "Fucking shit! He's here! He's here!",
+      "target": "اللعنة! إنه هنا! إنه هنا!"
+    },
+    {
+      "id": "m3_m06_scout_port_goto_task",
+      "source": "GET TO THE PORT",
+      "target": "اذهب إلى الميناء"
+    },
+    {
+      "id": "voices\\m3_dlc2\\dlc2_222_01_revengeforthesniper_02_02",
+      "source": "You're gonna pay for fucking with Korzh!",
+      "target": "ستدفع ثمن التعرض لكورزه!"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_2\\danger\\reloading_02",
+      "source": "Gotta reload, people!",
+      "target": "علي إعادة التلقيم يا رفاق!"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_3\\neutral\\guard_weapongotocombat_03",
+      "source": "Well, I have fucking had it with ya!",
+      "target": "حسنا، لقد نفد صبري معك، اللعنة!"
+    },
+    {
+      "id": "m3_general_hint_48",
+      "source": "Suppressed weapons make less noise when fired, but they are not completely silent.",
+      "target": "تحدث الأسلحة المزودة بكاتم صوت ضوضاء أقل عند إطلاق النار، لكنها ليست صامتة تماما."
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_1\\dog\\dog_foundbody_react_02",
+      "source": "What the fuck are you barking for? Shut the fuck up already!",
+      "target": "لماذا تنبح بحق الجحيم؟ اخرس الآن!"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_1\\neutral\\guard_weaponwarning_02",
+      "source": "Hey, what the fuck! Put that gun away!",
+      "target": "مهلا، ما هذا بحق الجحيم؟ أبعد ذلك السلاح!"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_2\\light_alert\\light_alert_uni_03",
+      "source": "What the fuck is that? Hmm... Let's see...",
+      "target": "ما هذا بحق الجحيم؟ همم... لنر..."
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_2\\knife\\free_alert_found_knife_reaction_03",
+      "source": "Hey, what the fuck is this? Ha, a throwing knife! Looks like we got some fucking trouble coming our way...",
+      "target": "مهلا، ما هذا بحق الجحيم؟ ها، سكين رمي! يبدو أن المتاعب في طريقها إلينا..."
+    },
+    {
+      "id": "m3_dlc2_task_02_06_note",
+      "source": "The fuel rods are on board, now we need to bring them to Tom to perform the Captain's part of the deal.",
+      "target": "أصبحت قضبان الوقود على متن القارب، وعلينا الآن إيصالها إلى توم للوفاء بنصيب القبطان من الصفقة."
+    },
+    {
+      "id": "voices\\m3_dlc2\\dlc2_222_01_revengeforthesniper_02_03",
+      "source": "Yeah! No out-of-town motherfucker fucks our boys!",
+      "target": "نعم! لن نسمح لوغد غريب عن المدينة بالاعتداء على رجالنا!"
+    },
+    {
+      "id": "m3_shortgun_hint",
+      "source": "Shotguns are very effective at close range, especially against mutants. ",
+      "target": "بنادق الخرطوش فعالة جدا من مسافة قريبة، خصوصا ضد المتحولين."
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_3\\neutral\\guard_weaponwarning_02",
+      "source": "What the fuck, man? Put the gun away!",
+      "target": "ما هذا بحق الجحيم يا رجل؟ أبعد السلاح!"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_2\\light_alert\\light_alert_group_uni_question_02",
+      "source": "What the fuck was that? Do you have idea?",
+      "target": "ما كان ذلك بحق الجحيم؟ هل لديك فكرة؟"
+    },
+    {
+      "id": "m3_12_val_diary_4_dsc",
+      "source": "<tab>Teddy! The teacher says we must leave all we don’t need. I need you a lot, becos you are my bestest friend! Don’t be lonly, I will visit you very often!",
+      "target": "<tab>تيدي! يقول المعلم إن علينا ترك كل ما لا نحتاج إليه. أنا أحتاج إليك كثيرا، لأنك أعز أصدقائي! لا تشعر بالوحدة، سأزورك كثيرا!"
+    },
+    {
+      "id": "m3_07_yam_main_task_2_2",
+      "source": "REPORT TO THE COMMAND CENTER",
+      "target": "توجه إلى مركز القيادة"
+    },
+    {
+      "id": "m3_dlc2_task_02_03_02_note",
+      "source": "I found the Captain - now we need to reach another of his shelters to talk in relative safety.",
+      "target": "عثرت على القبطان، وعلينا الآن الوصول إلى أحد ملاجئه الأخرى لنتحدث بأمان نسبي."
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_1\\alert\\alert_uni_03",
+      "source": "What the fuck is there?",
+      "target": "ما الذي هناك بحق الجحيم؟"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_2\\humanimal\\chained_humanimal_alert_02",
+      "source": "What the fuck are you growling about?",
+      "target": "مم تتذمر بحق الجحيم؟"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_3\\alert\\alert_group_gonnalook_metoo_02",
+      "source": "Me too - we'll fuck anything up that starts shit with us...",
+      "target": "وأنا أيضا؛ سنحطم كل من يتعرض لنا..."
+    },
+    {
+      "id": "m3_m10_ym_defence_task",
+      "source": "PROVIDE COVER FIRE FOR RETREAT",
+      "target": "وفر غطاء ناريا للانسحاب"
+    },
+    {
+      "id": "voices\\m3_05_winter\\win_000_annanews_discussion_01_01_08",
+      "source": "<ffx:anger>We cannot tell them! If they are ready to <ffx:disgust>make mincemeat out of old ladies and kids to keep their secret, <ffx:wonder>what do you think would they do to you, uncle Sam? <ffx:sadness>We can't go back, we can't use radio - <ffx:wonder>remember the jammers?<ffx:wonder_light>",
+      "target": "<ffx:anger>لا يمكننا إخبارهم! إن كانوا مستعدين <ffx:disgust>لتمزيق المسنات والأطفال إربا ليحافظوا على سرهم، <ffx:wonder>فماذا تظن أنهم سيفعلون بك يا عم سام؟ <ffx:sadness>لا يمكننا العودة أو استخدام اللاسلكي؛ <ffx:wonder>أتذكر أجهزة التشويش؟<ffx:wonder_light>"
+    },
+    {
+      "id": "m3_12_val_inthetunnels_task",
+      "source": "TRAVERSE THE SERVICE TUNNELS",
+      "target": "اعبر أنفاق الخدمة"
+    },
+    {
+      "id": "m3_weapon_upg_hint",
+      "source": "You found a weapon modification. Use your backpack to install it.",
+      "target": "عثرت على قطعة لتعديل الأسلحة. استخدم حقيبة ظهرك لتركيبها."
+    },
+    {
+      "id": "m3_07_yam_main_task_2_2_note",
+      "source": "I made it in time! Anna is fine... Now we have to get to the Command Center, where the Colonel is waiting for us.",
+      "target": "وصلت في الوقت المناسب! آنا بخير... علينا الآن الذهاب إلى مركز القيادة، حيث ينتظرنا العقيد."
+    },
+    {
+      "id": "m3_lighter_hint",
+      "source": "Press <lighter> to light the web with your lighter.",
+      "target": "اضغط على <lighter> لحرق خيوط العنكبوت بولاعتك."
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_2\\alert\\alert_uni_03",
+      "source": "What the fuck is that down there?",
+      "target": "ما ذلك الشيء في الأسفل بحق الجحيم؟"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_1\\uber_alert\\uber_alert_group_alert_triggered_by_ally_02",
+      "source": "What? What the fuck is that?",
+      "target": "ماذا؟ ما هذا بحق الجحيم؟"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_3\\light_alert\\light_alert_uni_01",
+      "source": "What the fuck is that, huh?",
+      "target": "ما هذا بحق الجحيم؟"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_2\\alert\\alert_see_02",
+      "source": "Hey, is that fuck with us?",
+      "target": "مهلا، أهذا الوغد من جماعتنا؟"
+    },
+    {
+      "id": "voices\\m3_06_spring\\spr_002_level3_03_01",
+      "source": "<ffx:wonder>Do you think that when we come back to Metro, they will believe us? <ffx:disgust>They, who live there, bury their folks there, <ffx:anger>feed their children with rat meat? <ffx:neutral>",
+      "target": "<ffx:wonder>هل تظنون أنهم سيصدقوننا حين نعود إلى المترو؟ <ffx:disgust>أولئك الذين يعيشون هناك ويدفنون أهلهم هناك، <ffx:anger>ويطعمون أطفالهم لحم الجرذان؟ <ffx:neutral>"
+    },
+    {
+      "id": "voices\\m3_dlc2\\dlc2_100_taleoftwobrothers_brother1_ranting_02_03",
+      "source": "He'll see he shouldn't have fucked his only brother over!",
+      "target": "سيرى أنه ما كان ينبغي له أن يغدر بأخيه الوحيد!"
+    },
+    {
+      "id": "m3_dlc2_task_02_02_note",
+      "source": "The only path to the Fire Depot lies through the bandit base overlooking the Upper Lake entrance, so I'll have to take a boat from them.",
+      "target": "يمر الطريق الوحيد إلى مركز الإطفاء عبر قاعدة قطاع الطرق المطلة على مدخل البحيرة العليا، لذا سأضطر إلى الاستيلاء على قارب منهم."
+    },
+    {
+      "id": "ACH_polite saboteur_DESC_unlocked",
+      "source": "Melee-killed or stunned 50 enemies.",
+      "target": "قتلت 50 عدوا بضربات قريبة، أو أفقدتهم الوعي."
+    },
+    {
+      "id": "me_rp_gamepresence_039",
+      "source": "The Aurora - Choosing new goals",
+      "target": "أورورا - اختيار أهداف جديدة"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bridger_3\\uber_alert\\uber_alert_single_threat_notfound_03",
+      "source": "Curses! The damned heathen has escaped! Well, he can't escape the wrath of our Lord!",
+      "target": "اللعنة! هرب الكافر اللعين! لكنه لن يفلت من غضب ربنا!"
+    },
+    {
+      "id": "m3_07_yam_main_task_1_note",
+      "source": "Our journey is almost complete. Now I have to escort Colonel Miller to the Government bunker so that he could deliver his formal report.",
+      "target": "أوشكت رحلتنا على الاكتمال. علي الآن مرافقة العقيد ميلر إلى المخبأ الحكومي ليقدم تقريره الرسمي."
+    },
+    {
+      "id": "voices\\m3_09_summer\\sum_007_tokarevworkshoptalk_01_09_dukealive",
+      "source": "<ffx:wonder_strong>I didn’t even shoot it afterwards! <ffx:neutral>",
+      "target": "<ffx:wonder_strong>لم أطلق منه النار حتى بعد ذلك! <ffx:neutral>"
+    },
+    {
+      "id": "m3_m08_des_water_11_task_note_1",
+      "source": "I’m going to an oasis to replenish our fresh water reserves, but first I’ve got to meet Damir at the rendezvous point marked by Giul.",
+      "target": "سأتجه إلى واحة لتجديد مخزوننا من المياه العذبة، لكن علي أولا لقاء دامير عند النقطة التي حددتها جيول."
+    },
+    {
+      "id": "m3_07_yam_main_task_2_note",
+      "source": "All out hopes were shattered... No time to mope though, first we must escape from nightmare...",
+      "target": "تحطمت آمالنا جميعا... لكن لا وقت للأسى، فعلينا أولا الفرار من هذا الكابوس..."
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_2\\decoy\\free_decoy_reaction_04",
+      "source": "Hey, what the fuck was it? What fell?",
+      "target": "مهلا، ما كان ذلك بحق الجحيم؟ ماذا سقط؟"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_2\\danger\\reloading_01",
+      "source": "Cover my ass, guys! Gotta reload!",
+      "target": "غطوني يا رفاق! علي إعادة التلقيم!"
+    },
+    {
+      "id": "voices\\m3_dlc2\\dlc2_170_30_kulturmultur_viewers_and_projectionist_05_01",
+      "source": "Hey, what the fuck?!",
+      "target": "مهلا، ما هذا بحق الجحيم؟!"
+    },
+    {
+      "id": "voices\\m3_06_bridge\\bri_007_banditboatcrew_readytosail_01_07",
+      "source": "<ffx:disgust>Yeah... Fuck me, right? <ffx:neutral>",
+      "target": "<ffx:disgust>نعم... اللعنة علي، أليس كذلك؟ <ffx:neutral>"
+    },
+    {
+      "id": "m3_m08_des_village_1_task",
+      "source": "FIND OUT ABOUT WHAT HAPPENED TO THE CAR THAT HAD BEEN PURSUING THE AURORA. ",
+      "target": "اكتشف ما حدث للسيارة التي كانت تلاحق أورورا."
+    },
+    {
+      "id": "m3_m06_scout_church_getout_task",
+      "source": "ESCAPE FROM THE CHURCH BY BOAT",
+      "target": "اهرب من الكنيسة بالقارب"
+    },
+    {
+      "id": "m3_07_yam_main_task_2_3",
+      "source": "RETURN TO THE RAILCAR",
+      "target": "عد إلى عربة السكك الحديدية"
+    },
+    {
+      "id": "voices\\m3_08_desert\\des_059_5_32_insideoilrig_discussplayer_01_10",
+      "source": "<ffx:fear>What the fuck! <ffx:neutral>",
+      "target": "<ffx:fear> ما هذا بحق الجحيم؟! <ffx:neutral>"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_2\\uber_alert\\uber_alert_foreveralone_02",
+      "source": "What the fuck!",
+      "target": "ما هذا بحق الجحيم؟!"
+    },
+    {
+      "id": "m3_m06_goto_base_task",
+      "source": "GET BACK TO THE AURORA",
+      "target": "عد إلى أورورا"
+    },
+    {
+      "id": "voices\\m3_dlc2\\dlc2_621_executions_payback_01_03",
+      "source": "They wanted to fuck with us, we wouldn't if they didn't!",
+      "target": "هم من أرادوا التعرض لنا! ما كنا لنفعل ذلك لو تركونا وشأننا!"
+    },
+    {
+      "id": "voices\\m3_dlc2\\dlc2_650_02_assault_group_02_afterexplosion_01_01",
+      "source": "What the fuck was that? Fucking shit!",
+      "target": "ما كان ذلك بحق الجحيم؟ اللعنة!"
+    },
+    {
+      "id": "m3_m08_des_lighthouse_5_1_task_note",
+      "source": "Somebody had contacted the Aurora from the old lighthouse and with an offer - information in exchange for our help.",
+      "target": "اتصل أحدهم بأورورا من المنارة القديمة، وعرض تزويدنا بالمعلومات مقابل مساعدته."
+    },
+    {
+      "id": "m3_07_yam_main_task_2_1_note",
+      "source": "I don't know where they took Anna... Luckily, this complex is designed a lot like our familiar D6, so we'll be able to search it short order if we split. I have to search the residential level. I hope I can make it in time... Can't even think about not making it...",
+      "target": "لا أعرف إلى أين أخذوا آنا... لحسن الحظ، يشبه تصميم هذا المجمع تصميم D6 الذي نعرفه، لذا سنتمكن من تفتيشه بسرعة إذا تفرقنا. علي تفتيش الطابق السكني. آمل أن أصل في الوقت المناسب... لا أطيق حتى التفكير في التأخر..."
+    },
+    {
+      "id": "controller_layout_nextweaponspecialweaponmeleekill",
+      "source": "NEXT WEAPON / SPECIAL WEAPON (HOLD) / MELEE KILL",
+      "target": "السلاح التالي / السلاح الخاص (ضغط مطول) / القتل بضربة قريبة"
+    },
+    {
+      "id": "m3_m08_des_fuel_15_task_note",
+      "source": "The lock is controlled from the Baron's oil rig, so the only way to open the gate is to get up there somehow and engage the controls. ",
+      "target": "توجد آلية التحكم بالقفل في منصة البارون النفطية، لذا فالسبيل الوحيد لفتح البوابة هو الصعود إلى هناك بطريقة ما وتشغيل الآلية."
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_3\\decoy\\alert_decoy_reaction_01",
+      "source": "Well, what the... What the fuck is that rattling?",
+      "target": "حسنا، ما... ما صوت القعقعة ذاك بحق الجحيم؟"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_1\\decoy\\free_decoy_reaction_03",
+      "source": "What the fuck is that rattling?",
+      "target": "ما صوت القعقعة ذاك بحق الجحيم؟"
+    },
+    {
+      "id": "m3_dlc2_task_02_03_02",
+      "source": "Reach the Captain's shelter",
+      "target": "اذهب إلى ملجأ القبطان"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_3\\uber_alert\\uber_alert_single_gearinguptolookforenemy_05",
+      "source": "I'm gonna cut this fucker down to size... The fucking asshole clearly has no idea who he's fucking with...",
+      "target": "سألقن هذا الوغد درسا... من الواضح أن الأحمق اللعين لا يعرف مع من يتعامل..."
+    },
+    {
+      "id": "voices\\m3_06_spring\\spr_007_level2_21",
+      "source": "<ffx:sadness>Oh, you are just killing me... <ffx:wonder>How about you, Uncle Sam? Got dreams? <ffx:neutral>",
+      "target": "<ffx:sadness>آه، كف عن إحراجي... <ffx:wonder>وماذا عنك يا عم سام؟ ألديك أحلام؟ <ffx:neutral>"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_3\\dog\\dog_founddeaddog_01",
+      "source": "Lying here? What the fuck is up with you, you dumb mutt?",
+      "target": "لماذا تستلقي هنا؟ ما خطبك بحق الجحيم أيها الكلب الغبي؟"
+    },
+    {
+      "id": "m3_12_val_foundthefuel_task",
+      "source": "REACH THE SURFACE",
+      "target": "اصعد إلى السطح"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_1\\uber_alert\\uber_alert_single_gearinguptolookforenemy_05",
+      "source": "Calm down... I'll kill the fucker, easy-peasy... Just calm the fuck down...",
+      "target": "اهدأ... سأقتل الوغد بكل سهولة... اهدأ فحسب، اللعنة..."
+    },
+    {
+      "id": "m3_m10_ym_beacon_task",
+      "source": "FIND AND TURN OFF THE BEACON",
+      "target": "اعثر على جهاز الإرسال وأوقفه"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_1\\context\\context_reaction_crates_01",
+      "source": "Hey what the fuck is that? Near the crate over there?",
+      "target": "مهلا، ما ذلك بحق الجحيم؟ قرب الصندوق هناك؟"
+    },
+    {
+      "id": "m3_m06_wagon_to_base_task",
+      "source": "RETURN TO BASE",
+      "target": "عد إلى القاعدة"
+    },
+    {
+      "id": "voices\\m3_dlc2\\dlc2_090_scouts_sam_shoots_reaction_01_01",
+      "source": "Hey, what the fuck?!",
+      "target": "مهلا، ما هذا بحق الجحيم؟!"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\forest_2\\light_alert\\light_alert_oktogofree_reaction_01",
+      "source": "The instructors just have nothing better to do... Could have sent us mushroom hunting, or something..",
+      "target": "يبدو أن المدربين لا يجدون ما يشغلهم... كان بوسعهم إرسالنا لجمع الفطر أو نحو ذلك..."
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_3\\alert\\alert_see_01",
+      "source": "What the fuck is over there?",
+      "target": "ماذا يوجد هناك بحق الجحيم؟"
+    },
+    {
+      "id": "voices\\m3_12_valley\\val_004_radiocomm_01_03",
+      "source": "Artyom, Alyosha... This is a recorded message. If you read this, be advised. The Aurora is moving out, heading for the Dam. Get there ASAP. I repeat, get to the rendezvous point ASAP!",
+      "target": "أرتيوم، أليوشا... هذه رسالة مسجلة. إذا قرأت هذا، كن على علم. أورورا يتحرك للخارج متجهًا نحو السد. الوصول إلى هناك في أسرع وقت ممكن. أكرر، الوصول إلى نقطة الالتقاء في أسرع وقت ممكن!"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_2\\knife\\free_alert_seen_knife_reaction_02",
+      "source": "What the fuck? A knife? What the actual fuck!",
+      "target": "ما هذا بحق الجحيم؟ سكين؟ ما الذي يجري بحق الجحيم؟!"
+    },
+    {
+      "id": "voices\\m3_dlc2\\dlc2_621_executions_payback_01_04",
+      "source": "What the fuck was that? How did I put it? \"Don't touch them unless they fuck with you\", huh?",
+      "target": "ما كان ذلك بحق الجحيم؟ ماذا قلت لكم؟ «لا تتعرضوا لهم إلا إذا تعرضوا لكم»، أليس كذلك؟"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_2\\neutral\\guard_weaponwarningrepeat_03",
+      "source": "What the fuck is up with you?",
+      "target": "ما خطبك بحق الجحيم؟"
+    },
+    {
+      "id": "voices\\m3_06_bridge\\bri_040_bridge_thinker_initialloop_01_04",
+      "source": "<ffx:wonder>So, the electricity is stronger than that?",
+      "target": "<ffx:wonder>إذن، الكهرباء أقوى من ذلك؟"
+    },
+    {
+      "id": "gatling_dsc",
+      "source": "A makeshift rotating barrel machinegun capable of long sustained fire barrages. Requires spin-up before it can actually shoot.",
+      "target": "رشاش مرتجل بسبطانات دوارة، قادر على إطلاق وابل متواصل من النيران لفترات طويلة. يجب أن تبدأ سبطاناته بالدوران قبل إطلاق النار."
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_1\\uber_alert\\uber_alert_startle_04",
+      "source": "Fucking shit!",
+      "target": "اللعنة!"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_2\\context\\context_reaction_tree_02",
+      "source": "Hey what the fuck is that? Under the tree over there?",
+      "target": "مهلا، ما ذلك بحق الجحيم؟ تحت تلك الشجرة؟"
+    },
+    {
+      "id": "m3_m08_des_save_10_task_note",
+      "source": "Giul asks the I help some of the enslaved locals out. They were chased into a nearby gorge by a pack of beats. I’d better act fast.",
+      "target": "تطلب مني جيول مساعدة بعض السكان المحليين المستعبدين. فقد طاردهم قطيع من الوحوش حتى حاصرهم في مضيق قريب. علي الإسراع."
+    },
+    {
+      "id": "voices\\m3_08_desert\\des_000_narration_09",
+      "source": "<tab>While Damir and I were busy with the water bowser, the Baron's forces attacked the Aurora! We must stop them.<br><br>",
+      "target": "<tab>بينما كنت أنا ودامير مشغولين بعربة الماء، هاجمت قوات البارون أورورا! يجب أن نوقفهم.<br><br>"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_1\\decoy\\decoy_hit_reaction_01",
+      "source": "What the fuck is this shit?",
+      "target": "ما هذا بحق الجحيم؟"
+    },
+    {
+      "id": "m3_secondary_hint_flame",
+      "source": "You found a Molotov cocktail. Hold <wpn_dynamite> to choose one.",
+      "target": "عثرت على زجاجة مولوتوف. اضغط باستمرار على <wpn_dynamite> لاختيارها."
+    },
+    {
+      "id": "voices\\m3_10_yamantau\\yam_002_intro_24",
+      "source": "<ffx:smile_light>Good. Miller, over and out. <ffx:neutral>",
+      "target": "<ffx:smile_light> جيد. ميلر، انتهى الاتصال. <ffx:neutral>"
+    },
+    {
+      "id": "m3_general_hint_56",
+      "source": "You can only carry so much ammo of a particular kind, so it is wise to carry several weapons using different ammo types.",
+      "target": "لا يمكنك حمل أكثر من كمية محددة من كل نوع من الذخيرة، لذا من الحكمة حمل أسلحة تستخدم أنواعا مختلفة منها."
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_2\\context\\context_reaction_bush_02",
+      "source": "Hey, what the fuck is over there? In those bushes!",
+      "target": "مهلا، ما الذي هناك بحق الجحيم؟ بين تلك الشجيرات!"
+    },
+    {
+      "id": "m3_weapon_broken_hint",
+      "source": "There is too much dirt on a weapon, it is completely ruined.",
+      "target": "تراكمت الأوساخ على السلاح حتى تعطل تماما."
+    },
+    {
+      "id": "general_hint_55",
+      "source": "If you don't have a free weapon slot, a picked up gun replaces the one currently held.",
+      "target": "إذا لم تتوافر خانة سلاح شاغرة، فسيحل السلاح الذي تلتقطه محل السلاح الذي تحمله بيدك."
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_2\\context\\context_reaction_car_03",
+      "source": "Hey what the fuck is that? Near the car over there?",
+      "target": "مهلا، ما ذلك بحق الجحيم؟ قرب تلك السيارة؟"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_1\\alert\\alert_hear_02",
+      "source": "What the fuck was that noise about now?",
+      "target": "ما هذا الصوت الذي سمعناه للتو بحق الجحيم؟"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_3\\light_alert\\light_alert_uni_02",
+      "source": "Hey, what the fuck is that supposed to be?",
+      "target": "مهلا، ما الذي يفترض أن يكونه هذا بحق الجحيم؟"
+    },
+    {
+      "id": "m3_loader_diary_desert_09",
+      "source": "<tab>While Damir and I were busy with the water bowser, the Baron's forces attacked the Aurora. Even having repelled the Baron's attack, we were still stuck in the desert without fuel. So, while the others were preparing the Aurora for departure, Giul, Damir and I were to sneak into the oil terminal and steal a railway tank full of fuel.<br><br><tab>We were intending to open the gate from the inside, hook the tank up to the railcar and roll it out before any of the Baron's men noticed anything.<br><br>",
+      "target": "<tab>بينما كنت أنا ودامير مشغولين بعربة الماء، هاجمت قوات البارون أورورا. وحتى بعد صد هجوم البارون، بقينا عالقين في الصحراء دون وقود. لذلك، بينما كان الآخرون يجهزون أورورا للمغادرة، كان من المقرر أن نتسلل أنا وجيول ودامير إلى محطة النفط ونسرق خزانًا للسكك الحديدية مليئًا بالوقود.<br><br><tab>كنا نعتزم فتح البوابة من الداخل، وربط الخزان بعربة السكة الحديد وإخراجها قبل أن يلاحظ أي من رجال البارون أي شيء.<br><br>"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_1\\light_alert\\light_alert_group_uni_question_03",
+      "source": "What the fuck is that? Hey, did you catch this?",
+      "target": "ما هذا بحق الجحيم؟ مهلا، أرأيت ذلك؟"
+    },
+    {
+      "id": "m3_dlc02_general_hint_8",
+      "source": "The best way to avoid being hit by a mine is moving slowly while carefully listening to your Universal Detector.",
+      "target": "أفضل وسيلة لتجنب الألغام هي التحرك ببطء والإصغاء جيدا إلى إشارات الكاشف الشامل."
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_2\\light_alert\\light_alert_group_uni_question_04",
+      "source": "What the fuck was that?! Do you have an idea?",
+      "target": "ما كان ذلك بحق الجحيم؟! هل تعرف؟"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_1\\uber_alert\\uber_alert_enemy_animals_02",
+      "source": "Guys! The mutants are fucking off the rocker!",
+      "target": "يا رفاق! لقد جنت هذه المسوخ اللعينة!"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_3\\dog\\dog_foundbody_react_01",
+      "source": "Shut up! What the fuck is wrong with you?",
+      "target": "اخرس! ما خطبك بحق الجحيم؟"
+    },
+    {
+      "id": "m3_dlc2_task_01_02_note",
+      "source": "All the pieces are in place, I just need to break through to the control tower and open the dock gate.",
+      "target": "كل شيء جاهز، ولم يبق إلا أن أشق طريقي إلى برج المراقبة وأفتح بوابة الرصيف."
+    },
+    {
+      "id": "m3_photo_mode_hint",
+      "source": "You can activate photo mode by using the menu or holding <photo_mode>.",
+      "target": "يمكنك تفعيل وضع التصوير من القائمة، أو بالضغط المستمر على <photo_mode>."
+    },
+    {
+      "id": "general_hint_82_ps3",
+      "source": "Use your knife for a quick melee attack by pressing <#wpn_fast_knife>.",
+      "target": "اضغط على <#wpn_fast_knife> لشن هجوم قريب سريع بسكينك."
+    },
+    {
+      "id": "m3_m13_main_task_5_note",
+      "source": "Finally, I am here... The journey of a thousand miles might end in just one more step... I have to find the labs. If the medicine capable to save Anna is in the building, they are the place to look in. ",
+      "target": "وصلت أخيرا... لعل رحلة الألف ميل تنتهي بخطوة أخرى فقط... علي العثور على المختبرات؛ فإن كان الدواء الذي ينقذ آنا موجودا في المبنى، فهناك سأجده."
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_3\\alert\\alert_gonnalook_02",
+      "source": "Well, let's see what the fuck is in there...",
+      "target": "حسنًا، لنر ما يوجد هناك بحق الجحيم..."
+    },
+    {
+      "id": "m3_m08_des_car_4_task",
+      "source": "THE CAR WON’T START. I SHOULD MOVE TO THE PASSENGER COMPARTMENT AND GET SOME REST UNTIL THE STORM SUBSIDES",
+      "target": "محرك السيارة لا يعمل. علي الانتقال إلى مقصورة الركاب والاستراحة حتى تهدأ العاصفة"
+    },
+    {
+      "id": "m3_melee_hint",
+      "source": "Melee attack <wpn_fast_knife>",
+      "target": "هجوم قريب <wpn_fast_knife>"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_2\\dog\\dog_receivethreat_03",
+      "source": "What the fuck, Beast? What's the matter?",
+      "target": "ما هذا بحق الجحيم أيها الوحش؟ ما الأمر؟"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_1\\uber_alert\\uber_alert_group_alert_triggered_by_ally_03",
+      "source": "Hey! What the fuck is that shit?",
+      "target": "مهلا! ما هذا بحق الجحيم؟"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_2\\neutral\\guard_weaponwarning_02",
+      "source": "You wanna fuck with me? Stand down!",
+      "target": "أتريد العبث معي؟ اخفض سلاحك!"
+    },
+    {
+      "id": "voices\\m3_06_bridge\\bri_002_initialbriefing_09_14",
+      "source": "<ffx:wonder>Idiot, you give him cover from the Aurora! <ffx:wonder_light>",
+      "target": "<ffx:wonder>أحمق، وفر له غطاء ناريا من أورورا! <ffx:wonder_light>"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\forest_2\\uber_alert\\uber_alert_search_01",
+      "source": "I know you're here! We’ve been living in this forest for twenty years, so you can hide all you want, we’ve plenty of time!",
+      "target": "أعلم أنك هنا! نعيش في هذه الغابة منذ عشرين عاما؛ فاختبئ كما تشاء، لدينا متسع من الوقت!"
+    },
+    {
+      "id": "m3_m08_des_water_11_task_note_2",
+      "source": "We’ll have to traverse the caves and get into the oasis where the riggers get their water from, stealing their water tanker. ",
+      "target": "علينا عبور الكهوف والتسلل إلى الواحة التي يتزود منها رجال المنصة بالماء، ثم سرقة صهريج المياه."
+    },
+    {
+      "id": "voices\\m3_05_chase\\cha_000_annachasestart_01_04",
+      "source": "<ffx:anger>What the fuck?!<ffx:neutral>",
+      "target": "<ffx:anger> ما هذا بحق الجحيم؟! <ffx:neutral>"
+    },
+    {
+      "id": "voices\\m3_dlc2\\dlc2_170_30_kulturmultur_viewers_and_projectionist_05_02",
+      "source": "Hey! What the fuck is wrong with you?!",
+      "target": "مهلا! ما خطبك بحق الجحيم؟!"
+    },
+    {
+      "id": "voices\\m3_08_desert\\des_059_insideoilrig_tribaloppression_03_05",
+      "source": "<ffx:fear>Fucking shit! <ffx:neutral>",
+      "target": "<ffx:fear> اللعنة! <ffx:neutral>"
+    },
+    {
+      "id": "voices\\m3_dlc1\\dlc1_73_3_crowdunrest_01_04",
+      "source": "Cough up the green stuff! You gave us nothing last week!",
+      "target": "هاتوا المادة الخضراء! لم تعطونا شيئا الأسبوع الماضي!"
+    },
+    {
+      "id": "m3_m06_scout_church_inside_task",
+      "source": "ENTER THE CHURCH",
+      "target": "ادخل الكنيسة"
+    },
+    {
+      "id": "m3_07_yam_main_task_2_3_note",
+      "source": "If Idiot is right, our journey was not wasted, after all. The satellite images detailing radioactive pollution level promise hope of finding a new home not just for us, but for every survivor! We just need to collect those maps, but first we have to get back to the Aurora...",
+      "target": "إن كان إيديوت محقا، فلم تذهب رحلتنا سدى. تمنحنا صور الأقمار الصناعية التي تبين مستويات التلوث الإشعاعي أملا في العثور على موطن جديد لنا ولجميع الناجين! علينا جمع تلك الخرائط، لكن لا بد أولا من العودة إلى أورورا..."
+    },
+    {
+      "id": "m3_melee_hint_xbox",
+      "source": "Melee attack <wpn_fast_knife>",
+      "target": "هجوم قريب <wpn_fast_knife>"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\spartans\\sam\\combat\\combat_enemykilled_longrange_03",
+      "source": "Enemy down.",
+      "target": "سقط العدو."
+    },
+    {
+      "id": "m3_m06_bri_port_capture_task",
+      "source": "CAPTURE THE TUGBOAT",
+      "target": "استول على القاطرة البحرية"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_1\\decoy\\alert_decoy_reaction_01",
+      "source": "What the fuck is that rattling? There must be some asshole around...",
+      "target": "ما مصدر تلك الخشخشة بحق الجحيم؟ لا بد أن وغدا ما يختبئ هنا..."
+    },
+    {
+      "id": "voices\\m3_12_valley\\val_000_trolleyride_07",
+      "source": "<ffx:fear_light>Colonel, Sir... <ffx:sadness>This track won't hold the Aurora, take the main one. Over! <ffx:neutral>",
+      "target": "<ffx:fear_light>سيدي العقيد... <ffx:sadness>لن يتحمل هذا المسار وزن أورورا، اسلكوا المسار الرئيسي. حول! <ffx:neutral>"
+    },
+    {
+      "id": "m3_12_val_findalyosha_task",
+      "source": "INVESTIGATE ALYOSHA'S FATE",
+      "target": "استقص مصير أليوشا"
+    },
+    {
+      "id": "voices\\m3_dlc2\\dlc2_044_dock_06_d_traders_01_01",
+      "source": "You know, I'm still not convinced... Didn't they have a coup or something recently?",
+      "target": "تعلم، ما زلت غير مقتنع... ألم يقع عندهم انقلاب أو شيء من هذا القبيل مؤخرا؟"
+    },
+    {
+      "id": "$general_hint_29",
+      "source": "You can use your firearms in melee by pressing <wpn_aim>.",
+      "target": "يمكنك الضرب بسلاحك الناري في القتال القريب بالضغط على <wpn_aim>."
+    },
+    {
+      "id": "m3_m13_main_task_2_note",
+      "source": "We're back in our element - the Metro. Now we have to get to Lenin Square station.",
+      "target": "عدنا إلى بيئتنا المألوفة: المترو. علينا الآن الوصول إلى محطة ساحة لينين."
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_1\\context\\context_reaction_barrels_03",
+      "source": "Hey what the fuck is that? At the barrels?",
+      "target": "مهلا، ما ذلك بحق الجحيم؟ عند البراميل؟"
+    },
+    {
+      "id": "m3_dlc2_task_02_01_note",
+      "source": "My passage home is as good as booked, I only need to re-fuel the nuclear sub's reactors. Seems like a piece of cake, doesn't it?",
+      "target": "أصبحت عودتي إلى الوطن شبه مضمونة، ولم يبق إلا تزويد مفاعلات الغواصة النووية بالوقود. يبدو الأمر في غاية السهولة، أليس كذلك؟"
+    },
+    {
+      "id": "voices\\m3_dlc2\\dlc2_100_taleoftwobrothers_brother1_ranting_01_06",
+      "source": "That bastard! Traitor! Fucking his own brother over, just like that!",
+      "target": "ذلك الوغد! الخائن! يغدر بأخيه بهذه البساطة!"
+    },
+    {
+      "id": "$general_hint_15",
+      "source": "You can check a pneumatic weapon's tank pressure by looking at the pressure gage on the weapon's stock.",
+      "target": "يمكنك معرفة ضغط خزان السلاح الهوائي بالنظر إلى مقياس الضغط المثبت على أخمصه."
+    },
+    {
+      "id": "m3_dlc2_task_02_04",
+      "source": "Find the environment suits",
+      "target": "اعثر على بدلات الحماية"
+    },
+    {
+      "id": "voices\\m3_06_spring\\spr_007_level2_03_princealive_01",
+      "source": "<ffx:wonder>Personally, I want to come back and <ffx:smile>tell Sveta of my adventures! <ffx:wonder_light>So that she'd look at me with <ffx:smile_light>her huge grey eyes without blinking and keep saying: <ffx:wonder_strong>\"you're such a hero, darling!\" <ffx:neutral>",
+      "target": "<ffx:wonder>أما أنا، فأريد العودة <ffx:smile>لأخبر سفيتا بمغامراتي! <ffx:wonder_light>لتنظر إلي <ffx:smile_light>بعينيها الرماديتين الواسعتين دون أن ترمش، وتظل تقول: <ffx:wonder_strong>«أنت بطل حقا يا حبيبي!» <ffx:neutral>"
+    },
+    {
+      "id": "m3_12_val_gettothechurch_task",
+      "source": "FOLLOW ALYOSHA TO THE CHURCH",
+      "target": "اتبع أليوشا إلى الكنيسة"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_3\\uber_alert\\uber_alert_startle_03",
+      "source": "Fucking shit!",
+      "target": "اللعنة!"
+    },
+    {
+      "id": "m3_m13_main_task_6_note",
+      "source": "The medicine, the maps, Kirill - everyone and everything is on board. The Colonel is unconscious... I don't know if he's alive. I also don't know if I will make it to the rendezvous with the Aurora, but I don't have much of a choice. I must. Besides, I'm almost there already, it's just a short drive ahead...",
+      "target": "الدواء والخرائط وكيريل؛ أصبح الجميع وكل ما نحتاج إليه في السيارة. العقيد فاقد للوعي... لا أعرف إن كان حيا. ولا أعرف إن كنت سأصل إلى نقطة اللقاء مع أورورا، لكن ليس لي خيار. لا بد أن أصل. ثم إنني أوشكت على الوصول، ولم تبق إلا مسافة قصيرة بالسيارة..."
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_3\\danger\\reloading_02",
+      "source": "Fucking shit! Reload!",
+      "target": "اللعنة! أعيد التلقيم!"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_1\\uber_alert\\uber_alert_single_threat_notfound_03",
+      "source": "What the fuck, man? Where is he? I got to go look for the bitch all over again? Fuck!",
+      "target": "ما هذا بحق الجحيم يا رجل؟ أين هو؟ أعلي البحث عن ذلك الوغد من جديد؟ اللعنة!"
+    },
+    {
+      "id": "m3_dlc2_task_01_01",
+      "source": "Find transport",
+      "target": "ابحث عن وسيلة نقل"
+    },
+    {
+      "id": "voices\\m3_08_desert\\des_059_insideoilrig_tribaloppression_03_06",
+      "source": "<ffx:fear>What the fuck?! <ffx:neutral>",
+      "target": "<ffx:fear> ما هذا بحق الجحيم؟! <ffx:neutral>"
+    },
+    {
+      "id": "voices\\m3_06_bridge\\bri_000_narration_03",
+      "source": "<tab>In the port, I found Krest, the mechanic Katya mentioned before. He told me more about the local fanatics and promised to help us if we take him aboard - he also is heading East. <br><br><tab>The main problem now is crossing the bridge, as the fanatics that built their shantytown on it are very unlikely to just lower it to let the Aurora through.<br><br><tab>Still, I have a more pressing problem now. Anna went off the grid. I'm quite sure she's all right, but we can't afford to grow complacent here... The last time she used the radio, she was approaching a small hillock with some antennas...<br><br>",
+      "target": "<tab>وجدت في الميناء كريست، الميكانيكي الذي ذكرته كاتيا. أخبرني المزيد عن المتعصبين المحليين، ووعد بمساعدتنا إن اصطحبناه معنا؛ فهو يتجه شرقا أيضا. <br><br><tab>مشكلتنا الرئيسية الآن هي عبور الجسر، فمن المستبعد أن ينزله المتعصبون الذين أقاموا عليه مدينة الصفيح ليسمحوا لأورورا بالمرور.<br><br><tab>لكن لدي الآن ما هو أشد إلحاحا. انقطع الاتصال بآنا. أنا واثق بأنها بخير، لكن لا يمكننا التهاون هنا... حين اتصلت باللاسلكي آخر مرة، كانت تقترب من تل صغير تعلوه بعض الهوائيات...<br><br>"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_2\\decoy\\uber_alert_decoy_reaction_03",
+      "source": "What the fuck are you throwing there? Come the fuck out!",
+      "target": "ماذا ترمي هناك بحق الجحيم؟ اخرج حالا!"
+    },
+    {
+      "id": "voices\\m3_dlc2\\dlc2_088_copisland_alarm_03_02",
+      "source": "Alarm, some fuckers are here to fuck our shit up!",
+      "target": "إنذار! جاء بعض الأوغاد ليخربوا كل شيء!"
+    },
+    {
+      "id": "m3_lighter_hint_xbox",
+      "source": "Hold <popup_devices>, open the equipment menu and use your lighter on the web.",
+      "target": "اضغط باستمرار على <popup_devices> لفتح قائمة المعدات، ثم استخدم ولاعتك لحرق خيوط العنكبوت."
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_2\\uber_alert\\uber_alert_enemynear_02",
+      "source": "Motherfucker!",
+      "target": "يا ابن العاهرة!"
+    },
+    {
+      "id": "general_hint_DLC3",
+      "source": "An underslung shotgun increases your weapon's versatility and can save you from a lone mutant, but is not effective against a whole pack.",
+      "target": "تزيد بندقية الخرطوش المثبتة أسفل السبطانة من تعدد استخدامات سلاحك، وقد تنقذك من متحول منفرد، لكنها لا تكفي لمواجهة قطيع كامل."
+    },
+    {
+      "id": "m3_m06_bri_port_goto_task",
+      "source": "GET TO THE PORT",
+      "target": "اذهب إلى الميناء"
+    },
+    {
+      "id": "voices\\m3_12_valley\\val_050_finale_01_11",
+      "source": "Good. Miller, over and out.",
+      "target": "جيد. ميلر، انتهى الاتصال."
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_2\\alert\\alert_search_abort_03",
+      "source": "Well, what the fuck! Nothing again... I guess, it's just nerves...",
+      "target": "حسنًا، اللعنة! لا شيء مجددا... لعلني متوتر فحسب..."
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_3\\dog\\dog_receivethreat_01",
+      "source": "What the fuck is there?",
+      "target": "ما الذي هناك بحق الجحيم؟"
+    },
+    {
+      "id": "m3_m08_des_suit_9_task_note",
+      "source": "Equip the new suit and pick up the backpack with a spare for Damir.",
+      "target": "ارتد البدلة الجديدة وخذ حقيبة الظهر التي تحتوي على بدلة احتياطية لدامير."
+    },
+    {
+      "id": "m3_12_val_sendtheword_task",
+      "source": "SEND THE WORD OUT",
+      "target": "أرسل رسالة"
+    },
+    {
+      "id": "m3_dia_world_hanza_intro",
+      "source": "<tab>The most powerful faction of the Metro, The Commonwealth of the Stations of the Ring Line. The soldiers in Hansa's employ enjoy the best pay and equipment, and thus are highly motivated to train and perform their duties exceptionally well, making up in proficiency and skill for what they may lack in numbers. The only force to be objectively better than Hanseic troops in terms of professionalism and training is the Spartan Order, which yours truly is honored to be a member of.<br><br><tab>As far as I was able to surmise from the Colonel’s reluctant confession, Hansa is the vehicle of the Invisible Watchers, the real government of Moscow controlling all the factions from the shadows. They clearly have too much power to just live and let live, and thus engaged in some shady business, including the \"Shield” project, designed to keep Moscow under an impenetrable blanket of radio jamming to prevent further nuclear strikes against the capital.<br><br><tab>The project itself would be a benevolent initiative, even if quite misguided, had it not been connected with mass murder of people coming into or trying to leave Moscow, as well as anyone and everyone learning anything about it.<br><br><tab>Anna and I were captured by their patrol after we saw the Aurora entering the city perimeter, and just for that \"terrible crime” I was put to the gun...<br><br><tab>Anna’s agony at the moment is something I will not forgive them, for as long as I live!<br><br>",
+      "target": "<tab>رابطة محطات الخط الدائري هي أقوى فصيل في المترو. يحصل الجنود العاملون لدى هانزا على أفضل الأجور والمعدات، مما يحفزهم على التدريب وإتقان واجباتهم، فيعوضون بالكفاءة والمهارة ما قد ينقصهم من العدد. والقوة الوحيدة التي تتفوق على قوات هانزا في الاحتراف والتدريب هي تنظيم الإسبرطيين، الذي أتشرف بالانتماء إليه.<br><br><tab>وبحسب ما فهمته من اعتراف العقيد المتردد، تعمل هانزا أداة للمراقبين غير المرئيين، وهم حكومة موسكو الحقيقية التي تتحكم في جميع الفصائل من وراء الستار. ويبدو أنهم يملكون من القوة ما يمنعهم من ترك الآخرين وشأنهم، فانخرطوا في أعمال مشبوهة، منها مشروع «الدرع»، الذي يبقي موسكو تحت غطاء كثيف من التشويش اللاسلكي، لمنع تعرض العاصمة لضربات نووية أخرى.<br><br><tab>كان يمكن أن يكون المشروع مبادرة حسنة النية، وإن كانت خاطئة، لولا اقترانه بالقتل الجماعي لكل من يأتي إلى موسكو أو يحاول مغادرتها، ولكل من يعرف شيئا عنه.<br><br><tab>أسرتنا إحدى دورياتهم، أنا وآنا، بعدما رأينا أورورا تدخل أطراف المدينة، وبسبب هذه «الجريمة الفظيعة» وحدها أطلقوا النار علي...<br><br><tab>لن أسامحهم على ما عانته آنا آنذاك، ما حييت!<br><br>"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_1\\light_alert\\light_alert_uni_01",
+      "source": "Hey, what the fuck is that?",
+      "target": "مهلا، ما هذا بحق الجحيم؟"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\forest_1\\free\\free_safe_04",
+      "source": "I'd SO go mushroom-hunting now... It's high season, and I'm stuck playing guard here!",
+      "target": "كم أود الذهاب لجمع الفطر الآن... هذا أوان موسمه، وأنا عالق هنا في الحراسة!"
+    },
+    {
+      "id": "m3_m08_des_fuel_17_task",
+      "source": "GET BACK TO THE AURORA",
+      "target": "عد إلى أورورا"
+    },
+    {
+      "id": "m3_dlc2_task_02_07",
+      "source": "Disable the power plant",
+      "target": "عطل محطة توليد الكهرباء"
+    }
+  ],
+  "language_scope": "Whole-table terminology rules and contextual corrections; not a full manual sentence review.",
+  "audited_categories": {
+    "dialogue": 31859,
+    "hints": 429,
+    "notes_and_journal": 463,
+    "credits_and_legal": 2758,
+    "interface_and_other": 2164,
+    "equipment": 414,
+    "tasks": 134
+  },
+  "changed_categories": {
+    "dialogue": 160,
+    "hints": 24,
+    "notes_and_journal": 9,
+    "tasks": 64,
+    "interface_and_other": 6,
+    "equipment": 2
+  },
+  "new_full_context_review_entries": 117,
+  "new_exact_voice_phrases": 129,
+  "matching_voice_entries": 141,
+  "reviewed_context_keys": [
+    "m3_12_val_freealyosha_task",
+    "m3_12_val_gettothechurch_task",
+    "m3_05_chase_task_2",
+    "m3_dlc2_task_02_04",
+    "m3_m10_ym_beacon_task",
+    "m3_m08_des_brif_III_12_task_1_note",
+    "m3_dlc2_task_02_02_note",
+    "m3_m08_des_shtorm_3_task_note",
+    "m3_m08_des_lab_6_task_note",
+    "m3_m06_scout_church_inside_task",
+    "m3_dlc2_task_02_04_02_note",
+    "m3_dlc2_task_02_03_02_note",
+    "gatling_dsc",
+    "controller_layout_nextweaponspecialweaponmeleekill",
+    "m3_12_val_diary_7_dsc",
+    "m3_12_val_diary_4_dsc",
+    "m3_dia_crew_stepan_summer",
+    "voices\\m3_06_spring\\spr_002_level3_03_01",
+    "voices\\m3_12_valley\\val_006_woundedtalk_01_02",
+    "voices\\m3_06_bridge\\bri_007_banditboatcrew_readytosail_01_07",
+    "voices\\m3_06_spring\\spr_007_level2_03_princealive_01",
+    "voices\\m3_12_valley\\val_35_bandits_outlook_01_02",
+    "voices\\m3_06_bridge\\bri_012_timur_sam_accent_01_02",
+    "voices\\m3_06_bridge\\bri_040_bridge_thinker_initialloop_01_04",
+    "voices\\m3_09_summer\\sum_007_tokarevworkshoptalk_01_09_dukealive",
+    "voices\\m3_dlc1\\dlc1_14_1_burntunnels_audiodiary_01_03",
+    "ACH_all_good_DESC",
+    "m3_m06_sparta_fort_opendoor_task",
+    "m3_dlc2_task_01_02",
+    "m3_07_yam_main_task_1",
+    "m3_m08_des_suit_9_task",
+    "m3_m08_des_fuel_16_task",
+    "m3_dlc2_task_02_03",
+    "m3_dlc2_task_02_01",
+    "m3_dlc2_task_02_05",
+    "m3_m08_des_base_7_task",
+    "m3_m06_wagon_to_base_task",
+    "m3_m06_scout_port_goto_task",
+    "m3_m06_bri_port_goto_task",
+    "m3_07_yam_main_task_2_2",
+    "m3_m10_ym_defence_task",
+    "m3_12_val_inthetunnels_task",
+    "m3_m06_scout_church_getout_task",
+    "m3_07_yam_main_task_2_3",
+    "m3_m06_goto_base_task",
+    "m3_dlc2_task_02_03_02",
+    "m3_12_val_foundthefuel_task",
+    "m3_m06_bri_port_capture_task",
+    "m3_12_val_findalyosha_task",
+    "m3_dlc2_task_01_01",
+    "m3_12_val_sendtheword_task",
+    "m3_m08_des_fuel_17_task",
+    "m3_dlc2_task_02_07",
+    "m3_m08_des_lab_6_1_task_note",
+    "m3_m08_des_fuel_17_task_note",
+    "m3_m08_des_car_4_task",
+    "m3_m13_main_task_2_note",
+    "m3_m08_des_suit_9_task_note",
+    "m3_dlc2_task_02_06_note",
+    "m3_dlc2_task_01_02_note",
+    "m3_07_yam_main_task_2_note",
+    "m3_m06_bri_boat_wait_note",
+    "m3_loader_diary_desert_02_stun",
+    "m3_loader_diary_desert_02_kill",
+    "voices\\m3_08_desert\\des_016_briefing_03_19",
+    "voices\\m3_13_dead_city\\nvs_000_narration_09",
+    "voices\\m3_06_bridge\\bri_010_miller_stepan_refugeetalk_06",
+    "voices\\m3_06_bridge\\bri_002_initialbriefing_09_14",
+    "voices\\m3_12_valley\\val_000_trolleyride_07",
+    "voices\\m3_05_winter\\win_000_annanews_discussion_01_01_08",
+    "voices\\m3_06_spring\\spr_007_level2_21",
+    "m3_dia_equip_nv_goggles_intro",
+    "m3_dia_world_hanza_intro",
+    "m3_dia_crew_sam_autumn",
+    "voices\\m3_06_bridge\\bri_000_narration_03",
+    "m3_secondary_hint_dynamite",
+    "m3_secondary_hint_flame",
+    "m3_wpn_down_civil_hint",
+    "m3_general_hint_95",
+    "general_hint_89_2034",
+    "m3_special_ammo_hint",
+    "m3_dlc02_general_hint_6",
+    "m3_general_hint_48",
+    "m3_shortgun_hint",
+    "m3_weapon_upg_hint",
+    "m3_general_hint_56",
+    "m3_weapon_broken_hint",
+    "general_hint_55",
+    "m3_dlc02_general_hint_8",
+    "m3_photo_mode_hint",
+    "general_hint_82_ps3",
+    "m3_melee_hint",
+    "m3_melee_hint_xbox",
+    "$general_hint_29",
+    "$general_hint_15",
+    "m3_lighter_hint_xbox",
+    "general_hint_DLC3",
+    "general_hint_90_2034",
+    "ACH_polite saboteur_DESC",
+    "ACH_polite saboteur_DESC_unlocked",
+    "m3_lighter_hint",
+    "m3_dlc2_task_02_03_note",
+    "m3_dlc2_task_01_01_note",
+    "m3_dlc2_task_02_04_note",
+    "m3_12_val_main_task_note",
+    "m3_07_yam_main_task_2_2_note",
+    "m3_07_yam_main_task_1_note",
+    "m3_m08_des_water_11_task_note_1",
+    "m3_m08_des_lighthouse_5_1_task_note",
+    "m3_07_yam_main_task_2_1_note",
+    "m3_m08_des_fuel_15_task_note",
+    "m3_m08_des_save_10_task_note",
+    "m3_m13_main_task_5_note",
+    "m3_m08_des_water_11_task_note_2",
+    "m3_07_yam_main_task_2_3_note",
+    "m3_dlc2_task_02_01_note",
+    "m3_m13_main_task_6_note"
+  ],
+  "reviewed_voice_keys": [
+    "voices\\universal_m3\\factions\\bandit_2\\wounded\\wounded_lightly_05",
+    "voices\\universal_m3\\factions\\merc_3\\danger\\enemy_seen_alert_foreveralone_02",
+    "voices\\universal_m3\\factions\\merc_2\\neutral\\guard_weaponwarning_01",
+    "voices\\universal_m3\\factions\\bandit_1\\danger\\combat_flee_01",
+    "voices\\universal_m3\\factions\\bridger_2\\context\\context_reaction_pass_03",
+    "voices\\universal_m3\\factions\\forest_3\\context\\context_alert_pass_03",
+    "voices\\universal_m3\\factions\\bandit_2\\neutral\\guard_weaponwarning_privatezone_02",
+    "voices\\universal_m3\\factions\\merc_1\\danger\\enemy_dead_human_01",
+    "voices\\universal_m3\\factions\\bandit_1\\context\\context_lostenemyat_crates_02",
+    "voices\\universal_m3\\factions\\bandit_3\\uber_alert\\uber_alert_enemy_animals_03",
+    "voices\\universal_m3\\factions\\bandit_3\\species\\confused_group_question_01",
+    "voices\\m3_dlc2\\dlc2_004_sam_captain_meeting_01_02_05",
+    "voices\\universal_m3\\factions\\bandit_3\\context\\context_reaction_carriage_02",
+    "voices\\universal_m3\\factions\\bandit_2\\context\\context_alert_crates_03",
+    "voices\\universal_m3\\factions\\bandit_1\\context\\context_alert_sandbags_03",
+    "voices\\universal_m3\\factions\\bandit_3\\uber_alert\\uber_alert_commenting_corpse_02",
+    "voices\\universal_m3\\factions\\bandit_1\\neutral\\guard_weaponwarning_03",
+    "voices\\universal_m3\\factions\\bandit_2\\light_alert\\light_alert_group_alarmed_call_goingalert_morethanone_03",
+    "voices\\universal_m3\\factions\\bandit_2\\context\\context_reaction_pillar_01",
+    "voices\\universal_m3\\factions\\bandit_2\\context\\context_lostenemyat_up_01",
+    "voices\\m3_02_dead_moscow\\dmc_000_5_spartans_radio_01_10",
+    "voices\\universal_m3\\factions\\bandit_3\\species\\confused_group_threat_subsided_reply_02",
+    "voices\\universal_m3\\factions\\forest_2\\neutral\\guard_weaponwarninglast_02",
+    "voices\\universal_m3\\factions\\bridger_2\\decoy\\free-uber_alert__seen_decoy_reaction_02",
+    "voices\\universal_m3\\factions\\bridger_1\\context\\context_reaction_pass_02",
+    "voices\\universal_m3\\factions\\bandit_3\\dog\\dog_foundbody_react_04",
+    "voices\\m3_08_desert\\des_044_60_lighthouseattack_playerapproach_01_09",
+    "voices\\m3_dlc2\\dlc2_750_piercombat_01_10",
+    "voices\\universal_m3\\factions\\bandit_3\\uber_alert\\uber_alert_single_nocoveravailable_02",
+    "voices\\universal_m3\\factions\\bandit_3\\neutral\\guard_weapongotocombat_02",
+    "voices\\m3_05_chase\\cha_005_couplingfail_alarm_02",
+    "voices\\universal_m3\\factions\\bandit_2\\danger\\enemy_seen_alert_03",
+    "voices\\m3_dlc2\\dlc2_110_taleoftwobrothers_brother2_ranting_01_05",
+    "voices\\universal_m3\\factions\\merc_2\\uber_alert\\uber_alert_commenting_corpse_02",
+    "voices\\universal_m3\\factions\\bandit_3\\dog\\dog_receivethreat_04",
+    "voices\\universal_m3\\factions\\bandit_2\\context\\context_lostenemyat_fence_01",
+    "voices\\universal_m3\\factions\\bandit_1\\uber_alert\\uber_alert_commenting_corpse_04",
+    "voices\\universal_m3\\factions\\bridger_1\\context\\context_lostenemyat_down_03",
+    "voices\\universal_m3\\factions\\bandit_3\\uber_alert\\uber_alert_commenting_corpse_04",
+    "voices\\universal_m3\\factions\\bandit_2\\uber_alert\\uber_alert_group_search_waitforsearchcomplete_07",
+    "voices\\universal_m3\\factions\\bandit_1\\car\\carseen_01",
+    "voices\\m3_dlc2\\dlc2_850_10_outro_01_16",
+    "voices\\universal_m3\\factions\\merc_1\\neutral\\guard_weaponwarning_01",
+    "voices\\universal_m3\\factions\\bandit_2\\danger\\attacking_enemy_flamer_02",
+    "voices\\universal_m3\\factions\\bandit_2\\scared\\scared_now_01",
+    "voices\\m3_dlc1\\dlc1_74_2_quarrel_01_11",
+    "voices\\universal_m3\\factions\\bandit_1\\uber_alert\\uber_alert_enemynear_01",
+    "voices\\universal_m3\\factions\\bandit_3\\alert\\alert_uni_01",
+    "voices\\m3_12_autumn\\aut_021_02_radio_05",
+    "voices\\m3_dlc2\\dlc2_170_17_kulturmultur_fidgety_bandit_01_06",
+    "voices\\universal_m3\\factions\\merc_3\\uber_alert\\uber_alert_single_takingcover_02",
+    "voices\\universal_m3\\factions\\merc_1\\context\\context_alert_pass_03",
+    "voices\\universal_m3\\factions\\bandit_1\\light_alert\\light_alert_group_uni_question_02",
+    "voices\\m3_08_desert\\des_062_spidership_bandits_talk_02_02",
+    "voices\\universal_m3\\factions\\bandit_3\\knife\\free_alert_seen_knife_reaction_04",
+    "voices\\universal_m3\\factions\\cannibal_3\\alert\\alert_gonnalook_enroute_01",
+    "voices\\universal_m3\\factions\\bandit_1\\context\\context_reaction_trees_03",
+    "voices\\universal_m3\\factions\\bandit_3\\uber_alert\\uber_alert_group_alert_triggered_by_ally_02",
+    "voices\\universal_m3\\factions\\bandit_3\\light_alert\\light_alert_see_02",
+    "voices\\m3_12_valley\\val_130_01_teacherlog_01_04",
+    "voices\\universal_m3\\factions\\bandit_1\\uber_alert\\uber_alert_group_alert_triggered_by_ally_05",
+    "voices\\universal_m3\\factions\\bandit_3\\corpse\\checking_dead_01",
+    "voices\\universal_m3\\factions\\bandit_2\\context\\context_reaction_window_03",
+    "voices\\universal_m3\\factions\\bandit_2\\decoy\\alert_decoy_reaction_03",
+    "voices\\universal_m3\\factions\\bandit_3\\uber_alert\\uber_alert_05",
+    "voices\\m3_dlc2\\dlc2_222_01_revengeforthesniper_02_02",
+    "voices\\universal_m3\\factions\\bandit_2\\danger\\reloading_02",
+    "voices\\universal_m3\\factions\\bandit_3\\neutral\\guard_weapongotocombat_03",
+    "voices\\universal_m3\\factions\\bandit_1\\dog\\dog_foundbody_react_02",
+    "voices\\universal_m3\\factions\\bandit_1\\neutral\\guard_weaponwarning_02",
+    "voices\\universal_m3\\factions\\bandit_2\\light_alert\\light_alert_uni_03",
+    "voices\\universal_m3\\factions\\bandit_2\\knife\\free_alert_found_knife_reaction_03",
+    "voices\\m3_dlc2\\dlc2_222_01_revengeforthesniper_02_03",
+    "voices\\universal_m3\\factions\\bandit_3\\neutral\\guard_weaponwarning_02",
+    "voices\\universal_m3\\factions\\bandit_2\\light_alert\\light_alert_group_uni_question_02",
+    "voices\\universal_m3\\factions\\bandit_1\\alert\\alert_uni_03",
+    "voices\\universal_m3\\factions\\bandit_2\\humanimal\\chained_humanimal_alert_02",
+    "voices\\universal_m3\\factions\\bandit_3\\alert\\alert_group_gonnalook_metoo_02",
+    "voices\\universal_m3\\factions\\bandit_2\\alert\\alert_uni_03",
+    "voices\\universal_m3\\factions\\bandit_1\\uber_alert\\uber_alert_group_alert_triggered_by_ally_02",
+    "voices\\universal_m3\\factions\\bandit_3\\light_alert\\light_alert_uni_01",
+    "voices\\universal_m3\\factions\\bandit_2\\alert\\alert_see_02",
+    "voices\\m3_dlc2\\dlc2_100_taleoftwobrothers_brother1_ranting_02_03",
+    "voices\\universal_m3\\factions\\bridger_3\\uber_alert\\uber_alert_single_threat_notfound_03",
+    "voices\\universal_m3\\factions\\bandit_2\\decoy\\free_decoy_reaction_04",
+    "voices\\universal_m3\\factions\\bandit_2\\danger\\reloading_01",
+    "voices\\m3_dlc2\\dlc2_170_30_kulturmultur_viewers_and_projectionist_05_01",
+    "voices\\m3_08_desert\\des_059_5_32_insideoilrig_discussplayer_01_10",
+    "voices\\universal_m3\\factions\\bandit_2\\uber_alert\\uber_alert_foreveralone_02",
+    "voices\\m3_dlc2\\dlc2_621_executions_payback_01_03",
+    "voices\\m3_dlc2\\dlc2_650_02_assault_group_02_afterexplosion_01_01",
+    "voices\\universal_m3\\factions\\bandit_3\\decoy\\alert_decoy_reaction_01",
+    "voices\\universal_m3\\factions\\bandit_1\\decoy\\free_decoy_reaction_03",
+    "voices\\universal_m3\\factions\\bandit_3\\uber_alert\\uber_alert_single_gearinguptolookforenemy_05",
+    "voices\\universal_m3\\factions\\bandit_3\\dog\\dog_founddeaddog_01",
+    "voices\\universal_m3\\factions\\bandit_1\\uber_alert\\uber_alert_single_gearinguptolookforenemy_05",
+    "voices\\universal_m3\\factions\\bandit_1\\context\\context_reaction_crates_01",
+    "voices\\m3_dlc2\\dlc2_090_scouts_sam_shoots_reaction_01_01",
+    "voices\\universal_m3\\factions\\forest_2\\light_alert\\light_alert_oktogofree_reaction_01",
+    "voices\\universal_m3\\factions\\bandit_3\\alert\\alert_see_01",
+    "voices\\universal_m3\\factions\\bandit_2\\knife\\free_alert_seen_knife_reaction_02",
+    "voices\\m3_dlc2\\dlc2_621_executions_payback_01_04",
+    "voices\\universal_m3\\factions\\bandit_2\\neutral\\guard_weaponwarningrepeat_03",
+    "voices\\universal_m3\\factions\\bandit_1\\uber_alert\\uber_alert_startle_04",
+    "voices\\universal_m3\\factions\\bandit_2\\context\\context_reaction_tree_02",
+    "voices\\universal_m3\\factions\\bandit_1\\decoy\\decoy_hit_reaction_01",
+    "voices\\m3_10_yamantau\\yam_002_intro_24",
+    "voices\\universal_m3\\factions\\bandit_2\\context\\context_reaction_bush_02",
+    "voices\\universal_m3\\factions\\bandit_2\\context\\context_reaction_car_03",
+    "voices\\universal_m3\\factions\\bandit_1\\alert\\alert_hear_02",
+    "voices\\universal_m3\\factions\\bandit_3\\light_alert\\light_alert_uni_02",
+    "voices\\universal_m3\\factions\\bandit_1\\light_alert\\light_alert_group_uni_question_03",
+    "voices\\universal_m3\\factions\\bandit_2\\light_alert\\light_alert_group_uni_question_04",
+    "voices\\universal_m3\\factions\\bandit_1\\uber_alert\\uber_alert_enemy_animals_02",
+    "voices\\universal_m3\\factions\\bandit_3\\dog\\dog_foundbody_react_01",
+    "voices\\universal_m3\\factions\\bandit_3\\alert\\alert_gonnalook_02",
+    "voices\\universal_m3\\factions\\bandit_2\\dog\\dog_receivethreat_03",
+    "voices\\universal_m3\\factions\\bandit_1\\uber_alert\\uber_alert_group_alert_triggered_by_ally_03",
+    "voices\\universal_m3\\factions\\bandit_2\\neutral\\guard_weaponwarning_02",
+    "voices\\universal_m3\\factions\\forest_2\\uber_alert\\uber_alert_search_01",
+    "voices\\m3_05_chase\\cha_000_annachasestart_01_04",
+    "voices\\m3_dlc2\\dlc2_170_30_kulturmultur_viewers_and_projectionist_05_02",
+    "voices\\m3_08_desert\\des_059_insideoilrig_tribaloppression_03_05",
+    "voices\\m3_dlc1\\dlc1_73_3_crowdunrest_01_04",
+    "voices\\universal_m3\\factions\\spartans\\sam\\combat\\combat_enemykilled_longrange_03",
+    "voices\\universal_m3\\factions\\bandit_1\\decoy\\alert_decoy_reaction_01",
+    "voices\\m3_dlc2\\dlc2_044_dock_06_d_traders_01_01",
+    "voices\\universal_m3\\factions\\bandit_1\\context\\context_reaction_barrels_03",
+    "voices\\m3_dlc2\\dlc2_100_taleoftwobrothers_brother1_ranting_01_06",
+    "voices\\universal_m3\\factions\\bandit_3\\uber_alert\\uber_alert_startle_03",
+    "voices\\universal_m3\\factions\\bandit_3\\danger\\reloading_02",
+    "voices\\universal_m3\\factions\\bandit_1\\uber_alert\\uber_alert_single_threat_notfound_03",
+    "voices\\m3_08_desert\\des_059_insideoilrig_tribaloppression_03_06",
+    "voices\\universal_m3\\factions\\bandit_2\\decoy\\uber_alert_decoy_reaction_03",
+    "voices\\m3_dlc2\\dlc2_088_copisland_alarm_03_02",
+    "voices\\universal_m3\\factions\\bandit_2\\uber_alert\\uber_alert_enemynear_02",
+    "voices\\m3_12_valley\\val_050_finale_01_11",
+    "voices\\universal_m3\\factions\\bandit_2\\alert\\alert_search_abort_03",
+    "voices\\universal_m3\\factions\\bandit_3\\dog\\dog_receivethreat_01",
+    "voices\\universal_m3\\factions\\bandit_1\\light_alert\\light_alert_uni_01",
+    "voices\\universal_m3\\factions\\forest_1\\free\\free_safe_04"
+  ]
+}

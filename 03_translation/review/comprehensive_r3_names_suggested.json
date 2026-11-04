@@ -1,0 +1,128 @@
+[
+  {
+    "id": "voices\\m3_05_winter\\win_000_annanews_reaction_02_01",
+    "source": "<ffx:smile_light>Hey, Idiot! Wake up!",
+    "before": "<ffx:smile_light>مرحبًا أيها الأبله! استيقظ!",
+    "target": "<ffx:smile_light>يا إيديوت! استيقظ!",
+    "reason": "Idiot اسم الشخصية المعتمد إيديوت، وليس شتيمة. مخاطبة أو ذكر مباشر ضمن أفراد الطاقم؛ صيغت الجملة كاملة بعربية طبيعية مع حفظ الأعلام والوسوم."
+  },
+  {
+    "id": "voices\\m3_10_yamantau\\yam_016_commcentertalk_18",
+    "source": "<ffx:anger_light>Did you get everything you could, Idiot? We're leaving! <ffx:wonder_light>",
+    "before": "<ffx:anger_light>هل حصلت على كل ما تستطيع، أيها الأبله؟ نحن نغادر!<ffx:wonder_light>",
+    "target": "<ffx:anger_light>هل جمعت كل ما استطعت، يا إيديوت؟ إننا نغادر! <ffx:wonder_light>",
+    "reason": "Idiot اسم الشخصية المعتمد إيديوت، وليس شتيمة. مخاطبة أو ذكر مباشر ضمن أفراد الطاقم؛ صيغت الجملة كاملة بعربية طبيعية مع حفظ الأعلام والوسوم."
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_011_somehelp_01",
+    "source": "Here's something from your old friend Idiot!",
+    "before": "إليك شيء من صديقك القديم الأبله!",
+    "target": "إليك شيئا من صديقك القديم إيديوت!",
+    "reason": "Idiot اسم الشخصية المعتمد إيديوت، وليس شتيمة. مخاطبة أو ذكر مباشر ضمن أفراد الطاقم؛ صيغت الجملة كاملة بعربية طبيعية مع حفظ الأعلام والوسوم."
+  },
+  {
+    "id": "voices\\m3_05_winter\\win_000_annanews_discussion_01_02_04",
+    "source": "<ffx:smile>You're too smart for your own good, Idiot. <ffx:neutral>",
+    "before": "<ffx:smile>أنت ذكي جدًا بما لا يضر بمصلحتك أيها الأبله.<ffx:neutral>",
+    "target": "<ffx:smile>ذكاؤك الزائد سيجلب لك المتاعب، يا إيديوت. <ffx:neutral>",
+    "reason": "Idiot اسم الشخصية المعتمد إيديوت، وليس شتيمة. صُحح أيضا too smart for your own good: الذكاء الزائد الذي قد يجلب المتاعب؛ كانت الجملة تعكس المعنى."
+  },
+  {
+    "id": "voices\\m3_06_spring\\spr_007_level2_14",
+    "source": "<ffx:wonder>What do you think about that, Idiot? <ffx:neutral>",
+    "before": "<ffx:wonder>ما رأيك في ذلك أيها الأبله؟<ffx:neutral>",
+    "target": "<ffx:wonder>ما رأيك في ذلك، يا إيديوت؟ <ffx:neutral>",
+    "reason": "Idiot اسم الشخصية المعتمد إيديوت، وليس شتيمة. مخاطبة أو ذكر مباشر ضمن أفراد الطاقم؛ صيغت الجملة كاملة بعربية طبيعية مع حفظ الأعلام والوسوم."
+  },
+  {
+    "id": "voices\\m3_05_winter\\win_010_stokingcoal_12",
+    "source": "<ffx:anger_light>Idiot says it's dynamic meditation...<ffx:neutral>",
+    "before": "<ffx:anger_light>يقول الأبله إنه التأمل الديناميكي...<ffx:neutral>",
+    "target": "<ffx:anger_light>يقول إيديوت إنه تأمل حركي...<ffx:neutral>",
+    "reason": "Idiot اسم الشخصية المعتمد إيديوت، وليس شتيمة. مخاطبة أو ذكر مباشر ضمن أفراد الطاقم؛ صيغت الجملة كاملة بعربية طبيعية مع حفظ الأعلام والوسوم."
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_035_5_radiochatter_02_02",
+    "source": "Great job! Except for the Idiot, everyone assemble here. Including the lumberjacks!",
+    "before": "عمل عظيم! باستثناء الأبله، الجميع يتجمعون هنا. بما في ذلك الحطابين!",
+    "target": "عمل رائع! ليتجمع الجميع هنا باستثناء إيديوت، بمن فيهم الحطابون!",
+    "reason": "Idiot اسم الشخصية المعتمد إيديوت، وليس شتيمة. مخاطبة أو ذكر مباشر ضمن أفراد الطاقم؛ صيغت الجملة كاملة بعربية طبيعية مع حفظ الأعلام والوسوم."
+  },
+  {
+    "id": "voices\\m3_10_yamantau\\yam_016_commcentertalk_11",
+    "source": "<ffx:wonder>Have you found anything, Idiot? <ffx:wonder_light>",
+    "before": "<ffx:wonder>هل وجدت أي شيء أيها الأبله؟<ffx:wonder_light>",
+    "target": "<ffx:wonder>هل عثرت على شيء، يا إيديوت؟ <ffx:wonder_light>",
+    "reason": "Idiot اسم الشخصية المعتمد إيديوت، وليس شتيمة. مخاطبة أو ذكر مباشر ضمن أفراد الطاقم؛ صيغت الجملة كاملة بعربية طبيعية مع حفظ الأعلام والوسوم."
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_016_5_breakingcamp_01",
+    "source": "<ffx:anger_light>Anna, Idiot, Tokarev! <ffx:smile_light>We're breaking camp, people. <ffx:neutral>",
+    "before": "<ffx:anger_light>آنا، الأبله، توكاريف!<ffx:smile_light>نحن نكسر المعسكر أيها الناس.<ffx:neutral>",
+    "target": "<ffx:anger_light>آنا، إيديوت، توكاريف! <ffx:smile_light>نطوي المعسكر يا رفاق. <ffx:neutral>",
+    "reason": "Idiot اسم الشخصية المعتمد إيديوت، وليس شتيمة. breaking camp طي المعسكر استعدادا للرحيل، لا كسره."
+  },
+  {
+    "id": "voices\\m3_06_spring\\spr_007_level2_16",
+    "source": "<ffx:smile>Well, we should have expected that from you! <ffx:wonder>Weird thing, though, is that you are called Idiot! <ffx:neutral>",
+    "before": "<ffx:smile>حسنًا، كان ينبغي لنا أن نتوقع ذلك منك!<ffx:wonder>الشيء الغريب هو أنك تدعى \"الأبله\"!<ffx:neutral>",
+    "target": "<ffx:smile>حسنا، كان علينا أن نتوقع منك ذلك! <ffx:wonder>الغريب أنك تلقب بـ«إيديوت»! <ffx:neutral>",
+    "reason": "Idiot اسم الشخصية المعتمد إيديوت، وليس شتيمة. قُرئ حوار _15 إلى _19 الذي يشرح اختياره للقبه وذكر دوستويفسكي، فأُبقي اللقب المعتمد."
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_013_4_briefing_02_milleridiot_01",
+    "source": "<ffx:wonder_light>What have you got, Idiot? <ffx:neutral>",
+    "before": "<ffx:wonder_light>ماذا لديك أيها الأبله؟<ffx:neutral>",
+    "target": "<ffx:wonder_light>ماذا لديك، يا إيديوت؟ <ffx:neutral>",
+    "reason": "Idiot اسم الشخصية المعتمد إيديوت، وليس شتيمة. مخاطبة أو ذكر مباشر ضمن أفراد الطاقم؛ صيغت الجملة كاملة بعربية طبيعية مع حفظ الأعلام والوسوم."
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_02_04_spartanscheckrooms_03",
+    "source": "<ffx:wonder_light>So, how do you find the premises, Idiot? <ffx:neutral>",
+    "before": "<ffx:wonder_light>إذن، كيف تجد المبنى أيها الأبله؟<ffx:neutral>",
+    "target": "<ffx:wonder_light>إذن، ما رأيك في المكان، يا إيديوت؟ <ffx:neutral>",
+    "reason": "Idiot اسم الشخصية المعتمد إيديوت، وليس شتيمة. مخاطبة أو ذكر مباشر ضمن أفراد الطاقم؛ صيغت الجملة كاملة بعربية طبيعية مع حفظ الأعلام والوسوم."
+  },
+  {
+    "id": "voices\\m3_13_dead_city\\nvs_001_initialbriefing_06",
+    "source": "<ffx:anger_light>Krest, Sam, Idiot and I will handle the Institute building in Akademgorodok. <ffx:smile_light>We'll pay a visit to the railroad museum on the way. <ffx:wonder_light>There might be something for the Aurora there... <ffx:neutral>",
+    "before": "<ffx:anger_light>أنا وكريست وسام وأيديوت سنتولى إدارة مبنى المعهد في أكاديمغورودوك.<ffx:smile_light>سنقوم بزيارة متحف السكك الحديدية في الطريق.<ffx:wonder_light>قد يكون هناك شيء ما لـ أورورا هناك...<ffx:neutral>",
+    "target": "<ffx:anger_light>سأتولى أنا وكريست وسام وإيديوت تفقد مبنى المعهد في أكاديمغورودوك. <ffx:smile_light>وسنزور متحف السكك الحديدية في الطريق. <ffx:wonder_light>قد نجد فيه شيئا ينفع أورورا... <ffx:neutral>",
+    "reason": "Idiot اسم الشخصية المعتمد إيديوت، وليس شتيمة. مخاطبة أو ذكر مباشر ضمن أفراد الطاقم؛ صيغت الجملة كاملة بعربية طبيعية مع حفظ الأعلام والوسوم."
+  },
+  {
+    "id": "voices\\m3_05_winter\\win_010_idiot_breather_09",
+    "source": "<ffx:sadness_light>Is it dumb to think about such things, when all I ever did <ffx:wonder_light>in life was carry out orders? <ffx:smile_light>Well, I'm not called Idiot for nothing... <ffx:wonder_light>Still, I would like to know what's on the end of your chain... <ffx:neutral>",
+    "before": "<ffx:sadness_light>هل من الغباء التفكير في مثل هذه الأشياء، في حين أن كل ما فعلته من قبل<ffx:wonder_light>في الحياة كان تنفيذ الأوامر؟<ffx:smile_light>حسنًا، أنا لا أُسمى \"أحمق\" من أجل لا شيء...<ffx:wonder_light>ومع ذلك، أود أن أعرف ما هو في نهاية سلسلتك...<ffx:neutral>",
+    "target": "<ffx:sadness_light>أمن الحماقة أن أفكر في هذه الأمور، بينما لم أفعل <ffx:wonder_light>في حياتي سوى تنفيذ الأوامر؟ <ffx:smile_light>حسنا، ليس لقبي «إيديوت» بلا سبب... <ffx:wonder_light>ومع ذلك، أود أن أعرف ما الذي يوجد في نهاية سلسلتك... <ffx:neutral>",
+    "reason": "Idiot اسم الشخصية المعتمد إيديوت، وليس شتيمة. قُرئت استعارة سلسلة الأحداث والبئر في الأسطر _05 إلى _08؛ أبقيت السلسلة استعارة ولم أحولها إلى سلسلة القيادة."
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_008_idiot_alyosha_talk_02",
+    "source": "<ffx:wonder>You know, Idiot, you are too smart for your own good! <ffx:smile>Take a look around, it's the fucking Volga! Air, sky! <ffx:wonder_light>The whole fucking world! <ffx:wonder>And you want me back in that tin can? <ffx:smile>Not happening! <ffx:neutral>",
+    "before": "<ffx:wonder>كما تعلم أيها الأبله، أنت ذكي للغاية بما لا يضر بمصلحتك!<ffx:smile>ألق نظرة حولك، إنها نهر الفولغا اللعين! الهواء والسماء!<ffx:wonder_light>العالم اللعين كله!<ffx:wonder>وتريدني أن أعود إلى تلك العلبة؟<ffx:smile>لا يحدث!<ffx:neutral>",
+    "target": "<ffx:wonder>أتعلم يا إيديوت؟ ذكاؤك الزائد سيجلب لك المتاعب! <ffx:smile>انظر حولك، هذا نهر الفولغا اللعين! الهواء والسماء! <ffx:wonder_light>العالم اللعين بأسره! <ffx:wonder>وتريدني أن أعود إلى تلك العلبة المعدنية؟ <ffx:smile>لن يحدث ذلك! <ffx:neutral>",
+    "reason": "Idiot اسم الشخصية المعتمد إيديوت، وليس شتيمة. صُحح أيضا too smart for your own good: الذكاء الزائد الذي قد يجلب المتاعب؛ كانت الجملة تعكس المعنى."
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_002_initialbriefing_09_14",
+    "source": "<ffx:wonder>Idiot, you give him cover from the Aurora! <ffx:wonder_light>",
+    "before": "<ffx:wonder>أحمق، وفر له غطاء ناريا من أورورا! <ffx:wonder_light>",
+    "target": "<ffx:wonder>إيديوت، وفر له غطاء ناريا من أورورا! <ffx:wonder_light>",
+    "reason": "Idiot اسم الشخصية المعتمد إيديوت، وليس شتيمة. مخاطبة أو ذكر مباشر ضمن أفراد الطاقم؛ صيغت الجملة كاملة بعربية طبيعية مع حفظ الأعلام والوسوم."
+  },
+  {
+    "id": "voices\\m3_13_dead_city\\nvs_001_initialbriefing_07_03",
+    "source": "Idiot!",
+    "before": "أحمق!",
+    "target": "إيديوت!",
+    "reason": "Idiot اسم الشخصية المعتمد إيديوت، وليس شتيمة. أكدت النداءات المجاورة Alyosha!/Damir!/Duke! ورد إيديوت في _08_03 أنه نداء اسمه في توزيع المهام."
+  },
+  {
+    "id": "voices\\m3_10_yamantau\\yam_005_intothelift_01_01",
+    "source": "<ffx:wonder>Sam, Idiot! You know what... <ffx:sadness_light>No need for us all to crowd the Government, so you two better stay with Krest. <ffx:neutral>",
+    "before": "<ffx:wonder>سام، الأبله! أتعرف ماذا...<ffx:sadness_light>لا حاجة لنا جميعًا لمزاحمة الحكومة، لذا من الأفضل لكما البقاء مع كريست.<ffx:neutral>",
+    "target": "<ffx:wonder>سام، إيديوت! أتعلمان؟ <ffx:sadness_light>لا داعي لأن نتجمع جميعنا حول رجال الحكومة، لذا من الأفضل أن تبقيا مع كريست. <ffx:neutral>",
+    "reason": "Idiot اسم الشخصية المعتمد إيديوت، وليس شتيمة. مخاطبة أو ذكر مباشر ضمن أفراد الطاقم؛ صيغت الجملة كاملة بعربية طبيعية مع حفظ الأعلام والوسوم."
+  }
+]

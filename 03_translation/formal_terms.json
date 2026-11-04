@@ -1,0 +1,308 @@
+{
+  "policy": "Translate gameplay concepts into formal Arabic, never phonetic English. Preserve people, place and established proper names, dynamic buttons, technical codes and user-requested English graphics technology names. Source context is required for ambiguous words.",
+  "labels": {
+    "crouch": "الانحناء",
+    "crouch toggle": "تبديل وضع الانحناء",
+    "medkit": "حقيبة الإسعافات",
+    "medkits": "حقائب الإسعافات",
+    "reload": "إعادة التلقيم",
+    "sprint": "الركض السريع",
+    "run": "الركض",
+    "jump": "القفز",
+    "aim": "التصويب",
+    "fire": "إطلاق النار",
+    "craft": "صنع",
+    "crafting": "الصنع",
+    "craft consumables": "صنع المستلزمات",
+    "crafting cost:": "تكلفة الصنع:",
+    "devices crafting": "صنع المعدات",
+    "ammunition crafting": "صنع الذخيرة",
+    "resources spent for craft": "الموارد المستخدمة في الصنع",
+    "inventory": "قائمة المعدات",
+    "weapons inventory": "قائمة الأسلحة",
+    "equipment inventory": "قائمة المعدات",
+    "backpack": "حقيبة الظهر",
+    "stock": "الأخمص",
+    "sights": "أدوات التصويب",
+    "scope": "المنظار",
+    "sight": "أداة التصويب",
+    "iron sights": "أدوات التصويب الحديدية",
+    "reflex sight": "منظار انعكاسي",
+    "closed reflex sight": "منظار انعكاسي مغلق",
+    "nv scope": "منظار رؤية ليلية",
+    "2x sight": "منظار بتكبير 2X",
+    "suppressor": "كاتم الصوت",
+    "silencer": "كاتم الصوت",
+    "flash suppressor": "مانع وميض الفوهة",
+    "short barrel and flash suppressor": "سبطانة قصيرة ومانع وميض",
+    "short barrel and suppressor": "سبطانة قصيرة وكاتم صوت",
+    "shotgun suppressor": "كاتم صوت لبندقية الخرطوش",
+    "underslung shotgun": "بندقية خرطوش سفلية",
+    "shotgun": "بندقية خرطوش",
+    "sniper rifle": "بندقية قنص",
+    "assault rifle": "بندقية هجومية",
+    "sniper stock": "أخمص للقنص",
+    "heavy stock": "أخمص ثقيل",
+    "heavy stock and grip": "أخمص وقبضة ثقيلان",
+    "standard stock and grip": "أخمص وقبضة قياسيان",
+    "standard stock": "أخمص قياسي",
+    "sniper stock, grip and forend": "أخمص وقبضة وواقية يد للقنص",
+    "assault stock, grip and forend": "أخمص وقبضة وواقية يد للهجوم",
+    "automatic pneumatic system": "نظام هوائي آلي",
+    "semi-automatic system": "نظام نصف آلي",
+    "flashlight": "المصباح اليدوي",
+    "lighter": "الولاعة",
+    "grenade": "قنبلة يدوية",
+    "incendiary grenade": "قنبلة حارقة",
+    "sticky grenade": "قنبلة لاصقة",
+    "gas mask": "قناع الغاز",
+    "filter": "المرشح",
+    "checkpoint": "نقطة الحفظ",
+    "quick save": "الحفظ السريع",
+    "quick load": "التحميل السريع",
+    "stealth": "التخفي",
+    "knock out": "إفقاد الوعي",
+    "melee": "القتال القريب",
+    "long barrel": "سبطانة طويلة",
+    "short barrel": "سبطانة قصيرة",
+    "long barrel with full auto": "سبطانة طويلة بإطلاق آلي كامل",
+    "standard barrel and compensator": "سبطانة ومعوض ارتداد قياسيان",
+    "receiver": "المستقبل اللاسلكي",
+    "hold": "ضغط مستمر",
+    "rate of fire": "معدل إطلاق النار",
+    "ranger": "الحارس",
+    "ranger hardcore": "الحارس شديد الصعوبة",
+    "ranger suit": "بدلة الحارس",
+    "extended barrels": "سبطانات مطولة",
+    "four barrels": "أربع سبطانات",
+    "five-barrel assembly": "مجموعة من خمس سبطانات",
+    "throwing knife": "سكين رمي",
+    "throwing knives": "سكاكين الرمي",
+    "throwing weapons harness": "حمالة أسلحة الرمي",
+    "decoy": "طعم صوتي"
+  },
+  "rules": [
+    {
+      "source": "\\bcrouch",
+      "replace": {
+        "كراوتش": "الانحناء",
+        "كرواتش": "الانحناء",
+        "كروتش": "الانحناء"
+      }
+    },
+    {
+      "source": "\\bmedkits?\\b",
+      "replace": {
+        "ميدكيت": "حقيبة الإسعافات",
+        "ميد كيت": "حقيبة الإسعافات",
+        "الميدكيت": "حقيبة الإسعافات",
+        "مجموعة الأدوات الطبية": "حقيبة الإسعافات",
+        "المجموعات الطبية": "حقائب الإسعافات",
+        "الأطقم الطبية": "حقائب الإسعافات",
+        "مجموعة طبية": "حقيبة إسعافات",
+        "حقيبة إسعافات": "حقيبة الإسعافات"
+      }
+    },
+    {
+      "source": "\\breload",
+      "replace": {
+        "ريلود": "إعادة التلقيم",
+        "تحديث": "إعادة التلقيم",
+        "إعادة تحميل": "إعادة تلقيم",
+        "لإعادة تحميل": "لإعادة تلقيم"
+      }
+    },
+    {
+      "source": "\\bcraft",
+      "replace": {
+        "كرافتينغ": "الصنع",
+        "كرافتنج": "الصنع",
+        "كرافت": "الصنع",
+        "الحرفية": "المصنوعة",
+        "الحرفة": "الصنع",
+        "حرفة": "صنع",
+        "الصياغة": "الصنع",
+        "صياغة": "صنع"
+      }
+    },
+    {
+      "source": "\\bstealth",
+      "replace": {
+        "ستيلث": "التخفي"
+      }
+    },
+    {
+      "source": "\\bsprint",
+      "replace": {
+        "سبرنت": "الركض السريع"
+      }
+    },
+    {
+      "source": "\\bsniper",
+      "replace": {
+        "سنايبر": "بندقية قنص"
+      }
+    },
+    {
+      "source": "\\bshotguns?\\b",
+      "replace": {
+        "شوتجن": "بندقية خرطوش",
+        "شوتغن": "بندقية خرطوش",
+        "شوت قن": "بندقية خرطوش"
+      }
+    },
+    {
+      "source": "\\b(?:automatic|semi-automatic)\\b",
+      "replace": {
+        "أوتوماتيكية": "آلية",
+        "أوتوماتيكي": "آلي",
+        "الأوتوماتيكية": "الآلية",
+        "الأوتوماتيكي": "الآلي",
+        "شبه آلي": "نصف آلي"
+      }
+    },
+    {
+      "source": "\\b(?:filter|filters)\\b",
+      "replace": {
+        "فيلتر": "مرشح",
+        "الفلتر": "المرشح",
+        "فلتر": "مرشح",
+        "الفلاتر": "المرشحات",
+        "فلاتر": "مرشحات"
+      }
+    },
+    {
+      "source": "\\bmuzzle flash\\b",
+      "replace": {
+        "فلاش الكمامة": "وميض الفوهة",
+        "وميض الكمامة": "وميض الفوهة"
+      }
+    },
+    {
+      "source": "\\b(?:barrel|barrels)\\b",
+      "replace": {
+        "برميل": "سبطانة",
+        "البرميل": "السبطانة",
+        "سبطانة طويل": "سبطانة طويلة",
+        "سبطانة قصير": "سبطانة قصيرة",
+        "السبطانة القياسي": "السبطانة القياسية",
+        "السبطانة الطويل": "السبطانة الطويلة",
+        "السبطانة القصير": "السبطانة القصيرة"
+      },
+      "keys": "custom|wpn|weapon|silencer|shotgun|barrel"
+    },
+    {
+      "source": "\\b(?:scope|scopes|sights?)\\b",
+      "replace": {
+        "المعالم السياحية": "أدوات التصويب",
+        "البصر المنعكس": "المنظار الانعكاسي",
+        "نطاق نيفادا": "منظار رؤية ليلية",
+        "مشاهد الحديد": "أدوات التصويب الحديدية"
+      }
+    },
+    {
+      "source": "\\b(?:silencer|suppressor)\\b",
+      "replace": {
+        "القامع": "كاتم الصوت",
+        "القامع المرتجل": "كاتم الصوت المرتجل",
+        "المثبط": "كاتم الصوت"
+      }
+    },
+    {
+      "source": "\\bhold\\b",
+      "replace": {
+        "(عقد)": "(ضغط مطول)",
+        "عقد": "اضغط باستمرار"
+      },
+      "ui_only": true
+    },
+    {
+      "source": "\\bholster\\b",
+      "replace": {
+        "الحافظة": "إخفاء السلاح",
+        "لحافظة سلاحك": "لإخفاء سلاحك"
+      },
+      "ui_only": true
+    },
+    {
+      "source": "\\binventory\\b",
+      "replace": {
+        "مخزون الأسلحة": "قائمة الأسلحة",
+        "مخزون المعدات": "قائمة المعدات"
+      }
+    },
+    {
+      "source": "\\bstock\\b",
+      "replace": {
+        "مخزون ثقيل": "أخمص ثقيل",
+        "المخزون القياسي": "الأخمص القياسي",
+        "وصف المخزون": "وصف الأخمص"
+      }
+    },
+    {
+      "source": "\\bknock (?:him |them )?out\\b",
+      "replace": {
+        "بالضربة القاضية": "إفقاد الوعي",
+        "ليطرده": "لإفقاده الوعي"
+      }
+    },
+    {
+      "source": "\\baim down the sights\\b",
+      "replace": {
+        "التصويب نحو الأسفل": "التصويب عبر المنظار"
+      }
+    },
+    {
+      "source": "\\b(?:scope|sight|forend|handguard|muzzle)\\b",
+      "keys": "custom|wpn|weapon",
+      "replace": {
+        "وصف النطاق": "وصف المنظار",
+        "اسم النطاق": "اسم المنظار",
+        "حارس اليد": "واقية اليد",
+        "الكمامة": "الفوهة",
+        "سبطانةًا": "سبطانة"
+      }
+    },
+    {
+      "source": "\\bRanger Hardcore\\b",
+      "ui_only": true,
+      "replace": {
+        "رينجر فائق الصعوبة": "الحارس شديد الصعوبة",
+        "رينجر الصعب": "الحارس شديد الصعوبة",
+        "رينجر هاردكور": "الحارس شديد الصعوبة"
+      }
+    },
+    {
+      "source": "\\bAurora\\b",
+      "replace": {
+        "الشفق القطبي": "أورورا",
+        "الشفق": "أورورا"
+      }
+    }
+  ],
+  "voice_labels": {
+    "Gotta reload!": "علي إعادة التلقيم!",
+    "Need a reload!": "أحتاج إلى إعادة التلقيم!",
+    "Reload needed!": "أحتاج إلى إعادة التلقيم!",
+    "A reload!": "أعيد التلقيم!",
+    "Cover me! Reload!": "غطني! أعيد التلقيم!",
+    "Wait! Gotta reload!": "انتظر! علي إعادة التلقيم!",
+    "I have to reload brethren!": "علي إعادة التلقيم يا إخوتي!",
+    "Cover me, brethren! I need to reload!": "غطوني يا إخوتي! أحتاج إلى إعادة التلقيم!"
+  },
+  "contextual": {
+    "scan_on": "المستقبل اللاسلكي \\ اضغط باستمرار على <USE>",
+    "m3_wpn_down_hint": "اضغط باستمرار على <wpn_down> لإخفاء سلاحك.",
+    "m3_wpn_down_sprint_hint": "للركض لمسافة أطول، اضغط باستمرار على <wpn_down> لإخفاء سلاحك.",
+    "m3_charger_hint_2_upd_light": "اضغط باستمرار على <wpn_light> لاستخدام الشاحن",
+    "m3_gasmask_hint_upd": "اضغط باستمرار على <facepalm> لاستخدام قناع الغاز",
+    "m3_gasmask_hint_upd_xbox": "اضغط باستمرار على <gasmask> لاستخدام قناع الغاز",
+    "m3_general_hint_17": "استخدم <wpn_aim> للتصويب عبر أدوات التصويب والحصول على طلقة أدق.",
+    "m3_general_hint_47": "بنادق الخرطوش فعالة جدا ضد المتحولين.",
+    "monster_death_1": "بنادق الخرطوش فعالة خصوصا ضد المتحولين.",
+    "menu_customize_sights_post_dsc": "أداة تصويب قياسية تساعد على توجيه السلاح.",
+    "menu_customize_silencer_044_dsc": "يخفي وميض الفوهة ويكتم صوت الطلقات. ويخفض سرعة المقذوف أيضا، فيتناقص الضرر بدرجة أكبر مع المسافة.",
+    "$wpn_upt_sl_dsc": "يخفي وميض الفوهة ويكتم صوت الطلقات، ويقلل تشتتها. ويخفض سرعة المقذوف أيضا، فيتناقص الضرر بدرجة أكبر مع المسافة.",
+    "$wpn_upt_shotgun_sil_dsc": "يخفي وميض الفوهة ويخفض صوت الطلقات قليلا ويقلل تشتتها. كما يخفض سرعتها، فيتناقص الضرر بدرجة أكبر مع المسافة."
+  }
+}

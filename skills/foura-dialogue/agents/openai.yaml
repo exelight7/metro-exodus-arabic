@@ -1,0 +1,6 @@
+interface:
+  display_name: "حوارات محرك 4A"
+  short_description: "استخراج حوارات 4A وتحرير LNG وإعادة حزم VFX"
+  default_prompt: "استخدم $foura-dialogue لفحص صيغ ملفات هذه اللعبة واستخراج الحوارات إلى جدول قابل للتحرير مع التحقق من إعادة البناء."
+policy:
+  allow_implicit_invocation: true

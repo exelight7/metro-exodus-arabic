@@ -1,0 +1,855 @@
+{
+  "revision": "comprehensive_r3",
+  "audited_rows": 38221,
+  "canonical_labels": 91,
+  "context_rules": 23,
+  "changed_entries": 162,
+  "unrelated_entries_preserved": 38061,
+  "forbidden_transliterations_remaining": [],
+  "other_payloads_identical": true,
+  "canonical_speaker_names_preserved": true,
+  "tags_and_timelines_preserved": true,
+  "runtime_tested": false,
+  "changes": [
+    {
+      "id": "m3_dia_equip_charger_intro",
+      "source": "<tab>My tried and true manual-crank charger made from a scooter alternator, a stabilizer, a transformer, a battery and metal shears. How often did I have to listen to it whirr waiting for the flashlight to come back to life... Frankly speaking, I’d love to cut down on the times I have to keep squeezing it but, twenty years after the Judgment Day, decent rechargeable batteries are kinda hard to come by, so we all have to use the restored and re-restored ones, and these hold charge just a little better than a bottomless bucket holds water. Besides, this little charger can, in times of emergency, power things much larger than a flashlight or a night sight, since it can generate some decent power. It usually takes quite a lot of cranking to do that, though.<br><br>",
+      "target": "<tab>هذا شاحني اليدوي الموثوق، المصنوع من مولد دراجة صغيرة، ومثبت للجهد، ومحول، وبطارية، ومقص للصاج. كم مرة أصغيت إلى أزيزه منتظرا أن يعود المصباح إلى العمل... بصراحة، أتمنى لو لم أضطر إلى ضغطه كل هذه المرات، لكن الحصول على بطاريات جيدة قابلة لإعادة الشحن صار صعبا بعد عشرين عاما من يوم القيامة. لذلك نستخدم جميعا بطاريات أصلحت مرة بعد مرة، ولا تفوق قدرتها على الاحتفاظ بالشحن قدرة دلو بلا قاع على الاحتفاظ بالماء إلا قليلا. ويمكن لهذا الشاحن الصغير في حالات الطوارئ تشغيل أجهزة أكبر بكثير من مصباح يدوي أو منظار رؤية ليلية، فهو قادر على توليد قدر لا بأس به من الطاقة، وإن تطلب ذلك تحريكه طويلا.<br><br>"
+    },
+    {
+      "id": "m3_dia_equip_bracer_intro",
+      "source": "<tab>The bracers all Spartans wear are not an important piece of armor, but still routinely save our lives - they are used to mount such vital pieces of equipment as Geiger counters, warning us of dangerous radiation hot spots and watches, necessary for keeping track of gas mask filter usage. The watch is combined with another gadget that, despite its tiny size, is also vitally important - the light indicator. Many a time its blue light hinted me to find a better shaded hiding spot to remain stealthy...<br><br>",
+      "target": "<tab>واقيات الساعد التي يرتديها جميع الإسبرطيين ليست من قطع التدريع الرئيسية، لكنها تنقذ حياتنا باستمرار؛ إذ نثبت عليها معدات حيوية، مثل عدادات جيجر التي تحذرنا من مناطق الإشعاع الشديد، والساعات اللازمة لمتابعة استهلاك مرشح قناع الغاز. وتضم الساعة أداة أخرى بالغة الأهمية رغم صغرها: مؤشر الإضاءة. كم مرة نبهني ضوؤه الأزرق إلى ضرورة العثور على مخبأ أشد ظلمة لأظل متخفيا...<br><br>"
+    },
+    {
+      "id": "voices\\m3_05_winter\\win_000_annanews_reaction_02_01",
+      "source": "<ffx:smile_light>Hey, Idiot! Wake up!",
+      "target": "<ffx:smile_light>يا إيديوت! استيقظ!"
+    },
+    {
+      "id": "m3_loader_diary_desert_09_terminalcombat",
+      "source": "<tab>The oil terminal was teeming with slaves and their overseers, so getting to the tank proved impossible without bloodshed. Of course, neither the slavers nor the slaves, some of whom were ready to risk their lives for their captors, could stop me from achieving my objective... Can you even free such people? What would they do with freedom? A cursed land and cursed people...<br><br>",
+      "target": "<tab>كانت محطة النفط تعج بالعبيد ومراقبيهم، فاستحال الوصول إلى الصهريج دون إراقة الدماء. بالطبع، لم يستطع تجار العبيد ولا العبيد أنفسهم، الذين كان بعضهم مستعدا للمخاطرة بحياته دفاعا عن آسريه، منعي من بلوغ هدفي... هل يمكن حتى تحرير أناس كهؤلاء؟ وماذا سيفعلون بالحرية؟ أرض ملعونة وقوم ملعونون...<br><br>"
+    },
+    {
+      "id": "voices\\m3_02_dead_moscow\\dmc_005_topoftheworld_19",
+      "source": "<ffx:wonder>Well, I'd say <ffx:smile_light>we're out of the woods... <ffx:fear>Whoa! <ffx:wonder>Hear that?! <ffx:wonder_light>",
+      "target": "<ffx:wonder>حسنا، أظن أننا <ffx:smile_light>تجاوزنا الخطر... <ffx:fear>مهلا! <ffx:wonder>أتسمع ذلك؟! <ffx:wonder_light>"
+    },
+    {
+      "id": "ACH_putrification_DESC",
+      "source": "Pass the putrid tunnel.",
+      "target": "اعبر النفق المتعفن."
+    },
+    {
+      "id": "ACH_coachman_DESC",
+      "source": "Detach all train cars on the MOSCOW level.",
+      "target": "افصل جميع عربات القطار في مرحلة موسكو."
+    },
+    {
+      "id": "$general_hint_36",
+      "source": "Press <time> to see how much time is left on your gasmask, and also to check how well hidden you are.",
+      "target": "اضغط على <time> لمعرفة المدة المتبقية لمرشح قناع الغاز، وللتحقق من مدى نجاحك في التخفي."
+    },
+    {
+      "id": "$med_dsc",
+      "source": "The standard army-issue medkit containing painkillers and countermeasures for weapons of mass destruction.",
+      "target": "حقيبة الإسعافات العسكرية القياسية، تحتوي على مسكنات الألم ومواد لمواجهة آثار أسلحة الدمار الشامل."
+    },
+    {
+      "id": "voices\\m3_10_yamantau\\yam_016_commcentertalk_18",
+      "source": "<ffx:anger_light>Did you get everything you could, Idiot? We're leaving! <ffx:wonder_light>",
+      "target": "<ffx:anger_light>هل جمعت كل ما استطعت، يا إيديوت؟ إننا نغادر! <ffx:wonder_light>"
+    },
+    {
+      "id": "voices\\m3_05_chase\\cha_003_battle_bosstalk_20",
+      "source": "Make Swiss cheese out of the thing! Fire at will!",
+      "target": "اثقبوا هذا الشيء بالرصاص! أطلقوا النار بحرية!"
+    },
+    {
+      "id": "voices\\m3_02_dead_moscow\\dmc_001_littrercarry_01_21",
+      "source": "<ffx:wonder_light>Hang in there Artyom, you're <ffx:smile>gonna get a fresh dose of Spartan blood now! <ffx:neutral>",
+      "target": "<ffx:wonder_light>تماسك يا أرتيوم، <ffx:smile>ستتلقى الآن دما جديدا من الإسبرطيين! <ffx:neutral>"
+    },
+    {
+      "id": "m3_dlc01_gasmask_wipe_hint",
+      "source": "Tap <facepalm> to wipe your visor.",
+      "target": "اضغط على <facepalm> لمسح الواقي الزجاجي."
+    },
+    {
+      "id": "$filter_dsc",
+      "source": "After the War, all the available filters were used up and refitted many times over, and now are only good for some 5 minutes of breathing.",
+      "target": "بعد الحرب، استهلكت المرشحات المتاحة وأعيد تجهيزها مرارا، ولم تعد تتيح الآن سوى نحو 5 دقائق من التنفس."
+    },
+    {
+      "id": "voices\\m3_06_bridge\\bri_011_somehelp_01",
+      "source": "Here's something from your old friend Idiot!",
+      "target": "إليك شيئا من صديقك القديم إيديوت!"
+    },
+    {
+      "id": "general_hint_68_cstm",
+      "source": "When the gas mask is in use, your watch shows time remaining until the current filter runs out. You can view your total filter capacity on the Equipment Inventory by holding <popup_devices>.",
+      "target": "عند ارتداء قناع الغاز، تبين ساعتك الوقت المتبقي قبل نفاد المرشح الحالي. اضغط باستمرار على <popup_devices> لفتح قائمة المعدات ومعرفة إجمالي مدة التنفس المتاحة بمرشحاتك."
+    },
+    {
+      "id": "voices\\m3_06_spring\\spr_007_princeparty_loop_25",
+      "source": "Wow... That hit the spot!",
+      "target": "آه... هذا ما كنت أحتاج إليه!"
+    },
+    {
+      "id": "ACH_professional_DESC_unlocked",
+      "source": "Made one kill from every ranged weapon.",
+      "target": "قتلت عدوا بكل سلاح بعيد المدى."
+    },
+    {
+      "id": "voices\\m3_06_spring\\spr_007_level2_09",
+      "source": "<ffx:smile>Ha-ha! That is unlikely... <ffx:sadness_light>I'm not the kind of man to upstage his friend in a contest for a lady! <ffx:smile>Especially when that friend promises to break my arm! <ffx:neutral>",
+      "target": "<ffx:smile>هاها! هذا مستبعد... <ffx:sadness_light>لست ممن يزاحمون صديقا على قلب امرأة! <ffx:smile>خصوصا حين يهددني ذلك الصديق بكسر ذراعي! <ffx:neutral>"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\forest_1\\wounded\\wounded_combat_05",
+      "source": "Arghh... Take this, you dead meat!",
+      "target": "آخ... خذ هذا أيها الهالك!"
+    },
+    {
+      "id": "m3_dia_crew_sam_spring",
+      "source": "<tab>While we were waiting for the Aurora’s repairs to be completed, thinking on how to cross the river, Sam, in light of our constant mentions of occupying forces, hypnotized himself into believing that the Colonel didn’t trust him... It must be heartbreaking to have served a commander for twenty years with unquestioning loyalty, only to be considered a traitor... But it must be equally heartbreaking to have become so close to your old enemy only to learn that your country might still be there, after all... And if the war still is going on, whose side are you on, Sam? Who are you?<br><br>",
+      "target": "<tab>بينما كنا ننتظر اكتمال إصلاح أورورا ونفكر في عبور النهر، أقنع سام نفسه بأن العقيد لا يثق به، بعدما أكثرنا من الحديث عن قوات الاحتلال... لا بد أنه شعور مؤلم أن تخدم قائدا عشرين عاما بولاء لا يتزعزع، ثم تحسب خائنا... لكنه مؤلم أيضا أن تصبح شديد القرب من عدوك القديم، ثم تكتشف أن وطنك ربما لا يزال قائما... وإن كانت الحرب مستمرة، فإلى أي جانب ستنحاز يا سام؟ من أنت؟<br><br>"
+    },
+    {
+      "id": "m3_12_val_diary_23_dsc",
+      "source": "<tab>Roman, here’s what we have stored already:<br><br>Venison, smoked - 5 months’ worth.<br><br>Fish, dried - 3 mo.<br><br>Fish, salted - 3 mo.<br><br>Nuts - 3 mo.<br><br>Fruit - 3 mo.<br><br>Mushrooms - 1 mo, but the season is just starting<br><br><br><tab>I think it’s time we switched the hunters to some other activities, otherwise they’ll kill off all the deer and then complain they’re tired of eating just venison.<br><br><br><tab>Tokha<br><br>",
+      "target": "<tab>رومان، هذا ما ادخرناه حتى الآن:<br><br>لحم غزال مدخن: ما يكفي 5 أشهر.<br><br>سمك مجفف: ما يكفي 3 أشهر.<br><br>سمك مملح: ما يكفي 3 أشهر.<br><br>مكسرات: ما يكفي 3 أشهر.<br><br>فاكهة: ما يكفي 3 أشهر.<br><br>فطر: ما يكفي لشهر واحد، لكن الموسم ما زال في بدايته.<br><br><br><tab>أظن أن الوقت حان لتكليف الصيادين بأعمال أخرى، وإلا قضوا على الغزلان كلها ثم اشتكوا من مللهم من أكل لحم الغزال وحده.<br><br><br><tab>توخا<br><br>"
+    },
+    {
+      "id": "voices\\m3_dlc1\\dlc1_45_1_1_celebration_bartender_03",
+      "source": "How about a drink? The first one is on the house tonight!",
+      "target": "أتريد شرابا؟ الكأس الأولى على حسابنا الليلة!"
+    },
+    {
+      "id": "voices\\m3_13_dead_city\\nvs_011_02_artyompothole_2_03",
+      "source": "<ffx:smile_light>You break a leg, you crawl back to the Aurora alone, <ffx:disgust_light>I can't turn back before I find that medicine! <ffx:neutral>",
+      "target": "<ffx:smile_light>إن كسرت ساقك، فستزحف عائدا إلى أورورا وحدك؛ <ffx:disgust_light>لا أستطيع الرجوع قبل العثور على ذلك الدواء! <ffx:neutral>"
+    },
+    {
+      "id": "ACH_forest_child_DESC_unlocked",
+      "source": "Completed the TAIGA level without attacking anyone or getting noticed.",
+      "target": "أكملت مرحلة التايغا دون مهاجمة أحد أو انكشاف أمرك."
+    },
+    {
+      "id": "m3_health_system_hint",
+      "source": "You have suffered extensive damage and have to use a medkit to restore your health. Try finding one as soon as possible.",
+      "target": "أصبت بجروح خطيرة، وعليك استخدام حقيبة الإسعافات لاستعادة صحتك. حاول العثور على واحدة بأسرع ما يمكن."
+    },
+    {
+      "id": "m3_dlc1_chap2_diary_1_dsc",
+      "source": "<tab>Boris, if you get any losers bringing you OSKOM receipts instead of green stuff, tell them all to get bent! Yes, those are official receipts, stamped and signed, and they promise to pay it all back, but do you believe them even for a second? They’re just robbing suckers blind! My joint if full of losers at the moment, each had a box or two expropriated tops... At first I thought I’d take the slips at half value and make a nice buck, but then Baldie arrives with a slip for whole two ampules! So, now either they pay in real green stuff, or go fuck themselves. As for these slips, they only seem to be good for wiping ass... <br><br><tab>Misha<br><br>",
+      "target": "<tab>بوريس، إن جاءك أحد أولئك المساكين بإيصالات أوسكوم بدلا من المادة الخضراء، فقل لهم أن يغربوا عن وجهك! نعم، هي إيصالات رسمية مختومة وموقعة، ويعدون برد كل ما صادروه، لكن هل تصدقهم ولو للحظة؟ إنهم ينهبون السذج بلا رحمة! حانتي تعج الآن بهؤلاء المساكين، ولم يصادروا من كل منهم أكثر من صندوق أو صندوقين... ظننت في البداية أنني سأقبل الإيصالات بنصف قيمتها وأحقق ربحا جيدا، ثم جاء بالدي بإيصال لأمبولتين كاملتين! لذا، إما أن يدفعوا الآن بالمادة الخضراء نفسها، وإما أن يذهبوا إلى الجحيم. أما هذه الأوراق فلا تصلح إلا لمسح المؤخرة... <br><br><tab>ميشا<br><br>"
+    },
+    {
+      "id": "voices\\m3_06_bridge\\bri_007_banditboatcrew_01_01",
+      "source": "<ffx:fear>Shit! Did you see that piece of crap? <ffx:anger>Just like the last fucking time! Row harder! <ffx:neutral>",
+      "target": "<ffx:fear>اللعنة! هل رأيتم ذلك الشيء اللعين؟ <ffx:anger>تماما كما حدث آخر مرة! جدفوا بقوة أكبر! <ffx:neutral>"
+    },
+    {
+      "id": "ACH_toy_seller_DESC",
+      "source": "Find 3 toys in New Game+ mode: teddy bear, sun and fish.",
+      "target": "اعثر على 3 ألعاب في وضع لعبة جديدة+: دمية الدب والشمس والسمكة."
+    },
+    {
+      "id": "voices\\m3_12_valley\\val_40_admiral_01_01",
+      "source": "<ffx:smile>Rat got your tongue, so you can't knock on the door anymore, eh? <ffx:anger>As the Teacher said, <ffx:wonder>courtesy distinguishes us from bandits and other animals! <ffx:neutral>",
+      "target": "<ffx:smile>هل أكل الجرذ لسانك، فلم تعد تستطيع حتى طرق الباب؟ <ffx:anger>كما قال المعلم، <ffx:wonder>الأدب هو ما يميزنا عن قطاع الطرق وسائر الحيوانات! <ffx:neutral>"
+    },
+    {
+      "id": "voices\\m3_06_bridge\\bri_032_carriage_bandits_talk_oilwoes_04_04",
+      "source": "<ffx:smile_light>No dice, the boys took it all...<ffx:neutral>",
+      "target": "<ffx:smile_light>لا فائدة، لقد أخذ الرجال كل شيء...<ffx:neutral>"
+    },
+    {
+      "id": "m3_12_val_diary_26_1_dsc",
+      "source": "<tab>There was no railcar up there. Why did we even think it would be?  Sure, the marauders used it to come here, but wouldn’t they leave someone to guard it? So, when that someone understood the others were not going to come back, he just left with it... And it looks like we’re not coming back, either. The spiders were just making noises in the dark corners while we were going there, but on the way back, they pounced us as soon as we shut the gate...<br><br><tab>Not that coming back would do us any good, Roman is not a forgiving type. Liuda would be able to talk him into letting us back, but she had her mind set on leaving, and she left. On foot, no less. Gotta admire her guts, but still, she’s crazy. Then again, she could actually get somewhere...<br><br><tab>It’s time. The spiders are close... Farewell, everyone!<br><br>",
+      "target": "<tab>لم تكن هناك عربة قطار في الأعلى. لماذا توقعنا وجودها أصلا؟ صحيح أن النهابين جاؤوا بها، لكن ألم يتركوا أحدا لحراستها؟ وحين أدرك ذلك الحارس أن الآخرين لن يعودوا، غادر بها ببساطة... ويبدو أننا لن نعود نحن أيضا. في طريق الذهاب اكتفت العناكب بإصدار الأصوات من الزوايا المظلمة، لكنها انقضت علينا في طريق العودة فور إغلاقنا البوابة...<br><br><tab>ثم إن العودة لن تفيدنا؛ فرومان ليس متسامحا. كانت ليودا تستطيع إقناعه بالسماح لنا بالعودة، لكنها عزمت على الرحيل ورحلت بالفعل، سيرا على الأقدام أيضا. لا بد من الإعجاب بشجاعتها، لكنها مجنونة مع ذلك. وربما تتمكن فعلا من الوصول إلى مكان ما...<br><br><tab>حان الوقت. العناكب قريبة... وداعا للجميع!<br><br>"
+    },
+    {
+      "id": "voices\\m3_08_desert\\des_016_5_breakingcamp_03",
+      "source": "<ffx:anger_light>I tried that already, no dice. <ffx:disgust>He takes women as payment. <ffx:neutral>",
+      "target": "<ffx:anger_light>جربت ذلك من قبل، ولم أنجح. <ffx:disgust>إنه يقبل النساء ثمنا. <ffx:neutral>"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_2\\free\\free_unsafe_09",
+      "source": "One could just go and bite the dust here for fucking nothing... Fuck my life...",
+      "target": "قد يلقى المرء حتفه هنا بلا أي سبب... تبا لحياتي..."
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_3\\uber_alert\\uber_alert_search_06",
+      "source": "So you're hiding, you fucking piece of shit... It's OK, I'll still find you and fuck you up...",
+      "target": "إذن أنت تختبئ أيها الوغد اللعين... لا بأس، سأجدك وأبرحك ضربا..."
+    },
+    {
+      "id": "voices\\m3_08_desert\\des_012_6_ambush2_01_03",
+      "source": "<ffx:anger>'Cause I fucking said so! <ffx:disgust>You question me again, you get fucked up, got it? <ffx:neutral>",
+      "target": "<ffx:anger>لأنني قلت ذلك، اللعنة! <ffx:disgust>إن اعترضت علي مرة أخرى فسأبرحك ضربا، أفهمت؟ <ffx:neutral>"
+    },
+    {
+      "id": "voices\\m3_dlc2\\dlc2_003_55_captain_battleover_01_04",
+      "source": "Hey, take it easy, I just helped you...",
+      "target": "مهلا، اهدأ، لقد ساعدتك للتو..."
+    },
+    {
+      "id": "voices\\m3_06_bridge\\bri_021_infiltration_01",
+      "source": "<ffx:wonder>So, Artyom, shall we move? Whoever <ffx:smile>gets there first wins! Break a leg! <ffx:wonder_light>",
+      "target": "<ffx:wonder>إذن يا أرتيوم، هل ننطلق؟ من <ffx:smile>يصل أولا يفز! حظا موفقا! <ffx:wonder_light>"
+    },
+    {
+      "id": "ACH_crew_friend_DESC_unlocked",
+      "source": "The guitar and teddy bear have been found on the VOLGA level.",
+      "target": "عثرت على القيثارة ودمية الدب في مرحلة فولجا."
+    },
+    {
+      "id": "m3_12_val_diary_20_dsc",
+      "source": "<tab>It’s so great we left that camp! This is the life! Yesterday, while the others were chasing rabbits, I shot a deer, and the Teacher commended me at the evening assembly! We’re finishing the smokehouse tomorrow, so we’re definitely not going to starve this winter. And next summer we’re gonna check if the city’s all right!",
+      "target": "<tab>ما أروع أننا غادرنا ذلك المعسكر! هذه هي الحياة! بالأمس، بينما كان الآخرون يطاردون الأرانب، صدت غزالا، وأثنى علي المعلم في اجتماع المساء! سننتهي غدا من بناء غرفة تدخين اللحوم، لذا لن نجوع هذا الشتاء بالتأكيد. وفي الصيف القادم سنذهب لنتفقد حال المدينة!"
+    },
+    {
+      "id": "voices\\m3_06_bridge\\bri_022_goodend_13",
+      "source": "All hands! Hold your fire until ordered!",
+      "target": "إلى جميع الأفراد! لا تطلقوا النار حتى تصدر الأوامر!"
+    },
+    {
+      "id": "voices\\m3_06_bridge\\bri_011_schrage_musik_brief_01",
+      "source": "<ffx:smile_light>We heard someone playing guitar over there... <ffx:wide_smile_light>Those guys can't play for shit! <ffx:neutral>",
+      "target": "<ffx:smile_light>سمعنا شخصا يعزف على القيثارة هناك... <ffx:wide_smile_light>هؤلاء الرجال لا يجيدون العزف إطلاقا! <ffx:neutral>"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\spartans\\sam\\movement\\movement_door_kick_06",
+      "source": "Out of the way!",
+      "target": "ابتعدوا عن الطريق!"
+    },
+    {
+      "id": "general_hint_51",
+      "source": "The tilt of your lighter's flame can show you the way.",
+      "target": "يمكن أن يرشدك ميل لهب الولاعة إلى الطريق."
+    },
+    {
+      "id": "m3_dlc01_general_hint_1",
+      "source": "Keep an eye on your flamethrower's pressure gauge and don't forget to top it off when needed.",
+      "target": "راقب مقياس ضغط قاذف اللهب، ولا تنس إعادة ضخ الهواء فيه عند الحاجة."
+    },
+    {
+      "id": "m3_general_hint_33",
+      "source": "Your Geiger counter lets you know when you are too close to a source of radiation. When you hear it go off, get to safety quickly!",
+      "target": "ينبهك عداد جيجر عندما تقترب كثيرا من مصدر إشعاع. حين تسمع صوته، ابتعد إلى مكان آمن بسرعة!"
+    },
+    {
+      "id": "ACH_dlc_02_untouchable_DESC_unlocked",
+      "source": "Completed SAM'S STORY on Normal or higher difficulty without dying in Batwing encounters.",
+      "target": "أكملت قصة سام على مستوى الصعوبة العادي أو أعلى دون أن تموت في مواجهات باتوينغ."
+    },
+    {
+      "id": "ACH_railwayman_DESC_unlocked",
+      "source": "Driven the Trolley.",
+      "target": "قدت عربة السكة الحديدية."
+    },
+    {
+      "id": "m3_06_diary_2_dsc",
+      "source": "<tab>...What are they even thinking just bringing all this shit here? It’s got to be disposed of properly! Fucking crooks in the disposal, splitting the funds with the generals, while we get to park our asses on decades-old shit... I wonder if it gets worse or better when it expires? And which would be better for us? The barrels sure look like they could start leaking any moment now... Will need to requisition a spare protective suit... ",
+      "target": "<tab>...بم يفكرون حين يجلبون كل هذه القاذورات إلى هنا؟ لا بد من التخلص منها بالطريقة السليمة! أولئك المحتالون اللعينون في إدارة التخلص من النفايات يتقاسمون الأموال مع الجنرالات، بينما يتركوننا جالسين فوق نفايات مضت عليها عقود... أتساءل إن كانت تصبح أخطر أم أقل خطورة حين تنتهي صلاحيتها، وأيهما أفضل لنا؟ تبدو البراميل على وشك التسرب في أي لحظة... علي طلب بدلة واقية احتياطية..."
+    },
+    {
+      "id": "voices\\m3_05_chase\\cha_003_battle_bosstalk_05",
+      "source": "Fire! Shoot to kill! Attack visible targets only... And mind the engine! Don't hit the boiler!",
+      "target": "أطلقوا النار! صوبوا للقتل! اشتبكوا مع الأهداف المرئية فقط... وانتبهوا للقاطرة! لا تصيبوا المرجل!"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_2\\dog\\dog_founddeaddogalert_03",
+      "source": "Watch out boys! Some fucking piece of shit just capped Beast!",
+      "target": "احذروا يا رفاق! أحد الأوغاد قتل الوحش بالرصاص للتو!"
+    },
+    {
+      "id": "voices\\m3_10_yamantau\\yam_013_ridingelevator_10",
+      "source": "<ffx:anger_strong>Mow them down like rabid dogs! Fire at will! <ffx:neutral>",
+      "target": "<ffx:anger_strong>احصدوهم ككلاب مسعورة! أطلقوا النار بحرية! <ffx:neutral>"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\spartans\\sam\\stealth\\stealth_enemykilled_longrange_08",
+      "source": "He's out of the picture...",
+      "target": "لم يعد يشكل خطرا..."
+    },
+    {
+      "id": "m3_dlc01_general_hint_10",
+      "source": "Light your way with the flamethrower's igniter.",
+      "target": "أنر طريقك بمشعل قاذف اللهب."
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\merc_1\\neutral\\guard_getoutwarning_03",
+      "source": "Hey! You'd better get out of there, pronto!",
+      "target": "مهلا! من الأفضل أن تخرج من هناك فورا!"
+    },
+    {
+      "id": "voices\\m3_dlc2\\dlc2_090_scouts_sam_shoots_reaction_01_06",
+      "source": "You'll break our cover!",
+      "target": "ستفضح موقعنا!"
+    },
+    {
+      "id": "ACH_dlc_01_just_scratch_DESC_unlocked",
+      "source": "Completed THE TWO COLONELS Chapter without using any Medkits on Normal or higher difficulty.",
+      "target": "أكملت فصل العقيدين دون استخدام أي من حقائب الإسعافات على مستوى الصعوبة العادي أو أعلى."
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\merc_2\\surrender\\surrender_shout_03",
+      "source": "Hold your fire, I surrender!",
+      "target": "أوقفوا إطلاق النار، أستسلم!"
+    },
+    {
+      "id": "m3_12_val_diary_8_dsc",
+      "source": "<tab>They just don’t get it, don’t have the brain capacity for it! Even Roman is just as dumb as the rest of them! We live in a forest, ergo, we must be one with Mother Nature! Wolves are the rightful owners of this forest, and we came here to poach their game. Naturally, they would defend themselves, and what right do we have to begrudge them for that? I am not like the rest, and the wolves know it. The wolves understand! Together we will prove that coming to terms with Nature is the only way!",
+      "target": "<tab>إنهم لا يفهمون، وعقولهم لا تستوعب الأمر! حتى رومان غبي مثلهم! نحن نعيش في غابة، لذا علينا أن نتحد مع الطبيعة الأم! الذئاب صاحبة الحق في هذه الغابة، ونحن جئنا لنسرق طرائدها بالصيد. من الطبيعي أن تدافع عن نفسها، فبأي حق نلومها على ذلك؟ أنا مختلف عن البقية، والذئاب تعرف هذا. الذئاب تفهم! سنثبت معا أن التصالح مع الطبيعة هو السبيل الوحيد!"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\spartans\\sam\\combat\\combat_weapon_jammed_07",
+      "source": "Jammed! This piece of shit...",
+      "target": "انحشر السلاح! تبا لهذا السلاح الرديء..."
+    },
+    {
+      "id": "m3_12_val_diary_8_2_dsc",
+      "source": "<tab>Yes, I made a mistake in building my trust with the wolves, shouldn’t have tried to enter their lair like that. They were right to perceive me as a threat. It still hurts when I seat, but the wounds are healing well, so I’m all right. Besides, Mother Nature as provided me with a way to compensate for my mistake: I found a path used by the Master every day! When I invite the Master to the camp, even the dumbest of them will understand that you can only live in a forest if you’re friends with Mother Nature!",
+      "target": "<tab>نعم، أخطأت في كسب ثقة الذئاب؛ ما كان ينبغي أن أحاول دخول عرينها بهذه الطريقة. كان من حقها أن تراني تهديدا. ما زلت أتألم حين أجلس، لكن جروحي تلتئم جيدا، لذا أنا بخير. وقد أتاحت لي الطبيعة الأم وسيلة للتعويض عن خطئي: عثرت على مسار يستخدمه السيد كل يوم! حين أدعوه إلى المعسكر، سيفهم حتى أغبى القوم أن العيش في الغابة لا يكون إلا بمصادقة الطبيعة الأم!"
+    },
+    {
+      "id": "voices\\m3_06_spring\\spr_005_level2_03",
+      "source": "<ffx:wonder>Uncle Tokarev! <ffx:smile>I'm going to learn how to play the guitar! <ffx:neutral>",
+      "target": "<ffx:wonder>يا عم توكاريف! <ffx:smile>سأتعلم العزف على القيثارة! <ffx:neutral>"
+    },
+    {
+      "id": "m3_13_nvs_diary_6_dsc",
+      "source": "<tab>Yes, I did shut the gate! What else was I supposed to do? You’ve been sitting down there ever since the warning came in, and I spent all that time manning the gate! Crazy shit was going down here! Traffic jams you'll never believe, crashes all over, emergency teams stuck in traffic just like everybody else... Everyone went nuts! The crowd rushing for the gate with suitcases, bags and stuff, eyes white... I had five soldiers, there was no way we could have held! They started shooting into the air - the crowd rushed back, five people got crushed against the wall in the stampede... I couldn’t do anything! I just couldn’t! And I am certainly not going to stand being judged by you! And not by any other man, either! Farewell. See you on the other side, I guess...",
+      "target": "<tab>نعم، أغلقت البوابة! وماذا كان بوسعي أن أفعل؟ لقد بقيت أنت هناك في الأسفل منذ وصول التحذير، بينما أمضيت أنا كل ذلك الوقت في حراسة البوابة! كانت الفوضى تعم المكان! اختناقات مرورية لا تصدق، وحوادث في كل اتجاه، وفرق الطوارئ عالقة مثل الجميع... فقد الناس صوابهم! اندفع الحشد إلى البوابة بحقائب السفر والأكياس وكل ما يحملونه، والذعر يملأ أعينهم... لم يكن معي إلا خمسة جنود، ولم يكن بوسعنا الصمود! أطلقوا النار في الهواء، فتراجع الحشد مندفعا، وسحق خمسة أشخاص على الجدار في التدافع... لم أستطع فعل شيء! لم أستطع! ولن أقبل أن تحاكمني، لا أنت ولا أي إنسان آخر! وداعا. لعلنا نلتقي في العالم الآخر..."
+    },
+    {
+      "id": "voices\\m3_05_winter\\win_000_annanews_discussion_01_02_04",
+      "source": "<ffx:smile>You're too smart for your own good, Idiot. <ffx:neutral>",
+      "target": "<ffx:smile>ذكاؤك الزائد سيجلب لك المتاعب، يا إيديوت. <ffx:neutral>"
+    },
+    {
+      "id": "voices\\m3_06_spring\\spr_007_level2_14",
+      "source": "<ffx:wonder>What do you think about that, Idiot? <ffx:neutral>",
+      "target": "<ffx:wonder>ما رأيك في ذلك، يا إيديوت؟ <ffx:neutral>"
+    },
+    {
+      "id": "ACH_forest_child_DESC",
+      "source": "Complete the TAIGA level without attacking anyone or getting noticed.",
+      "target": "أكمل مرحلة التايغا دون مهاجمة أحد أو انكشاف أمرك."
+    },
+    {
+      "id": "ACH_regatta_DESC",
+      "source": "Get into a boat.",
+      "target": "اركب قاربا."
+    },
+    {
+      "id": "general_hint_68_xbox",
+      "source": "When the gas mask is in use, your watch shows time remaining until the current filter runs out. You can view your total filter capacity on the Equipment Inventory by holding <popup_devices>.",
+      "target": "عند ارتداء قناع الغاز، تبين ساعتك الوقت المتبقي قبل نفاد المرشح الحالي. اضغط باستمرار على <popup_devices> لفتح قائمة المعدات ومعرفة إجمالي مدة التنفس المتاحة بمرشحاتك."
+    },
+    {
+      "id": "voices\\m3_12_valley\\val_40_3_admiral_guitar_01_01",
+      "source": "<ffx:anger>Hey! Careful with the guitar! <ffx:neutral>",
+      "target": "<ffx:anger>مهلا! انتبه للقيثارة! <ffx:neutral>"
+    },
+    {
+      "id": "m3_06_diary_4_dsc",
+      "source": "<tab>Good day to you Sever, and a firm handshake to all of your respectable people in turn!<br><br><br><tab>I have been notified of doubts amongst our men, so I decided to clarify those.<br><br><tab>The fanatics do not respect the code, they do things, like feeding men to that fish of theirs, that are simply unacceptable amongst respectable folk. That is why all respectable people are to treat them as cattle, not men - do not carve them up, but put them in pens. Our brothers from Astrakhan are always thankful for a shipment of those.<br><br><tab>Good luck and good health to you in the spirit of freedom. Long live the Thieves!<br><br><br><tab>Thief Glyba",
+      "target": "<tab>تحياتي لك يا سيفر، ومصافحة حارة لكل واحد من رجالك المحترمين!<br><br><br><tab>بلغني أن الشكوك تراود بعض رجالنا، فقررت توضيح الأمر.<br><br><tab>المتعصبون لا يحترمون ميثاقنا؛ فهم يرتكبون أمورا، كإطعام الناس لسمكتهم، لا يقبلها المحترمون. لذلك على جميع رجالنا معاملتهم كالماشية لا كالبشر؛ فلا تذبحوهم، بل احبسوهم في الحظائر. إخواننا في أستراخان يسرون دائما بشحنة منهم.<br><br><tab>أتمنى لكم الحظ والصحة في كنف الحرية. عاش اللصوص!<br><br><br><tab>اللص غليبا"
+    },
+    {
+      "id": "ACH_all_good_DESC_unlocked",
+      "source": "Assumed command of the Order.",
+      "target": "توليت قيادة التنظيم."
+    },
+    {
+      "id": "ACH_dlc_01_dodge_master_DESC",
+      "source": "Dodge all of the Blind One's throwing attacks in THE TWO COLONELS Chapter.",
+      "target": "تفاد جميع المقذوفات التي يرميها الأعمى في فصل العقيدين."
+    },
+    {
+      "id": "hellbreath_dsc",
+      "source": "The railgun shoots bearing balls at incredible speeds, but takes time to charge its capacitor. Deals lower damage if fired before charging fully.",
+      "target": "يطلق المدفع الكهرومغناطيسي كرات المحامل بسرعات هائلة، لكن شحن مكثفه يستغرق وقتا. تقل قوة الإصابة إذا أطلقت النار قبل اكتمال الشحن."
+    },
+    {
+      "id": "ACH_martian_DESC_unlocked",
+      "source": "Patched the Gasmask.",
+      "target": "سددت ثقب قناع الغاز."
+    },
+    {
+      "id": "m3_dlc01_general_hint_2",
+      "source": "If flowing water prevents you from burning slime, look for a valve to close, they are usually nearby.",
+      "target": "إذا منعك الماء المتدفق من حرق المادة اللزجة، فابحث عن صمام وأغلقه؛ عادة ما يكون قريبا."
+    },
+    {
+      "id": "m3_06_diary_5_dsc",
+      "source": "<tab>Brother Peter, you will have to abandon your holy quest and bring your party back - a new group of heathens has appeared at our very gate, and there are reasons to believe that they may be far more dangerous for us than our usual assailants, as these seem to not just able to prey on our blood and fruit of our toil, but quite capable of assaulting and destroying the very foundations of our Faith. Your demon fighters will have to return to the bridge and keep their vigil until it’s time to bring the mailed fist of our Lord’s judgement upon the heads of the heretics.<br><br><br><tab>Silantius,<br><br><tab>An unworthy servant of our Lord",
+      "target": "<tab>أيها الأخ بيتر، عليك ترك مهمتك المقدسة والعودة برجالك؛ فقد ظهرت جماعة جديدة من الكفار عند بوابتنا نفسها. ولدينا ما يدعو للاعتقاد بأنهم أشد خطرا علينا من مهاجمينا المعتادين؛ فهم لا يطمعون في دمائنا وثمار كدحنا فحسب، بل يستطيعون تقويض أسس إيماننا وتدميرها. على مقاتليك صائدي الشياطين العودة إلى الجسر ومواصلة الحراسة، حتى يحين وقت إنزال قبضة ربنا المدرعة وحكمه على رؤوس الهراطقة.<br><br><br><tab>سيلانتيوس،<br><br><tab>خادم ربنا الذي لا يستحق نعمته"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_2\\dog\\dog_attackorder_03",
+      "source": "Bite the bitch!",
+      "target": "عض الوغد!"
+    },
+    {
+      "id": "ACH_dlc_01_quite_heavy_DESC_unlocked",
+      "source": "Killed 3 Nosalises with flamethrower's melee attack in THE TWO COLONELS Chapter.",
+      "target": "قتلت 3 من النوساليس بضربات قريبة بقاذف اللهب في فصل العقيدين."
+    },
+    {
+      "id": "m3_08_final_yes",
+      "source": "<use> ACCEPT<br><medkit> BREAK FREE",
+      "target": "<use> اقبل<br><medkit> تحرر"
+    },
+    {
+      "id": "m3_dlc01_gasmask_wipe_hint_xbox",
+      "source": "Tap <popup_devices> to wipe your visor.",
+      "target": "اضغط على <popup_devices> لمسح الواقي الزجاجي."
+    },
+    {
+      "id": "m3_06_diary_9_dsc",
+      "source": "<tab>...Although during the moments of clarity he kept his mouth shut for the most time, when his fever would relapse he would ramble, and his ramblings terrified us... The stranger from the South was not coherent, but the picture his disjoint words painted was that of hell on earth - the Burning Sea, oil spurting from the ground and engulfing man and beast alike in fire, battles lost and people subjugated by the amorphous menace he only referred to as the Horde...<br><br><tab>And engines - engines all the time... This man had suffered in life from the godawful contraptions and electricity far more than we could ever imagine, and probably had atoned for all of his sins by that suffering alone, but after his death we carried out the Rite as if he were one of the faithful, and Tsar-fish took his soul straight to the kingdom of our Lord!",
+      "target": "<tab>...كان يلتزم الصمت معظم الوقت حين يصفو ذهنه، لكنه يهذي كلما عاودته الحمى، وكان هذيانه يرعبنا... لم يكن كلام الغريب القادم من الجنوب مترابطا، لكن كلماته المبعثرة رسمت صورة لجحيم على الأرض: البحر المحترق، والنفط يندفع من الأرض فيلتهم البشر والوحوش بالنار، ومعارك خاسرة، وأناس مستعبدون لقوة غامضة لم يسمها إلا «الحشد»...<br><br><tab>والمحركات، لا يكف عن ذكر المحركات... لقد عانى هذا الرجل في حياته من الآلات اللعينة والكهرباء أكثر مما نستطيع تخيله، ولعله كفر عن كل خطاياه بتلك المعاناة وحدها. ومع ذلك، أقمنا له بعد موته الطقس كأنه أحد المؤمنين، وأخذت سمكة القيصر روحه مباشرة إلى ملكوت ربنا!"
+    },
+    {
+      "id": "voices\\m3_05_winter\\win_010_stokingcoal_12",
+      "source": "<ffx:anger_light>Idiot says it's dynamic meditation...<ffx:neutral>",
+      "target": "<ffx:anger_light>يقول إيديوت إنه تأمل حركي...<ffx:neutral>"
+    },
+    {
+      "id": "ACH_dlc_02_trapper_DESC_unlocked",
+      "source": "Set all 5 traps in the SAM'S STORY chapter as the Captain requested.",
+      "target": "جهزت الأفخاخ الـ5 كلها في فصل قصة سام، كما طلب القبطان."
+    },
+    {
+      "id": "voices\\m3_06_bridge\\bri_035_5_radiochatter_02_02",
+      "source": "Great job! Except for the Idiot, everyone assemble here. Including the lumberjacks!",
+      "target": "عمل رائع! ليتجمع الجميع هنا باستثناء إيديوت، بمن فيهم الحطابون!"
+    },
+    {
+      "id": "m3_general_hint_68",
+      "source": "When the gas mask is in use, your watch shows time remaining until the current filter runs out. You can view your total filter capacity in the Equipment Inventory by holding <popup_weapons>",
+      "target": "عند ارتداء قناع الغاز، تبين ساعتك الوقت المتبقي قبل نفاد المرشح الحالي. اضغط باستمرار على <popup_weapons> لفتح قائمة المعدات ومعرفة إجمالي مدة التنفس المتاحة بمرشحاتك."
+    },
+    {
+      "id": "ACH_righteous_vengeance_DESC_unlocked",
+      "source": "Killed 90 cannibals.",
+      "target": "قتلت 90 من آكلي لحوم البشر."
+    },
+    {
+      "id": "voices\\m3_10_yamantau\\yam_016_commcentertalk_11",
+      "source": "<ffx:wonder>Have you found anything, Idiot? <ffx:wonder_light>",
+      "target": "<ffx:wonder>هل عثرت على شيء، يا إيديوت؟ <ffx:wonder_light>"
+    },
+    {
+      "id": "ACH_dlc_01_just_scratch_DESC",
+      "source": "Complete THE TWO COLONELS Chapter without using any Medkits on Normal or higher difficulty.",
+      "target": "أكمل فصل العقيدين دون استخدام أي من حقائب الإسعافات على مستوى الصعوبة العادي أو أعلى."
+    },
+    {
+      "id": "menu_customize_barrel_kolya_silencer_dsc",
+      "source": "Barrel with an improvised suppressor mounted on it. Useful for stealth.",
+      "target": "سبطانة مزودة بكاتم صوت مرتجل، مفيدة للتخفي."
+    },
+    {
+      "id": "voices\\m3_08_desert\\des_016_5_breakingcamp_01",
+      "source": "<ffx:anger_light>Anna, Idiot, Tokarev! <ffx:smile_light>We're breaking camp, people. <ffx:neutral>",
+      "target": "<ffx:anger_light>آنا، إيديوت، توكاريف! <ffx:smile_light>نطوي المعسكر يا رفاق. <ffx:neutral>"
+    },
+    {
+      "id": "voices\\m3_06_bridge\\bri_022_goodend_05",
+      "source": "<ffx:anger>Hear me brothers! Hold your fire!",
+      "target": "<ffx:anger>اسمعوني يا إخوتي! أوقفوا إطلاق النار!"
+    },
+    {
+      "id": "voices\\m3_06_spring\\spr_007_level2_16",
+      "source": "<ffx:smile>Well, we should have expected that from you! <ffx:wonder>Weird thing, though, is that you are called Idiot! <ffx:neutral>",
+      "target": "<ffx:smile>حسنا، كان علينا أن نتوقع منك ذلك! <ffx:wonder>الغريب أنك تلقب بـ«إيديوت»! <ffx:neutral>"
+    },
+    {
+      "id": "voices\\m3_06_bridge\\bri_041_05_portmission_sailors_surrender_01_01",
+      "source": "Cease fire! We surrender! Take the cargo, just don't shoot!",
+      "target": "أوقفوا إطلاق النار! نستسلم! خذوا الحمولة، لكن لا تطلقوا النار!"
+    },
+    {
+      "id": "ACH_dlc_01_the_whole_picture_DESC_unlocked",
+      "source": "Found all 9 hidden Diary pages in THE TWO COLONELS Chapter.",
+      "target": "عثرت على جميع صفحات اليوميات الـ9 المخفية في فصل العقيدين."
+    },
+    {
+      "id": "voices\\m3_12_valley\\val_40_3_admiral_guitar_01_08",
+      "source": "<ffx:wonder>How about you play something instead of dropping that guitar? <ffx:smile>I'd go for a shanty! <ffx:neutral>",
+      "target": "<ffx:wonder>ما رأيك أن تعزف شيئا بدلا من ترك القيثارة؟ <ffx:smile>أود سماع أغنية من أغاني البحارة! <ffx:neutral>"
+    },
+    {
+      "id": "m3_guitar_sit",
+      "source": "Hold <use> to pick the guitar up.",
+      "target": "اضغط باستمرار على <use> لالتقاط القيثارة."
+    },
+    {
+      "id": "ACH_putrification_DESC_unlocked",
+      "source": "Passed the putrid tunnel.",
+      "target": "عبرت النفق المتعفن."
+    },
+    {
+      "id": "voices\\m3_08_desert\\des_013_4_briefing_02_milleridiot_01",
+      "source": "<ffx:wonder_light>What have you got, Idiot? <ffx:neutral>",
+      "target": "<ffx:wonder_light>ماذا لديك، يا إيديوت؟ <ffx:neutral>"
+    },
+    {
+      "id": "ACH_dlc_02_a_man_of_principle_DESC_unlocked",
+      "source": "Completed the SAM'S STORY chapter earning the Captain's full trust.",
+      "target": "أكملت فصل قصة سام وكسبت ثقة القبطان الكاملة."
+    },
+    {
+      "id": "ACH_regatta_DESC_unlocked",
+      "source": "Sailed a boat.",
+      "target": "أبحرت بقارب."
+    },
+    {
+      "id": "m3_suit_upg_helm_1_desc",
+      "source": "This visor design makes the mask much more resistant to damage, rendering it a lot harder to crack.",
+      "target": "يجعل تصميم الواقي الزجاجي هذا قناع الغاز أكثر مقاومة للتلف، وأصعب تشققا بكثير."
+    },
+    {
+      "id": "ACH_righteous_vengeance_DESC",
+      "source": "Kill 90 cannibals.",
+      "target": "اقتل 90 من آكلي لحوم البشر."
+    },
+    {
+      "id": "m3_guitar_stand_up",
+      "source": "Hold <crouch_toggle> to put the guitar back and stand up.",
+      "target": "اضغط باستمرار على <crouch_toggle> لإعادة القيثارة إلى مكانها والنهوض."
+    },
+    {
+      "id": "voices\\m3_08_desert\\des_02_04_spartanscheckrooms_03",
+      "source": "<ffx:wonder_light>So, how do you find the premises, Idiot? <ffx:neutral>",
+      "target": "<ffx:wonder_light>إذن، ما رأيك في المكان، يا إيديوت؟ <ffx:neutral>"
+    },
+    {
+      "id": "ACH_dlc_01_quite_heavy_DESC",
+      "source": "Kill 3 Nosalises with flamethrower's melee attack in THE TWO COLONELS Chapter.",
+      "target": "اقتل 3 من النوساليس بضربات قريبة بقاذف اللهب في فصل العقيدين."
+    },
+    {
+      "id": "voices\\m3_13_dead_city\\nvs_001_initialbriefing_06",
+      "source": "<ffx:anger_light>Krest, Sam, Idiot and I will handle the Institute building in Akademgorodok. <ffx:smile_light>We'll pay a visit to the railroad museum on the way. <ffx:wonder_light>There might be something for the Aurora there... <ffx:neutral>",
+      "target": "<ffx:anger_light>سأتولى أنا وكريست وسام وإيديوت تفقد مبنى المعهد في أكاديمغورودوك. <ffx:smile_light>وسنزور متحف السكك الحديدية في الطريق. <ffx:wonder_light>قد نجد فيه شيئا ينفع أورورا... <ffx:neutral>"
+    },
+    {
+      "id": "ACH_long_distance_passenger_DESC_unlocked",
+      "source": "The passenger train car has been found.",
+      "target": "عثرت على عربة قطار الركاب."
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_1\\dog\\dog_attackorder_05",
+      "source": "Bite the fucker!",
+      "target": "عض ذلك اللعين!"
+    },
+    {
+      "id": "ACH_professional_DESC",
+      "source": "Make at least one kill with every ranged weapon.",
+      "target": "اقتل عدوا واحدا على الأقل بكل سلاح بعيد المدى."
+    },
+    {
+      "id": "ACH_lower_the_b_DESC_unlocked",
+      "source": "Completed the VOLGA level.",
+      "target": "أكملت مرحلة فولجا."
+    },
+    {
+      "id": "voices\\m3_06_spring\\spr_005_level1_02",
+      "source": "<ffx:wonder>So, Artyom, are you up for a jam? <ffx:smile>Come on, pick the guitar up! <ffx:neutral>",
+      "target": "<ffx:wonder>إذن يا أرتيوم، هل ترغب في أن نعزف معا؟ <ffx:smile>هيا، التقط القيثارة! <ffx:neutral>"
+    },
+    {
+      "id": "m3_general_hint_113",
+      "source": "If you take a lot of damage in a fight and don’t happen to have a medkit handy, you should find a campfire and have some rest to restore your health. All the campfires you find get marked on your map.",
+      "target": "إذا أصبت بجروح خطيرة في القتال ولم تكن لديك حقيبة الإسعافات، فابحث عن نار مخيم واسترح عندها لاستعادة صحتك. تظهر على خريطتك علامات جميع نيران المخيمات التي تعثر عليها."
+    },
+    {
+      "id": "voices\\m3_05_winter\\win_010_idiot_breather_09",
+      "source": "<ffx:sadness_light>Is it dumb to think about such things, when all I ever did <ffx:wonder_light>in life was carry out orders? <ffx:smile_light>Well, I'm not called Idiot for nothing... <ffx:wonder_light>Still, I would like to know what's on the end of your chain... <ffx:neutral>",
+      "target": "<ffx:sadness_light>أمن الحماقة أن أفكر في هذه الأمور، بينما لم أفعل <ffx:wonder_light>في حياتي سوى تنفيذ الأوامر؟ <ffx:smile_light>حسنا، ليس لقبي «إيديوت» بلا سبب... <ffx:wonder_light>ومع ذلك، أود أن أعرف ما الذي يوجد في نهاية سلسلتك... <ffx:neutral>"
+    },
+    {
+      "id": "voices\\m3_06_bridge\\bri_008_idiot_alyosha_talk_02",
+      "source": "<ffx:wonder>You know, Idiot, you are too smart for your own good! <ffx:smile>Take a look around, it's the fucking Volga! Air, sky! <ffx:wonder_light>The whole fucking world! <ffx:wonder>And you want me back in that tin can? <ffx:smile>Not happening! <ffx:neutral>",
+      "target": "<ffx:wonder>أتعلم يا إيديوت؟ ذكاؤك الزائد سيجلب لك المتاعب! <ffx:smile>انظر حولك، هذا نهر الفولغا اللعين! الهواء والسماء! <ffx:wonder_light>العالم اللعين بأسره! <ffx:wonder>وتريدني أن أعود إلى تلك العلبة المعدنية؟ <ffx:smile>لن يحدث ذلك! <ffx:neutral>"
+    },
+    {
+      "id": "m3_general_hint_41",
+      "source": "An attached silencer greatly reduces muzzle flash, which would otherwise illuminate you in a dark environment.",
+      "target": "يقلل تركيب كاتم الصوت كثيرا من وميض الفوهة، الذي قد يكشف موقعك في الظلام."
+    },
+    {
+      "id": "ACH_martian_DESC",
+      "source": "Patch the Gasmask.",
+      "target": "سد ثقب قناع الغاز."
+    },
+    {
+      "id": "m3_general_hint_40",
+      "source": "Crouch to make your footsteps quieter. Noisy environments will also help to mask the noise of your movements - take note of this while sneaking.",
+      "target": "انحن لتخفيف صوت خطواتك. تساعدك البيئات الصاخبة أيضا على إخفاء أصوات حركتك، فاستفد من ذلك أثناء التسلل."
+    },
+    {
+      "id": "ACH_mutant_killer_DESC_unlocked",
+      "source": "Killed 300 mutants.",
+      "target": "قتلت 300 متحول."
+    },
+    {
+      "id": "ammo_5_45_fire_dsc",
+      "source": "5.45x39mm incendiary ammo made by Vladivostok craftsmen and valued for its superior efficiency against mutants, it's prone to fouling the gas systems of regular assault rifles, so it is only used in specifically modified ones.",
+      "target": "ذخيرة حارقة بعيار 5.45 × 39 ملم، يصنعها حرفيو فلاديفوستوك وتقدر لفعاليتها العالية ضد المسوخ. تتسبب في تراكم الأوساخ داخل أنظمة الغاز في البنادق الهجومية العادية، لذا لا تستخدم إلا في بنادق معدلة خصيصا لها."
+    },
+    {
+      "id": "ACH_platinum_trophy_DESC",
+      "source": "Get all Trophies.",
+      "target": "احصل على جميع الجوائز."
+    },
+    {
+      "id": "voices\\m3_06_bridge\\bri_012_saving_private_teddy_radio_06",
+      "source": "One more thing. I heard a guitar coming from that tower, it had a nice sound, but the player... Oh, he's just atrocious! I know it's dangerous and all, but... If a chance presents itself, save the instrument!",
+      "target": "وأمر آخر. سمعت عزفا على قيثارة من ذلك البرج. كان صوت الآلة جميلا، لكن العازف... آه، إنه سيئ للغاية! أعلم أن الأمر خطير، لكن... إن سنحت لك الفرصة، فأنقذ تلك الآلة!"
+    },
+    {
+      "id": "ACH_railwayman_DESC",
+      "source": "Get into the Trolley.",
+      "target": "اركب عربة السكة الحديدية."
+    },
+    {
+      "id": "ACH_dlc_01_the_whole_picture_DESC",
+      "source": "Find all 9 hidden Diary pages in THE TWO COLONELS Chapter.",
+      "target": "اعثر على جميع صفحات اليوميات الـ9 المخفية في فصل العقيدين."
+    },
+    {
+      "id": "m3_general_hint_68_cstm",
+      "source": "When the gas mask is in use, your watch shows time remaining until the current filter runs out. You can view your total filter capacity in the Equipment Inventory by holding <popup_devices>",
+      "target": "عند ارتداء قناع الغاز، تبين ساعتك الوقت المتبقي قبل نفاد المرشح الحالي. اضغط باستمرار على <popup_devices> لفتح قائمة المعدات ومعرفة إجمالي مدة التنفس المتاحة بمرشحاتك."
+    },
+    {
+      "id": "me_dlc_01_rp_gamepresence_000",
+      "source": "The Two Colonels: Service tunnels - Burning slime",
+      "target": "العقيدان: أنفاق الخدمة - حرق المادة اللزجة"
+    },
+    {
+      "id": "voices\\m3_06_bridge\\bri_099_massurrender_tugboat_01",
+      "source": "Attention, crew! This is the Captain speaking! Cease fire and put your weapons down at once! We surrender! I repeat! We surrender! Cease fire! We submit to any of your demands!",
+      "target": "انتباه يا أفراد الطاقم! هنا القبطان! أوقفوا إطلاق النار وألقوا أسلحتكم فورا! نحن نستسلم! أكرر: نستسلم! أوقفوا إطلاق النار! سنقبل جميع مطالبكم!"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\merc_3\\surrender\\surrender_shout_02",
+      "source": "Hold your fire! Please! I surrender!",
+      "target": "أوقفوا إطلاق النار! أرجوكم! أستسلم!"
+    },
+    {
+      "id": "voices\\m3_dlc1\\dlc1_210_ambush_conversation_02_04_02",
+      "source": "We've got you covered, Sir! Get that detonator!",
+      "target": "نحن نغطيك يا سيدي! أحضر جهاز التفجير!"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\merc_2\\uber_alert\\uber_alert_single_takingcover_04",
+      "source": "Under fire, going for cover!",
+      "target": "أتعرض للنيران، سأحتمي!"
+    },
+    {
+      "id": "ACH_gorko_DESC",
+      "source": "Attend the wedding on the SUMMER level.",
+      "target": "احضر حفل الزفاف في مرحلة الصيف."
+    },
+    {
+      "id": "m3_general_hint_99",
+      "source": "Avoid the radioactive pollution zones, entering them not only damages you directly, but also increases the rate of your gas mask filters' depletion, which could lead to your death. Listen to the Geiger counter on your bracer, and leave the irradiated areas as soon as you can.",
+      "target": "تجنب مناطق التلوث الإشعاعي؛ فهي تؤذيك مباشرة وتسرع استهلاك مرشحات قناع الغاز، مما قد يودي بحياتك. أصغ إلى عداد جيجر على واقي ساعدك، وغادر المناطق الملوثة بالإشعاع بأسرع ما يمكن."
+    },
+    {
+      "id": "voices\\m3_06_bridge\\bri_011_schrage_musik_brief_05",
+      "source": "So, <ffx:wonder>won't you liberate that guitar? <ffx:smile>Make an old friend happy, Stepan is a <ffx:wide_smile_light>wizard with a six-string, he plays some <ffx:wonder>mean classic rock! <ffx:neutral>",
+      "target": "إذن، <ffx:wonder>ألن تحرر تلك القيثارة؟ <ffx:smile>أسعد صديقا قديما؛ فستيبان <ffx:wide_smile_light>بارع في العزف على الأوتار الستة، ويعزف <ffx:wonder>موسيقى الروك الكلاسيكية ببراعة! <ffx:neutral>"
+    },
+    {
+      "id": "ACH_carmaheddon_DESC",
+      "source": "Make 50 kills with the Bukhanka.",
+      "target": "اقتل 50 عدوا باستخدام بوخانكا."
+    },
+    {
+      "id": "voices\\m3_06_bridge\\bri_035_merchants_talk_01_06",
+      "source": "<ffx:smile_light>Well, we got it covered... <ffx:wonder_light>They buy all of our wares wholesale, and <ffx:smile_light>we get our fuel from them at a special discount. <ffx:neutral>",
+      "target": "<ffx:smile_light>حسنا، لقد رتبنا الأمر... <ffx:wonder_light>يشترون بضائعنا كلها بالجملة، <ffx:smile_light>ونحصل منهم على الوقود بسعر مخفض خاص. <ffx:neutral>"
+    },
+    {
+      "id": "voices\\m3_06_bridge\\bri_002_initialbriefing_09_14",
+      "source": "<ffx:wonder>Idiot, you give him cover from the Aurora! <ffx:wonder_light>",
+      "target": "<ffx:wonder>إيديوت، وفر له غطاء ناريا من أورورا! <ffx:wonder_light>"
+    },
+    {
+      "id": "ACH_driver_DESC",
+      "source": "Drive the Bukhanka.",
+      "target": "قد بوخانكا."
+    },
+    {
+      "id": "$general_hint_38",
+      "source": "Press <time> to see how much time is left on your gasmask, and also to check how well hidden you are.",
+      "target": "اضغط على <time> لمعرفة المدة المتبقية لمرشح قناع الغاز، وللتحقق من مدى نجاحك في التخفي."
+    },
+    {
+      "id": "m3_guitar_use",
+      "source": "Press <use> to play the guitar.",
+      "target": "اضغط على <use> للعزف على القيثارة."
+    },
+    {
+      "id": "ACH_long_distance_passenger_DESC",
+      "source": "Find the passenger train car.",
+      "target": "اعثر على عربة قطار الركاب."
+    },
+    {
+      "id": "m3_general_hint_75",
+      "source": "Male \"Shrimp\" mutants have hard claws they use for attack and defense. You can break through this armor with the more powerful weapons, but it is more effective to time your shots to catch the mutant posing for a strike.",
+      "target": "لذكور الروبيان المتحول مخالب صلبة تستخدمها للهجوم والدفاع. يمكنك اختراق هذا الدرع بأسلحة أقوى، لكن الأفضل توقيت طلقاتك لتصيبه حين يستعد للهجوم."
+    },
+    {
+      "id": "ACH_dlc_02_a_man_of_principle_DESC",
+      "source": "Complete the SAM'S STORY chapter earning the Captain's full trust.",
+      "target": "أكمل فصل قصة سام مع كسب ثقة القبطان الكاملة."
+    },
+    {
+      "id": "ACH_crew_friend_DESC",
+      "source": "Find the guitar and teddy bear on the VOLGA level.",
+      "target": "اعثر على القيثارة ودمية الدب في مرحلة فولجا."
+    },
+    {
+      "id": "ACH_firebird_DESC",
+      "source": "Kill a demon with fire.",
+      "target": "اقتل شيطانا بالنار."
+    },
+    {
+      "id": "m3_dlc01_general_hint_3",
+      "source": "Burn away slime to uncover resources and other objects you could use.",
+      "target": "احرق المادة اللزجة للكشف عن الموارد والأشياء الأخرى المفيدة."
+    },
+    {
+      "id": "menu_item_medkit_desc",
+      "source": "The standard army-issue medkit containing painkillers and countermeasures for weapons of mass destruction.",
+      "target": "حقيبة الإسعافات العسكرية القياسية، تحتوي على مسكنات الألم ومواد لمواجهة آثار أسلحة الدمار الشامل."
+    },
+    {
+      "id": "menu_customize_barrel_short_silencer_shotgun_dsc",
+      "source": "Barrel with an improvised suppressor mounted on it. Useful for stealth.",
+      "target": "سبطانة مزودة بكاتم صوت مرتجل، مفيدة للتخفي."
+    },
+    {
+      "id": "m3_general_hint_68_xbox",
+      "source": "When the gas mask is in use, your watch shows time remaining until the current filter runs out. You can view your total filter capacity in the Equipment Inventory by holding <popup_devices>",
+      "target": "عند ارتداء قناع الغاز، تبين ساعتك الوقت المتبقي قبل نفاد المرشح الحالي. اضغط باستمرار على <popup_devices> لفتح قائمة المعدات ومعرفة إجمالي مدة التنفس المتاحة بمرشحاتك."
+    },
+    {
+      "id": "ACH_dlc_01_dodge_master_DESC_unlocked",
+      "source": "Dodged all of the Blind One's throwing attacks in THE TWO COLONELS Chapter.",
+      "target": "تفاديت جميع المقذوفات التي يرميها الأعمى في فصل العقيدين."
+    },
+    {
+      "id": "m3_hint_ingame_gasmask_filter_upd_menu_hint",
+      "source": "SWAP FILTER",
+      "target": "تبديل المرشح"
+    },
+    {
+      "id": "ACH_mutant_killer_DESC",
+      "source": "Kill 300 mutants.",
+      "target": "اقتل 300 متحول."
+    },
+    {
+      "id": "ACH_master_of_the_forest_DESC",
+      "source": "Stand your ground against the Bear at the first encounter.",
+      "target": "اصمد أمام الدب في أول مواجهة."
+    },
+    {
+      "id": "ACH_toy_seller_DESC_unlocked",
+      "source": "All 3 toys have been found in New Game+ mode (teddy bear, sun and fish).",
+      "target": "عثرت على جميع الألعاب الـ3 في وضع لعبة جديدة+ (دمية الدب والشمس والسمكة)."
+    },
+    {
+      "id": "voices\\m3_13_dead_city\\nvs_001_initialbriefing_07_03",
+      "source": "Idiot!",
+      "target": "إيديوت!"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_3\\dog\\dog_attackorder_03",
+      "source": "Go bite the fucker!",
+      "target": "اذهب وعض الوغد!"
+    },
+    {
+      "id": "ACH_last_minute_man_DESC_unlocked",
+      "source": "After running out of filters in a hazard zone, crafted a new one while suffocating.",
+      "target": "بعد نفاد المرشحات في منطقة خطرة، صنعت مرشحا جديدا أثناء اختناقك."
+    },
+    {
+      "id": "ACH_dlc_02_trapper_DESC",
+      "source": "Set all 5 traps in the SAM'S STORY chapter as the Captain requests.",
+      "target": "جهز الأفخاخ الـ5 كلها في فصل قصة سام، كما يطلب القبطان."
+    },
+    {
+      "id": "voices\\m3_10_yamantau\\yam_005_intothelift_01_01",
+      "source": "<ffx:wonder>Sam, Idiot! You know what... <ffx:sadness_light>No need for us all to crowd the Government, so you two better stay with Krest. <ffx:neutral>",
+      "target": "<ffx:wonder>سام، إيديوت! أتعلمان؟ <ffx:sadness_light>لا داعي لأن نتجمع جميعنا حول رجال الحكومة، لذا من الأفضل أن تبقيا مع كريست. <ffx:neutral>"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\forest_2\\dog\\dog_attackorder_02",
+      "source": "Bite the intruder!",
+      "target": "عض الدخيل!"
+    },
+    {
+      "id": "ACH_carmaheddon_DESC_unlocked",
+      "source": "Made 50 kills with the Bukhanka.",
+      "target": "قتلت 50 عدوا باستخدام بوخانكا."
+    },
+    {
+      "id": "m3_hint_ingame_gasmask_filter_upd",
+      "source": "PRESS <filter>  SWAP FILTER",
+      "target": "اضغط على <filter> لتبديل المرشح"
+    },
+    {
+      "id": "ACH_gorko_DESC_unlocked",
+      "source": "Attended the wedding on the SUMMER level.",
+      "target": "حضرت حفل الزفاف في مرحلة الصيف."
+    },
+    {
+      "id": "ACH_decommunization_DESC",
+      "source": "Destroy the biggest statue in front of the children's camp on the TAIGA level.",
+      "target": "دمر أكبر تمثال أمام معسكر الأطفال في مرحلة التايغا."
+    }
+  ],
+  "language_scope": "Whole-table terminology rules and contextual corrections; not a full manual sentence review.",
+  "audited_categories": {
+    "dialogue": 31859,
+    "hints": 429,
+    "notes_and_journal": 463,
+    "credits_and_legal": 2758,
+    "interface_and_other": 2164,
+    "equipment": 414,
+    "tasks": 134
+  },
+  "changed_categories": {
+    "notes_and_journal": 15,
+    "dialogue": 63,
+    "interface_and_other": 58,
+    "hints": 23,
+    "equipment": 3
+  },
+  "new_full_context_review_entries": 162,
+  "root_reviewed": true,
+  "reviewed_groups": {
+    "notes": 15,
+    "equipment": 32,
+    "dialogue": 38,
+    "names": 18,
+    "achievements": 48,
+    "misc": 11
+  },
+  "numeric_word_equivalence": {
+    "m3_12_val_diary_23_dsc": "Source 1 mo -> لشهر واحد, identical quantity."
+  }
+}

@@ -1,0 +1,359 @@
+[
+ {
+  "id": "voices\\m3_06_spring\\spr_007_princeparty_idiotleaves_03",
+  "source": "<ffx:smile_light>No sozhalenii gorkikh net, kak net! <ffx:neutral>",
+  "target": "<ffx:smile_light>لا sozhalenii gorkikh net، kak net!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_12_autumn\\aut_021_01_radio_01",
+  "source": "Kostyan, Sila here... The forest bitches are on the move, they ripped all our boys apart and took the road! Alex the Bone with his boys reached their camp from the other side of the forest, they’re all gone.",
+  "target": "كوستيان، سيلا هنا... عاهرات الغابة يتحركن، مزقوا كل أولادنا وسلكوا الطريق! وصل أليكس the بون مع أولاده إلى معسكرهم من الجانب الآخر من الغابة، لقد ذهبوا جميعًا.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\universal_m3\\factions\\tribal_1\\stunned\\stunned_found_02",
+  "source": "He’s alive, thank to Holy Flame! He is here! That kutak is here somewhere! We must find him!",
+  "target": "إنه على قيد الحياة، وذلك بفضل اللهب المقدس! إنه هنا! أن kutak هنا في مكان ما! يجب أن نجده!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc2\\dlc2_220_10_sam_captain_firetraps_01_10",
+  "source": "Ed. It's Sam again. Vse gotovo, all traps re-armed!",
+  "target": "إد. إنه سام مرة أخرى. Vse gotovo، جميع الفخاخ أعيد تسليحها!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\universal_m3\\factions\\tribal_3\\wounded\\wounded_lightly_10",
+  "source": "Aaaw, you msd dog!",
+  "target": "يااااه يا كلب MSD!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\universal_m3\\factions\\tribal_2\\context\\context_alert_down_03",
+  "source": "He down there, that kutak!",
+  "target": "هو هناك، أن kutak!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc_comments\\burunduk\\dlc_comments_intro_part_02",
+  "source": "The fact that you are listening to this log means that you had enough interest in the game to start it over once again. Thus, the efforts of 4A Games team weren't wasted.",
+  "target": "حقيقة أنك تستمع إلى هذا السجل تعني أن لديك اهتمامًا كافيًا باللعبة لبدء اللعب بها مرة أخرى. وهكذا لم تذهب جهود فريق 4A Games هباءً.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_059_6_1_45_02_tribaltalkplayer_01_05",
+  "source": "<ffx:anger>You... You kill Master?! <ffx:disgust>No laugh now! <ffx:anger>Flame will punish you! <ffx:smile>Flame always punish he who hurt the Master! <ffx:neutral>",
+  "target": "<ffx:anger>أنت... هل تقتل المعلم؟!<ffx:disgust>لا تضحك الآن!<ffx:anger>سوف يعاقبك اللهب!<ffx:smile>Flame يعاقب دائمًا من يؤذي المعلم!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_035_oasisfort_tribalzindan_01_04",
+  "source": "<ffx:wonder>Biz sizge kim ekenin de <ffx:fear>bilmeidi bolady? Shyk! <ffx:neutral>",
+  "target": "<ffx:wonder>Biz sizge kim ekenin de<ffx:fear>bilmeidi bolady? شيك!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_12_valley\\val_005_trappedtalk_01_09",
+  "source": "<ffx:disgust>Bozhe moi... <ffx:anger>You’re all cowards! He’s an intruder, an enemy! <ffx:neutral>",
+  "target": "<ffx:disgust>Bozhe moi...<ffx:anger>أنتم جميعًا جبناء! إنه دخيل، عدو!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_040_bguards_idle_talk_tower_hostage_01_04",
+  "source": "<ffx:wonder>Now you don't even know what’s worse - it's been <ffx:fear>a month since anybody returned from a trip to the House of the Fish! <ffx:neutral>",
+  "target": "<ffx:wonder>الآن أنت لا تعرف حتى ما هو الأسوأ - لقد مر شهر<ffx:fear>منذ أن عاد أي شخص من رحلة إلى House of السمكة!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_170_saultalk_01_19",
+  "source": "<ffx:wonder_light>So, to cut to the chase, I <ffx:sadness_light>almost loosed that crazy witch on his ass... <ffx:disgust_light>She was supposed to whack him, <ffx:wonder_light>and I had all the preparations in place - <ffx:wonder>raz, dva, i v damki, you see! <ffx:neutral>",
+  "target": "<ffx:wonder_light>لذا، للانتقال إلى المطاردة، كدت أن أحرر<ffx:sadness_light>تلك الساحرة المجنونة التي كانت على مؤخرته...<ffx:disgust_light>كان من المفترض أن تضربه،<ffx:wonder_light>وقمنا أنا وجميع الاستعدادات -<ffx:wonder>raz، dva، i v damki، كما ترى!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\universal_m3\\factions\\tribal_3\\stunned\\stunned_found_02",
+  "source": "What with you?! AH, he’s alive... Heey! That kutak is here, he knocked to sleep our man! Let’s catch him and sacrifice him to Holy Flame!",
+  "target": "ماذا معك؟! آه، إنه حي... هيه! هذا kutak هنا، لقد طرق للنوم رجلنا! دعونا نقبض عليه ونضحي به للشعلة المقدسة!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_02_dead_moscow\\dmc_002_hospital_01_09",
+  "source": "<ffx:anger_light>The Order is short on men after the battle for D6, but you leave! <ffx:sadness>People need you and you pursue your selfish obsession! <ffx:anger_light>",
+  "target": "<ffx:anger_light>The التنظيم يفتقر إلى الرجال بعد معركة D6، لكنك تغادر!<ffx:sadness>الناس بحاجة إليك وأنت تتبع هوسك الأناني!<ffx:anger_light>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_02_dead_moscow\\dmc_002_hospital_01_02",
+  "source": "<ffx:anger_light>Are you trying to kill me with worry? <ffx:fear>What if next time you don't return from the Surface? <ffx:neutral>",
+  "target": "<ffx:anger_light>هل تحاول قتلي بالقلق؟<ffx:fear>ماذا لو لم تعود من Surface في المرة القادمة؟<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_05_winter\\win_000_miller_confession_12",
+  "source": "To ensure radio silence, <ffx:disgust_light>the \"Shield\" system was created: <ffx:wonder_light>a network of radio jammers, covering Moscow and suburbs.",
+  "target": "لضمان صمت الراديو، تم إنشاء نظام \"Shield\"<ffx:disgust_light>:<ffx:wonder_light>شبكة من أجهزة تشويش الراديو، تغطي موسكو وضواحيها.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_spring\\spr_007_princeparty_idiotleaves_02",
+  "source": "<ffx:smile>Ne kochegary my, ne plotniki... <ffx:neutral>",
+  "target": "<ffx:smile>لا kochegary بلدي، لا plotniki...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_035_oasisfort_sentry_02_04",
+  "source": "<ffx:anger>Munda bireudin avtokelik! <ffx:neutral>",
+  "target": "<ffx:anger>موندا bireudin avtokelik!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\universal_m3\\factions\\tribal_2\\context\\context_reaction_up_02",
+  "source": "What? There is a kutak up there, I think! ",
+  "target": "ماذا؟ هناك kutak هناك، على ما أعتقد!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc_comments\\burunduk\\dlc_comments_camp_cave_rest_place_part_01",
+  "source": "There are more neutral NPCs in the Taiga level than anywhere else in Exodus, and their stories help us paint the picture of the local society.",
+  "target": "هناك شخصيات غير قابلة للعب (الشخصيات غير القابلة للعب) أكثر حيادية في مستوى التايغا من أي مكان آخر في Exodus، وتساعدنا قصصهم في رسم صورة للمجتمع المحلي.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_035_oasisfort_sentry_02_03",
+  "source": "<ffx:anger>Heads up! Tagy da, bul bolyp tabyladu! <ffx:neutral>",
+  "target": "<ffx:anger>تنبيه! Tagy da، bul bolyp tabyladu!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\universal_m3\\factions\\spartans\\sam\\loot\\loot_unique_06",
+  "source": "Vot eto kstati!",
+  "target": "التصويت لإيتو kstati!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_015_firstattack_03_01_02",
+  "source": "<ffx:anger>Alau-kudai uly, Alau-kudai dana, Alau-kudai kushti!<ffx:neutral>",
+  "target": "<ffx:anger>ألاو كوداي uly، ألاو كوداي dana، ألاو كوداي kushti!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_059_insideoilrig_tribaloppression_04_01",
+  "source": "<ffx:anger>You fucking blind or what? <ffx:disgust>Fix that shit! Kisyk, mlia, tuzetu, nna, bitch! <ffx:neutral>",
+  "target": "<ffx:anger>أنت سخيف أعمى أم ماذا؟<ffx:disgust>أصلح هذا القرف! كيسيك، mlia، tuzetu، nna، العاهرة!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_070_terminal_cagetalk_05",
+  "source": "<ffx:disgust>Dumb dog fuck! Can only bark... <ffx:wonder_light>Make good hat, perhaps... <ffx:anger>Hat zhaksy, if make - become quiet! <ffx:neutral>",
+  "target": "<ffx:disgust>اللعنة الكلب البكم! يمكنه فقط النباح...<ffx:wonder_light>اصنع قبعة جيدة، ربما...<ffx:anger>قبعة zhaksy، إذا صنعت - كن هادئًا!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc2\\dlc2_044_dock_06_incomingships_c_03_04",
+  "source": "Makes you wonder, though... Why all these boats decided to arrive at once? There's a queue, for chrissakes! ",
+  "target": "يجعلك تتساءل، رغم ذلك... لماذا قررت كل هذه القوارب الوصول مرة واحدة؟ هناك طابور، لchrissakes!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_spring\\spr_007_princeparty_idiotleaves_04",
+  "source": "<ffx:smile_light>A my montazhniki-vysotniki, da! <ffx:neutral>",
+  "target": "<ffx:smile_light>بلدي montazhniki-vysotniki، دا!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_015_springattack_02_11",
+  "source": "<ffx:disgust>The strong always prey on the weak... <ffx:sadness>In Moscow it's the Nazis, The Hansa, and the Reds... <ffx:wonder>On Volga it was <ffx:disgust>Silantuis and here we <ffx:anger>have this cult of fire... <ffx:neutral>",
+  "target": "<ffx:disgust>القوي يفترس الضعيف دائمًا...<ffx:sadness>في موسكو، النازيون، الهانزا، والحمر...<ffx:wonder>على نهر الفولغا كان<ffx:disgust>Silantuis وها نحن<ffx:anger>لدينا عبادة النار هذه...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_061_castleship_inside_talk_02_05",
+  "source": "<ffx:wonder>Swag? Check the Rig boys out if you're in the market for swag... <ffx:smile>I sure wouldn't mind sharing in on that though... <ffx:neutral>",
+  "target": "غنيمة<ffx:wonder>؟ تحقق من فريق منصة الحفر boys إذا كنت في السوق للحصول على غنيمة...<ffx:smile>أنا بالتأكيد لا أمانع في المشاركة في ذلك بالرغم من ذلك...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_09_summer\\sum_020_damirtalk_01_05",
+  "source": "<ffx:smile>Kep rakmet, brother! <ffx:neutral>",
+  "target": "<ffx:smile>كيب rakmet، أخي!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_013_9_2_canyon_fight_over_01_03",
+  "source": "<ffx:smile>Kep rakmet for help, friend! <ffx:wonder>I lower ladder now, wait one moment! <ffx:neutral>",
+  "target": "<ffx:smile>كيب rakmet للمساعدة، صديق!<ffx:wonder>لقد قمت بخفض السلم الآن، انتظر لحظة واحدة!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_070_terminal_patriciantalk_01_02",
+  "source": "<ffx:anger>Hey, you! Bring food now! <ffx:disgust>Azyk-tulik akel, you fuck! <ffx:neutral>",
+  "target": "<ffx:anger>مرحبًا، أنت! أحضر الطعام الآن!<ffx:disgust>Azyk-tulik akel، اللعنة عليك!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc_comments\\burunduk\\dlc_comments_canyon_rest_place_part_01",
+  "source": "The Taiga level prototype was the first level of Exodus where we tested all our new technologies.",
+  "target": "كان النموذج الأولي لمستوى التايغا هو المستوى الأول من Exodus حيث اختبرنا جميع تقنياتنا الجديدة.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_spring\\spr_007_princewake_loop_04",
+  "source": "Ah... Hmm. [seeps air in through his teeth]",
+  "target": "اه...هم.[seeps air in through his teeth]",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_070_terminal_patroltalk_01_01",
+  "source": "<ffx:disgust>No use! Nobody go, nobody fool! <ffx:sadness>We stand here, all day here - use zhok! <ffx:neutral>",
+  "target": "<ffx:disgust>لا فائدة! لا أحد يذهب، لا أحد أحمق!<ffx:sadness>نحن نقف هنا طوال اليوم هنا - استخدم zhok!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\universal_m3\\factions\\bridger_3\\alert\\alert_hear_03",
+  "source": "Huh? What riff-raff is making those noises?",
+  "target": "هاه؟ ما هو riff-raff الذي يصدر تلك الأصوات؟",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_02_dead_moscow\\dmc_055_spartansarrive_01_28",
+  "source": "<ffx:wonder>What jammer? It's one of Hansa's meteorological posts... <ffx:wonder_light>",
+  "target": "<ffx:wonder>ما التشويش؟ إنها إحدى منشورات الأرصاد الجوية الخاصة بـ Hansa...<ffx:wonder_light>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc_comments\\burunduk\\dlc_comments_rest_farm_bed_part_04",
+  "source": "Another curio: even now there's no generally accepted name for this location amongst the developers, with Farm, Pigsty, Cowshed, Byre, and The Shed being used interchangeably. ",
+  "target": "مفاجأة أخرى: حتى الآن لا يوجد اسم مقبول بشكل عام لهذا الموقع بين المطورين، حيث يتم استخدام المزرعة وحظيرة الخنازير وحظيرة الأبقار وحظيرة الأبقار وThe السقيفة بالتبادل.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_05_winter\\win_099_radiostation_02_02_04",
+  "source": "Your shipment of fertilizer is out of the door, ETA two days, did you copy that?",
+  "target": "شحنتك من الأسمدة خارج الباب، ETA بعد يومين، هل قمت بنسخ ذلك؟",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\universal_m3\\factions\\tribal_2\\context\\context_alert_up_03",
+  "source": "Up there! There that kutak is!",
+  "target": "هناك! هناك هذا kutak!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc_comments\\burunduk\\dlc_comments_rest_trainyard_bed_part_01",
+  "source": "The Train Wash is the first location of Exodus where the bandit faction made its appearance. ",
+  "target": "يعد القطار Wash الموقع الأول لـ Exodus حيث ظهر فصيل قطاع الطرق.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_059_insideoilrig_tribaloppression_04_05",
+  "source": "<ffx:anger>Why the fuck are you spacing out there? <ffx:disgust>Uiyktamau, mlia! <ffx:neutral>",
+  "target": "<ffx:anger>لماذا تبتعد هناك؟<ffx:disgust>Uiyktamau، مليا!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_040_oasisfort_tribalzindan_dogtalk_01_05",
+  "source": "<ffx:wonder>Eeeh, myrza tear me head off anyway, <ffx:smile>but I full by then, good! <ffx:neutral>",
+  "target": "<ffx:wonder>آه، myrza تمزق رأسي على أي حال،<ffx:smile>لكنني ممتلئ بحلول ذلك الوقت، جيد!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_spring\\spr_007_princeparty_idiotleaves_05",
+  "source": "<ffx:smile_light>I s vysoty vam shlem privet! <ffx:neutral>",
+  "target": "<ffx:smile_light>أنا vysoty vam shlem privet!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_12_valley\\val_004_helmettalk_01_09",
+  "source": "<ffx:wonder>So, it reads S... parta? <ffx:anger>Still doesn't make any sense! <ffx:neutral>",
+  "target": "<ffx:wonder>إذًا، يقرأ S...parta؟<ffx:anger>ما زال غير منطقي!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\universal_m3\\factions\\tribal_2\\context\\context_alert_up_02",
+  "source": "That kutak is up there!",
+  "target": "أن kutak هو هناك!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc2\\dlc2_215_sam_sniperneuitralized_silent_02_02",
+  "source": "Legche legkogo, haha!",
+  "target": "Legche Legkogo، هاها!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_10_yamantau\\yam_099_cannibal_attack_01_08",
+  "source": "You're not getting awaaaay!",
+  "target": "أنت لا تحصل على awaaaay!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_017_waytoterminal_01_05",
+  "source": "<ffx:anger_light>You can go not through gate, go <ffx:wonder_light>through the prison cellar where <ffx:disgust_light>the Munai-bailer keep the slaves. <ffx:neutral>",
+  "target": "<ffx:anger_light>لا يمكنك المرور عبر البوابة، اذهب إلى<ffx:wonder_light>عبر قبو السجن حيث يحتفظ<ffx:disgust_light>حارس Munai بالعبيد.<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc_comments\\burunduk\\dlc_comments_rest_island_bed_part_02",
+  "source": "This encounter was the first we implemented in Exodus to test the concept of NPCs' context-dependent reactions to the player's actions.",
+  "target": "كانت هذه المواجهة هي الأولى التي قمنا بتنفيذها في Exodus لاختبار مفهوم ردود أفعال الشخصيات غير القابلة للعب المعتمدة على السياق تجاه تصرفات اللاعب.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_059_6_1_1_shiptribalstalk_01_06",
+  "source": "<ffx:fear>Kep rakmet, great myrza, no <ffx:smile_light>kill good slave, at all! <ffx:fear>Kep rakmet! <ffx:neutral>",
+  "target": "<ffx:fear>أيها القبطان rakmet، ميرزا عظيم، لا<ffx:smile_light>يقتل العبد الجيد، على الإطلاق!<ffx:fear>كيب rakmet!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ }
+]

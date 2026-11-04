@@ -1,0 +1,90 @@
+{
+  "tool_version": "0.2.0",
+  "real_game": "Metro Exodus Steam Windows",
+  "localization_files": 15,
+  "original_lng_roundtrips": true,
+  "current_patched_lng_roundtrip": true,
+  "private_csv_roundtrip": true,
+  "private_repack_verified": true,
+  "unrelated_records_preserved": true,
+  "legacy_real_games_tested": false,
+  "game_launched": false,
+  "live_game_written": false,
+  "files": [
+    {
+      "path": "content/localization/stable_jp.lng",
+      "records": 38221,
+      "sha256": "646f5e1b8a9c517e2350dd95f774dccecee8badbfe30792836b8f1bb69451e8a"
+    },
+    {
+      "path": "content/localization/stable_cz.lng",
+      "records": 38221,
+      "sha256": "6f8f50ec61a42cf0685b83944b24276013011b12143edbc93094a66645755075"
+    },
+    {
+      "path": "content/localization/stable_de.lng",
+      "records": 38221,
+      "sha256": "9bd0613625f78c1c46f4413133ea06dd1e0255e03428e081afd591895fa56997"
+    },
+    {
+      "path": "content/localization/stable_es.lng",
+      "records": 38221,
+      "sha256": "23da16aabf2b3c505ebe9fc055f76b4f08c9d28ab85d8b16afb1c49c6f0e36fa"
+    },
+    {
+      "path": "content/localization/stable_fr.lng",
+      "records": 38221,
+      "sha256": "4b43b7da24a1746b326dd0a68177ab981b5fa39864a3950b174a2298dfd1a5f4"
+    },
+    {
+      "path": "content/localization/stable_it.lng",
+      "records": 38221,
+      "sha256": "e654db5e8975f91c8e459165824697a02de148b54dcbfb824f4f7a4e905cd085"
+    },
+    {
+      "path": "content/localization/stable_mx.lng",
+      "records": 38221,
+      "sha256": "bce158943f2047b78f004bf7be82e7f2a3b568caa814235d3ebd1a7796d2606c"
+    },
+    {
+      "path": "content/localization/stable_pl.lng",
+      "records": 38221,
+      "sha256": "d39e565d4e39a33fda15103efa3741722a74e94509b5ee21beb8d5adbe1c9cd2"
+    },
+    {
+      "path": "content/localization/stable_pt.lng",
+      "records": 38221,
+      "sha256": "a45de84fb615996065c7ac7f6e0c2c78a57d766e061dac4f16e2ffe86915042e"
+    },
+    {
+      "path": "content/localization/stable_ru.lng",
+      "records": 38221,
+      "sha256": "ac4bead729705743017b7460f4821a0119ad48cb2488621d69b127708273e03d"
+    },
+    {
+      "path": "content/localization/stable_us.lng",
+      "records": 38221,
+      "sha256": "edc121baec72a2c173045df267e52c283f780a07e6ef879386c98b57e90e2786"
+    },
+    {
+      "path": "content/localization/stable_uk.lng",
+      "records": 38221,
+      "sha256": "ebf12d22ef8ae55e4e97b5787ac191515093d430ddfe67ee5de0718180b36773"
+    },
+    {
+      "path": "content/localization/stable_ko.lng",
+      "records": 38221,
+      "sha256": "a0925a8e3f2fa6b4b9881ef711408a1cee61692ebdeeb57858bc5f3bb1f70df9"
+    },
+    {
+      "path": "content/localization/stable_cn.lng",
+      "records": 38221,
+      "sha256": "7906c89517ebe3d236936cee91d904afd0a4a9f943ceb6ff4e5a17968ddfd5bb"
+    },
+    {
+      "path": "content/localization/stable_tw.lng",
+      "records": 38221,
+      "sha256": "ad43bc489251fcbc90aa052530c01055df5c8de2bdcf5ce2c70b537e0de8452a"
+    }
+  ]
+}

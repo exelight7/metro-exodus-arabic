@@ -1,0 +1,10 @@
+{
+  "exit_code": 0,
+  "packaged_exe_started": true,
+  "review_mode": true,
+  "screenshot": "08_qa\\render_tests\\installer_windows_exe.png",
+  "width": 1160,
+  "height": 750,
+  "exe_sha256": "e8f23bc3f45984582d0c09781f68a06ce0791167ab0de2009192251edb21bee8",
+  "game_started": false
+}

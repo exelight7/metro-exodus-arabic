@@ -1,0 +1,1280 @@
+[
+  {
+    "id": "$controls_gamepad_ps3",
+    "source": "WIRELESS CONTROLLER",
+    "before": "وحدة تحكم لاسلكية",
+    "target": "يد تحكم لاسلكية"
+  },
+  {
+    "id": "$options",
+    "source": "OPTIONS",
+    "before": "الخيارات",
+    "target": "الإعدادات"
+  },
+  {
+    "id": "menu_category_wpn_barrel",
+    "source": "BARREL",
+    "before": "برميل",
+    "target": "السبطانة"
+  },
+  {
+    "id": "$quit_game_3d",
+    "source": "<menu_back> QUIT GAME",
+    "before": "<menu_back>قم بإنهاء اللعبة",
+    "target": "<menu_back> الخروج من اللعبة"
+  },
+  {
+    "id": "$dlss",
+    "source": "DLSS",
+    "before": "DLSS",
+    "target": "DLSS"
+  },
+  {
+    "id": "$custom",
+    "source": "CUSTOM",
+    "before": "مخصص",
+    "target": "مخصص"
+  },
+  {
+    "id": "$gp_crouch_toggle",
+    "source": "CROUCH TOGGLE",
+    "before": "تبديل الانحناء",
+    "target": "تبديل الانحناء"
+  },
+  {
+    "id": "$ctrl_map_xbox",
+    "source": "JOURNAL",
+    "before": "مجلة",
+    "target": "اليوميات"
+  },
+  {
+    "id": "$ctrl_backward",
+    "source": "BACKWARD",
+    "before": "إلى الوراء",
+    "target": "للخلف"
+  },
+  {
+    "id": "$color_space",
+    "source": "COLOR SPACE",
+    "before": "مساحة اللون",
+    "target": "نطاق الألوان"
+  },
+  {
+    "id": "$gp_wpn_reload",
+    "source": "RELOAD",
+    "before": "إعادة تحميل",
+    "target": "إعادة التلقيم"
+  },
+  {
+    "id": "$game_subtitles_speaker",
+    "source": "SUBTITLE SPEAKER",
+    "before": "إظهار اسم المتحدث",
+    "target": "إظهار اسم المتحدث"
+  },
+  {
+    "id": "$af_16x",
+    "source": "AF 16X",
+    "before": "AF 16X",
+    "target": "AF 16X"
+  },
+  {
+    "id": "$game_difficulty_new_game",
+    "source": "NEW GAME",
+    "before": "لعبة جديدة",
+    "target": "لعبة جديدة"
+  },
+  {
+    "id": "$vsync",
+    "source": "VSYNC",
+    "before": "VSync",
+    "target": "VSync"
+  },
+  {
+    "id": "menu_category_wpn_additional",
+    "source": "SIDE MOUNT",
+    "before": "جبل جانبي",
+    "target": "ملحق جانبي"
+  },
+  {
+    "id": "menu_category_craft_devices",
+    "source": "DEVICES CRAFTING",
+    "before": "صياغة الأجهزة",
+    "target": "صناعة المعدات"
+  },
+  {
+    "id": "menu_category_wpn_scope",
+    "source": "SCOPE",
+    "before": "النطاق",
+    "target": "المنظار"
+  },
+  {
+    "id": "$medium",
+    "source": "MEDIUM",
+    "before": "متوسط",
+    "target": "متوسط"
+  },
+  {
+    "id": "$move_xbox_rstick",
+    "source": "RS",
+    "before": "روبية",
+    "target": "RS"
+  },
+  {
+    "id": "$controller_ps4",
+    "source": "PS4",
+    "before": "بلاي ستيشن 4",
+    "target": "PS4"
+  },
+  {
+    "id": "$srgb_limited",
+    "source": "SRGB LIMITED",
+    "before": "إس آر جي بي المحدودة",
+    "target": "sRGB Limited"
+  },
+  {
+    "id": "$game_difficulty_reader",
+    "source": "READER",
+    "before": "القصة",
+    "target": "القصة"
+  },
+  {
+    "id": "$gp_wpn_next",
+    "source": "NEXT WEAPON",
+    "before": "السلاح القادم",
+    "target": "السلاح التالي"
+  },
+  {
+    "id": "$ctrl_gasmask",
+    "source": "GAS MASK",
+    "before": "قناع غاز",
+    "target": "قناع الغاز"
+  },
+  {
+    "id": "menu_category_craft_ammunition",
+    "source": "AMMUNITION CRAFTING",
+    "before": "صياغة الذخيرة",
+    "target": "صناعة الذخيرة"
+  },
+  {
+    "id": "$load_last_checkpoint",
+    "source": "LOAD LAST CHECKPOINT",
+    "before": "تحميل نقطة التفتيش الأخيرة",
+    "target": "تحميل آخر نقطة حفظ"
+  },
+  {
+    "id": "menu_hint_craft",
+    "source": "CRAFT",
+    "before": "حرفة",
+    "target": "صناعة"
+  },
+  {
+    "id": "$blur_off",
+    "source": "OFF",
+    "before": "إيقاف",
+    "target": "إيقاف"
+  },
+  {
+    "id": "$game_subtitles_deaf",
+    "source": "SUBTITLES FOR HEARING IMPAIRED",
+    "before": "وصف الأصوات لضعاف السمع",
+    "target": "وصف الأصوات لضعاف السمع"
+  },
+  {
+    "id": "$gp_charger",
+    "source": "CHARGER (HOLD)",
+    "before": "الشاحن (عقد)",
+    "target": "الشاحن (ضغط مطول)"
+  },
+  {
+    "id": "$ctrl_map",
+    "source": "JOURNAL ",
+    "before": "مجلة",
+    "target": "اليوميات"
+  },
+  {
+    "id": "$ctrl_fire",
+    "source": "FIRE",
+    "before": "حريق",
+    "target": "إطلاق النار"
+  },
+  {
+    "id": "menu_item_medkit_name",
+    "source": "MEDKIT",
+    "before": "ميدكيت",
+    "target": "حقيبة إسعافات"
+  },
+  {
+    "id": "$it",
+    "source": "ITALIAN",
+    "before": "ايطالي",
+    "target": "الإيطالية"
+  },
+  {
+    "id": "$on",
+    "source": "ON",
+    "before": "تشغيل",
+    "target": "تشغيل"
+  },
+  {
+    "id": "$new_game",
+    "source": "NEW GAME",
+    "before": "لعبة جديدة",
+    "target": "لعبة جديدة"
+  },
+  {
+    "id": "$gyro_options_menu-1",
+    "source": "MOTION CONTROLS SETTINGS",
+    "before": "إعدادات التحكم في الحركة",
+    "target": "إعدادات التحكم بالحركة"
+  },
+  {
+    "id": "$full",
+    "source": "FULL",
+    "before": "كامل",
+    "target": "كامل"
+  },
+  {
+    "id": "$game_difficulty_hard",
+    "source": "HARDCORE",
+    "before": "صعب",
+    "target": "صعب"
+  },
+  {
+    "id": "$continue_game",
+    "source": "CONTINUE GAME",
+    "before": "مواصلة اللعبة",
+    "target": "متابعة اللعبة"
+  },
+  {
+    "id": "$exchange_cancel",
+    "source": "CANCEL",
+    "before": "إلغاء",
+    "target": "إلغاء"
+  },
+  {
+    "id": "$game_difficulty_ranger_hard",
+    "source": "RANGER HARDCORE",
+    "before": "رينجر فائق الصعوبة",
+    "target": "رينجر فائق الصعوبة"
+  },
+  {
+    "id": "$game_difficulty_mutator_no_weapon_mode",
+    "source": "No Weapon Modes",
+    "before": "لا توجد أوضاع للأسلحة",
+    "target": "بلا تعديلات للأسلحة"
+  },
+  {
+    "id": "$preferences",
+    "source": "OPTIONS",
+    "before": "الخيارات",
+    "target": "الإعدادات"
+  },
+  {
+    "id": "$video_resolution",
+    "source": "RESOLUTION",
+    "before": "دقة العرض",
+    "target": "دقة العرض"
+  },
+  {
+    "id": "$ctrl_charger",
+    "source": "LIGHT / CHARGER (HOLD)",
+    "before": "الضوء / الشاحن (عقد)",
+    "target": "المصباح / الشاحن (ضغط مطول)"
+  },
+  {
+    "id": "$controls_vibration_ps3",
+    "source": "VIBRATION",
+    "before": "الاهتزاز",
+    "target": "الاهتزاز"
+  },
+  {
+    "id": "$strong",
+    "source": "STRONG",
+    "before": "قوي",
+    "target": "قوي"
+  },
+  {
+    "id": "$auto",
+    "source": "AUTO",
+    "before": "تلقائي",
+    "target": "تلقائي"
+  },
+  {
+    "id": "$gp_popup_equipment",
+    "source": "WEAPONS INVENTORY (HOLD)",
+    "before": "مخزون الأسلحة (عقد)",
+    "target": "قائمة الأسلحة (ضغط مطول)"
+  },
+  {
+    "id": "$gasmask",
+    "source": "GAS MASK",
+    "before": "قناع غاز",
+    "target": "قناع الغاز"
+  },
+  {
+    "id": "menu_category_wpn_forearm",
+    "source": "FOREND",
+    "before": "مقدمة",
+    "target": "واقي اليد"
+  },
+  {
+    "id": "$controls_controller_fill",
+    "source": "PRESET",
+    "before": "إعداد مسبق",
+    "target": "إعداد مسبق"
+  },
+  {
+    "id": "$gp_inventory",
+    "source": "INVENTORY (HOLD)",
+    "before": "المخزون (الاحتفاظ)",
+    "target": "المعدات (ضغط مطول)"
+  },
+  {
+    "id": "$video",
+    "source": "VIDEO",
+    "before": "الصورة",
+    "target": "الرسوميات"
+  },
+  {
+    "id": "$mmb",
+    "source": "MMB",
+    "before": "إم إم بي",
+    "target": "MMB"
+  },
+  {
+    "id": "$controls_gamepad",
+    "source": "CONTROLLER",
+    "before": "يد التحكم",
+    "target": "يد التحكم"
+  },
+  {
+    "id": "$low",
+    "source": "LOW",
+    "before": "منخفض",
+    "target": "منخفض"
+  },
+  {
+    "id": "$exchange_accept",
+    "source": "ACCEPT",
+    "before": "موافقة",
+    "target": "موافقة"
+  },
+  {
+    "id": "$custom_menu_attach_xbox",
+    "source": "Attach <menu_buy>",
+    "before": "نعلق<menu_buy>",
+    "target": "تركيب <menu_buy>"
+  },
+  {
+    "id": "$load_last_checkpoint_date",
+    "source": "LOAD LAST CHECKPOINT (<autosave_date> min ago)",
+    "before": "تحميل نقطة التحقق الأخيرة (منذ دقيقة<autosave_date>)",
+    "target": "تحميل آخر نقطة حفظ (منذ <autosave_date> دقيقة)"
+  },
+  {
+    "id": "menu_ex_survival",
+    "source": "MEDKIT",
+    "before": "ميدكيت",
+    "target": "حقيبة إسعافات"
+  },
+  {
+    "id": "$ctrl_crouch_toggle",
+    "source": "CROUCH TOGGLE",
+    "before": "تبديل الانحناء",
+    "target": "تبديل الانحناء"
+  },
+  {
+    "id": "$ctrl_auto_move",
+    "source": "WALK TOGGLE",
+    "before": "تبديل المشي",
+    "target": "تبديل المشي"
+  },
+  {
+    "id": "$ctrl_reload",
+    "source": "RELOAD",
+    "before": "إعادة تحميل",
+    "target": "إعادة التلقيم"
+  },
+  {
+    "id": "$lang_sound_downloaded",
+    "source": "New voice language is available. Do you want to select it?",
+    "before": "لغة صوتية جديدة متاحة. هل تريد اختياره؟",
+    "target": "تتوفر لغة حوار جديدة. هل تريد اختيارها؟"
+  },
+  {
+    "id": "$rec709",
+    "source": "REC.709",
+    "before": "التوصية 709",
+    "target": "Rec.709"
+  },
+  {
+    "id": "$controller_xbox",
+    "source": "XBOX",
+    "before": "اكس بوكس",
+    "target": "Xbox"
+  },
+  {
+    "id": "$gp_filter_gasmask",
+    "source": "SWAP FILTER / GAS MASK (HOLD)",
+    "before": "تبديل الفلتر / قناع الغاز (تعليق)",
+    "target": "تبديل المرشح / قناع الغاز (ضغط مطول)"
+  },
+  {
+    "id": "menu_ammo_arrow_name",
+    "source": "CROSSBOW BOLT",
+    "before": "القوس والنشاب بولت",
+    "target": "سهم القوس"
+  },
+  {
+    "id": "$tesselation",
+    "source": "TESSELLATION",
+    "before": "Tessellation",
+    "target": "Tessellation"
+  },
+  {
+    "id": "$game_difficulty_mutator_iron_mode",
+    "source": "Iron Mode ",
+    "before": "وضع الحديد",
+    "target": "وضع الرجل الحديدي"
+  },
+  {
+    "id": "$fairly_strong",
+    "source": "MEDIUM",
+    "before": "متوسط",
+    "target": "متوسط"
+  },
+  {
+    "id": "$auto_detect",
+    "source": "AUTO DETECT",
+    "before": "كشف تلقائي",
+    "target": "اكتشاف تلقائي"
+  },
+  {
+    "id": "$gp_medkit",
+    "source": "MEDKIT",
+    "before": "ميدكيت",
+    "target": "حقيبة إسعافات"
+  },
+  {
+    "id": "$ctrl_medkit",
+    "source": "MEDKIT",
+    "before": "ميدكيت",
+    "target": "حقيبة إسعافات"
+  },
+  {
+    "id": "$normal",
+    "source": "NORMAL",
+    "before": "عادي",
+    "target": "عادي"
+  },
+  {
+    "id": "menu_hint_salvage",
+    "source": "SALVAGE",
+    "before": "إنقاذ",
+    "target": "تفكيك"
+  },
+  {
+    "id": "$game_difficulty_mutator_armored_mode",
+    "source": "Armored Enemies",
+    "before": "أعداء مدرعة",
+    "target": "أعداء مدرعون"
+  },
+  {
+    "id": "$dx_11_options",
+    "source": "DIRECTX 11 OPTIONS",
+    "before": "خيارات DirectX 11",
+    "target": "إعدادات DirectX 11"
+  },
+  {
+    "id": "$gp_time_wpn_down",
+    "source": "TIME / HOLSTER (HOLD)",
+    "before": "الوقت / الحافظة (عقد)",
+    "target": "الوقت / إخفاء السلاح (ضغط مطول)"
+  },
+  {
+    "id": "$nvidia_demo_ssao",
+    "source": "SSAO+IBL",
+    "before": "ساساو + إبل",
+    "target": "SSAO+IBL"
+  },
+  {
+    "id": "$gp_wpn_light",
+    "source": "LIGHT",
+    "before": "ضوء",
+    "target": "المصباح"
+  },
+  {
+    "id": "$rmb",
+    "source": "RMB",
+    "before": "يوان",
+    "target": "RMB"
+  },
+  {
+    "id": "$gp_photomode",
+    "source": "PHOTO MODE (HOLD)",
+    "before": "وضع الصورة (عقد)",
+    "target": "وضع التصوير (ضغط مطول)"
+  },
+  {
+    "id": "$quit_game",
+    "source": "QUIT GAME",
+    "before": "قم بإنهاء اللعبة",
+    "target": "الخروج من اللعبة"
+  },
+  {
+    "id": "$off",
+    "source": "OFF",
+    "before": "إيقاف",
+    "target": "إيقاف"
+  },
+  {
+    "id": "$quit_to_main_menu",
+    "source": "QUIT TO MAIN MENU",
+    "before": "قم بالخروج من القائمة الرئيسية",
+    "target": "العودة إلى القائمة الرئيسية"
+  },
+  {
+    "id": "$game_difficulty_ranger",
+    "source": "RANGER",
+    "before": "رينجر",
+    "target": "رينجر"
+  },
+  {
+    "id": "$vibration_off",
+    "source": "OFF",
+    "before": "إيقاف",
+    "target": "إيقاف"
+  },
+  {
+    "id": "$gp_use_xbox",
+    "source": "USE / INTERACT ",
+    "before": "الاستخدام / التفاعل",
+    "target": "استخدام / تفاعل"
+  },
+  {
+    "id": "$gp_wpn_dynamite",
+    "source": "THROW SECONDARY",
+    "before": "رمي الثانوية",
+    "target": "رمي سلاح ثانوي"
+  },
+  {
+    "id": "$god_mode",
+    "source": "God Mode",
+    "before": "وضع الله",
+    "target": "وضع الحصانة"
+  },
+  {
+    "id": "$loading_progress",
+    "source": "LOADING...<load_progress>%",
+    "before": "جار التحميل...<load_progress>%",
+    "target": "جارٍ التحميل...<load_progress>%"
+  },
+  {
+    "id": "$aim_assist",
+    "source": "AIM ASSIST",
+    "before": "مساعدة التصويب",
+    "target": "مساعدة التصويب"
+  },
+  {
+    "id": "$gyro_sens-1",
+    "source": "MOTION CONTROLS SENSITIVITY",
+    "before": "الحركة تتحكم في الحساسية",
+    "target": "حساسية التحكم بالحركة"
+  },
+  {
+    "id": "$motion_blur",
+    "source": "MOTION BLUR",
+    "before": "ضبابية الحركة",
+    "target": "ضبابية الحركة"
+  },
+  {
+    "id": "$game_difficulty_mutator_grenadier_mode",
+    "source": "Grenadiers",
+    "before": "غريناديرز",
+    "target": "رماة القنابل"
+  },
+  {
+    "id": "$ctrl_auto_sprint",
+    "source": "SPRINT TOGGLE",
+    "before": "تبديل الركض السريع",
+    "target": "تبديل الركض السريع"
+  },
+  {
+    "id": "$qte_hold",
+    "source": "HOLD",
+    "before": "ضغط مستمر",
+    "target": "ضغط مطول"
+  },
+  {
+    "id": "menu_ammo_arrow_desc",
+    "source": "Bolt Description",
+    "before": "وصف الترباس",
+    "target": "وصف سهم القوس"
+  },
+  {
+    "id": "$controls_preset",
+    "source": "LAYOUT",
+    "before": "التخطيط",
+    "target": "تخطيط الأزرار"
+  },
+  {
+    "id": "$ctrl_strafe_right",
+    "source": "STRAFE RIGHT",
+    "before": "تحرك نحو اليمين",
+    "target": "التحرك يمينًا"
+  },
+  {
+    "id": "$ctrl_forward",
+    "source": "FORWARD",
+    "before": "إلى الأمام",
+    "target": "للأمام"
+  },
+  {
+    "id": "$srgb",
+    "source": "SRGB",
+    "before": "إس آر جي بي",
+    "target": "sRGB"
+  },
+  {
+    "id": "$adv_phisics",
+    "source": "ADVANCED PHYSX",
+    "before": "Advanced PhysX",
+    "target": "Advanced PhysX"
+  },
+  {
+    "id": "$gp_gasmask",
+    "source": "GAS MASK (HOLD)",
+    "before": "قناع الغاز (عقد)",
+    "target": "قناع الغاز (ضغط مطول)"
+  },
+  {
+    "id": "$custom_menu_detach_xbox",
+    "source": "Detach <menu_buy>",
+    "before": "افصل<menu_buy>",
+    "target": "إزالة <menu_buy>"
+  },
+  {
+    "id": "$ctrl_crouch",
+    "source": "CROUCH",
+    "before": "كراوتش",
+    "target": "الانحناء"
+  },
+  {
+    "id": "$blur_normal",
+    "source": "NORMAL",
+    "before": "عادي",
+    "target": "عادي"
+  },
+  {
+    "id": "$gp_time",
+    "source": "TIME",
+    "before": "الوقت",
+    "target": "الوقت"
+  },
+  {
+    "id": "$gyro_enable-1",
+    "source": "MOTION CONTROLS AIMING",
+    "before": "ضوابط الحركة تهدف",
+    "target": "التصويب بالتحكم بالحركة"
+  },
+  {
+    "id": "$gp_wpn_down",
+    "source": "HOLSTER (HOLD)",
+    "before": "الحافظة (عقد)",
+    "target": "إخفاء السلاح (ضغط مطول)"
+  },
+  {
+    "id": "$gp_sprint",
+    "source": "SPRINT",
+    "before": "سبرينت",
+    "target": "الركض السريع"
+  },
+  {
+    "id": "$half",
+    "source": "HALF",
+    "before": "نصف",
+    "target": "نصف"
+  },
+  {
+    "id": "$gamepad_preset1",
+    "source": "PRESET",
+    "before": "إعداد مسبق",
+    "target": "إعداد مسبق"
+  },
+  {
+    "id": "options_video_hairworks",
+    "source": "HAIRWORKS",
+    "before": "HairWorks",
+    "target": "HairWorks"
+  },
+  {
+    "id": "$game_difficulty_mutator_tough_creatures",
+    "source": "Tougher Creatures",
+    "before": "مخلوقات أشد",
+    "target": "مخلوقات أشد قوة"
+  },
+  {
+    "id": "$game_difficulty_mutator_developers_comments",
+    "source": "Developer Commentary",
+    "before": "تعليق المطور",
+    "target": "تعليقات المطورين"
+  },
+  {
+    "id": "$game_accessibility",
+    "source": "ACCESSIBILITY",
+    "before": "إمكانية الوصول",
+    "target": "إمكانية الوصول"
+  },
+  {
+    "id": "$confirm_menu",
+    "source": "CONFIRM",
+    "before": "تأكيد",
+    "target": "تأكيد"
+  },
+  {
+    "id": "$rtgi",
+    "source": "RAY TRACING",
+    "before": "Ray Tracing",
+    "target": "Ray Tracing"
+  },
+  {
+    "id": "$gp_rui",
+    "source": "RELOAD / INTERACT / PUMP (HOLD)",
+    "before": "إعادة التحميل / التفاعل / المضخة (الانتظار)",
+    "target": "إعادة التلقيم / التفاعل / الضخ (ضغط مطول)"
+  },
+  {
+    "id": "$gp_use",
+    "source": "USE / INTERACT ",
+    "before": "الاستخدام / التفاعل",
+    "target": "استخدام / تفاعل"
+  },
+  {
+    "id": "$ssaa",
+    "source": "SSAA",
+    "before": "SSAA",
+    "target": "SSAA"
+  },
+  {
+    "id": "$no_ringing_sounds",
+    "source": "NO TINNITUS SOUNDS",
+    "before": "لا يوجد أصوات طنين",
+    "target": "إيقاف أصوات الطنين"
+  },
+  {
+    "id": "$shading_rate",
+    "source": "SHADING RATE",
+    "before": "Shading Rate",
+    "target": "Shading Rate"
+  },
+  {
+    "id": "$ctrl_sprint",
+    "source": "SPRINT",
+    "before": "سبرينت",
+    "target": "الركض السريع"
+  },
+  {
+    "id": "$game_subtitles_size_big",
+    "source": "BIG",
+    "before": "كبير",
+    "target": "كبير"
+  },
+  {
+    "id": "$game_subtitles_background",
+    "source": "SUBTITLE BACKGROUND",
+    "before": "خلفية الترجمة",
+    "target": "خلفية الترجمة النصية"
+  },
+  {
+    "id": "$gyro_invert_y_axis-1",
+    "source": "INVERT MOTION CONTROLS (Y-AXIS)",
+    "before": "عكس عناصر التحكم في الحركة (المحور Y)",
+    "target": "عكس التحكم بالحركة (المحور Y)"
+  },
+  {
+    "id": "$gp_filter",
+    "source": "SWAP FILTER",
+    "before": "مرشح المبادلة",
+    "target": "تبديل المرشح"
+  },
+  {
+    "id": "$ctrl_inventory",
+    "source": "INVENTORY",
+    "before": "المخزون",
+    "target": "المعدات"
+  },
+  {
+    "id": "$left",
+    "source": "LEFT",
+    "before": "اليسار",
+    "target": "يسار"
+  },
+  {
+    "id": "$sound_music_volume",
+    "source": "MUSIC VOLUME",
+    "before": "مستوى الموسيقى",
+    "target": "مستوى الموسيقى"
+  },
+  {
+    "id": "$lang_text",
+    "source": "TEXT LANGUAGE",
+    "before": "لغة النصوص",
+    "target": "لغة النصوص"
+  },
+  {
+    "id": "$game_difficulty_new_game_plus",
+    "source": "NEW GAME PLUS",
+    "before": "لعبة جديدة زائد",
+    "target": "لعبة جديدة+"
+  },
+  {
+    "id": "$aspect_ratio",
+    "source": "ASPECT RATIO",
+    "before": "نسبة الأبعاد",
+    "target": "نسبة الأبعاد"
+  },
+  {
+    "id": "$raytrace",
+    "source": "NVIDIA RTX",
+    "before": "NVIDIA RTX",
+    "target": "NVIDIA RTX"
+  },
+  {
+    "id": "menu_item_throwing_knife_name",
+    "source": "THROWING KNIFE",
+    "before": "رمي السكين",
+    "target": "سكين رمي"
+  },
+  {
+    "id": "$high",
+    "source": "HIGH",
+    "before": "مرتفع",
+    "target": "مرتفع"
+  },
+  {
+    "id": "$localizable_signs",
+    "source": "SIGN SUBTITLES",
+    "before": "ترجمة اللافتات",
+    "target": "ترجمة اللافتات"
+  },
+  {
+    "id": "$use_defaults",
+    "source": "USE DEFAULTS",
+    "before": "استخدم الافتراضيات",
+    "target": "استعادة الإعدادات الافتراضية"
+  },
+  {
+    "id": "menu_category_wpn_magazine",
+    "source": "MAGAZINE",
+    "before": "مجلة",
+    "target": "مخزن الذخيرة"
+  },
+  {
+    "id": "$game_difficulty_mutator_sneaky_combat_behaviour",
+    "source": "Sneaky Behavior",
+    "before": "سلوك متستر",
+    "target": "سلوك مخادع"
+  },
+  {
+    "id": "$resume_game",
+    "source": "RESUME GAME",
+    "before": "استئناف اللعبة",
+    "target": "متابعة اللعبة"
+  },
+  {
+    "id": "$qte_tap",
+    "source": "TAP",
+    "before": "ضغط متكرر",
+    "target": "ضغط متكرر"
+  },
+  {
+    "id": "$game_difficulty_medium",
+    "source": "NORMAL",
+    "before": "عادي",
+    "target": "عادي"
+  },
+  {
+    "id": "$gp_wpn_fire",
+    "source": "FIRE",
+    "before": "حريق",
+    "target": "إطلاق النار"
+  },
+  {
+    "id": "$ctrl_jump",
+    "source": "JUMP",
+    "before": "القفز",
+    "target": "القفز"
+  },
+  {
+    "id": "$gp_wpn_fast_knife",
+    "source": "MELEE ATTACK",
+    "before": "هجوم المشاجرة",
+    "target": "هجوم قريب"
+  },
+  {
+    "id": "$move_xbox_lstick",
+    "source": "LS",
+    "before": "إل إس",
+    "target": "LS"
+  },
+  {
+    "id": "$game_difficulty",
+    "source": "DIFFICULTY",
+    "before": "مستوى الصعوبة",
+    "target": "مستوى الصعوبة"
+  },
+  {
+    "id": "$controls_keyboard",
+    "source": "KEYBOARD",
+    "before": "لوحة المفاتيح",
+    "target": "لوحة المفاتيح"
+  },
+  {
+    "id": "$gp_wpn_down_xbox",
+    "source": "HOLSTER (HOLD)",
+    "before": "الحافظة (عقد)",
+    "target": "إخفاء السلاح (ضغط مطول)"
+  },
+  {
+    "id": "$gp_popup_secondary",
+    "source": "SECONDARY INVENTORY(HOLD)",
+    "before": "المخزون الثانوي (الاحتفاظ)",
+    "target": "قائمة المعدات الثانوية (ضغط مطول)"
+  },
+  {
+    "id": "$texture_filtering",
+    "source": "TEXTURE FILTERING",
+    "before": "ترشيح الخامات",
+    "target": "ترشيح الخامات"
+  },
+  {
+    "id": "$crosshair",
+    "source": "CROSSHAIR",
+    "before": "علامة التصويب",
+    "target": "علامة التصويب"
+  },
+  {
+    "id": "$sound_effect_volume",
+    "source": "MASTER VOLUME",
+    "before": "مستوى الصوت العام",
+    "target": "مستوى الصوت العام"
+  },
+  {
+    "id": "$gp_gasmask_xbox",
+    "source": "GAS MASK (HOLD)",
+    "before": "قناع الغاز (عقد)",
+    "target": "قناع الغاز (ضغط مطول)"
+  },
+  {
+    "id": "$direct_x",
+    "source": "DIRECTX",
+    "before": "DirectX",
+    "target": "DirectX"
+  },
+  {
+    "id": "menu_trade_category_craft",
+    "source": "CRAFTING",
+    "before": "صياغة",
+    "target": "الصناعة"
+  },
+  {
+    "id": "menu_category_wpn_butt",
+    "source": "STOCK AND GRIP",
+    "before": "المخزون والقبضة",
+    "target": "الأخمص والقبضة"
+  },
+  {
+    "id": "$qte_mode",
+    "source": "QTE CONTROL",
+    "before": "طريقة الضغط في الأحداث السريعة",
+    "target": "طريقة الضغط في الأحداث السريعة"
+  },
+  {
+    "id": "$cancel",
+    "source": "CANCEL",
+    "before": "إلغاء",
+    "target": "إلغاء"
+  },
+  {
+    "id": "$hdr",
+    "source": "HDR",
+    "before": "تقرير التنمية البشرية",
+    "target": "HDR"
+  },
+  {
+    "id": "$weak",
+    "source": "WEAK",
+    "before": "ضعيف",
+    "target": "ضعيف"
+  },
+  {
+    "id": "$game_subtitles_size_small",
+    "source": "SMALL",
+    "before": "صغير",
+    "target": "صغير"
+  },
+  {
+    "id": "$aim_sensitivity",
+    "source": "AIM SENSITIVITY",
+    "before": "حساسية التصويب",
+    "target": "حساسية التصويب"
+  },
+  {
+    "id": "$game_subtitles_size_medium",
+    "source": "MEDIUM",
+    "before": "متوسط",
+    "target": "متوسط"
+  },
+  {
+    "id": "$photo_mode_hide_ui_pc",
+    "source": "R",
+    "before": "ر",
+    "target": "R"
+  },
+  {
+    "id": "$game_difficulty_easy",
+    "source": "EASY",
+    "before": "سهل",
+    "target": "سهل"
+  },
+  {
+    "id": "$lang_sound",
+    "source": "VOICE LANGUAGE",
+    "before": "لغة الحوار",
+    "target": "لغة الحوار"
+  },
+  {
+    "id": "$gp_popup_weapons",
+    "source": "WEAPONS INVENTORY (HOLD)",
+    "before": "مخزون الأسلحة (عقد)",
+    "target": "قائمة الأسلحة (ضغط مطول)"
+  },
+  {
+    "id": "$controls",
+    "source": "CONTROLS",
+    "before": "التحكم",
+    "target": "التحكم"
+  },
+  {
+    "id": "$game_subtitles_size",
+    "source": "SUBTITLE SIZE",
+    "before": "حجم الترجمة",
+    "target": "حجم الترجمة النصية"
+  },
+  {
+    "id": "$controls_sensevity",
+    "source": "SENSITIVITY",
+    "before": "الحساسية",
+    "target": "الحساسية"
+  },
+  {
+    "id": "$nvidia_demo_rtao",
+    "source": "Raytraced AO+GI",
+    "before": "تتبع الأشعة AO+GI",
+    "target": "Raytraced AO+GI"
+  },
+  {
+    "id": "$ctrl_strafe_left",
+    "source": "STRAFE LEFT",
+    "before": "تحرك لليسار",
+    "target": "التحرك يسارًا"
+  },
+  {
+    "id": "$ingame_menu_select_options",
+    "source": "SELECT",
+    "before": "اختر",
+    "target": "اختيار"
+  },
+  {
+    "id": "$gp_map",
+    "source": "JOURNAL",
+    "before": "مجلة",
+    "target": "اليوميات"
+  },
+  {
+    "id": "$ctrl_walk",
+    "source": "WALK",
+    "before": "المشي",
+    "target": "المشي"
+  },
+  {
+    "id": "$qte_press",
+    "source": "PRESS",
+    "before": "ضغطة واحدة",
+    "target": "ضغطة واحدة"
+  },
+  {
+    "id": "$gp_wpn_prev",
+    "source": "PREV WEAPON",
+    "before": "السلاح السابق",
+    "target": "السلاح السابق"
+  },
+  {
+    "id": "$controls_invert_y",
+    "source": "INVERT Y AXIS",
+    "before": "عكس المحور الرأسي",
+    "target": "عكس المحور الرأسي"
+  },
+  {
+    "id": "$controls_vibration",
+    "source": "VIBRATION",
+    "before": "الاهتزاز",
+    "target": "الاهتزاز"
+  },
+  {
+    "id": "$video_quality",
+    "source": "QUALITY",
+    "before": "الجودة",
+    "target": "جودة الرسوم"
+  },
+  {
+    "id": "$gp_jump",
+    "source": "JUMP",
+    "before": "القفز",
+    "target": "القفز"
+  },
+  {
+    "id": "$af_4x",
+    "source": "AF 4X",
+    "before": "AF 4X",
+    "target": "AF 4X"
+  },
+  {
+    "id": "$load_game",
+    "source": "LOAD GAME",
+    "before": "تحميل لعبة",
+    "target": "تحميل لعبة"
+  },
+  {
+    "id": "$controls_mouse",
+    "source": "MOUSE",
+    "before": "الفأرة",
+    "target": "الفأرة"
+  },
+  {
+    "id": "menu_ammo_shotgun_name",
+    "source": "SHOTGUN AMMO",
+    "before": "ذخيرة البندقية",
+    "target": "ذخيرة الخرطوش"
+  },
+  {
+    "id": "$gp_wpn_aim",
+    "source": "AIM",
+    "before": "الهدف",
+    "target": "التصويب"
+  },
+  {
+    "id": "$extreme",
+    "source": "EXTREME",
+    "before": "Extreme",
+    "target": "Extreme"
+  },
+  {
+    "id": "$ctrl_run_toggle",
+    "source": "RUN TOGGLE",
+    "before": "تبديل الركض",
+    "target": "تبديل الركض"
+  },
+  {
+    "id": "$back",
+    "source": "BACK",
+    "before": "رجوع",
+    "target": "رجوع"
+  },
+  {
+    "id": "$very_high",
+    "source": "ULTRA",
+    "before": "Ultra",
+    "target": "Ultra"
+  },
+  {
+    "id": "$continue_menu",
+    "source": "CONTINUE",
+    "before": "متابعة",
+    "target": "متابعة"
+  },
+  {
+    "id": "$lmb",
+    "source": "LMB",
+    "before": "LMB",
+    "target": "LMB"
+  },
+  {
+    "id": "$gp_popup_devices",
+    "source": "EQUIPMENT INVENTORY (HOLD)",
+    "before": "مخزون المعدات (الاحتفاظ)",
+    "target": "قائمة المعدات (ضغط مطول)"
+  },
+  {
+    "id": "$de",
+    "source": "GERMAN",
+    "before": "ألمانية",
+    "target": "الألمانية"
+  },
+  {
+    "id": "$right",
+    "source": "RIGHT",
+    "before": "صحيح",
+    "target": "يمين"
+  },
+  {
+    "id": "$gameplay",
+    "source": "GAME OPTIONS",
+    "before": "إعدادات اللعب",
+    "target": "إعدادات اللعب"
+  },
+  {
+    "id": "$gyro_invert_x_axis-1",
+    "source": "INVERT MOTION CONTROLS (X-AXIS)",
+    "before": "عكس عناصر التحكم في الحركة (المحور السيني)",
+    "target": "عكس التحكم بالحركة (المحور X)"
+  },
+  {
+    "id": "$gp_lighter",
+    "source": "LIGHTER",
+    "before": "أخف وزنا",
+    "target": "الولاعة"
+  },
+  {
+    "id": "$gp_backpack",
+    "source": "BACKPACK (HOLD)",
+    "before": "حقيبة الظهر (عقد)",
+    "target": "حقيبة الظهر (ضغط مطول)"
+  },
+  {
+    "id": "$lang",
+    "source": "LANGUAGE",
+    "before": "اللغة",
+    "target": "اللغة"
+  },
+  {
+    "id": "$gamma",
+    "source": "GAMMA",
+    "before": "تصحيح غاما",
+    "target": "تصحيح غاما"
+  },
+  {
+    "id": "$sound",
+    "source": "SOUND",
+    "before": "الصوت",
+    "target": "الصوت"
+  },
+  {
+    "id": "$game_subtitles",
+    "source": "SUBTITLES",
+    "before": "الترجمة النصية",
+    "target": "الترجمة النصية"
+  },
+  {
+    "id": "$exposure_hdr",
+    "source": "HDR EXPOSURE",
+    "before": "التعرض لتقنية HDR",
+    "target": "تعريض HDR"
+  },
+  {
+    "id": "$vo_volume",
+    "source": "VOICE VOLUME",
+    "before": "مستوى الحوار",
+    "target": "مستوى صوت الحوار"
+  }
+]

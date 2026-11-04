@@ -1,0 +1,681 @@
+[
+  {
+    "id": "voices\\m3_06_bridge\\bri_008_alyosha_greeting_03",
+    "source": "<ffx:smile>Oh, Artyom! Did you spy <ffx:wide_smile_light>any lookers among the local girls? <ffx:wonder>I'm thinking about borrowing the Old Man's scooter and <ffx:smile>driving to a club, you see! <ffx:neutral>",
+    "target": "<ffx:smile>أوه، أرتيوم! هل تجسست على<ffx:wide_smile_light>أي ناظر بين الفتيات المحليات؟<ffx:wonder>أفكر في استعارة سكوتر الرجل العجوز وقيادة<ffx:smile>إلى النادي، كما ترى!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_011_carbriefing_aftermath_tokarev_02",
+    "source": "<ffx:smile>Great job persuading the Old Man! <ffx:smile_light>",
+    "target": "<ffx:smile>عمل رائع في إقناع الرجل العجوز!<ffx:smile_light>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_13_dead_city\\nvs_004_damir_artyomgoodbye_01_02",
+    "source": "<ffx:wonder_light>Watch out for the Old Man, will you? <ffx:neutral>",
+    "target": "<ffx:wonder_light>احترس من الرجل العجوز، أليس كذلك؟<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_10_yamantau\\yam_010_welcometohell_11",
+    "source": "<ffx:sadness>Watch your tone, young lady! <ffx:smile_light>Do as that young man does: he woke up long ago, <ffx:wonder_light>but quietly listens to wise people talk!",
+    "target": "<ffx:sadness>انتبهي إلى أسلوبك أيتها الشابة!<ffx:smile_light>افعلي مثل ذلك الشاب: استيقظ منذ وقت طويل،<ffx:wonder_light>لكنه يستمع إلى كلام الحكماء بهدوء!",
+    "status": "reviewed",
+    "translation_origin": "reviewed"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_013_9_3_canyon_fight_over_talk_01_05",
+    "source": "<ffx:wonder>All go when dogs say, I say - why go? <ffx:anger>Let fire-gods leave for good, we don't go! <ffx:neutral>",
+    "target": "<ffx:wonder>الجميع يذهبون عندما تقول الكلاب، أقول - لماذا تذهب؟<ffx:anger>دع آلهة النار تغادر إلى الأبد، نحن لا نذهب!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_170_saultalk_01_25",
+    "source": "<ffx:wonder_light>In any case, I’ll be frank. <ffx:sadness_light>Neither you, nor I are interested in Baron staying alive, so <ffx:smile>I say, whack him for good! <ffx:wonder_light>You seem to be up to the task, I can still <ffx:smile>feel the thrashing you gave me, haha!<ffx:neutral>",
+    "target": "<ffx:wonder_light>على أية حال، سأكون صريحًا.<ffx:sadness_light>لا أنت ولا أنا مهتمان ببقاء بارون على قيد الحياة، لذلك أقول<ffx:smile>، اضربه إلى الأبد!<ffx:wonder_light>يبدو أنك على مستوى المهمة، ولا يزال بإمكاني الشعور بالضربة التي وجهتها لي،<ffx:smile>، هاها!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_dia_crew_stepan_summer",
+    "source": "<tab>For saving her, Katya repaid Stepan in kind. In the Caspian desert, Stepan got so ill he couldn’t even walk, much less fight. He almost died from dehydration, and if not for Katya, he would have been dead for sure. He knew whom to thank for his life, and as soon as he was able to get up, he immediately fell to one knee and proposed. Search wherever you can, you’d never find a better husband for Katya and step-father for Nastya! He’s been spending so much time with the girl, making toys for her and answering her constant questions about everything, that Nastya had already called Stepan dad several times by that time. Now that Katya was officially his wife, beholding their family happiness was a true sight for the sore eyes. At least, someone will be able to have a proper family and future... A pity, this doesn’t seem likely for Anna and me.<br><br>",
+    "target": "<tab>ردت كاتيا لستيبان الجميل، بعدما أنقذها. ففي صحراء قزوين، اشتد به المرض حتى عجز عن المشي، فما بالك بالقتال. كاد يموت من الجفاف، ولولا كاتيا لهلك حتما. عرف لمن يدين بحياته، وما إن استطاع النهوض حتى جثا على ركبة واحدة وطلب يدها. مهما بحثت، فلن تجد لكاتيا زوجا أفضل منه، ولا لناستيا أبا بديلا أفضل! كان يقضي وقتا طويلا مع الصغيرة، يصنع لها الألعاب ويجيب عن أسئلتها التي لا تنتهي عن كل شيء، حتى إنها نادته «أبي» عدة مرات قبل زواجهما. والآن، بعدما أصبحت كاتيا زوجته رسميا، صارت سعادة أسرتهما مشهدا يفرح القلب. على الأقل، سيتمكن بعضنا من تكوين أسرة حقيقية والتمتع بمستقبل... من المؤسف أن هذا لا يبدو مرجحا لي ولآنا.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_02_dead_moscow\\dmc_030_goingtotheaurora_01_09",
+    "source": "<ffx:wonder_light>If you get closer, <ffx:sadness_light>I'll distract them, <ffx:smile_light>while you rescue the old man.<ffx:neutral>",
+    "target": "<ffx:wonder_light>إذا اقتربت،<ffx:sadness_light>سأشتت انتباههم،<ffx:smile_light>بينما تنقذ الرجل العجوز.<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_062_spidership_bandits_playerattack_04",
+    "source": "<ffx:anger>Well, take him down then! <ffx:neutral>",
+    "target": "<ffx:anger>حسنًا، قم بإزالته إذن!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_025_sam_talk_actualmeeting_02_20_long_31",
+    "source": "Oh, he went ballistic, and tried to get rid of us, but when he saw his game was up for good, he ran away.",
+    "target": "أوه، لقد أصبح غاضبًا وحاول التخلص منا، ولكن عندما رأى أن لعبته قد انتهت إلى الأبد، هرب بعيدًا.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_022_goodendnew_alarm_raised_02_01",
+    "source": "<ffx:anger>Leave us for good now! <ffx:sadness>God may punish you for your sins, <ffx:wonder_light>but my responsibility is to tend to my flock...",
+    "target": "<ffx:anger>اتركنا للأبد الآن!<ffx:sadness>قد يعاقبك الله على ذنوبك،<ffx:wonder_light>لكن مسؤوليتي هي رعاية قطيعي...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_08_des_diary_8",
+    "source": "<tab>...you can easily get used to the sound of those geysers, they’re not really that loud. When I made some earplugs, I started sleeping like a baby! The main advantage of the place is that none of the Baron’s dogs would even think of coming here, compensates for a lot in my eyes... Just in case, though, I finished installing a zipline in the morning, having a quick escape route never hurts.<br><br><br><tab>Got up to take a leak tonight, heard something scratching the metal somewhere down in the hold. Took my gun and went there, but only saw it scamper behind the containers... A damned spider! And I had only just made myself home here! These pests will ruin the place... I’ll try to burn their asses out tonight, before they multiply. They are tough to kill with bullets, but at least, they hate light... If you manage to get the bastard into a lit spot and it has nowhere to run, it dies right there...<br><br><br>",
+    "target": "<tab>...يمكنك التعود بسهولة على صوت تلك الينابيع الساخنة، فهي ليست عالية جدًا حقًا. عندما صنعت بعض سدادات الأذن، بدأت أنام كطفل رضيع! الميزة الرئيسية للمكان هي أن أيًا من كلاب البارون لن يفكر في المجيء إلى هنا، مما يعوض الكثير في نظري... على الرغم من ذلك، في حالة انتهيت من تثبيت حبل الانزلاق في الصباح، فإن وجود طريق هروب سريع لا يضر أبدًا.<br><br><br><tab>استيقظت لتسريب المياه الليلة، وسمعت شيئًا يخدش المعدن في مكان ما بالأسفل. أخذت بندقيتي وذهبت إلى هناك، لكني رأيتها تندفع خلف الحاويات فقط... عنكبوت ملعون! وكنت قد وصلت للتو إلى المنزل هنا! هذه الآفات سوف تدمر المكان... سأحاول حرق مؤخراتهم الليلة، قبل أن تتكاثر. من الصعب قتلهم بالرصاص، لكنهم على الأقل يكرهون الضوء... إذا تمكنت من وضع اللقيط في مكان مضاء ولم يكن لديه مكان يهرب إليه، فإنه يموت هناك على الفور...<br><br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_02_dead_moscow\\dmc_013_4_stealthtutorial_05_11",
+    "source": "<ffx:sadness_light>You'll have to take him down! <ffx:wonder>Can you do it quietly?<ffx:neutral>",
+    "target": "<ffx:sadness_light>سيكون عليك القضاء عليه!<ffx:wonder>هل يمكنك فعل ذلك بهدوء؟<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_08_des_diary_11",
+    "source": "<tab>Son, you were asking about that Giul broad, what I know about where she is and where comes from... I’ve no idea why are you interested, but I do have a lot to say... In the very beginning, the locals tried starting shit with us, a commotion, like. That lead them nowhere, as the Baron knew that whoever has more guns owns the joint even back then, so he got most guns. And later, as the strongest, got all the other gang leaders to submit to him, so nobody would even think of going against his will. They didn’t resist, as they’d need to bunch together to stand any chance, and they were too busy fighting between themselves to even try that.<br><br><br><tab>The locals that had no wheels just stayed low in their holes, hoping he’d just up and leave all by himself one day, but he didn’t. Instead, he started making things right here. Then they went outside, but it was too little, too late - we smashed them like they were nothing.<br><br><br><tab>Then they took to guerilla shit, gave us trouble for years... Like, some boys go out on a patrol, and as soon as their cars turn around a hill, you hear shots. And when you get there, the cars are burning and the boys dead. How, who, where from? Tough luck finding out...<br><br><br><tab>A lot of them would hide in the mountains... The ones that remained in the Baron’s lands would tell tales and sing songs of the \"free ones”, bring them food... That’s when I first heard of that bitch Giul. She was still a little squirt back then, but was completely ruthless already, stone cold murderer. She’d leave nobody alive. Of course, the slaves were all her fans. Like, \"Oh, she’s a girl, but she cuts the enemy up like nobody’s business”, so they started telling tales of her, too.<br><br><br><tab>Well, the Baron’s nobody’s fool, he knew how to deal with those bastards! We started taking hostages, executing ten slaves for one of our boys. Say, this village is helping the rebels? Put it to the torch! A local knows anything about the rebels - he’s not gonna die until he tells us everything. You catch the drift.<br><br><br><tab>Pretty soon, the slaves started avoiding them like the plague. Someone sees a slave talking to some suspicious guy? The slave’s whole family gets the knife. A slave tells his master he saw someone suspicious? Good job, pal, enjoy triple rations that moment forward, and the Baron’s thanks! The slaves started selling those fucks to us in droves. We stepped our game up, too, and within a few years they were not much more than a memory.<br><br><br><tab>That broad Giul could well be the last. Once the Baron catches her, he’ll throw the world’s biggest party for the boys, you take my word. Just don’t you ever even think of saying she’s a witch and uses her spells to keep hiding from us. The Baron does not take lightly to such remarks, I saw him use his walking stick to beat some sense into the dumbass he caught spreading that shit, saying: \"it’s you, incompetent sons of bitches, who are too dumb to catch her, so you start re-telling the slave tales!”. Beat the bastard to death, and I say he got his just desserts! That’s about all I know. We tried to find out where she was born and who were her parents, but no dice there...<br><br><br><tab>Mom sends some home treats for you, share them with the boys as customary.<br><br><tab>Give the Baron my warmest respects and gratitude, also give a handshake to all the boys who still remember me.<br><br>",
+    "target": "<tab>يا بني، كنت تسأل عن جيول برود، وما الذي أعرفه عن مكان وجودها ومن أين أتت... ليس لدي أي فكرة عن سبب اهتمامك، ولكن لدي الكثير لأقوله... في البداية، حاول السكان المحليون بدء الهراء معنا، ضجة، مثل. لم يقودهم ذلك إلى أي مكان، حيث كان البارون يعلم أن من يملك المزيد من الأسلحة كان يمتلك المفصل حتى في ذلك الوقت، لذلك حصل على معظم الأسلحة. وفي وقت لاحق، باعتباره الأقوى، جعل جميع زعماء العصابة الآخرين يخضعون له، لذلك لن يفكر أحد في مخالفة إرادته. لم يقاوموا، لأنهم كانوا بحاجة إلى التجمع معًا للحصول على أي فرصة، وكانوا مشغولين جدًا بالقتال فيما بينهم حتى لا يحاولوا ذلك.<br><br><br><tab>السكان المحليون الذين ليس لديهم عجلات ظلوا منخفضين في جحورهم، على أمل أن ينهض ويغادر بمفرده ذات يوم، لكنه لم يفعل. وبدلاً من ذلك، بدأ في صنع الأشياء هنا. ثم خرجوا، لكن الوقت كان قليلًا جدًا، ومتأخرًا جدًا - لقد حطمناهم وكأنهم لا شيء.<br><br><br><tab>ثم انتقلوا إلى حرب العصابات، وسببوا لنا المتاعب لسنوات... مثلًا، يخرج بعض الأولاد في دورية، وبمجرد أن تدور سياراتهم حول التل، تسمع طلقات نارية. وعندما تصل إلى هناك، تحترق السيارات ويموت الأولاد. كيف، من، من أين؟ من الصعب العثور على ذلك...<br><br><br><tab>الكثير منهم يختبئون في الجبال... أولئك الذين بقوا في أراضي البارون كانوا يروون الحكايات ويغنون أغاني \"الأحرار\"، ويحضرون لهم الطعام... وذلك عندما سمعت لأول مرة عن تلك العاهرة جيول. لقد كانت لا تزال بخاخة قليلاً في ذلك الوقت، لكنها كانت قاسية تمامًا بالفعل، وقاتلة باردة. وقالت أنها لن تترك أحدا على قيد الحياة. وبطبيعة الحال، كان العبيد كل معجبيها. مثل، \"أوه، إنها فتاة، لكنها تقطع العدو كما لا يعني أحدًا\"، لذلك بدأوا في سرد ​​الحكايات عنها أيضًا.<br><br><br><tab>حسنًا، البارون ليس أحمق من أحد، لقد كان يعرف كيفية التعامل مع هؤلاء الأوغاد! بدأنا في أخذ الرهائن، وإعدام عشرة عبيد لأحد أولادنا. قل أن هذه القرية تساعد المتمردين؟ ضعه على الشعلة! أحد السكان المحليين يعرف أي شيء عن المتمردين، ولن يموت حتى يخبرنا بكل شيء. يمكنك التقاط الانجراف.<br><br><br><tab>وسرعان ما بدأ العبيد في تجنبهم مثل الطاعون. هل يرى أحد العبد يتحدث إلى رجل مشبوه؟ عائلة العبد بأكملها تحصل على السكين. العبد يخبر سيده أنه رأى شخصا مشبوها؟ أحسنت يا صديقي، استمتع بحصص غذائية ثلاثية في تلك اللحظة، وشكرًا للبارون! بدأ العبيد في بيع تلك الملاعين لنا بأعداد كبيرة. لقد عززنا لعبتنا أيضًا، وفي غضون سنوات قليلة لم تعد أكثر من مجرد ذكرى.<br><br><br><tab>يمكن أن يكون هذا غيول العريض هو الأخير. بمجرد أن يمسكها البارون، سيقيم أكبر حفلة في العالم للأولاد، صدقني. فقط لا تفكر أبدًا في القول إنها ساحرة وتستخدم تعاويذها لتستمر في الاختباء منا. لا يستخف البارون بمثل هذه التصريحات، فقد رأيته يستخدم عصا المشي الخاصة به ليضرب بعض المنطق في الغباء الذي أمسك به وهو ينشر هذا الهراء، قائلاً: \"إنكم أنتم، أبناء العاهرات غير الأكفاء، الذين هم أغبياء جدًا بحيث لا يمكنهم الإمساك بها، لذلك تبدأون في إعادة سرد حكايات العبيد!\". اضرب اللقيط حتى الموت، وأقول أنه حصل على حلوياته العادلة! هذا كل ما أعرفه. لقد حاولنا معرفة مكان ولادتها ومن هم والديها، ولكن لا يوجد حجر نرد هناك...<br><br><br><tab>ترسل لك والدتك بعض الهدايا المنزلية، شاركها مع الأولاد كالمعتاد.<br><br><tab>أعط البارون أحر احترامي وامتناني، وصافح أيضًا جميع الأولاد الذين ما زالوا يتذكرونني.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_12_valley\\val_11_80_instructorassembly_01_11",
+    "source": "<ffx:anger_strong>You say that again, and I’ll deck you! <ffx:disgust>Watch your tone! <ffx:neutral>",
+    "target": "<ffx:anger_strong>قل ذلك مرة أخرى، وسأقوم بتزيينك!<ffx:disgust>انتبه لنغمتك!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_000_narration_06",
+    "source": "<tab>I delivered the maps to the base. Decoding them will take time, so it’s too early to choose our next destination yet. Besides, we have more pressing issues right now: most of the Crew members are down due to heat and dehydration, and the Aurora needs a lot of fuel and water to move. The local kingpin, the Baron, has it all, but he's none too eager to share.<br><br><tab>Considering our desperate situation and our past experience \"negotiating\" with the bandits, the Colonel decided to take what we need by force. Damir is already scouting out their main water source, where we can steal a full bowser truck from. I am supposed to meet him near the location.<br><br>",
+    "target": "<tab>لقد قمت بتسليم الخرائط إلى القاعدة. سيستغرق فك رموزها بعض الوقت، لذا من السابق لأوانه اختيار وجهتنا التالية حتى الآن. بالإضافة إلى ذلك، لدينا مشكلات أكثر إلحاحًا في الوقت الحالي: معظم أفراد الطاقم متعطلون بسبب الحرارة والجفاف، وتحتاج أورورا إلى الكثير من الوقود والماء للتحرك. يمتلك الزعيم المحلي، البارون، كل شيء، لكنه ليس متحمسًا جدًا لمشاركته.<br><br><tab>بالنظر إلى وضعنا اليائس وتجربتنا السابقة في \"التفاوض\" مع قطاع الطرق، قرر العقيد أخذ ما نحتاجه بالقوة. يقوم دامير بالفعل باستكشاف مصدر المياه الرئيسي، حيث يمكننا سرقة شاحنة كاملة من العربة. من المفترض أن أقابله بالقرب من الموقع.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_011_terminalradio_25",
+    "source": "Watch your step though!",
+    "target": "انتبه لخطواتك بالرغم من ذلك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc1\\dlc1_100_search_at_petrovichs_00_05",
+    "source": "Haha! Be my guest, old man!",
+    "target": "هاها! كن ضيفي أيها الرجل العجوز!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_13_dead_city\\nvs_006_walkingtochild_21",
+    "source": "<ffx:wonder_light>Check that pipe out, I'll <ffx:smile_light>watch your back. <ffx:neutral>",
+    "target": "<ffx:wonder_light>قم بفحص هذا الأنبوب، وسأراقب<ffx:smile_light>ظهرك.<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc1\\dlc1_22_1_depot_equipmentcheckin_01_03",
+    "source": "Sir, take that suit off and put the flamer down, too. They have to be scrubbed for radiation.",
+    "target": "سيدي، اخلع تلك البدلة وأطفئ اللهب أيضًا. يجب أن يتم تنظيفها للإشعاع.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_008_meetingkrest_27",
+    "source": "<ffx:wonder_light>You could take this zipline down... <ffx:smile_light>Just hook up and away you go!",
+    "target": "<ffx:wonder_light>يمكنك إنزال حبل الانزلاق هذا...<ffx:smile_light>فقط قم بالربط وانطلق بعيدًا!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_220_07_sam_captain_partyallnight_partyend_01_17",
+    "source": "You should take the stairs, down there and through the door <points at the staircase>",
+    "target": "يجب عليك أن تأخذ الدرج إلى هناك ومن خلال الباب<points at the staircase>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_02_05_samalyosha_10",
+    "source": "<ffx:sadness_light>You know, Sam... <ffx:wonder_light>You have things to do there, but the Old Man - <ffx:sadness>he's only a Colonel in the Metro, really... <ffx:wonder_light>There he controlled the Order, <ffx:sadness_light>enjoyed universal respect, <ffx:wonder>but what would he do in America?<ffx:neutral>",
+    "target": "<ffx:sadness_light>كما تعلم يا سام...<ffx:wonder_light>لديك أشياء للقيام بها هناك، لكن الرجل العجوز -<ffx:sadness>إنه مجرد عقيد في المترو، حقًا...<ffx:wonder_light>هناك كان يتحكم في التنظيم،<ffx:sadness_light>يتمتع باحترام عالمي،<ffx:wonder>ولكن ماذا سيفعل في أمريكا؟<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "bear_death_2",
+    "source": "The Bear likes to fight on all fours but will stand up if pack creatures try to take it down.",
+    "target": "يحب الدب القتال على أربع ولكنه سيقف إذا حاولت مخلوقات القطيع القضاء عليه.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_13_dead_city\\nvs_011_02_artyompothole_2_05",
+    "source": "<ffx:anger_light>Come on, take my hand! Do <ffx:smile_light>you like it down there or what? <ffx:neutral>",
+    "target": "<ffx:anger_light>هيا، خذ يدي! هل<ffx:smile_light>يعجبك هناك أم ماذا؟<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_m08_des_brif_III_12_task_1_note",
+    "source": "While I was out cold, the bandits launched a raid against the Aurora! Well, soon they’ll be sorry they clashed with the Order! To arms!",
+    "target": "أثناء فقداني الوعي، أغار قطاع الطرق على أورورا! سيندمون قريبا على مواجهة التنظيم! إلى السلاح!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_025_05_klim_tom_aftermeeting_01_05",
+    "source": "Enough! I know your \"cleanly and quietly\"! Your boys fucked up for good when they let them get away!",
+    "target": "كفى! أنا أعرف \"بنظافة وهدوء\" الخاص بك! لقد أخطأ أولادك إلى الأبد عندما سمحوا لهم بالفرار!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_000_narration_05",
+    "source": "<tab>I managed to get the maps - the thing we came to this god-forsaken place for. The thing, that may give us a new goal and a hope for the future. After the dark, claustrophobic bunker, the vastness of desert seems to embody freedom. I must deliver the maps to the Aurora, but I don't think anyone will mind If I take a few detours along the way. This desert seems to hold many secrets worth uncovering!<br><br>",
+    "target": "<tab>تمكنت من الحصول على الخرائط - الشيء الذي جئنا من أجله إلى هذا المكان المهجور. الشيء الذي قد يمنحنا هدفًا جديدًا وأملًا في المستقبل. بعد المخبأ المظلم الخانق، يبدو أن اتساع الصحراء يجسد الحرية. يجب أن أقوم بتسليم الخرائط إلى أورورا، لكني لا أعتقد أن أحدًا سوف يمانع إذا سلكت بعض المنعطفات على طول الطريق. يبدو أن هذه الصحراء تحمل العديد من الأسرار التي تستحق الكشف عنها!<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_008_prince_fish_01_04",
+    "source": "<ffx:smile_light>The Old Man sent me out as a forward sentry, <ffx:wonder>told me that I was to sit tight and under no circumstances look for any action, <ffx:smile>so I just had a front row seat watching you there... <ffx:wonder_light>",
+    "target": "<ffx:smile_light>أرسلني الرجل العجوز كحارس أمامي، أخبرني<ffx:wonder>أنني سأجلس مكتوفي الأيدي وألا أبحث تحت أي ظرف من الظروف عن أي إجراء،<ffx:smile>لذا كان لدي مقعد في الصف الأمامي أراقبك هناك...<ffx:wonder_light>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_3\\danger\\enemy_dead_human_03",
+    "source": "That fucker's down and out for good! Hahaha!",
+    "target": "هذا اللعين سقط وخرج للأبد! هاهاها!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_dia_crew_sam_autumn",
+    "source": "<tab>No, Sam, the war is over. It was over the moment it started. You don’t have to choose your side; all the choices have been made for us. You, like all of us, need only to remain a human, and that is all. We are with you, your brothers in arms, the soldiers of the Order, with you against the whole wide world, and in the Order there are no nationalities. Without you, we would have forever stayed in the Yamantau bunker, eaten by our own ex-compatriots who had long since stopped being human beings. That’s just the way it goes, man. <br><br><tab>I think about you sometimes, Sam, now that our journey is nearing its end, be it happy or otherwise... What will you do? You dedicated your whole being to us. First, to the Order. Then, to saving your commander and, finally, to saving my Anna. But, what will you do once our train reaches the end of its line in the middle of nowhere? Will you stay with us when the journey is really over? Your old man might still be waiting for you back in California, keeping tackle ready to go fishing once you come back... Aren’t you going to visit him once the Aurora stops to never move again? Will you even hesitate to set out for home, even if that would mean walking to Vladivostok and swimming across the ocean?<br><br>",
+    "target": "<tab>لا يا سام، لقد انتهت الحرب. انتهت لحظة اندلاعها. لا داعي لأن تختار طرفا؛ فقد اتخذت جميع القرارات عنا. كل ما عليك، مثلنا جميعا، أن تحتفظ بإنسانيتك، لا أكثر. نحن معك، إخوتك في السلاح وجنود التنظيم، في مواجهة العالم أجمع، ولا مكان للجنسيات بيننا. لولاك لبقينا إلى الأبد في مخبأ يامانتاو، وليمة لمواطنينا السابقين الذين فقدوا إنسانيتهم منذ زمن. هكذا هي الحال يا صديقي. <br><br><tab>أفكر فيك أحيانا يا سام، وقد شارفت رحلتنا على نهايتها، سعيدة كانت أم غير ذلك... ماذا ستفعل؟ لقد كرست نفسك لنا: للتنظيم أولا، ثم لإنقاذ قائدك، وأخيرا لإنقاذ آنا. لكن ماذا ستفعل حين يصل قطارنا إلى نهاية خطه في مكان ناء؟ هل ستبقى معنا بعد انتهاء الرحلة حقا؟ لعل أباك ما زال ينتظرك في كاليفورنيا، وقد أعد أدوات الصيد ليخرج معك حين تعود... ألن تزوره بعدما تتوقف أورورا عن السير إلى الأبد؟ هل ستتردد في العودة إلى وطنك، حتى لو اضطررت إلى السير حتى فلاديفوستوك والسباحة عبر المحيط؟<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_13_dead_city\\nvs_006_firststationfight_09_01",
+    "source": "<ffx:wonder_light>Give me a hand, Artyom. <ffx:neutral>",
+    "target": "<ffx:wonder_light>ساعدني يا أرتيوم.<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_003_40_captain_bandits_initial_confrontation_bandits_01_06",
+    "source": "Circle him! And watch your fucking heads!",
+    "target": "ضع دائرة حوله! وراقبوا رؤوسكم اللعينة!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_10_yamantau\\yam_020_gettingout_06",
+    "source": "<ffx:wonder>Did you shut their radio down for good? <ffx:neutral>",
+    "target": "<ffx:wonder>هل قمت بإغلاق الراديو الخاص بهم إلى الأبد؟<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_12_valley\\val_34_bandits_totem_01_21",
+    "source": "<ffx:wonder>Ah, who could have known they’d survive here? <ffx:smile_light>The Old Man used to tell stories about camp somewhere, where he’d found some fine muff, and when was that? <ffx:wonder>Right after the War! So he must <ffx:smile>have come over here, hahaha!<ffx:neutral>",
+    "target": "<ffx:wonder>آه، من كان يعلم أنهم سيعيشون هنا؟<ffx:smile_light>اعتاد الرجل العجوز أن يروي قصصًا عن المعسكر في مكان ما، حيث وجد بعض الأقنعة الجيدة، ومتى كان ذلك؟<ffx:wonder>مباشرة بعد الحرب! لذلك لا بد أنه<ffx:smile>قد أتى إلى هنا، هاهاها!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_022_badendnew_01",
+    "source": "<ffx:smile_light>Look old man, we are just passing through... <ffx:anger_light>Let us through peacefully, our guys won't shoot. <ffx:disgust>Or, this place is going bye-bye! And Katya? <ffx:smile_light>You don't have to worry about her anymore... <ffx:anger>Understood?",
+    "target": "<ffx:smile_light>انظر يا رجل، نحن نمر للتو...<ffx:anger_light>دعنا نمر بسلام، رجالنا لن يطلقوا النار.<ffx:disgust>أو هذا المكان سيكون وداعًا! وكاتيا؟<ffx:smile_light>لا داعي للقلق عليها بعد الآن...<ffx:anger>هل فهمت؟",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_000_loadscreen_narration_02_04",
+    "source": "Of course, there's no guarantee I'll meet the old man in any of them, but they at least are a place to start.",
+    "target": "بالطبع، ليس هناك ما يضمن أنني سأقابل الرجل العجوز في أي منها، لكنها على الأقل مكان للبدء.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_dia_crew_miller_summer",
+    "source": "<tab>The Yamantau bunker was a huge disappointment for each of us, but for the Colonel what we found there was a total catastrophe. Not only there was no Supreme Commander there, it looked like there was none left at all, so the people in control of Metro would have no superior in this world... Which meant, there was no chance for the Colonel to be pardoned for treason and ever return to Moscow. Not only would he have to spend the rest of his years in exile, an old cripple in charge of a few deserters instead of the esteemed commander of the Order he used to be, it appeared that all his life, all his battles in the Metro were useless. There were no signs of the War still going on, so back in Moscow our indomitable Colonel simply helped a bunch of usurpers deceive the whole population of Metro, even though he was kept out of the loop! How could he take this blow and not crumble, going back to commanding us all again? I might hate his hard-headedness and blindness, yet I can’t help but admire his self-control and courage... <br><br><tab>Even in the Caspian desert, where most of our people were down with dehydration, the Colonel persevered. He continued coordinating operations, issuing orders and even gave his share of water to the soldiers, while continuing to search for redemption. There and then Miller finally accepted the fact that the War was long over and there were no occupying forces... He even seemed to accept the fact that his days of glory were over, with only quiet sunset years in some backwater ahead... The only thing he wouldn’t accept no matter what, was the danger his daughter’s life was in. Outliving Anna was the most terrifying prospect he had ever faced.<br><br>",
+    "target": "<tab>كان مخبأ يامانتاو بمثابة خيبة أمل كبيرة لكل واحد منا، ولكن بالنسبة للعقيد فإن ما وجدناه كان بمثابة كارثة كاملة. لم يكن هناك قائد أعلى هناك فحسب، بل بدا الأمر وكأنه لم يتبق أي قائد على الإطلاق، وبالتالي لن يكون للأشخاص الذين يسيطرون على مترو أي رئيس في هذا العالم... مما يعني أنه لم تكن هناك فرصة للعقيد بتهمة الخيانة والعودة إلى موسكو على الإطلاق. لن يضطر فقط إلى قضاء بقية سنواته في المنفى، كعجوز مشلول مسؤول عن عدد قليل من الهاربين بدلاً من القائد المحترم للنظام الذي اعتاد أن يكون عليه، بل يبدو أن كل حياته، وجميع معاركه في المترو كانت عديمة الفائدة. لم تكن هناك أي علامات على استمرار الحرب، لذا في موسكو، ساعد عقيدنا الذي لا يقهر مجموعة من المغتصبين في خداع سكان مترو بالكامل، على الرغم من إبعاده عن الحلقة! كيف يمكن أن يتلقى هذه الضربة ولا ينهار ويعود ليقودنا جميعًا مرة أخرى؟ ربما أكره قساوته وعمىه، لكن لا يسعني إلا أن أُعجب بقدرته على التحكم في نفسه وشجاعته...<br><br><tab>حتى في صحراء قزوين، حيث كان معظم شعبنا يعاني من الجفاف، ثابر العقيد. واصل تنسيق العمليات، وإصدار الأوامر، بل وأعطى حصته من الماء للجنود، بينما واصل البحث عن الخلاص. هناك وبعد ذلك قبل ميلر أخيرًا حقيقة أن الحرب قد انتهت منذ فترة طويلة ولم تكن هناك قوات احتلال... حتى أنه بدا متقبلًا لحقيقة أن أيام مجده قد انتهت، مع سنوات غروب الشمس الهادئة فقط في بعض المياه الراكدة المقبلة... الشيء الوحيد الذي لم يقبله مهما كان الأمر، هو الخطر الذي كانت حياة ابنته تتعرض له. كان البقاء على قيد الحياة بعد آنا هو الاحتمال الأكثر رعبًا الذي واجهه على الإطلاق.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_1\\uber_alert\\uber_alert_group_searchorder_05",
+    "source": "Hey, people! This bitch is hiding in here... We have to find him now, 'case he's one sneaky fucker and could get away for good!",
+    "target": "مهلا، الناس! هذه العاهرة مختبئة هنا... علينا أن نجده الآن، \"إذا كان مخادعًا ويمكن أن يهرب إلى الأبد!\"",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_ending\\end_glukh_04_22",
+    "source": "<ffx:smile_light>Give me a hand!",
+    "target": "<ffx:smile_light>أعطني يد المساعدة!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_13_dead_city\\nvs_004_damiralyoshaduketalk_01_01",
+    "source": "<ffx:wonder_light>I'm not a real doctor, <ffx:sadness>but even I know that this is suicide - for the Old Man at least... <ffx:neutral>",
+    "target": "<ffx:wonder_light>أنا لست طبيبًا حقيقيًا،<ffx:sadness>ولكن حتى أنا أعلم أن هذا يعد انتحارًا - بالنسبة للرجل العجوز على الأقل...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_m08_des_car_4_task_note",
+    "source": "The car is out of order, and that was probably the reason why its occupants had to make the fatal stop. They’re all dead now, and I have no idea where to even start looking for water and fuel. ",
+    "target": "السيارة معطلة، وربما كان هذا هو السبب وراء اضطرار ركابها إلى التوقف المميت. لقد ماتوا جميعًا الآن، وليس لدي أي فكرة عن المكان الذي يجب أن أبدأ فيه بالبحث عن الماء والوقود.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_008_tokarev_greeting_02_01",
+    "source": "<ffx:wonder>Artyom, stop by my desk once you're done talking to the Old Man, <ffx:smile>I've got something for you. <ffx:neutral>",
+    "target": "<ffx:wonder>أرتيوم، توقف عند مكتبي بمجرد الانتهاء من التحدث إلى الرجل العجوز،<ffx:smile>لدي شيء لك.<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_000_narration_06_part1",
+    "source": "<tab>I delivered the maps to the base. Decoding them will take time, so it’s too early to choose our next destination yet. Besides, we have more pressing issues right now: most of the Crew members are down due to heat and dehydration, and the Aurora needs a lot of fuel and water to move. The local kingpin, the Baron, has it all, but he's none too eager to share.<br><br>",
+    "target": "<tab>لقد قمت بتسليم الخرائط إلى القاعدة. سيستغرق فك رموزها بعض الوقت، لذا من السابق لأوانه اختيار وجهتنا التالية حتى الآن. بالإضافة إلى ذلك، لدينا مشكلات أكثر إلحاحًا في الوقت الحالي: معظم أفراد الطاقم متعطلون بسبب الحرارة والجفاف، وتحتاج أورورا إلى الكثير من الوقود والماء للتحرك. يمتلك الزعيم المحلي، البارون، كل شيء، لكنه ليس متحمسًا جدًا لمشاركته.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_000_intro_narration_01_05",
+    "source": "As I'm entering the outskirts of Vladivostok, I know I was immensely lucky to have gotten even this far. But, since fate chose to take me here, to the Pacific, I must do everything I can to find a way home and see my old man again.",
+    "target": "عندما دخلت ضواحي فلاديفوستوك، أعلم أنني كنت محظوظًا للغاية لأنني وصلت إلى هذا الحد. لكن، بما أن القدر اختار أن يأخذني إلى هنا، إلى المحيط الهادئ، فيجب أن أفعل كل ما بوسعي للعثور على طريق إلى المنزل ورؤية والدي مرة أخرى.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_025_desert_hermit_on_oasis_01_01",
+    "source": "<ffx:wonder_light>What can I say... You guys definitely made an impact... The baron ain't gonna take it lying down, so watch out.",
+    "target": "<ffx:wonder_light>ماذا يمكنني أن أقول... لقد أحدثتم تأثيرًا يا رفاق بالتأكيد... لن يتحمل البارون الأمر وهو مستلقٍ، لذا انتبهوا.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_3\\uber_alert\\uber_alert_group_searchorder_02",
+    "source": "Guys, we have to find the bitch before he runs out on us for good!",
+    "target": "يا رفاق، علينا أن نجد العاهرة قبل أن ينفد منا إلى الأبد!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_035_oasisfort_sentry_03_03",
+    "source": "<ffx:anger>Take the bitch down, boys! <ffx:neutral>",
+    "target": "<ffx:anger>خذوا العاهرة أيها الأولاد!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_040_tape_recorder_people_react_attack_01_02",
+    "source": "<ffx:disgust>You fuck! Take him down, son! <ffx:disgust_light>",
+    "target": "<ffx:disgust>اللعنة عليك! خذه إلى أسفل، الابن!<ffx:disgust_light>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_099_audiolog_krest_01_01",
+    "source": "Well... Looks like I’m stuck here for good... Damn moronic fanatics... A single flashlight got them riled up enough to keep chasing me ever since. Had to make hideouts all over the place... Which is quite convenient in its own way! You never know where night is going to get you... I also know the place like the back of my hand now, and it sure seems interesting! There used to be a military stockpile of some kind here, for one. I didn’t go inside though, looks like there are some chemicals there... Then there’s this large house across the channel from here... It seems to be long abandoned, so something interesting might still be there. I can’t get to it without the boat, though... I guess I’ll have to do something about it soon. Anyway, life goes on, and that’s all in the news department for now.",
+    "target": "حسنًا... يبدو أنني عالق هنا إلى الأبد... أيها المتعصبون الأغبياء... لقد أثارهم مصباح يدوي واحد بما يكفي لمواصلة مطاردتي منذ ذلك الحين. اضطررت إلى إنشاء مخابئ في كل مكان... وهو أمر مريح جدًا بطريقته الخاصة! أنت لا تعرف أبدًا إلى أين سيأخذك الليل... أعرف أيضًا المكان مثل ظهر يدي الآن، ومن المؤكد أنه يبدو مثيرًا للاهتمام! كان هناك مخزون عسكري من نوع ما هنا، على سبيل المثال. بالرغم من ذلك، لم أذهب إلى الداخل، يبدو أن هناك بعض المواد الكيميائية هناك... ثم هناك هذا المنزل الكبير عبر القناة من هنا... يبدو أنه مهجور منذ فترة طويلة، لذلك ربما لا يزال هناك شيء مثير للاهتمام. ومع ذلك، لا أستطيع الوصول إليه بدون القارب... أعتقد أنه سيتعين علي أن أفعل شيئًا حيال ذلك قريبًا. على أية حال، الحياة مستمرة، وهذا كل ما في قسم الأخبار في الوقت الحالي.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_011_carbriefing_invitation_tokarev_02",
+    "source": "<ffx:smile_light>Well, come on! The <ffx:fear_light>Old Man's waiting... <ffx:neutral>",
+    "target": "<ffx:smile_light>حسنًا، هيا! انتظار الرجل العجوز<ffx:fear_light>...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_dlc2_task_01_note",
+    "source": "I know I'm immensely lucky to have gotten here. And, since fate chose to take me to Vladivostok, I must do everything I can to find a way home and see my old man again.",
+    "target": "أعلم أنني محظوظ جدًا لأنني وصلت إلى هنا. وبما أن القدر اختار أن يأخذني إلى فلاديفوستوك، فيجب أن أفعل كل ما بوسعي للعثور على طريق إلى المنزل ورؤية والدي مرة أخرى.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\m3_dlc2_intro",
+    "source": "<tab>Saying my goodbyes to Dad before going to Russia, I promised him this was going to be my last tour of duty. Besides, I wasn't going to war, I expected a cushy job guarding the embassy. How could I know that, instead of a cushy job, waiting for me were mushroom clouds, desperate struggle, salvation and a tour of duty that would last twenty years!<br><br><tab>But as soon as Artyom's dogged determination to break out of the tunnels paid off the way it did, a hope to see my father again took root, and as we were going East, that hope grew. By the time we reached Novosibirsk, going home was the only thing I could think about. Only duty before my Commander and my friends kept me from leaving immediately. <br><br><tab>But my service with the Order came to an end on the shores of lake Baikal. There, on that hill, through the terrible pain of loss I could feel that my friends had also found... closure. Their journey was over. <br><br><tab>Not mine, though. The hope that's been nagging on me for so long, now turned into an obsession, the purpose of my life. I had to go, and my friends who had long since become my family, understood. <br><br><tab>As I'm entering the outskirts of Vladivostok, I know I was immensely lucky to have gotten even this far. But, since fate chose to take me here, to the Pacific, I must do everything I can to find a way home and see my old man again. <br><br>",
+    "target": "<tab>عندما قلت وداعًا لأبي قبل الذهاب إلى روسيا، وعدته بأن هذه ستكون آخر فترة لي في الخدمة. علاوة على ذلك، لم أكن سأذهب إلى الحرب، كنت أتوقع وظيفة مريحة في حراسة السفارة. كيف لي أن أعرف أنه بدلاً من الوظيفة المريحة، كان ينتظرني غيوم فطرية، ونضال يائس، وخلاص، ورحلة عمل قد تستمر عشرين عامًا!<br><br><tab>ولكن بمجرد أن أثمر تصميم أرتيوم العنيد على الخروج من الأنفاق بالطريقة التي نجح بها، ترسخ الأمل في رؤية والدي مرة أخرى، وبينما كنا متجهين شرقًا، نما هذا الأمل. بحلول الوقت الذي وصلنا فيه إلى نوفوسيبيرسك، كانت العودة إلى المنزل هي الشيء الوحيد الذي أمكنني التفكير فيه. الواجب الوحيد أمام قائدي وأصدقائي منعني من المغادرة على الفور.<br><br><tab>لكن خدمتي مع الأمر انتهت على ضفاف بحيرة بايكال. وهناك، على ذلك التل، ومن خلال الألم الفظيع الذي أصابني بسبب الخسارة، شعرت أن أصدقائي قد وجدوا أيضًا... الخاتمة. انتهت رحلتهم.<br><br><tab>لكن ليس لي. الأمل الذي كان يزعجني لفترة طويلة، تحول الآن إلى هاجس، وهو هدف حياتي. كان علي أن أذهب، وقد فهم أصدقائي الذين أصبحوا عائلتي منذ فترة طويلة.<br><br><tab>عندما أدخل ضواحي فلاديفوستوك، أعلم أنني كنت محظوظًا للغاية لأنني وصلت إلى هذا الحد. لكن، بما أن القدر اختار أن يأخذني إلى هنا، إلى المحيط الهادئ، فيجب أن أفعل كل ما بوسعي للعثور على طريق إلى المنزل ورؤية والدي مرة أخرى.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_009_spartanmissionnew_35",
+    "source": "<ffx:wonder>The Old Man's probably going seven sorts of crazy now, thinking his <ffx:smile_light>precious daughter got hurt or something!<ffx:neutral>",
+    "target": "<ffx:wonder>ربما أصيب الرجل العجوز بسبعة أنواع من الجنون الآن، معتقدًا أن ابنته الثمينة<ffx:smile_light>تعرضت للأذى أو شيء من هذا القبيل!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_spring\\spr_007_princeparty_12",
+    "source": "<ffx:wonder>How should I know? <ffx:fear_light>It's dark, nobody around - <ffx:fear>but I can't move... And those locals kept going on about Tsar-something... <ffx:wonder>So I thought I was in kind of a bind... <ffx:neutral>",
+    "target": "<ffx:wonder>كيف لي أن أعرف؟<ffx:fear_light>المكان مظلم، لا أحد بالجوار -<ffx:fear>لكني لا أستطيع التحرك... واستمر هؤلاء السكان المحليون في الحديث عن شيء يتعلق بالقيصر...<ffx:wonder>لذلك اعتقدت أنني كنت في مأزق نوعًا ما...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_350_sam_captain_samstory_long_05",
+    "source": "There we buried our commander... But he died surrounded by all of us, his family... Including his daughter and son. My old man, on the other hand, is all alone back home...",
+    "target": "هناك دفنا قائدنا... لكنه مات محاطاً بنا جميعاً، بعائلته... بما في ذلك ابنته وابنه. ومن ناحية أخرى، فإن والدي العجوز وحده في المنزل...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_05_winter\\win_010_samtalks_06",
+    "source": "<ffx:smile_light>My old man...",
+    "target": "<ffx:smile_light>رجلي العجوز...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "standard_mode_dsc_normal",
+    "source": "Recommended for regular FPS players.<br><br>You will need to closely watch your ammo and filter supplies, and approach every combat scenario with extreme caution.",
+    "target": "مناسب للمعتادين على ألعاب التصويب.<br><br>راقب مخزون الذخيرة والمرشحات، وتعامل بحذر شديد مع كل مواجهة.",
+    "status": "reviewed",
+    "translation_origin": "reviewed"
+  },
+  {
+    "id": "voices\\m3_12_valley\\val_050_finale_01_01_10",
+    "source": "<ffx:disgust_light>That's where we need to go. <ffx:smile_light>The Old Man said the <ffx:wide_smile_light>Aurora will soon be on the dam!<ffx:neutral>",
+    "target": "<ffx:disgust_light>هذا هو المكان الذي يجب أن نذهب إليه.<ffx:smile_light>قال الرجل العجوز إن<ffx:wide_smile_light>أورورا سيكون قريبًا على السد!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_13_dead_city\\nvs_006_walktofirststation_05",
+    "source": "<ffx:anger_light>Damn, another dead end... The bridge is down. <ffx:neutral>",
+    "target": "<ffx:anger_light>اللعنة، طريق مسدود آخر... الجسر سقط.<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_282_loading_finished_01_02",
+    "source": "Hey look, the lift is working too! Take it down to my boat and let’s get out if here!",
+    "target": "أنظر، المصعد يعمل أيضاً! خذها إلى قاربي ودعنا نخرج إذا كان هنا!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_ending\\end_glukh_02_09",
+    "source": "<ffx:smile_light>Give me your hand... You're <ffx:fear>burning up... Well, I hope <ffx:smile>this old man's blood will do something about that hot head of <ffx:wonder_light>yours...",
+    "target": "<ffx:smile_light>أعطني يدك... أنت<ffx:fear>تحترق... حسنًا، آمل أن يفعل<ffx:smile>دماء هذا الرجل العجوز شيئًا حيال رأس<ffx:wonder_light>الساخن هذا...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_012_2_snipercommands_01",
+    "source": "Heads up, boys! An asshole from the train is here! Take him down!",
+    "target": "ارفعوا رؤوسكم يا أولاد! الأحمق من القطار هنا! خذه إلى أسفل!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_02_05_samalyosha_06",
+    "source": "<ffx:wonder>Me? Haha! <ffx:smile>I had to take a short stroll at night, and walking <ffx:wonder_light>past the Old Man's compartment I heard him mumbling... <ffx:fear_light>It was, like, 3 a.m., and <ffx:wonder_light>he was there talking to himself! <ffx:smile_light>That's overheating, man!<ffx:neutral>",
+    "target": "<ffx:wonder>أنا؟ هاها!<ffx:smile>كان علي أن أقوم بنزهة قصيرة في الليل، وعندما كنت أسير في<ffx:wonder_light>بجوار مقصورة الرجل العجوز، سمعته يتمتم...<ffx:fear_light>كانت الساعة الثالثة صباحًا تقريبًا، و<ffx:wonder_light>كان هناك يتحدث إلى نفسه!<ffx:smile_light>هذا ارتفاع درجة الحرارة يا رجل!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_13_dead_city\\nvs_004_damiralyoshaduketalk_01_04",
+    "source": "<ffx:anger>Me too! Everyone did. <ffx:sadness_light>But it's the Old Man we're talking about! <ffx:sadness>As if Anna were only his daughter and Artyom's wife, not one of us... <ffx:anger>Personal matter, my ass! <ffx:neutral>",
+    "target": "<ffx:anger>وأنا أيضًا! الجميع فعلوا.<ffx:sadness_light>لكن هذا هو الرجل العجوز الذي نتحدث عنه!<ffx:sadness>كما لو أن آنا كانت فقط ابنته وزوجة أرتيوم، وليست واحدة منا...<ffx:anger>مسألة شخصية، يا مؤخرتي!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_010_katya_stepan_refugeetalk_05",
+    "source": "<ffx:fear_light>Artyom, help us here... <ffx:disgust_light>The Old Man won't let Katya and Nastya come with us, <ffx:anger_light>even though Katya told us where to find a passenger car in great condition! <ffx:wonder_light>",
+    "target": "<ffx:fear_light>أرتيوم، ساعدنا هنا...<ffx:disgust_light>لن يسمح الرجل العجوز لكاتيا وناستيا بالمجيء معنا،<ffx:anger_light>على الرغم من أن كاتيا أخبرتنا بمكان العثور على سيارة ركاب بحالة رائعة!<ffx:wonder_light>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_090_scouts_showing_pois_00_09_beenthere",
+    "source": "We saw you take them down.",
+    "target": "لقد رأيناك تنزلهم.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_040_bguards_idle_talk_02_02_04",
+    "source": "<ffx:disgust>Old Simon just got cold feet, that's all... <ffx:smile_light>All the stories people tell not to go... <ffx:neutral>",
+    "target": "<ffx:disgust>سيمون العجوز يشعر بالبرد، هذا كل شيء...<ffx:smile_light>كل القصص التي يرويها الناس بعدم الذهاب...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_09_summer\\sum_003_01_partyends_01_06",
+    "source": "<ffx:anger_light>Artyom, don’t waste time... <ffx:fear_light>The Old Man hates to wait... <ffx:neutral>",
+    "target": "<ffx:anger_light>أرتيوم، لا تضيع الوقت...<ffx:fear_light>الرجل العجوز يكره الانتظار...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_170_kulturmultur_documentary_01_09",
+    "source": "Should any of these be used against our country, we must be ready to answer in kind, even if means damaging a city we have so many friendly ties with.",
+    "target": "وفي حالة استخدام أي من هذه الأشياء ضد بلدنا، يجب أن نكون مستعدين للرد بالمثل، حتى لو كان ذلك يعني الإضرار بمدينة تربطنا بها الكثير من العلاقات الودية.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_09_summer\\sum_130_radio_04_06",
+    "source": "It is time to chase them away from our land, for good!",
+    "target": "لقد حان الوقت لطردهم من أرضنا إلى الأبد!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_170_1_saultalk_02_react_shots_03_01",
+    "source": "<ffx:anger>That's it! Take him down! <ffx:neutral>",
+    "target": "<ffx:anger>هذا كل شيء! خذه إلى أسفل!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_13_dead_city\\nvs_005_walkingtothemetro_08",
+    "source": "<ffx:anger_light>Damn! A dead end! <ffx:neutral>",
+    "target": "<ffx:anger_light>اللعنة! طريق مسدود!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_12_valley\\val_005_05_meetingolga_14_01",
+    "source": "<ffx:wonder>Take the road to the barricade, go down to the swamp and find the dock. <ffx:neutral>",
+    "target": "<ffx:wonder>اسلك الطريق المؤدي إلى الحاجز، وانزل إلى المستنقع وابحث عن الرصيف.<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_170_20_kulturmultur_moviereview_01_08",
+    "source": "Well, it all got kinda complicated and I don't remember everything, but the smoke-blowers all got whacked for good.",
+    "target": "حسنًا، أصبح الأمر معقدًا نوعًا ما، ولا أتذكر كل شيء، لكن نافخات الدخان جميعًا تعرضن للضرب إلى الأبد.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_sub_end_actor_oldman",
+    "source": "OLD MAN: ",
+    "target": "العجوز: ",
+    "status": "reviewed",
+    "translation_origin": "reviewed"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\slave_1\\uber_alert\\uber_alert_calmdown_01",
+    "source": "The spawn of Iblis is gone for good! ",
+    "target": "لقد ذهب ذرية إبليس إلى الأبد!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_017_waytoterminal_01_06",
+    "source": "Yes. <ffx:wonder_light>In any case, the plan is this: <ffx:anger_light>Giul and I will try to take their guards down quietly and get in through the gate. <ffx:sadness_light>If quiet does not work out, <ffx:smile_light>we will at least distract them... <ffx:wonder_light>While you get in through the underground. <ffx:neutral>",
+    "target": "نعم.<ffx:wonder_light>على أية حال، الخطة هي كما يلي:<ffx:anger_light>غيول وأنا سنحاول إنزال حراسهم بهدوء والدخول عبر البوابة.<ffx:sadness_light>إذا لم ينجح الهدوء،<ffx:smile_light>فسوف نقوم على الأقل بتشتيت انتباههم...<ffx:wonder_light>أثناء دخولك عبر مترو الأنفاق.<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "hint_igame_premelee",
+    "source": "Get closer to your opponent for silent take down.",
+    "target": "اقترب من خصمك للإنزال الصامت.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_02_dead_moscow\\dmc_055_spartansarrive_01_23",
+    "source": "<ffx:anger_strong>Be quiet! How did you end up here? Ah, it doesn't matter... <ffx:disgust>You have no idea what you just stuck your heads in! We've no moves left... <ffx:sadness>Hansa can't take this lying down, the Watchers won't let them...<ffx:sadness_light>",
+    "target": "<ffx:anger_strong>كن هادئا! كيف انتهى بك الأمر هنا؟ آه، لا يهم...<ffx:disgust>ليس لديك أي فكرة عما علقت رؤوسك فيه للتو! لم يبق لدينا أي تحركات...<ffx:sadness>لا تستطيع هانزا تحمل هذا الأمر وهي مستلقية، ولن يسمح لهم المراقبون...<ffx:sadness_light>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_026_gasstation_bandits_talk_01_14",
+    "source": "<ffx:disgust_light>Nah, there's also those fucking mutants... So, I take the boat into the main hall, and the <ffx:disgust>fucks start throwing shit at me and screaming! So I think I'd better leave, and then the fucking <ffx:fear>catfish shows up! It didn't like the noise! So it just leaps out of the water, 15 meters high, knocks down the bridge where all the fuckers are gathered, and starts chomping! <ffx:fear_light>Shit, I can still hear the fucking sound, gives me the creeps. <ffx:neutral>",
+    "target": "<ffx:disgust_light>لا، هناك أيضًا هؤلاء المتحولون اللعينون... لذا، أخذت القارب إلى القاعة الرئيسية، وبدأ<ffx:disgust>في إلقاء القرف علي والصراخ! لذا أعتقد أنه من الأفضل أن أغادر، وبعد ذلك يظهر سمك السلور<ffx:fear>اللعين! لم يعجبه الضجيج! لذا فهو يقفز من الماء، بارتفاع 15 مترًا، ويسقط الجسر حيث يتجمع كل الأوغاد، ويبدأ في قضم بصوت عالي!<ffx:fear_light>تبا، مازلت أسمع الصوت اللعين، يصيبني بالقشعريرة.<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_05_winter\\win_010_yermaktalk_14",
+    "source": "<ffx:wonder_light>See, I say: \"You <ffx:smile_light>couldn't stop me for good, after all...\".",
+    "target": "<ffx:wonder_light>انظر، أقول: \"أنت<ffx:smile_light>لم تتمكن من إيقافي للأبد، بعد كل شيء...\".",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_011_carbriefing_invitation_stepan_01",
+    "source": "<ffx:wonder>Hey Artyom, the Old Man <ffx:smile_light>wanted to see you, go talk to him. <ffx:neutral>",
+    "target": "<ffx:wonder>مرحبًا أرتيوم، أراد الرجل العجوز<ffx:smile_light>رؤيتك، اذهب وتحدث معه.<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_pause_menu_hint_secondary_dsc",
+    "source": "Besides the various long-distance weapons, each Spartan’s arsenal includes a set of throwing weapons, indispensable in some situations.<br><br>A Decoy will let you distract a guard standing in your way and slip by unnoticed, or throw a chase off your tail.<br><br>Knives are perfect for silently killing the mutants and taking down guards, they also let you save ammo, since they can be used repeatedly.<br><br> Fragmentation grenades are great for dealing with groups of opponents, be they a hunting pack of mutants or a detachment of mercenaries suppressing you with fire. The important part to keep in mind is that if you don’t want to hurt yourself, you should throw the grenades far enough.<br><br>Molotov cocktails are also extremely useful in a pinch, as they let you set almost any enemy on fire or put a wall of fire between yourself and the enemies should you be cornered.",
+    "target": "إلى جانب الأسلحة النارية، يحمل كل فرد من فرسان سبارتا مجموعة من أسلحة الرمي التي لا غنى عنها في بعض المواقف.<br><br>يساعدك الطعم الصوتي على تشتيت حارس يسد طريقك والمرور دون أن يراك، أو تضليل من يطاردونك.<br><br>سكاكين الرمي مثالية لقتل المتحولين بصمت والتخلص من الحراس. كما توفر الذخيرة، إذ يمكنك التقاطها واستخدامها مجددا.<br><br>القنابل التشظية ممتازة ضد مجموعات الأعداء، سواء كانوا قطيعا من المتحولين أو فرقة مرتزقة تثبتك بنيرانها. ارمها بعيدا بما يكفي حتى لا تؤذي نفسك.<br><br>تفيد زجاجات المولوتوف كثيرا عند الشدة؛ فهي تشعل النار في معظم الأعداء، أو تصنع حاجزا ناريا بينك وبينهم إذا حاصروك.",
+    "status": "reviewed",
+    "translation_origin": "reviewed"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_000_loadscreen_narration_02_text",
+    "source": "<tab>What do you know, it really was as easy as booking a ticket, after all! Well, almost. I only need to get some fuel rods to revive the submarine's reactors. How hard can it be, don't the Russians have this stuff just sitting all over the place?<br><br><tab>In this case though, there's only one man why actually knows where to look for it, but through sheer luck I had already met him!<br><br><tab>Now I just need to find the Captain again... That should be about as easy as finding a needle in a haystack. Luckily, along with new weapons, Tom has provided me with a map detailing some of the Captain's hideouts.<br><br><tab>Of course, there's no guarantee I'll meet the old man in any of them, but they at least are a place to start.<br><br>",
+    "target": "<tab>ماذا تعلم، لقد كان الأمر سهلاً مثل حجز تذكرة، على أية حال! حسنًا تقريبًا. أنا فقط بحاجة للحصول على بعض قضبان الوقود لإنعاش مفاعلات الغواصة. ما مدى صعوبة الأمر، ألا يمتلك الروس هذه الأشياء في كل مكان؟<br><br><tab>في هذه الحالة، هناك رجل واحد فقط يعرف حقًا أين يبحث عنه، ولكن من خلال الحظ المطلق كنت قد التقيت به بالفعل!<br><br><tab>الآن أنا فقط بحاجة للعثور على الكابتن مرة أخرى... يجب أن يكون ذلك سهلاً مثل العثور على إبرة في كومة قش. لحسن الحظ، إلى جانب الأسلحة الجديدة، زودني توم بخريطة توضح بالتفصيل بعض مخابئ الكابتن.<br><br><tab>بالطبع، ليس هناك ما يضمن أنني سأقابل الرجل العجوز في أي منها، لكنها على الأقل مكان للبدء.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_025_desert_hermit_seesplayer_01_07",
+    "source": "<ffx:smile_light>I thought I was a goner, but it turned out they were afraid of light, so I settled here for good. ",
+    "target": "<ffx:smile_light>اعتقدت أنني هالك، ولكن اتضح أنهم كانوا خائفين من الضوء، لذلك استقرت هنا إلى الأبد.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_09_summer\\sum_003_01_partyends_01_01",
+    "source": "<ffx:sadness_light>Artyom, we'll look after Anna here, and she's already better anyway... <ffx:sadness>Go, the Old Man is waiting... <ffx:neutral>",
+    "target": "<ffx:sadness_light>أرتيوم، سنعتني بآنا هنا، وهي بالفعل أفضل على أي حال...<ffx:sadness>اذهب، الرجل العجوز ينتظر...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_dlc2_task_02_01_note",
+    "source": "My passage home is as good as booked, I only need to re-fuel the nuclear sub's reactors. Seems like a piece of cake, doesn't it?",
+    "target": "أصبحت عودتي إلى الوطن شبه مضمونة، ولم يبق إلا تزويد مفاعلات الغواصة النووية بالوقود. يبدو الأمر في غاية السهولة، أليس كذلك؟",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_12_valley\\val_19_tortugaentry_01_02",
+    "source": "<ffx:anger>Yeah! The bastard wants a boat! Take him down! <ffx:neutral>",
+    "target": "<ffx:anger>نعم! اللقيط يريد قارب! خذه إلى أسفل!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_212_11_05_sniperbattle_secondwavespawn_01_02",
+    "source": "Come on boys, we gotta take the fucker down!",
+    "target": "هيا يا رفاق، علينا القضاء على هذا اللعين!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_dlc02_general_hint_1",
+    "source": "If your Universal Detector signals a danger nearby, be careful and watch your step.",
+    "target": "إذا نبهك الكاشف الشامل إلى خطر قريب، فاحذر وانتبه إلى موضع قدميك.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_011_carbriefing_invitation_damir_01",
+    "source": "<ffx:wonder>Oh, Artyom! Speak of the devil. <ffx:fear_light>The Old Man was just asking about you! <ffx:neutral>",
+    "target": "<ffx:wonder>أوه، أرتيوم! تحدث عن الشيطان.<ffx:fear_light>الرجل العجوز كان يسأل عنك للتو!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_044_98_traintalk_01_05",
+    "source": "<ffx:wonder>Why, do you think, did these train buggers come here? <ffx:smile_light>Just to drive around, take a look at our life down here? <ffx:anger>No chance in hell, man... <ffx:neutral>",
+    "target": "<ffx:wonder>، في رأيك، لماذا جاء هؤلاء التافهون إلى هنا؟<ffx:smile_light>فقط للتجول وإلقاء نظرة على حياتنا هنا؟<ffx:anger>لا توجد فرصة في الجحيم يا رجل...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_281_05_sam_bunker_radio_04_01",
+    "source": "Well done, Sam! The gate's opening! I'll take the boat through the tunnel, and you take the lift down.",
+    "target": "أحسنت يا سام! فتح البوابة! سأأخذ القارب عبر النفق، وأنت استقل المصعد للأسفل.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_09_summer\\sum_003_05_partyends_01_01",
+    "source": "<ffx:fear_light>I don't know about this... The <ffx:sadness>Old Man is furious... <ffx:neutral>",
+    "target": "<ffx:fear_light>لا أعلم شيئًا عن هذا... الرجل العجوز<ffx:sadness>غاضب...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_013_briefing_02_03_02",
+    "source": "<ffx:wonder>The Old man's waiting for you, <ffx:smile_light>go see him, while I wake up here. <ffx:neutral>",
+    "target": "<ffx:wonder>الرجل العجوز في انتظارك،<ffx:smile_light>اذهب لرؤيته بينما أستيقظ هنا.<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_2\\uber_alert\\uber_alert_calmdown_01",
+    "source": "Stand down, everyone! He's gone for good, I think!",
+    "target": "التنحي، الجميع! لقد رحل إلى الأبد، على ما أعتقد!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "controls": [
+    "hint_level_narrative",
+    "hint_random",
+    "hint_random_dlc1",
+    "hint_random_dlc2"
+  ],
+  "old_alignment": "justify",
+  "new_alignment": "native_right",
+  "alignment_value": 1,
+  "font_size": 22,
+  "invisible_padding": false,
+  "loader_timing_unchanged": true,
+  "rtl_typewriter_fixed": false,
+  "runtime_tested": false
+}

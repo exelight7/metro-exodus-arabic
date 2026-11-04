@@ -1,0 +1,2935 @@
+[
+ {
+  "id": "voices\\m3_08_desert\\des_0021_brief_01_08_03",
+  "source": "<ffx:sadness_light>Well, if we had enough diesel, the <ffx:wonder_light>Aurora wouldn't be needing any help... <ffx:neutral>",
+  "target": "<ffx:sadness_light>حسنًا، إذا كان لدينا ما يكفي من الديزل، فلن تحتاج<ffx:wonder_light>Aurora إلى أي مساعدة...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_13_dead_city\\nvs_003_yermak_artyomgoodbye_01_02",
+  "source": "<ffx:wonder_light>The Aurora will be at the rendezvous point on time, <ffx:smile_light>you can count on that. <ffx:neutral>",
+  "target": "<ffx:wonder_light>سيكون Aurora عند نقطة الالتقاء في الوقت المحدد،<ffx:smile_light>يمكنك الاعتماد على ذلك.<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_003_tt_talk_01_07_addon_02",
+  "source": "<ffx:wonder_light>Artyom, while you were out, <ffx:smile_light>I finished making one more thing for the Tikhar... <ffx:smile>The workbench is at your service! <ffx:neutral>",
+  "target": "<ffx:wonder_light>Artyom، أثناء تواجدك بالخارج،<ffx:smile_light>انتهيت من صنع شيء آخر لـ Tikhar...<ffx:smile>طاولة العمل في خدمتك!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_016_9_2_breakingcamp_artyomreact_01_03",
+  "source": "<ffx:anger_light>Ah, come on, <ffx:wonder>it's Artyom we're talking about! <ffx:smile>He's made of steel, just listen to him walk! <ffx:neutral>",
+  "target": "<ffx:anger_light>آه، هيا،<ffx:wonder>، إنه Artyom الذي نتحدث عنه!<ffx:smile>إنه مصنوع من الفولاذ، فقط استمع إليه وهو يمشي!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc1\\dlc1_225_1_rioters_battleshouts_01_07",
+  "source": "Down with OSCUM!",
+  "target": "يسقط OSCUM!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc_comments\\burunduk\\dlc_comments_dead_moscow_chase_part_01",
+  "source": "In the initial prototypes of Metro Exodus, a whole expedition of about a hundred colonists would set out from Moscow, eastbound.",
+  "target": "في النماذج الأولية لـ Metro Exodus، ستنطلق رحلة استكشافية كاملة مكونة من حوالي مائة مستعمر من موسكو باتجاه الشرق.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_013_5_3_0_annaprisonshiptalk_01_01",
+  "source": "<ffx:sadness_light>Artyom... We're fixing to leave already, but there's one thing that keeps nagging on me... <ffx:wonder>Remember that dismantled ship I told you about? <ffx:neutral>",
+  "target": "<ffx:sadness_light>Artyom... نحن نستعد للمغادرة بالفعل، ولكن هناك شيء واحد يزعجني باستمرار...<ffx:wonder>هل تتذكر تلك السفينة المفككة التي أخبرتك عنها؟<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_ending\\end_glukh_03_03",
+  "source": "<ffx:smile>Ladies... And Gentlemen! <ffx:anger_light>As the ranking officer, I propose a motion <ffx:smile_light>to entrust the duty of commanding the <ffx:smile>Order to Artyom!",
+  "target": "<ffx:smile>السيدات... والسادة!<ffx:anger_light>بصفتي الضابط ذو الرتبة العالية، أقترح اقتراح<ffx:smile_light>لتكليف Artyom بمهمة قيادة أمر<ffx:smile>!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc1\\dlc1_225_1_rioters_battleshouts_01_02",
+  "source": "Down with the OSKOM!",
+  "target": "يسقط OSKOM!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_026_gasstation_bandits_talk_01_11",
+  "source": "<ffx:fear_light>It's royally fucked up... Lots of half-eaten corpses hanging over the water. <ffx:disgust>I asked those fanatics about it... Turns out it’s their Silantius. When he became the boss he started feeding <ffx:fear>all the dead to that fucking fish! <ffx:fear_light>",
+  "target": "<ffx:fear_light>إنه أمر سيء للغاية... الكثير من الجثث نصف المأكولة المعلقة فوق الماء.<ffx:disgust>لقد سألت هؤلاء المتعصبين عن ذلك... وتبين أن هذا هو Silantius الخاص بهم. عندما أصبح الزعيم بدأ بإطعام<ffx:fear>جميع الموتى لتلك السمكة اللعينة!<ffx:fear_light>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_05_winter\\win_010_idiot_breather_03_03",
+  "source": "<ffx:sadness_light>When you homed those missiles in on the Dark Ones. <ffx:wonder_light>Was the air bitter then?",
+  "target": "<ffx:sadness_light>عندما قمت بوضع تلك الصواريخ في منزل Dark Ones.<ffx:wonder_light>هل كان الهواء مريرًا إذن؟",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_13_dead_city\\nvs_008_intheshelter_whileartyomisbusy_02_01",
+  "source": "<ffx:fear_light>Don't forget to restore some filters, Artyom! <ffx:smile_light>Won't have time to do that later... <ffx:neutral>",
+  "target": "<ffx:fear_light>لا تنس استعادة بعض المرشحات يا Artyom!<ffx:smile_light>لن يكون لديك الوقت للقيام بذلك لاحقًا...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_017_waytoterminal_29",
+  "source": "<ffx:sadness>There were more enemies that anticipated. <ffx:wonder>We're inside the compound, but <ffx:sadness_light>Giul went missing. <ffx:anger_light>Wait for our signal. Over. <ffx:neutral>",
+  "target": "<ffx:sadness>كان هناك المزيد من الأعداء الذين توقعتهم.<ffx:wonder>نحن داخل المجمع، لكن<ffx:sadness_light>Giul اختفى.<ffx:anger_light>انتظر إشارتنا. زيادة.<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_05_winter\\win_003_radiogameprogress_01",
+  "source": "<ffx:wonder>Do you think finding that \"Ark” of yours is <ffx:anger>going to fix everything? <ffx:anger_light>",
+  "target": "<ffx:wonder>هل تعتقد أن العثور على \"Ark\" خاصتك هو أن<ffx:anger>سيصلح كل شيء؟<ffx:anger_light>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_02_dead_moscow\\dmc_004_02_spartanscene_01_15",
+  "source": "<ffx:sadness_light>Alright... Let’s talk it over once more, with Artyom. <ffx:wonder_light>I must say, though, that even if he did hear some signal, that’s not necessarily a good thing... <ffx:fear_light>We’ll talk about it later, though, not in a public space.<ffx:neutral>",
+  "target": "<ffx:sadness_light>حسنًا... دعنا نتحدث عن الأمر مرة أخرى، مع Artyom.<ffx:wonder_light>يجب أن أقول، مع ذلك، إنه حتى لو سمع بعض الإشارات، فهذا ليس بالضرورة أمرًا جيدًا...<ffx:fear_light>سنتحدث عن ذلك لاحقًا، ولكن ليس في مكان عام.<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc1\\dlc1_41_general_conversation_01_teatalk_04_01",
+  "source": "Actually, and I speak as someone who has been watching you two, I think you're doing amazingly well. He's growing up a real man! An OSKOM fighter!",
+  "target": "في الواقع، وأنا أتحدث كشخص كان يراقبكما، أعتقد أنكما تقومان بعمل جيد بشكل مدهش. إنه يكبر كرجل حقيقي! مقاتلة OSKOM!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_13_dead_city\\nvs_001_initialbriefing_06_01",
+  "source": "<ffx:anger_light>Krest, Sam and I will handle the Institute building in Akademgorodok. <ffx:smile_light>We'll pay a visit to the railroad museum on the way. <ffx:wonder_light>There might be something for the Aurora there... <ffx:neutral>",
+  "target": "<ffx:anger_light>سنتولى أنا وكريست وسام إدارة مبنى المعهد في أكاديمجورودوك.<ffx:smile_light>سنقوم بزيارة متحف السكك الحديدية في الطريق.<ffx:wonder_light>قد يكون هناك شيء ما لـ Aurora هناك...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_013_1_briefing_02_kresttalk_11",
+  "source": "<ffx:wonder>And we need a helluva lot of both! <ffx:wonder_light>With Aurora turning over two tons of water into steam per hour, <ffx:sadness_light>her appetite for fuel is also nothing to sneeze at. <ffx:neutral>",
+  "target": "<ffx:wonder>ونحن بحاجة إلى الكثير من الاثنين معًا!<ffx:wonder_light>مع قيام Aurora بتحويل طنين من الماء إلى بخار في الساعة، فإن شهية<ffx:sadness_light>للوقود لا تعطس أيضًا.<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_12_valley\\val_050_02_finale_02_walktozipline_02_01",
+  "source": "<ffx:anger_light>We gotta hurry... <ffx:fear_light>I think, something's wrong at the Aurora...<ffx:neutral>",
+  "target": "<ffx:anger_light>علينا أن نسرع...<ffx:fear_light>أعتقد أن هناك خطأ ما في Aurora...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_040_dwellerglukhangst_01_05",
+  "source": "<ffx:sadness>Katya, that ex-nurse, said she could help them, but <ffx:disgust>Silantius would rather let them die slowly... <ffx:anger_light>",
+  "target": "قالت<ffx:sadness>كاتيا، تلك الممرضة السابقة، إنها تستطيع مساعدتهم، لكن<ffx:disgust>Silantius يفضل تركهم يموتون ببطء...<ffx:anger_light>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_059_insideoilrig_15",
+  "source": "<ffx:anger_light>Don't you just roam all over the fucking place - <ffx:wonder_light>the buys could cap ya any time and the <ffx:smile_light>Boss wouldn’t even mind, I recon! <ffx:neutral>",
+  "target": "<ffx:anger_light>، لا تتجول في كل مكان فحسب -<ffx:wonder_light>، يمكن لعمليات الشراء أن تصل إلى حد أقصى في أي وقت ولن يمانع<ffx:smile_light>Boss حتى، على ما أعتقد!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_09_summer\\sum_007_tokarevworkshoptalk_01_08_dukealive",
+  "source": "<ffx:smile>Haha! Well, you <ffx:wonder_strong>shouldn’t have taken that Shambler for a dive in the sand! <ffx:smile>It’s not a Kalash! <ffx:neutral>",
+  "target": "<ffx:smile>هاها! حسنًا، لم يكن عليك<ffx:wonder_strong>أن تأخذ جهاز Shambler هذا للغوص في الرمال!<ffx:smile>إنه ليس كلاش!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_12_valley\\val_005_07_olgaextrachat_01_20",
+  "source": "<ffx:wonder>And not just because they’re not supposed to hurt girls - <ffx:smile_light>a fair fight is a fair fight... <ffx:wonder>Thing is, the only one I lost to in a fair fight was Roman, <ffx:smile_light>and even then I gave him a blue eye he had to <ffx:smile>wear for a week, haha! That earned his respect.<ffx:neutral>",
+  "target": "<ffx:wonder>وليس فقط لأنه ليس من المفترض أن يؤذوا الفتيات -<ffx:smile_light>، القتال العادل هو قتال عادل...<ffx:wonder>الشيء هو أن الشخص الوحيد الذي خسرت أمامه في قتال عادل كان Roman،<ffx:smile_light>وحتى ذلك الحين أعطيته عينًا زرقاء كان عليه أن يرتدي<ffx:smile>لمدة أسبوع، هاها! وهذا ما أكسبه احترامه.<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc_comments\\burunduk\\dlc_comments_rest_car_bridge_bed_part_02",
+  "source": "Meetings in the field turned out to be most convincing, letting the player interact with other Crew members who, just like Artyom, spread out from the Aurora for reconnaissance. ",
+  "target": "اتضح أن الاجتماعات في الميدان كانت أكثر إقناعًا، مما سمح للاعب بالتفاعل مع أعضاء الطاقم الآخرين الذين، تمامًا مثل Artyom، انتشروا من Aurora للاستطلاع.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_ending\\end_04_outcome_01_04_badend",
+  "source": "<ffx:anger>I can't let the kids donate any more, either, and <ffx:sadness>Alyosha is just skin and bones now! What kind of a medic would I <ffx:disgust_light>be if I sacrificed you all, even if it could save <ffx:sadness_strong>Artyom? I’m sorry, I just can’t!<ffx:sadness_light>",
+  "target": "<ffx:anger>لا أستطيع السماح للأطفال بالتبرع بعد الآن، و<ffx:sadness>اليوشا مجرد جلد وعظام الآن! أي نوع من المسعفين سأكون<ffx:disgust_light>إذا ضحيت بكم جميعًا، حتى لو كان بإمكاني إنقاذ<ffx:sadness_strong>Artyom؟ أنا آسف، لا أستطيع!<ffx:sadness_light>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_spring\\spr_007_princewake_20_02",
+  "source": "<ffx:disgust>Well, Silantius' god is definitely a lost cause... <ffx:smile>But, I imagine, Duke would like Valhalla! <ffx:wonder_light>A paradise where fallen heroes spend eternity feasting and fighting... <ffx:sadness_light>A good fit for all of the people we lost...<ffx:neutral>",
+  "target": "<ffx:disgust>حسنًا، إله سيلانتيوس هو بالتأكيد قضية خاسرة...<ffx:smile>لكن، أتخيل أن ديوك سيحب Valhalla!<ffx:wonder_light>جنة حيث يقضي الأبطال الذين سقطوا الأبدية في الولائم والقتال...<ffx:sadness_light>مناسبة لجميع الأشخاص الذين فقدناهم...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\universal_m3\\factions\\bandit_3\\knife\\free_alert_found_knife_reaction_03",
+  "source": "Will you take a fucking look at that! Them boys left a knife here! Though... This is a throwing knife... What kind of bitch would bring one here? grrr...",
+  "target": "هل ستلقي نظرة سخيف على ذلك! ترك هؤلاء الأولاد سكينًا هنا! رغم ذلك... هذه سكينة رمي... أي نوع من العاهرة ستجلب واحدة هنا؟ grrr...",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_030_carriage_bandits_about_caravan_01_02",
+  "source": "<ffx:disgust>Nah, nothing since Seva and Gosha <ffx:wonder_light>reported the caravan is going our way yesterday. No sight of them from the islet yet, <ffx:sadness_light>so they should be here by tonight.",
+  "target": "<ffx:disgust>لا، لا شيء منذ أن أبلغ Seva وGosha<ffx:wonder_light>أن القافلة تسير في طريقنا أمس. لم نشاهدهم من الجزيرة بعد،<ffx:sadness_light>لذا يجب أن يكونوا هنا بحلول هذه الليلة.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_09_summer\\sum_006_afterparty_childrentalk_01_06",
+  "source": "<ffx:smile>You could play Sparta and special operations with a brother! <ffx:neutral>",
+  "target": "<ffx:smile>يمكنك لعب Sparta والعمليات الخاصة مع أخ!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc1\\dlc1_225_1_rioters_battleshouts_01_08",
+  "source": "Death to OSCUM!",
+  "target": "الموت لOSCUM!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_035_5_radiochatter_02_01",
+  "source": "Hello everyone, it's the Duke radio show here with the latest news update! Artyom has obtained that carriage! Over...",
+  "target": "مرحبًا بالجميع، إنه برنامج Duke الإذاعي هنا مع آخر تحديث للأخبار! لقد حصل أرتيوم على تلك العربة! انتهى...",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_05_winter\\win_010_notstokingcoal_02",
+  "source": "<ffx:wonder>Idiot says, it's dynamic meditation. <ffx:disgust_light>That philosopher doesn't come here to <ffx:smile_light>meditate too often, though...<ffx:neutral>",
+  "target": "يقول<ffx:wonder>Idiot، إنه التأمل الديناميكي.<ffx:disgust_light>هذا الفيلسوف لا يأتي إلى هنا للتأمل في<ffx:smile_light>كثيرًا، رغم ذلك...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_017_waytoterminal_14",
+  "source": "<ffx:sadness_light>I have favor to ask... If possible, don't kill the slaves... <ffx:wonder_light>They're not... <ffx:sadness>they just obey the <ffx:disgust>Munai-bailer, obey the Baron... <ffx:sadness>They're afraid, that's all... <ffx:neutral>",
+  "target": "<ffx:sadness_light>لدي معروف أن أسأله... إذا كان ذلك ممكنًا، لا تقتل العبيد...<ffx:wonder_light>إنهم ليسوا...<ffx:sadness>إنهم يطيعون فقط<ffx:disgust>Munai-bailer، ويطيعون البارون...<ffx:sadness>إنهم خائفون، هذا كل شيء...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc1\\dlc1_60_khlebnikov_kirill_newyear_conv_01_02",
+  "source": "Hahaha! Great disguise, private! Though I must ask, where's your sitrep?",
+  "target": "هاهاها! تمويه عظيم، خاص! على الرغم من أنني يجب أن أسأل، أين هو sitrep الخاص بك؟",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc1\\dlc1_225_1_rioters_battleshouts_01_05",
+  "source": "Death to OSKOM!",
+  "target": "الموت لOSKOM!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_059_insideoilrig_tribaloppression_03_10",
+  "source": "<ffx:wonder>What the fuck am I telling Kostyl now? <ffx:disgust>I ran out of your tribals, give me some more? <ffx:neutral>",
+  "target": "<ffx:wonder>ما الذي أقوله لـ Kostyl الآن؟<ffx:disgust>لقد نفدت قبائلك، أعطني المزيد؟<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc_comments\\burunduk\\dlc_comments_rest_dem_nest_bed_part_02",
+  "source": "But, as we were working on the regular Demon, it became so universally capable and deadly as to provide an adequate challenge for the player even alone.",
+  "target": "ولكن بينما كنا نعمل على لعبة Demon العادية، أصبحت قادرة عالميًا ومميتة بحيث توفر تحديًا مناسبًا للاعب حتى بمفرده.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_12_autumn\\aut_012_duketalk_01_02",
+  "source": "<ffx:wonder>If we all went together, <ffx:smile_light>we'd find what we need in half an hour tops, <ffx:sadness>while with just you two it's going to take forever! <ffx:wonder>Ah well, we'll <ffx:smile>finish our task in Akademgorodok and come help you! <ffx:neutral>",
+  "target": "<ffx:wonder>إذا ذهبنا جميعًا معًا،<ffx:smile_light>فسنجد ما نحتاج إليه في نصف ساعة كحد أقصى،<ffx:sadness>بينما معكما فقط سيستغرق الأمر إلى الأبد!<ffx:wonder>حسنًا، سننهي<ffx:smile>مهمتنا في Akademgorodok ونأتي لمساعدتك!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_035_oasisfort_combatend_03_01_04",
+  "source": "<ffx:wonder_light>I checked the car already, it's in order. <ffx:smile>Got enough gas in the tank to take us to the Aurora, too! <ffx:neutral>",
+  "target": "<ffx:wonder_light>لقد قمت بفحص السيارة بالفعل، وهي سليمة.<ffx:smile>يوجد في الخزان ما يكفي من الوقود لنقلنا إلى Aurora أيضًا!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc1\\dlc1_13_1_tunnelburners_02_02",
+  "source": "\"Red-Three\", you don't need explosives, just find the valve that stops the water flow.",
+  "target": "\"Red-Three\"، لا تحتاج إلى متفجرات، فقط ابحث عن الصمام الذي يوقف تدفق المياه.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_025_fanatics_save_12",
+  "source": "<ffx:sadness_light>I brought some night vision goggles there myself. <ffx:disgust_light>Silantius called it the Evil Eye...",
+  "target": "<ffx:sadness_light>أحضرت بعض نظارات الرؤية الليلية هناك بنفسي.  أطلق عليها<ffx:disgust_light>Silantius اسم \"عين الشر\"...",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_02_dead_moscow\\dmc_030_goingtotheaurora_01_05",
+  "source": "<ffx:wonder>Now we have to find Yermak...<ffx:neutral>",
+  "target": "<ffx:wonder>الآن علينا أن نجد Yermak...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_ending\\end_02_cont_01_08",
+  "source": "<ffx:anger_light>Be quick... I'm setting the timer... <ffx:sadness>Remember, Artyom is like an X-ray machine right now!",
+  "target": "<ffx:anger_light>كن سريعًا... أنا أقوم بضبط المؤقت...<ffx:sadness>تذكر أن Artyom يشبه جهاز الأشعة السينية الآن!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_02_dead_moscow\\dmc_001_littrercarry_01_15",
+  "source": "<ffx:smile_light>Hey, Damir, <ffx:wonder>do you think the Colonel knows what Artyom's <ffx:disgust_light>been up to here? <ffx:wonder_light>",
+  "target": "<ffx:smile_light>مرحبًا، دامير،<ffx:wonder>هل تعتقد أن العقيد يعرف ما كان يفعله Artyom<ffx:disgust_light>هنا؟<ffx:wonder_light>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_13_dead_city\\nvs_007_firstwalkwithkirill_06",
+  "source": "<ffx:smile_light>Artyom is from the Exhibition, and I'm from Polis! <ffx:neutral>",
+  "target": "<ffx:smile_light>Artyom من المعرض، وأنا من بوليس!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_13_dead_city\\nvs_008_intheshelter_23",
+  "source": "<ffx:smile_light>Great, thank you! <ffx:wonder_light>Artyom, get geared up in the meantime. <ffx:neutral>",
+  "target": "<ffx:smile_light>رائع، شكرًا لك!<ffx:wonder_light>Artyom، استعد في هذه الأثناء.<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_020_portbriefing_02_03",
+  "source": "<ffx:sadness_light>Let's go over the plan one more time... <ffx:wonder_light>Once the tugboat is in our hands, Sam, Idiot and I will go back to the Aurora, <ffx:sadness_light>while Artyom, Duke and Krest take the boat to the bridge. <ffx:smile_light>Good luck, everyone!<ffx:neutral>",
+  "target": "<ffx:sadness_light>لنراجع الخطة مرة أخرى...<ffx:wonder_light>بمجرد أن يصبح زورق القطر في أيدينا، سنعود أنا وSam وIdiot إلى Aurora،<ffx:sadness_light>بينما يأخذ Artyom وDuke وKrest القارب إلى الجسر.<ffx:smile_light>حظًا موفقًا للجميع!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_spring\\spr_007_princeparty_idiotleaves_03",
+  "source": "<ffx:smile_light>No sozhalenii gorkikh net, kak net! <ffx:neutral>",
+  "target": "<ffx:smile_light>لا sozhalenii gorkikh net، kak net!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_12_autumn\\aut_000_narration_01",
+  "source": "<tab>We all remained silent while the Aurora was running along the poisoned sea held at bay by the dam... We believed we'd be back. Now, having seen the sword of Damocles hanging over the valley, we knew it was not meant to be.<br><br>",
+  "target": "<tab>بقينا جميعًا صامتين بينما كانت سفينة Aurora تجري على طول البحر المسموم الذي يحاصره السد... كنا نعتقد أننا سنعود. الآن، بعد أن رأينا سيف ديموقليس معلقًا فوق الوادي، عرفنا أنه لم يكن من المفترض أن يكون كذلك.<br><br>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_13_dead_city\\nvs_007_foundkirill_05",
+  "source": "<ffx:sadness>Private Kirill Khlebnikov, <ffx:anger>OSKOM Rapid Response unit. <ffx:neutral>",
+  "target": "<ffx:sadness>الجندي كيريل كليبنيكوف، وحدة الاستجابة السريعة<ffx:anger>OSKOM.<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_12_autumn\\aut_021_01_radio_01",
+  "source": "Kostyan, Sila here... The forest bitches are on the move, they ripped all our boys apart and took the road! Alex the Bone with his boys reached their camp from the other side of the forest, they’re all gone.",
+  "target": "كوستيان، سيلا هنا... عاهرات الغابة يتحركن، مزقوا كل أولادنا وسلكوا الطريق! وصل Alex the Bone مع أولاده إلى معسكرهم من الجانب الآخر من الغابة، لقد ذهبوا جميعًا.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_051_monster_ambush_12",
+  "source": "<ffx:anger_light>Katya, grab Nastya and get to the HQ! <ffx:anger>On the double! <ffx:neutral>",
+  "target": "<ffx:anger_light>كاتيا، أمسك Nastya واذهب إلى المقر الرئيسي!<ffx:anger>على المزدوج!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_spring\\spr_006_05_level4_01",
+  "source": "<ffx:sadness_light>So, the guys are making merry... While I can’t stop thinking of <ffx:wonder>what is waiting for us there at Yamantau and beyond<ffx:fear_light>. And some of the conclusions I’ve been coming up with aren’t really to my liking... <ffx:neutral>",
+  "target": "<ffx:sadness_light>إذن، الرجال يستمتعون... بينما لا أستطيع التوقف عن التفكير في<ffx:wonder>ما الذي ينتظرنا هناك في Yamantau وما وراء<ffx:fear_light>. وبعض الاستنتاجات التي توصلت إليها لا تروق لي حقًا...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_002_initialbriefing_stepan_02",
+  "source": "<ffx:wonder>Artyom, you should probably get to the bridge... <ffx:wonder_light>",
+  "target": "<ffx:wonder>Artyom، ربما ينبغي عليك الوصول إلى الجسر...<ffx:wonder_light>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_000_narration_08",
+  "source": "<tab>I delivered the carriage to the Aurora. In the meantime, the caravan has arrived at the port, and the Spartans are already there. I need to meet Anna at the port and plan our takeover of the caravan.<br><br>",
+  "target": "<tab>قمت بتسليم العربة إلى Aurora. في هذه الأثناء، وصلت القافلة إلى الميناء، وكان الإسبرطيون موجودين هناك بالفعل. أحتاج لمقابلة آنا في الميناء والتخطيط لاستيلاءنا على القافلة.<br><br>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_09_summer\\sum_020_damirtalk_01_01",
+  "source": "<ffx:smile_light>Artyom... <ffx:wonder>I wanted to tell you for some time, but hadn't had a chance... <ffx:sadness_light>Anna asked if I wanted to stay back then... <ffx:smile_light>Sure I did. They were my people, <ffx:sadness>even though I couldn't find any relatives! Besides, <ffx:anger_light>there are still lots of bandits to kill there...<ffx:neutral>",
+  "target": "<ffx:smile_light>Artyom...<ffx:wonder>أردت أن أخبرك لبعض الوقت، لكن لم تتح لي الفرصة...<ffx:sadness_light>سألتني آنا إذا كنت أرغب في البقاء في ذلك الوقت...<ffx:smile_light>بالتأكيد فعلت. لقد كانوا شعبي،<ffx:sadness>على الرغم من أنني لم أتمكن من العثور على أي أقارب! علاوة على ذلك،<ffx:anger_light>لا يزال هناك الكثير من قطاع الطرق الذين يجب قتلهم هناك...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_011_outofthebunker_01_09",
+  "source": "<ffx:sadness>You people are lucky... Most of the <ffx:disgust>Munai-bailer are raiding, all their best troops. <ffx:wonder_light>If they were all here, you'd be dead already... <ffx:smile_light>But now, we have a chance to change things... <ffx:neutral>",
+  "target": "<ffx:sadness>أنتم محظوظون... معظم<ffx:disgust>Munai-bailer يقومون بالإغارة، كل أفضل قواتهم.<ffx:wonder_light>لو كانوا جميعًا هنا، لكنت ميتًا بالفعل...<ffx:smile_light>ولكن الآن، لدينا فرصة لتغيير الأمور...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_059_6_1_6_shipriggerstalk_01_03",
+  "source": "<ffx:anger>Not a fucking idea... <ffx:wonder>Do you even care? Where would they go? <ffx:smile>We have them by the balls! <ffx:wonder_light>Danat is with them, too, he's a good slave, can kick <ffx:smile>their asses better than we ever would! <ffx:neutral>",
+  "target": "<ffx:anger>ليست فكرة سخيفة...<ffx:wonder>هل تهتم حتى؟ أين سيذهبون؟<ffx:smile>نحن نملكهم بالكرات!<ffx:wonder_light>Danat معهم أيضًا، إنه عبد جيد، يمكنه ركل<ffx:smile>بشكل أفضل من أي وقت مضى!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_013_9_3_canyon_fight_over_talk_01_02",
+  "source": "<ffx:sadness>I alone left now, all I knew is dead or at the ship with <ffx:disgust>alau-kudai, the fire-gods, in a cage there. <ffx:neutral>",
+  "target": "<ffx:sadness>غادرت وحدي الآن، كل ما أعرفه هو الموت أو على متن السفينة مع<ffx:disgust>alau-kudai، آلهة النار، في قفص هناك.<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc1\\dlc1_74_1_pa_address_01_07",
+  "source": "The OSKOM Command reminds you that in the emergency period you must comply with any and all requirements of the authorities! Failure to comply will be prosecuted!",
+  "target": "تذكرك قيادة OSKOM أنه في فترة الطوارئ يجب عليك الالتزام بجميع متطلبات السلطات! سيتم محاكمة عدم الامتثال!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_040_tape_recorder_people_react_weapon_holstered_01_02",
+  "source": "<ffx:wonder_light>You just, you know... Don't be angry with the locals. <ffx:sadness_light>It's just that there've been lots of... attacks lately, so they're kind of riled up. <ffx:disgust>Silantius is brainwashing them all the time, too... <ffx:disgust_light>",
+  "target": "<ffx:wonder_light>أنت فقط، كما تعلم... لا تغضب من السكان المحليين.<ffx:sadness_light>إنه كان هناك الكثير من... الهجمات مؤخرًا، لذا فهم غاضبون نوعًا ما.<ffx:disgust>يقوم Silantius بغسل أدمغتهم طوال الوقت أيضًا...<ffx:disgust_light>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_12_autumn\\aut_003_briefing_01_21",
+  "source": "<ffx:anger>Second! We don't know <ffx:wonder>the exact location of the medicine: <ffx:sadness_light>it might be in the city center, or in one of the Akademgorodok labs, <ffx:wonder>so Anna's life might well end up in your hands, too! <ffx:neutral>",
+  "target": "<ffx:anger>الثانية! لا نعرف موقع<ffx:wonder>الدقيق للدواء:<ffx:sadness_light>قد يكون في وسط المدينة، أو في أحد مختبرات Akademgorodok،<ffx:wonder>لذا قد تنتهي حياة آنا بين يديك أيضًا!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_05_winter\\win_010_stokingcoal_00_02",
+  "source": "<ffx:anger_light>You people could have called me up there to drink to Aurora! <ffx:wonder>I still think 'Beelzebub' was a <ffx:smile>better name, hahaha! <ffx:neutral>",
+  "target": "<ffx:anger_light>كان من الممكن أن تتصلوا بي هناك لأشرب على مشروب أورورا!<ffx:wonder>ما زلت أعتقد أن \"Beelzebub\" كان اسمًا أفضل لـ<ffx:smile>، هاهاها!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_157_baron_broadcast_08_03",
+  "source": "It has come to my attention that Shellgame told people that I shouldn't have burned Sweaty, that Sweaty was an OK guy, and I overreacted over some stupid shit we invented for the tribals. Who cares if he got drunk and, within the slaves' sight, took a leak into the Holy Flame?",
+  "target": "لقد لفت انتباهي أن Shellgame أخبرت الناس أنه لا ينبغي لي أن أحرق Sweaty، وأن Sweaty كان رجلاً جيدًا، وقد بالغت في رد فعلي تجاه بعض الهراء الغبي الذي اخترعناه للقبائل. من يهتم إذا سُكر، وعلى مرأى من العبيد، تسرب إلى الشعلة المقدسة؟",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\universal_m3\\factions\\tribal_1\\stunned\\stunned_found_02",
+  "source": "He’s alive, thank to Holy Flame! He is here! That kutak is here somewhere! We must find him!",
+  "target": "إنه على قيد الحياة، وذلك بفضل اللهب المقدس! إنه هنا! أن kutak هنا في مكان ما! يجب أن نجده!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_spring\\spr_099_radiostation_01_01_01",
+  "source": "...[Static] you guys kissing Menshikov's ass so much? How long has it been since he even arrived in Irkutsk? Not even two years!",
+  "target": "...[Static]يا رفاق هل تقبلون مؤخرة مينشيكوف كثيرًا؟ كم مضى منذ وصوله إلى إيركوتسك؟ ولا حتى عامين!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc2\\dlc2_220_10_sam_captain_firetraps_01_10",
+  "source": "Ed. It's Sam again. Vse gotovo, all traps re-armed!",
+  "target": "إد. إنه سام مرة أخرى. Vse gotovo، جميع الفخاخ أعيد تسليحها!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_12_valley\\val_005_05_meetingolga_11",
+  "source": "<ffx:sadness_light>Your friend Alyosha is already at the Dam. <ffx:sadness>He said your Colonel won't wait, <ffx:wonder>so you don't have much time... <ffx:neutral>",
+  "target": "<ffx:sadness_light>صديقك Alyosha موجود بالفعل في السد.<ffx:sadness>قال إن العقيد الخاص بك لن ينتظر،<ffx:wonder>لذلك ليس لديك الكثير من الوقت...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_05_winter\\win_010_yermaktalk_moscow_04",
+  "source": "<ffx:wonder>Then, about two months ago, <ffx:fear_light>they loaded a bunch of people onto my Aurora. <ffx:anger_light>The guards took them outside, and came back alone... <ffx:disgust_light>Told me they took the people to a nearby station, but I knew <ffx:anger>it had caved in years ago!<ffx:sadness_light>",
+  "target": "<ffx:wonder>بعد ذلك، منذ حوالي شهرين،<ffx:fear_light>قاموا بتحميل مجموعة من الأشخاص على جهاز Aurora الخاص بي.<ffx:anger_light>أخذهم الحراس إلى الخارج، وعادوا بمفردهم...<ffx:disgust_light>أخبرني أنهم أخذوا الناس إلى محطة قريبة، لكنني عرفت أن<ffx:anger>قد انهار منذ سنوات!<ffx:sadness_light>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_spring\\spr_007_princewake_19",
+  "source": "<ffx:disgust>[Splutters] Yeah... kinda rough...<ffx:neutral>",
+  "target": "<ffx:disgust>[Splutters]نعم... خشن نوعًا ما...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc_comments\\burunduk\\dlc_comments_rest_term_in_bed_part_01",
+  "source": "At the initial stages of development, all playtest results were conclusive: Terminal was the toughest location in all of the Metro franchise!",
+  "target": "في المراحل الأولى من التطوير، كانت جميع نتائج اختبار اللعب حاسمة: كان Terminal هو أصعب موقع في جميع امتيازات Metro!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_spring\\spr_004_level3_21",
+  "source": "<ffx:wonder_light>Khm... Life... Sure is interesting...<ffx:neutral>",
+  "target": "<ffx:wonder_light>Khm... الحياة... بالتأكيد مثيرة للاهتمام...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_09_summer\\sum_007_tokarevworkshoptalk_01_14",
+  "source": "<ffx:sadness_light>Yes... In any case<ffx:smile_light>, you don’t need to worry about the weapons, Artyom - <ffx:wonder>I’ll have them in mint condition by <ffx:smile>the time we make our next stop, haha! <ffx:neutral>",
+  "target": "<ffx:sadness_light>نعم... على أية حال،<ffx:smile_light>، لا داعي للقلق بشأن الأسلحة، Artyom -<ffx:wonder>سأحتفظ بها في حالة جيدة بحلول<ffx:smile>عندما نصل إلى محطتنا التالية، هاها!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_006_rapunzel_new_12",
+  "source": "<ffx:fear>Go! Nastya and I <ffx:wonder>can get to your train by ourselves... <ffx:wonder_light>",
+  "target": "<ffx:fear>انطلق! أنا و Nastya<ffx:wonder>يمكننا الوصول إلى قطارك بأنفسنا...<ffx:wonder_light>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_12_autumn\\aut_003_briefing_01_26",
+  "source": "<ffx:sadness>So, gentlemen, your missions are to search the <ffx:wonder>Akademgorodok labs and prepare Aurora for the winter! <ffx:neutral>",
+  "target": "<ffx:sadness>لذا، أيها السادة، مهمتكم هي البحث في مختبرات<ffx:wonder>Akademgorodok وإعداد الشفق القطبي لفصل الشتاء!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc1\\dlc1_41_general_conversation_01_teatalk_04_02",
+  "source": "Haha! Yes, he is a huge fan of all things OSKOM. We're like superheroes in his eyes. A bit chilling, actually...",
+  "target": "هاها! نعم، إنه معجب كبير بكل ما يتعلق بـ OSKOM. نحن مثل الأبطال الخارقين في عينيه. تقشعر لها الأبدان قليلا ، في الواقع ...",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_12_valley\\val_004_alyoshalog_01",
+  "source": "<br><br>Hi Artyom... I know that you're alive - nothing could do you in, much less a little river... So, I'll cut to the chase.<br>The locals are impressive, I didn't notice them until they were all over me when they nabbed me. I didn't start shooting, and it was a good call - they just took me to their camp... Nice guys, really... And girls... Especially girls...<br>So, one of these fairies of the forest told me there was a radio in the Church, I thought I could contact the Aurora...<br>But the radio seems to not be working properly, so I guess I'll just go to that Dam... I'll be waiting there. <br>One more thing... You can't get there without a boat, so find one. Break a leg!<br><br>",
+  "target": "<br><br>مرحبًا أرتيوم... أعلم أنك على قيد الحياة - لا شيء يمكن أن يقتلك، ناهيك عن نهر صغير... لذا، سأبدأ في المطاردة.<br>السكان المحليون مثيرون للإعجاب، ولم ألاحظهم حتى هاجموني عندما قبضوا علي. لم أبدأ في إطلاق النار، وكانت مكالمة جيدة - لقد أخذوني للتو إلى معسكرهم... شباب لطيفون، حقًا... والفتيات... وخاصة الفتيات...<br>لذا، أخبرتني إحدى جنيات الغابة بوجود راديو في الكنيسة، اعتقدت أنه يمكنني الاتصال بـ Aurora...<br>لكن يبدو أن الراديو لا يعمل بشكل صحيح، لذا أعتقد أنني سأذهب إلى ذلك السد... سأنتظر هناك.<br>شيء آخر... لا يمكنك الوصول إلى هناك بدون قارب، لذا ابحث عن واحد. كسر ساق!<br><br>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_12_autumn\\aut_003_briefing_01_14",
+  "source": "<ffx:anger>Artyom and I will go... All right!? <ffx:neutral>",
+  "target": "<ffx:anger>سنذهب أنا وArtyom... حسنًا!؟<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_002_initialbriefing_12",
+  "source": "<ffx:wonder>May I go with Artyom, too? As backup? <ffx:wonder_light>",
+  "target": "<ffx:wonder>هل يمكنني الذهاب مع Artyom أيضًا؟ كنسخة احتياطية؟<ffx:wonder_light>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc1\\dlc1_27_depot_railcar_ride_01_03",
+  "source": "Hey, guys! Get aboard! We’ll give you a lift to Prospekt!",
+  "target": "مهلا يا شباب! اصعد على متن الطائرة! سنقدم لك مصعدًا إلى Prospekt!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_010_briefing_01_miller_portreminder_02",
+  "source": "<ffx:sadness>Artyom, Yermak can't handle the repairs alone. <ffx:anger_light>Get to the port soon if you don’t want us stuck here forever. <ffx:wonder_light>",
+  "target": "<ffx:sadness>Artyom، Yermak لا يمكنه التعامل مع الإصلاحات بمفرده.<ffx:anger_light>اذهب إلى الميناء قريبًا إذا كنت لا تريد أن نظل عالقين هنا إلى الأبد.<ffx:wonder_light>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc1\\dlc1_000_narration_01_03",
+  "source": "<tab>The important part is that I'm back in Metro, and no mutant can stop me here. Radiation on the surface is different though. Frankly, I thought I was buying a one-way ticket for myself going in.<br><br>",
+  "target": "<tab>الجزء المهم هو أنني عدت إلى Metro، ولا يمكن لأي متحول أن يوقفني هنا. لكن الإشعاع على السطح مختلف. بصراحة، اعتقدت أنني كنت أشتري تذكرة ذهاب فقط لنفسي.<br><br>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_011_cardebriefing_yermak_on_railcar_05",
+  "source": "But <ffx:smile>this Krest is really a risk taker, <ffx:wonder>taking this tiny thing on such a journey! <ffx:neutral>",
+  "target": "لكن<ffx:smile>هذا Krest هو حقًا مجازف،<ffx:wonder>يأخذ هذا الشيء الصغير في مثل هذه الرحلة!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_011_carbriefing_11",
+  "source": "<ffx:anger>Are you starting that again?! <ffx:wonder>How? How are we going to collect that carriage? <ffx:anger>I'm not taking the Aurora there! <ffx:neutral>",
+  "target": "<ffx:anger>هل تبدأ ذلك مرة أخرى؟!<ffx:wonder>كيف؟ كيف سنقوم بجمع تلك العربة؟<ffx:anger>لن آخذ Aurora إلى هناك!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\universal_m3\\factions\\bandit_1\\context\\context_alert_bush_01",
+  "source": "The mofo's in the bushes!",
+  "target": "mofo في الادغال!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_09_summer\\sum_007_tokarevworkshoptalk_01_13_used_fireammo",
+  "source": "<ffx:wonder>I didn’t do too poorly, either, <ffx:wide_smile>even if I say so myself! <ffx:smile_light>I’ve been lead to believe that the Tikhar with the new ammo <ffx:smile>worked wonders in your hands! <ffx:neutral>",
+  "target": "<ffx:wonder>لم يكن أدائي سيئًا للغاية أيضًا،<ffx:wide_smile>حتى لو قلت ذلك بنفسي!<ffx:smile_light>لقد كنت أعتقد أن Tikhar مع الذخيرة الجديدة<ffx:smile>صنعت العجائب بين يديك!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_13_dead_city\\nvs_007_walkingtoshelter_18",
+  "source": "<ffx:smile_light>We are! I'm colonel Miller, <ffx:anger_light>leader of a special taskforce, <ffx:wonder_light>Artyom here is one of my subordinates. <ffx:smile_light>We came from Moscow on a train. <ffx:neutral>",
+  "target": "<ffx:smile_light>نحن كذلك! أنا العقيد ميلر، قائد فرقة العمل الخاصة<ffx:anger_light>،<ffx:wonder_light>Artyom هنا هو أحد مرؤوسي.<ffx:smile_light>لقد جئنا من موسكو بالقطار.<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_13_dead_city\\nvs_007_foundkirill_06_01",
+  "source": "<ffx:wonder>What do you mean, you mean no harm? <ffx:anger>I'm from OSKOM! <ffx:disgust>Aren't you with THEM? <ffx:neutral>",
+  "target": "<ffx:wonder>ماذا تقصد، لا تقصد أي ضرر؟<ffx:anger>أنا من OSKOM!<ffx:disgust>ألست معهم؟<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_13_dead_city\\nvs_003_rollouttalk_02",
+  "source": "<ffx:anger_light>We are! So, <ffx:anger>Artyom, here's your chance... <ffx:sadness>Our last chance to save Anna, <ffx:anger_light>we must make it count. <ffx:neutral>",
+  "target": "<ffx:anger_light>نحن كذلك! لذا،<ffx:anger>Artyom، ها هي فرصتك...<ffx:sadness>فرصتنا الأخيرة لإنقاذ آنا،<ffx:anger_light>يجب أن نستغلها.<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_spring\\spr_003_level2_princedead_02",
+  "source": "<ffx:sadness_light>Kha-khm... What was I... <ffx:wonder>Well, I'll be working here from now on. <ffx:neutral>",
+  "target": "<ffx:sadness_light>Kha-khm... ماذا كنت...<ffx:wonder>حسنًا، سأعمل هنا من الآن فصاعدًا.<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_10_yamantau\\yam_099_cannibal_attack_03_02",
+  "source": "Freeeeeesh meeeeat!",
+  "target": "Freeeeeeesh مييييت!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\universal_m3\\factions\\tribal_3\\wounded\\wounded_lightly_10",
+  "source": "Aaaw, you msd dog!",
+  "target": "يااااه يا كلب MSD!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_013_1_briefing_02_kresttalk_04",
+  "source": "<ffx:wonder>And they may just do that, <ffx:sadness>because I think that Giul lady is trying to use us as a piece in her own game... <ffx:anger_light>Having us take those bandits out would play right into her hand! <ffx:neutral>",
+  "target": "<ffx:wonder>وربما يفعلون ذلك،<ffx:sadness>لأنني أعتقد أن السيدة Giul تحاول استخدامنا كقطعة في لعبتها الخاصة...<ffx:anger_light>إن إخراجنا من قطاع الطرق سيكون في صالحها تمامًا!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_013_briefing_02_17",
+  "source": "<ffx:anger_light>We need water, for the Aurora and the Crew, <ffx:sadness_light>as you can see. Stepan, Duke and Alyosha are down with dehydration already. <ffx:wonder_light>We also need fuel. <ffx:neutral>",
+  "target": "<ffx:anger_light>نحن بحاجة إلى الماء، من أجل Aurora والطاقم،<ffx:sadness_light>كما ترون. يعاني ستيبان وديوك وأليوشا من الجفاف بالفعل.<ffx:wonder_light>نحتاج أيضًا إلى الوقود.<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_spring\\spr_099_radiostation_02_02_01",
+  "source": "Ufa-Central come in! Ufa-Central, Morholt here! Try raising Kinel! Over...",
+  "target": "Ufa-Central تعال! أوفا الوسطى، مورهولت هنا! حاول رفع كينيل! انتهى...",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc_comments\\burunduk\\dlc_comments_rest_place_0006_part_01",
+  "source": "The first version of the Lighthouse was quite different from the current one.",
+  "target": "كان الإصدار الأول من Lighthouse مختلفًا تمامًا عن الإصدار الحالي.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\universal_m3\\factions\\tribal_2\\context\\context_alert_down_03",
+  "source": "He down there, that kutak!",
+  "target": "هو هناك، أن kutak!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_011_carbriefing_12",
+  "source": "<ffx:wonder>You don't need to! I have a railcar <ffx:smile_light>hidden in the terminal, it can tow <ffx:smile>a carriage like nobody's business! <ffx:smile_light>Artyom and I can go get it and bring the carriage back...",
+  "target": "<ffx:wonder>لا تحتاج إلى ذلك! لدي عربة قطار<ffx:smile_light>مخبأة في المحطة، يمكنها سحب عربة<ffx:smile>كما لا يفعل أحد!<ffx:smile_light>يمكنني أنا وArtyom الذهاب لإحضارها وإعادة العربة...",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_09_summer\\sum_001_7_2_tabletalk_02_67",
+  "source": "<ffx:smile>Just like in Polarnie Zori! <ffx:neutral>",
+  "target": "<ffx:smile>تمامًا كما في Polarnie Zori!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_12_autumn\\aut_001_annatalk_01_01",
+  "source": "<ffx:smile_light>Artyom, you know, <ffx:wonder_light>when I found this photo of the Pacific Ocean, <ffx:sadness_light>I just knew for some reason that we were going to go there in the end... <ffx:neutral>",
+  "target": "<ffx:smile_light>Artyom، كما تعلمون،<ffx:wonder_light>عندما وجدت هذه الصورة للمحيط الهادئ،<ffx:sadness_light>كنت أعرف لسبب ما أننا سنذهب إلى هناك في النهاية...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc_comments\\burunduk\\dlc_comments_intro_part_02",
+  "source": "The fact that you are listening to this log means that you had enough interest in the game to start it over once again. Thus, the efforts of 4A Games team weren't wasted.",
+  "target": "حقيقة أنك تستمع إلى هذا السجل تعني أن لديك اهتمامًا كافيًا باللعبة لبدء اللعب بها مرة أخرى. وهكذا لم تذهب جهود فريق 4A Games هباءً.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_016_briefing_03_20",
+  "source": "<ffx:wonder_light>Artyom, Damir, you get the most important part: <ffx:smile_light>stealing that tank. <ffx:neutral>",
+  "target": "<ffx:wonder_light>Artyom، Damir، لقد حصلت على الجزء الأكثر أهمية:<ffx:smile_light>يسرق تلك الدبابة.<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_13_dead_city\\nvs_003_stepanidiottalk_01_07",
+  "source": "<ffx:wonder_light>So, if it's so much easier in the Akademgorodok, <ffx:anger_light>that naturally means that our main goal in not there, <ffx:sadness>but in the center. <ffx:neutral>",
+  "target": "<ffx:wonder_light>لذا، إذا كان الأمر أسهل بكثير في Akademgorodok،<ffx:anger_light>فهذا يعني بطبيعة الحال أن هدفنا الرئيسي ليس هناك،<ffx:sadness>ولكن في المركز.<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_05_chase\\cha_001_newchasestart_21_02",
+  "source": "<ffx:anger>I will be appointing the volunteers here! <ffx:disgust_light>Artyom will do it.<ffx:neutral>",
+  "target": "<ffx:anger>سأقوم بتعيين المتطوعين هنا!  سوف يقوم<ffx:disgust_light>Artyom بذلك.<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_059_6_1_45_02_tribaltalkplayer_01_05",
+  "source": "<ffx:anger>You... You kill Master?! <ffx:disgust>No laugh now! <ffx:anger>Flame will punish you! <ffx:smile>Flame always punish he who hurt the Master! <ffx:neutral>",
+  "target": "<ffx:anger>أنت... هل تقتل المعلم؟!<ffx:disgust>لا تضحك الآن!<ffx:anger>سوف يعاقبك اللهب!<ffx:smile>Flame يعاقب دائمًا من يؤذي المعلم!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_02_dead_moscow\\dmc_030_goingtotheaurora_02_08",
+  "source": "<ffx:sadness_light>Artyom, get to Yermak!<ffx:neutral>",
+  "target": "<ffx:sadness_light>Artyom، اذهب إلى Yermak!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_02_dead_moscow\\dmc_001_littrercarry_01_11",
+  "source": "<ffx:sadness_light>Looks like Artyom's been on <ffx:disgust_light>another one of his mad trips up top...<ffx:neutral>",
+  "target": "<ffx:sadness_light>يبدو أن Artyom كان في<ffx:disgust_light>في إحدى رحلاته المجنونة إلى الأعلى...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_12_valley\\val_012_teacherhousetalk_01_05",
+  "source": "<ffx:anger>I might do just that! And you... <ffx:wonder>Don't you feel jealous guarding the House and never even entering it? <ffx:disgust>Zhorka's always there, but is he better than us? <ffx:neutral>",
+  "target": "<ffx:anger>ربما أفعل ذلك! وأنت...<ffx:wonder>ألا تشعر بالغيرة وأنت تحرس المنزل ولا تدخله أبدًا؟<ffx:disgust>Zhorka موجود دائمًا، لكن هل هو أفضل منا؟<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_02_dead_moscow\\dmc_005_topoftheworld_01",
+  "source": "<ffx:wonder>And?... <sigh> More of nothing?... <ffx:sadness>Artyom, the only thing I can hear is the Geiger counter ticking. <ffx:neutral>",
+  "target": "<ffx:wonder>و؟...<sigh>المزيد من لا شيء؟...<ffx:sadness>Artyom، الشيء الوحيد الذي يمكنني سماعه هو دقات عداد جيجر.<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_09_summer\\sum_003_01_partyends_01_04",
+  "source": "<ffx:smile_light>Artyom, you shouldn't keep your komandir waiting. <ffx:sadness_light>Run along, we'll wait here. <ffx:neutral>",
+  "target": "<ffx:smile_light>Artyom، لا يجب أن تبقي قائدك منتظرًا.<ffx:sadness_light>اركض، سننتظر هنا.<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_035_oasisfort_tribalzindan_01_04",
+  "source": "<ffx:wonder>Biz sizge kim ekenin de <ffx:fear>bilmeidi bolady? Shyk! <ffx:neutral>",
+  "target": "<ffx:wonder>Biz sizge kim ekenin de<ffx:fear>bilmeidi bolady? شيك!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_003_tt_talk_01_07_addon_01",
+  "source": "<ffx:smile_light>Artyom, I have something <ffx:wonder_light>new for your Tikhar! <ffx:smile>Welcome to the workbench! <ffx:neutral>",
+  "target": "<ffx:smile_light>Artyom، لدي شيء جديد<ffx:wonder_light>لتيخار الخاص بك!<ffx:smile>مرحبًا بك في طاولة العمل!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_spring\\spr_002_level2_princedead_06",
+  "source": "<ffx:wonder>They don't get sold, <ffx:anger>but that's probably just because Silantius has no use for money. <ffx:neutral>",
+  "target": "<ffx:wonder>لا يتم بيعها،<ffx:anger>ولكن ربما يكون ذلك فقط لأن Silantius لا يستخدم المال.<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_008_idiot_alyosha_talk_06",
+  "source": "<ffx:wonder>But isn't it beautiful? We have spent our whole lives underground, and this freedom... <ffx:smile>So poetic! <ffx:disgust>Screw the cold! People risked their <ffx:wonder>lives for this, take Artyom... <ffx:wonder_light>",
+  "target": "<ffx:wonder>لكن أليست جميلة؟ لقد أمضينا حياتنا كلها تحت الأرض، وهذه الحرية...<ffx:smile>شاعرية للغاية!<ffx:disgust>تباً للبرد! لقد خاطر الناس بحياتهم في<ffx:wonder>من أجل هذا، خذ Artyom...<ffx:wonder_light>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_010_miller_stepan_refugeetalk_06",
+  "source": "<ffx:wonder>Where, pray tell, are they going to sleep on the Aurora? <ffx:disgust>Atop the coal crates? We, <ffx:sadness_light>Spartans, can handle it...",
+  "target": "<ffx:wonder>، أخبرني أين سينامون على الشفق؟<ffx:disgust>فوق صناديق الفحم؟ نحن،<ffx:sadness_light>Spartans، يمكننا التعامل مع الأمر...",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_10_yamantau\\yam_016_commcentertalk_14",
+  "source": "<ffx:wonder_light>It's Caspian-1, a comms center. <ffx:smile_light>There's one more just like that in Novosibirsk... <ffx:neutral>",
+  "target": "<ffx:wonder_light>إنه Caspian-1، مركز الاتصالات.<ffx:smile_light>هناك واحد آخر مثل ذلك في نوفوسيبيرسك...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_002_initialbriefing_anna_notepad_reminder_01",
+  "source": "<ffx:wonder_light>Don't forget your notepad, Artyom... <ffx:neutral>",
+  "target": "<ffx:wonder_light>لا تنس دفتر ملاحظاتك يا Artyom...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_12_autumn\\aut_007_idiotstepan_01_02",
+  "source": "<ffx:wonder_strong>Where? How? There’s a whole sector blotted out on the image! <ffx:disgust>And look at its location! <ffx:wonder>Sure, the Akademgorodok is rather bad, but not too dangerous if we don't waste time there. <ffx:fear>That area though... <ffx:neutral>",
+  "target": "<ffx:wonder_strong>أين؟ كيف؟ هناك قطاع كامل ممسوح على الصورة!<ffx:disgust>وانظر إلى موقعه!<ffx:wonder>بالتأكيد، Akademgorodok سيء إلى حد ما، ولكنه ليس خطيرًا جدًا إذا لم نضيع الوقت هناك.<ffx:fear>تلك المنطقة بالرغم من ذلك...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_spring\\spr_003_level2_princealive_01",
+  "source": "<ffx:wonder>Duke's plate carrier won't hold the back plate anymore, <ffx:smile_light>and he jokes that he's lucky it's not the front one, <ffx:wide_smile>or else his toes would be in danger! <ffx:neutral>",
+  "target": "<ffx:wonder>حامل لوحة Duke لن يحمل اللوحة الخلفية بعد الآن،<ffx:smile_light>وهو يمزح قائلاً إنه محظوظ لأنه ليس اللوحة الأمامية،<ffx:wide_smile>وإلا فإن أصابع قدميه ستكون في خطر!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_10_yamantau\\yam_050_loaderbriefing_07",
+  "source": "<ffx:smile_light>The idea is good... But how <ffx:wonder>do we find the place? Just keep traveling? <ffx:sadness>The Aurora needs an overhaul, what do we do if it breaks down?",
+  "target": "<ffx:smile_light>الفكرة جيدة... لكن كيف نجد المكان<ffx:wonder>؟ فقط استمر بالسفر؟<ffx:sadness>Aurora بحاجة إلى إصلاح شامل، ماذا نفعل إذا تعطلت؟",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_09_summer\\sum_005_afterparty_01_25",
+  "source": "<ffx:anger_light>Artyom needs a volunteer to support him. <ffx:neutral>",
+  "target": "<ffx:anger_light>يحتاج Artyom إلى متطوع لدعمه.<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_12_valley\\val_005_trappedtalk_01_09",
+  "source": "<ffx:disgust>Bozhe moi... <ffx:anger>You’re all cowards! He’s an intruder, an enemy! <ffx:neutral>",
+  "target": "<ffx:disgust>Bozhe moi...<ffx:anger>أنتم جميعًا جبناء! إنه دخيل، عدو!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_12_valley\\val_004_alyoshalog_04",
+  "source": "So, one of these fairies of the forest told me there was a radio in the Church, I thought I could contact the Aurora...",
+  "target": "لذا، أخبرتني إحدى جنيات الغابة أن هناك راديو في الكنيسة، واعتقدت أنه يمكنني الاتصال بـ Aurora...",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_013_5_3_0_annaprisonshiptalk_03_01",
+  "source": "<ffx:sadness_light>Artyom... We're fixing to leave already, but <ffx:disgust_light>there's one thing that keeps nagging on me... <ffx:wonder_light>I saw this dismantled ship when I was out on a recon... <ffx:neutral>",
+  "target": "<ffx:sadness_light>Artyom... نحن نستعد للمغادرة بالفعل، ولكن<ffx:disgust_light>هناك شيء واحد يزعجني باستمرار...<ffx:wonder_light>رأيت هذه السفينة المفككة عندما كنت بالخارج في رحلة استكشاف...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_003_backpackchat_10",
+  "source": "<ffx:wonder>Sure thing, I'll make one for everybody <ffx:smile>once Artyom tests this one and I can iron out the quirks. <ffx:smile_light>",
+  "target": "<ffx:wonder>بالتأكيد، سأصنع واحدًا للجميع<ffx:smile>بمجرد أن يختبر Artyom هذا ويمكنني حل المراوغات.<ffx:smile_light>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_12_valley\\val_130_03_teacherlog_03_03",
+  "source": "Sure, I’m no Pestalozzi, but I did all I could, and even more! I gave them all my soul, my life, and what did that result in? A society of shut-ins, who only respect strength and are no less cruel than the bandits they fight!",
+  "target": "بالتأكيد، أنا لست Pestalozzi، لكنني فعلت كل ما بوسعي، بل وأكثر! لقد أعطيتهم روحي وحياتي كلها، وماذا كانت نتيجة ذلك؟ مجتمع منغلقين، لا يحترمون إلا القوة، وهم ليسوا أقل قسوة من قطاع الطرق الذين يقاتلونهم!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\universal_m3\\factions\\bandit_3\\decoy\\free_decoy_reaction_03",
+  "source": "What the fuck is clunking over there?",
+  "target": "ما اللعنة هو clunking هناك؟",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_09_summer\\sum_001_7_2_tabletalk_02_26",
+  "source": "<ffx:wide_smile>Just imagine how Silantius would react to that! <ffx:neutral>",
+  "target": "<ffx:wide_smile>فقط تخيل كيف سيكون رد فعل Silantius على ذلك!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_013_briefing_02_20",
+  "source": "<ffx:wonder_light>So, Artyom, when you're ready, <ffx:sadness_light>go rendezvous with Damir. <ffx:neutral>",
+  "target": "<ffx:wonder_light>لذا، Artyom، عندما تكون جاهزًا،<ffx:sadness_light>اذهب للقاء دامير.<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_035_oasisfort_oppressedtribals_tellingjokes_01_22",
+  "source": "<ffx:anger>Hey, Zhaidar! You bitch deaf or what, <ffx:wonder>no hear what I say, at all? <ffx:anger>Work quiet! <ffx:neutral>",
+  "target": "<ffx:anger>مرحبًا Zhaidar! هل أنت صماء أم ماذا،<ffx:wonder>لا تسمع ما أقوله على الإطلاق؟<ffx:anger>العمل بهدوء!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc2\\dlc2_080_twoneutrals_returning_to_seastories_02_01",
+  "source": "About Korzh and the plane he saw.",
+  "target": "عن Korzh والطائرة التي رآها.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc1\\dlc1_225_1_rioters_battleshouts_01_12",
+  "source": "Kill the OSCUM!",
+  "target": "اقتل OSCUM!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_009_spartanmissionnew_22",
+  "source": "[Cough] - nah...",
+  "target": "[Cough]- ناه...",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_10_yamantau\\yam_002_intro_17",
+  "source": "<ffx:wonder>Take the Aurora back to safe zone and sit tight there. <ffx:neutral>",
+  "target": "<ffx:wonder>أعد Aurora إلى المنطقة الآمنة واجلس هناك.<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_09_summer\\sum_006_afterparty_childrentalk_01_04",
+  "source": "<ffx:smile_light>We're not the ones to avoid diapers, Colonel! <ffx:wonder_strong>In fact, we're planning to present Nastya <ffx:smile>with a little brother, if she doesn't object! <ffx:neutral>",
+  "target": "<ffx:smile_light>لسنا من يتجنب الحفاضات أيها العقيد!<ffx:wonder_strong>في الواقع، نحن نخطط لتقديم Nastya<ffx:smile>مع أخ صغير، إذا لم تعترض!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_spring\\spr_099_radiostation_02_02_02",
+  "source": "Ufa-Central come in! Over!",
+  "target": "Ufa-Central تعال! زيادة!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_13_dead_city\\nvs_003_workshoptalk_01",
+  "source": "<ffx:anger_light>Artyom, this is no Moscow where you could... <ffx:disgust_light>Loiter outside for months! <ffx:wonder>Who knows what monsters live here, so <ffx:anger_light>think well what to pack. I'll be waiting at the car. <ffx:neutral>",
+  "target": "<ffx:anger_light>Artyom، هذه ليست موسكو حيث يمكنك...<ffx:disgust_light>تتسكع في الخارج لعدة أشهر!<ffx:wonder>من يعرف ما هي الوحوش التي تعيش هنا، لذا فكر<ffx:anger_light>جيدًا في ما يجب حزمه. سأكون في انتظارك في السيارة.<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_05_winter\\win_004_namingaurora_53",
+  "source": "<ffx:smile>All right, we had a round, that should be enough... <ffx:wonder_light>Yermak - full steam ahead!",
+  "target": "<ffx:smile>حسنًا، لقد كانت لدينا جولة، وينبغي أن يكون ذلك كافيًا...<ffx:wonder_light>Yermak - أمامنا بكل قوة!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_13_dead_city\\nvs_003_stepanidiottalk_01_02",
+  "source": "<ffx:sadness_light>The Akademgorodok is OK by comparison... <ffx:smile_light>Only about five times more radioactive than Moscow average. <ffx:wonder_light>Fresh filters would actually protect us there, <ffx:sadness_light>and we'd finish faster if they were with us.<ffx:neutral>",
+  "target": "<ffx:sadness_light>يعتبر Akademgorodok على ما يرام بالمقارنة...<ffx:smile_light>فقط حوالي خمس مرات أكثر إشعاعًا من المتوسط في موسكو.<ffx:wonder_light>المرشحات الجديدة ستحمينا هناك،<ffx:sadness_light>وسننتهي بشكل أسرع لو كانت معنا.<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_12_autumn\\aut_011_kresttalk_01_06_dukealive",
+  "source": "<ffx:smile>Take Duke, for one... He keeps boasting about how he's going to shoot enemies up... <ffx:wonder>But in fact, when you two were at that bridge, he didn’t kill the cultists, didn’t <ffx:disgust>even shoot that Silantius, and that is a shot I'd take in a heartbeat... <ffx:wonder>So, what does that make him? <ffx:wide_smile>A kind guy, that's what! Yeah...",
+  "target": "<ffx:smile>خذ Duke، على سبيل المثال... إنه يستمر في التفاخر بكيفية إطلاق النار على الأعداء...<ffx:wonder>ولكن في الواقع، عندما كنتما على ذلك الجسر، لم يقتل الطائفة، ولم يطلق<ffx:disgust>النار حتى على Silantius، وهذه هي اللقطة التي كنت سألتقطها بنبض القلب...<ffx:wonder>إذًا، ما الذي يجعله ذلك؟<ffx:wide_smile>رجل طيب، هذا ما! نعم...",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_010_briefing_01_miller_task_01_04",
+  "source": "<ffx:wonder>So, once you’re ready, go to the port and <ffx:smile_light>invite Krest to join us, then get back ASAP. <ffx:sadness>We'll have to decide what to do about the fanatics on that bridge. <ffx:neutral>",
+  "target": "<ffx:wonder>لذا، بمجرد أن تصبح جاهزًا، انتقل إلى الميناء و<ffx:smile_light>قم بدعوة Krest للانضمام إلينا، ثم عد في أسرع وقت ممكن.<ffx:sadness>سيتعين علينا أن نقرر ما يجب فعله بشأن المتعصبين الموجودين على ذلك الجسر.<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_05_winter\\win_010_sam_alyosha_18_01",
+  "source": "<ffx:anger_light>Ah, drop it! <ffx:sadness_light>We'll all stand with you, <ffx:smile_light>like with Anna and Artyom... <ffx:sadness_light>Like when the Colonel protected you from that crowd... <ffx:neutral>",
+  "target": "<ffx:anger_light>آه، أسقطه!<ffx:sadness_light>سنقف جميعًا معك،<ffx:smile_light>كما حدث مع Anna وArtyom...<ffx:sadness_light>مثلما حدث عندما قام العقيد بحمايتك من هذا الحشد...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_12_autumn\\aut_000_narration_bad",
+  "source": "<tab>We all remained silent while the Aurora was running along the poisoned sea held at bay by the dam... We believed we'd be back. Now, having seen the sword of Damocles hanging over the valley, we knew it was not meant to be. <br><br><tab>Alyosha, who is still unable to walk after being shot in the back, is driving himself mad with worry - his Olga is there... Perhaps, he will be able to warn her via Radio and save the people there...<br><br><tab>What happens next? I've no idea, I am ready for anything. Anything, but one thing. Anna... Please, hold on... Without you, I've nothing to live for, nothing to dream about... Doubly so, since if not for that dream of mine, you'd be all right now...<br><br>",
+  "target": "<tab>بقينا جميعًا صامتين بينما كانت سفينة Aurora تجري على طول البحر المسموم الذي يحاصره السد... كنا نعتقد أننا سنعود. الآن، بعد أن رأينا سيف ديموقليس معلقًا فوق الوادي، عرفنا أنه لم يكن من المفترض أن يكون كذلك.<br><br><tab>أليوشا، الذي لا يزال غير قادر على المشي بعد إصابته برصاصة في الظهر، يقود نفسه إلى الجنون من القلق - أولغا الخاصة به هناك... ربما، سيكون قادرًا على تحذيرها عبر الراديو وإنقاذ الأشخاص هناك...<br><br><tab>ماذا سيحدث بعد ذلك؟ ليس لدي أي فكرة، أنا مستعد لأي شيء. أي شيء، ولكن شيء واحد. آنا... أرجوك، انتظر... بدونك، ليس لدي ما أعيش من أجله، ولا شيء أحلم به... وهذا مضاعف، لأنه لولا حلمي هذا، لكنت بخير الآن...<br><br>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_13_dead_city\\nvs_008_shelter_radio_01_03",
+  "source": "<ffx:smile_light>We found the survivors, they say the Satcom center is still there, <ffx:wonder_light>which means a change of plans. <ffx:anger_light>I'm going there for the map, Artyom will handle the Institute. <ffx:smile_light>Make space for new passengers!<ffx:neutral>",
+  "target": "<ffx:smile_light>لقد عثرنا على الناجين، ويقولون إن مركز Satcom لا يزال موجودًا،<ffx:wonder_light>مما يعني تغييرًا في الخطط.<ffx:anger_light>أنا ذاهب إلى هناك للحصول على الخريطة، وسوف يتولى Artyom المعهد.<ffx:smile_light>إفساح المجال للركاب الجدد!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_002_initialbriefing_13",
+  "source": "<ffx:sadness>No... Until we figure <ffx:anger_light>out our situation, you are not to take a step away from the Aurora. <ffx:smile_light>These two can handle themselves just fine. <ffx:sleep>",
+  "target": "<ffx:sadness>لا... حتى نكتشف<ffx:anger_light>موقفنا، لا يجوز لك اتخاذ خطوة بعيدًا عن Aurora.<ffx:smile_light>يمكن لهذين الاثنين التعامل مع أنفسهم بشكل جيد.<ffx:sleep>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_015_7_canyon_riggers_talk_04_05",
+  "source": "<ffx:wonder>Eeee, you want to give me yours? <ffx:smile>You bark loud, but nothing else! <ffx:neutral>",
+  "target": "<ffx:wonder>Eeee، هل تريد أن تعطيني ما لديك؟<ffx:smile>أنت تنبح بصوت عالٍ، لكن لا شيء آخر!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_059_6_1_2_shiptribalstalk_01_02",
+  "source": "<ffx:fear>I work real good, myrza! <ffx:smile_light>Real good! Make Holy Flame <ffx:fear_light>happy, real happy! <ffx:neutral>",
+  "target": "<ffx:fear>أنا أعمل جيدًا يا ميرزا!<ffx:smile_light>جيد حقًا! اجعل Holy Flame<ffx:fear_light>سعيدًا، سعيدًا حقًا!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_spring\\spr_003_level2_princedead_01",
+  "source": "<ffx:wonder>Duke's plate carrier didn't hold the back plate anymore, and he... <ffx:sadness>He just kept joking about it... <ffx:neutral>",
+  "target": "<ffx:wonder>حامل لوحة Duke لم يعد يحمل اللوحة الخلفية، وهو...<ffx:sadness>لقد ظل يمزح حول هذا الموضوع...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_05_winter\\win_003_radiogameprogress_50",
+  "source": "<ffx:wonder>You ask me how things will finish? <ffx:smile_light>Well, let me tell you: it <ffx:sadness_light>all depends on Artyom, now...",
+  "target": "<ffx:wonder>تسألني كيف ستنتهي الأمور؟<ffx:smile_light>حسنًا، دعني أخبرك:<ffx:sadness_light>يعتمد كليًا على Artyom، الآن...",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_040_bguards_idle_talk_tower_hostage_01_04",
+  "source": "<ffx:wonder>Now you don't even know what’s worse - it's been <ffx:fear>a month since anybody returned from a trip to the House of the Fish! <ffx:neutral>",
+  "target": "<ffx:wonder>الآن أنت لا تعرف حتى ما هو الأسوأ - لقد مر شهر<ffx:fear>منذ أن عاد أي شخص من رحلة إلى House of the Fish!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_170_saultalk_01_19",
+  "source": "<ffx:wonder_light>So, to cut to the chase, I <ffx:sadness_light>almost loosed that crazy witch on his ass... <ffx:disgust_light>She was supposed to whack him, <ffx:wonder_light>and I had all the preparations in place - <ffx:wonder>raz, dva, i v damki, you see! <ffx:neutral>",
+  "target": "<ffx:wonder_light>لذا، للانتقال إلى المطاردة، كدت أن أحرر<ffx:sadness_light>تلك الساحرة المجنونة التي كانت على مؤخرته...<ffx:disgust_light>كان من المفترض أن تضربه،<ffx:wonder_light>وقمنا أنا وجميع الاستعدادات -<ffx:wonder>raz، dva، i v damki، كما ترى!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_12_valley\\val_050_finale_01_01_03",
+  "source": "<ffx:wide_smile_light>And I just managed to get in contact with the Aurora!<ffx:neutral>",
+  "target": "<ffx:wide_smile_light>وتمكنت للتو من الاتصال بـ Aurora!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\universal_m3\\factions\\tribal_3\\stunned\\stunned_found_02",
+  "source": "What with you?! AH, he’s alive... Heey! That kutak is here, he knocked to sleep our man! Let’s catch him and sacrifice him to Holy Flame!",
+  "target": "ماذا معك؟! آه، إنه حي... هيه! هذا kutak هنا، لقد طرق للنوم رجلنا! دعونا نقبض عليه ونضحي به للشعلة المقدسة!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_011_cardebriefing_yermak_thanksforkrest_01",
+  "source": "<ffx:smile>Hey Artyom, take a look at the Aurora! She's back in action! <ffx:smile_light>Without Krest, the repairs would have taken me forever...",
+  "target": "<ffx:smile>مرحبًا Artyom، ألق نظرة على Aurora! لقد عادت إلى العمل!<ffx:smile_light>لولا Krest، لكانت الإصلاحات قد أخذتني إلى الأبد...",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_040_oasisfort_tribalzindan_dogtalk_01_01",
+  "source": "<ffx:smile>[whistles] Come, come here, now! Take bone, now! <ffx:neutral>",
+  "target": "<ffx:smile>[whistles]تعال، تعال هنا، الآن! خذ العظام، الآن!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_09_summer\\sum_002_partystarts_01_01",
+  "source": "<ffx:smile>Artyom, sit somewhere nearby!<ffx:neutral>",
+  "target": "<ffx:smile>Artyom، اجلس في مكان قريب!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_000_narration_02_part3",
+  "source": "<tab>Katya mentioned an engineer called Krest, who's hiding from the cultists in the Port - he could help us fix the Aurora and cross the bridge. Now seems to be a good time to pay him a visit...<br><br>",
+  "target": "<tab>ذكرت Katya مهندسًا يُدعى Krest، والذي يختبئ من الطوائف في الميناء - يمكنه مساعدتنا في إصلاح Aurora وعبور الجسر. يبدو الآن أن الوقت مناسب لزيارته...<br><br>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_02_dead_moscow\\dmc_002_hospital_01_09",
+  "source": "<ffx:anger_light>The Order is short on men after the battle for D6, but you leave! <ffx:sadness>People need you and you pursue your selfish obsession! <ffx:anger_light>",
+  "target": "<ffx:anger_light>The Order يفتقر إلى الرجال بعد معركة D6، لكنك تغادر!<ffx:sadness>الناس بحاجة إليك وأنت تتبع هوسك الأناني!<ffx:anger_light>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_09_summer\\sum_002_partystarts_0105_02",
+  "source": "<ffx:wide_smile>Everything is perfect, <ffx:smile>Artyom! Follow us! <ffx:neutral>",
+  "target": "<ffx:wide_smile>كل شيء على ما يرام،<ffx:smile>Artyom! تابعنا!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_011_outofthebunker_01_10",
+  "source": "<ffx:wonder_light>\"Munai-bailer\" translates to something like \"Oil rich people\"... <ffx:smile_light>Oil drillers, I guess... <ffx:neutral>",
+  "target": "<ffx:wonder_light>\"Munai-bailer\" تُترجم إلى شيء مثل \"الأشخاص الأثرياء بالنفط\"...<ffx:smile_light>حفارات النفط، على ما أعتقد...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_171_barondouble_talk_06_canyontalk_01",
+  "source": "<ffx:smile_light>As far as I know, you've also been to the Free Canyon, <ffx:wonder_light>haven't you?.. <ffx:disgust>Freedom... Struggle... Those are powerful words, <ffx:wonder>but what did they bring to those people? <ffx:anger>Death and destruction! Exactly as one should expect! <ffx:neutral>",
+  "target": "<ffx:smile_light>على حد علمي، لقد ذهبت أيضًا إلى Free Canyon،<ffx:wonder_light>أليس كذلك؟..<ffx:disgust>الحرية... النضال... تلك كلمات قوية،<ffx:wonder>لكن ما الذي جلبته لهؤلاء الأشخاص؟<ffx:anger>الموت والدمار! تماما كما ينبغي للمرء أن يتوقع!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_21_5_tokarev_invitationtoworkbench_01_01",
+  "source": "<ffx:wonder>Artyom, if you need to adjust your gear or weapons, <ffx:smile_light>the workbench is always at your service! <ffx:neutral>",
+  "target": "<ffx:wonder>Artyom، إذا كنت بحاجة إلى ضبط عتادك أو أسلحتك، فإن<ffx:smile_light>منضدة العمل دائمًا في خدمتك!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc1\\dlc1_26_depot_workerstalk_02_13",
+  "source": "But as for the catwalks, you really should be careful around those. The OSKOM is miserly with green stuff nowadays, and taking a dive means three days' worth of radiation you absorb right there.",
+  "target": "ولكن بالنسبة للمنصات، عليك أن تكون حذرًا بشأنها. إن OSKOM شحيح فيما يتعلق بالأشياء الخضراء هذه الأيام، والغوص يعني امتصاص ثلاثة أيام من الإشعاع هناك.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_02_dead_moscow\\dmc_002_hospital_01_02",
+  "source": "<ffx:anger_light>Are you trying to kill me with worry? <ffx:fear>What if next time you don't return from the Surface? <ffx:neutral>",
+  "target": "<ffx:anger_light>هل تحاول قتلي بالقلق؟<ffx:fear>ماذا لو لم تعود من Surface في المرة القادمة؟<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_010_briefing_01_idiot_alyosha_talk_01_14",
+  "source": "<ffx:smile_light>Go get’em all Artyom! They'd <ffx:smile>better hope they can run fast enough! <ffx:smile_light>",
+  "target": "<ffx:smile_light>اذهب واحصل على كل Artyom! من الأفضل أن يأملوا في أن يتمكن<ffx:smile>من الركض بسرعة كافية!<ffx:smile_light>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_02_dead_moscow\\dmc_030_goingtotheaurora_01_10",
+  "source": "<ffx:wonder_light>Artyom, try going down that ladder ahead, <ffx:fear_light>just be careful!<ffx:neutral>",
+  "target": "<ffx:wonder_light>Artyom، حاول النزول على هذا السلم للأمام،<ffx:fear_light>فقط كن حذرًا!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_13_dead_city\\nvs_001_initialbriefing_09",
+  "source": "<ffx:smile_light>Good... Artyom and I <ffx:wonder_light>are checking the Institute's main building. <ffx:sadness_light>Radiation is way too high here, so <ffx:wonder_light>we'll try to get there through the metro. <ffx:neutral>",
+  "target": "<ffx:smile_light>جيد... أنا وArtyom<ffx:wonder_light>نقوم بفحص المبنى الرئيسي للمعهد.<ffx:sadness_light>الإشعاع مرتفع جدًا هنا، لذا سنحاول<ffx:wonder_light>الوصول إلى هناك عبر المترو.<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_12_valley\\val_099_02_radio_02_06",
+  "source": "Lost contact with you... The Aurora is going to the arranged rendezvous point at the Dam. If you can’t reestablish radio contact, go there right now.",
+  "target": "فقدت الاتصال بك... ستتجه السفينة Aurora إلى نقطة الالتقاء المحددة عند السد. إذا لم تتمكن من إعادة الاتصال اللاسلكي، فانتقل إلى هناك الآن.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_12_autumn\\aut_007_idiotstepan_01_07",
+  "source": "<ffx:wonder_strong>What are we even talking about, then? <ffx:sadness>The Colonel said the discussion was closed. They already decided everything with Artyom, and we must respect their decision... <ffx:smile_light>And believe that it will all work out. Because we are what?",
+  "target": "<ffx:wonder_strong>ما الذي نتحدث عنه إذن؟<ffx:sadness>قال العقيد أن المناقشة قد أغلقت. لقد قرروا بالفعل كل شيء مع Artyom، وعلينا أن نحترم قرارهم...<ffx:smile_light>ونعتقد أن كل شيء سينجح. لأننا ماذا؟",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc1\\dlc1_225_3_oskom_battleshouts_02_08",
+  "source": "Let's show this rabble what the OSKOM fighters are worth!",
+  "target": "دعونا نظهر لهذا الرعاع ما يستحقه مقاتلو OSKOM!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_05_winter\\win_010_tokarevtalk_04_01",
+  "source": "<ffx:wonder_light>So, if you find any weapons you'd like to keep, <ffx:smile_light>I'll store them here on the Aurora and you can come back to exchage them. <ffx:wonder_light>You'll get them back in their best <ffx:smile>shape ever, don't you doubt! <ffx:smile_light>",
+  "target": "<ffx:wonder_light>لذا، إذا وجدت أي أسلحة ترغب في الاحتفاظ بها،<ffx:smile_light>سأقوم بتخزينها هنا على Aurora ويمكنك العودة لاستبدالها.<ffx:wonder_light>سوف تستعيدهم بأفضل شكل<ffx:smile>على الإطلاق، ألا تشك في ذلك!<ffx:smile_light>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc1\\dlc1_102_olkach_again_01_10",
+  "source": "Nobody has, really. OSKOM takes it all from everyone. I can only give you my condolences, and nothing else, really.",
+  "target": "لا أحد فعل ذلك حقًا. OSKOM تأخذ كل شيء من الجميع. لا يسعني إلا أن أقدم لك تعازي، ولا شيء آخر.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_spring\\spr_004_krestsmoking_02",
+  "source": "<ffx:smile_light>Khe-khm... Good stuff Khm... <ffx:neutral>",
+  "target": "<ffx:smile_light>Khe-khm... أشياء جيدة Khm...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_02_04_spartanscheckrooms_13",
+  "source": "<ffx:wonder>Artyom, we can <ffx:smile>handle it here. <ffx:neutral>",
+  "target": "<ffx:wonder>Artyom، يمكننا التعامل مع<ffx:smile>هنا.<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_016_10_onapproach_03",
+  "source": "<ffx:wonder_light>Giul and I are starting our recon run, <ffx:smile_light>so you can check your gear, and catch up with us. <ffx:wonder_light>We'll rendezvous at their base. <ffx:neutral>",
+  "target": "لقد بدأنا أنا و<ffx:wonder_light>Giul الجولة الاستطلاعية،<ffx:smile_light>حتى تتمكن من التحقق من معداتك واللحاق بنا.<ffx:wonder_light>سنلتقي في قاعدتهم.<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc1\\dlc1_80_general_conversation_02_14",
+  "source": "Just forget it all and take a break. Your people can handle the Prospekt by themselves.",
+  "target": "فقط انسى كل شيء وخذ قسطاً من الراحة. يمكن لشعبك التعامل مع Prospekt بأنفسهم.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_017_waytoterminal_01_04",
+  "source": "<ffx:wonder_light>Artyom, we took a look around, the main <ffx:smile_light>gate is guarded by a skeleton crew. <ffx:neutral>",
+  "target": "<ffx:wonder_light>Artyom، ألقينا نظرة حولنا، البوابة الرئيسية<ffx:smile_light>يحرسها طاقم هيكلي.<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_05_winter\\win_010_damir_stepan_04",
+  "source": "<ffx:wonder_light>Well, you know... <ffx:sadness_light>There probably wasn't anything to catch from Kulandy even before the War! <ffx:smile_light>Don't worry, nobody would ever bomb them... <ffx:smile>Couldn't find them on the map!<ffx:neutral>",
+  "target": "<ffx:wonder_light>حسنًا، كما تعلم...<ffx:sadness_light>ربما لم يكن هناك أي شيء يمكن التقاطه من Kulandy حتى قبل الحرب!<ffx:smile_light>لا تقلق، لن يقصفهم أحد أبدًا...<ffx:smile>لم يتمكن من العثور عليهم على الخريطة!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_spring\\spr_007_princewake_loop_02",
+  "source": "<ffx:smile_light>Yes, this is worth having another drink for... <ffx:smile>To our guys having fun in Valhalla! <ffx:neutral>",
+  "target": "<ffx:smile_light>نعم، هذا يستحق تناول مشروب آخر من أجل...<ffx:smile>إلى رجالنا الذين يستمتعون في Valhalla!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_002_initialbriefing_upd_12",
+  "source": "<ffx:anger_light>Yermak! When can you <ffx:wonder>get the Aurora running again? <ffx:neutral>",
+  "target": "<ffx:anger_light>يرماك! متى يمكنك تشغيل<ffx:wonder>لـ Aurora مرة أخرى؟<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_05_winter\\win_000_miller_confession_12",
+  "source": "To ensure radio silence, <ffx:disgust_light>the \"Shield\" system was created: <ffx:wonder_light>a network of radio jammers, covering Moscow and suburbs.",
+  "target": "لضمان صمت الراديو، تم إنشاء نظام \"Shield\"<ffx:disgust_light>:<ffx:wonder_light>شبكة من أجهزة تشويش الراديو، تغطي موسكو وضواحيها.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_02_dead_moscow\\dmc_000_5_spartans_radio_01_01",
+  "source": "Miller here. Idiot, give me a sitrep.",
+  "target": "ميلر هنا. احمق، أعطني sitrep.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_10_yamantau\\yam_099_cannibal_attack_03_04",
+  "source": "Looooads of foooood!",
+  "target": "الكثير من foooood!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_spring\\spr_007_princeparty_idiotleaves_02",
+  "source": "<ffx:smile>Ne kochegary my, ne plotniki... <ffx:neutral>",
+  "target": "<ffx:smile>لا kochegary بلدي، لا plotniki...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_003_tikharchat_08_addon_02",
+  "source": "<ffx:wonder_light>Artyom, look... I have <ffx:smile_light>an improvement for Tikhar ready. <ffx:wonder_light>Try taking it our for a trial, you're welcome to <ffx:smile_light>use the workbench to install it! <ffx:neutral>",
+  "target": "<ffx:wonder_light>Artyom، انظر... لدي<ffx:smile_light>تحسين لتيخار جاهز.<ffx:wonder_light>حاول تجربته، فنحن نرحب بك لاستخدام<ffx:smile_light>طاولة العمل لتثبيته!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_171_barondouble_talk_01_idle_07",
+  "source": "<ffx:disgust>\"Yes, Baron!\" <ffx:anger>Cretins... So dumb they can't do shit... <ffx:neutral>",
+  "target": "<ffx:disgust>\"نعم يا بارون!\"<ffx:anger>Cretins... غبي جدًا لدرجة أنهم لا يستطيعون فعل أي شيء...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_05_winter\\win_000_annanews_discussion_01_01_10",
+  "source": "<ffx:sadness_light>Take your average station dwellers - even if the Hansa guards didn't shoot them, <ffx:wonder>how far would they get? <ffx:sadness>Right to the nearest mutant den, most likely... <ffx:sadness_light>We are safe here, speeding along on this Eastern Express. <ffx:sadness>They are not as lucky, not at all.<ffx:sadness_light>",
+  "target": "<ffx:sadness_light>خذ سكان المحطة العاديين - حتى لو لم يطلق حراس هانزا النار عليهم،<ffx:wonder>إلى أي مدى سيصلون؟<ffx:sadness>مباشرة إلى أقرب وكر متحول، على الأرجح...<ffx:sadness_light>نحن آمنون هنا، نسير بسرعة على متن قطار Eastern Express.<ffx:sadness>إنهم ليسوا محظوظين، على الإطلاق.<ffx:sadness_light>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_13_dead_city\\nvs_101_commercial_01_combined",
+  "source": "<single_phrase_mode><time=10240>...the AI-2000 medkit and VF-P field medic kits include another product of our Institute’s research:<time=70560><time=7880>the RENERGAN-F vesicant effect suppressor - regeneration stimulant combination,<time=12700><time=12700>providing quick remedy for the consequences of vesicant agent exposure and ensuring rapid recovery of damaged tissue, particularly lung tissue.<time=20800><time=21500>Clinical tests have confirmed pronounced therapeutic effect produced by a single application,<time=26240><time=26500>and a complete treatment course ensures complete recovery in 60 percent of even the most severe cases, with partial recovery in...<time=33280>",
+  "target": "<single_phrase_mode><time=10240>وتتضمن حقيبتا الإسعاف AI-2000 وVF-P منتجًا آخر من أبحاث معهدنا...<time=70560><time=7880>وهو RENERGAN-F، الذي يجمع بين كبح آثار المواد المسببة للبثور وتحفيز تجدد الأنسجة...<time=12700><time=12700>ليعالج سريعًا آثار التعرض لتلك المواد، ويضمن تعافي الأنسجة المتضررة، وخاصة أنسجة الرئة.<time=20800><time=21500>وقد أكدت التجارب السريرية أثرًا علاجيًا واضحًا لجرعة واحدة...<time=26240><time=26500>وتضمن دورة العلاج الكاملة شفاءً تامًا في 60 بالمئة من أشد الحالات، وشفاءً جزئيًا في...<time=33280>",
+  "status": "reviewed",
+  "translation_origin": "reviewed"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_010_briefing_01_anna_occupanttalk_01",
+  "source": "<ffx:wonder>Artyom, are you going to the port? <ffx:wonder_light>I'm going to relieve Alyosha now, so I can't come with you... <ffx:neutral>",
+  "target": "<ffx:wonder>Artyom، هل ستذهب إلى الميناء؟<ffx:wonder_light>سأقوم بإراحة اليوشا الآن، لذلك لا أستطيع القدوم معك...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_21_5_tokarev_invitationtoworkbench_02_02",
+  "source": "<ffx:wonder>You can exchange your weapons at my <ffx:smile_light>workbench here, Artyom! <ffx:neutral>",
+  "target": "<ffx:wonder>يمكنك تبادل أسلحتك في طاولة العمل<ffx:smile_light>الخاصة بي هنا، Artyom!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_011_carbriefing_21",
+  "source": "<ffx:wonder>Artyom, Duke is on a mission in that area, he's keeping tabs on the bridge. <ffx:sadness>Reception is bad there, we mostly get static from him... <ffx:wonder>Anyway, if you meet him he'll update you on <ffx:smile_light>the latest developments in the terminal.",
+  "target": "<ffx:wonder>Artyom، Duke يقوم بمهمة في تلك المنطقة، وهو يراقب الجسر.<ffx:sadness>الاستقبال سيء هناك، وغالبًا ما نحصل على ثبات منه...<ffx:wonder>على أية حال، إذا قابلته فسوف يطلعك على آخر التطورات في المحطة على<ffx:smile_light>.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_010_briefing_01_katya_artyomapproach_04",
+  "source": "<ffx:smile>We all lucked out with Anna - <ffx:wide_smile>she's a total deadeye! Now <ffx:smile_strong>I only wish your mom could come with us too, <ffx:smile>with a real medic we'd become unstoppable! <ffx:smile_light>",
+  "target": "<ffx:smile>لقد حالفنا الحظ جميعًا مع Anna -<ffx:wide_smile>، إنها ميتة تمامًا! الآن<ffx:smile_strong>أتمنى فقط أن تأتي والدتك معنا أيضًا،<ffx:smile>مع مسعف حقيقي لن يمكن إيقافنا!<ffx:smile_light>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_spring\\spr_099_radiostation_02_01_02",
+  "source": "Morholt here, I’m in Dzhemete!",
+  "target": "مورهولت هنا، أنا في Dzhemete!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_059_insideoilrig_bbpe_01_05",
+  "source": "<ffx:anger>I won you from the Baldie fair and square, so whatever <ffx:smile>I say is the law for you, haha!<ffx:neutral>",
+  "target": "<ffx:anger>لقد فزت بك من معرض وميدان Baldie، لذا فإن أي شيء أقوله<ffx:smile>هو القانون المناسب لك، هاها!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_spring\\spr_002_level1_princedead_00",
+  "source": "<ffx:sadness>I'm so sorry about Duke... <ffx:sadness_light>He was just a boy, really. He kept asking me <ffx:smile_light>for advice of how to become more attractive to a girl he knew, what to say to her... <ffx:sadness>He couldn't wait to come back to her, proudly wearing scars and medals...<ffx:neutral>",
+  "target": "<ffx:sadness>أنا آسف جدًا بشأن Duke...<ffx:sadness_light>لقد كان مجرد صبي حقًا. لقد ظل يطلب مني نصيحة<ffx:smile_light>حول كيفية أن يصبح أكثر جاذبية لفتاة يعرفها، وماذا يقول لها...<ffx:sadness>لم يستطع الانتظار حتى يعود إليها، وهو يرتدي الندبات والميداليات بكل فخر...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_spring\\spr_099_radiostation_02_03_09",
+  "source": "What’s the holdup then? Come over here, old Sabertooth misses you! There’s also something-a-brewing here, so your help would be kinda welcome... So, just come over. Do you copy? Over!",
+  "target": "ما هو التعطيل إذن؟ تعال إلى هنا، Sabertooth القديم يفتقدك! يوجد أيضًا شيء ما هنا، لذا ستكون مساعدتك موضع ترحيب نوعًا ما... لذا، تعال هنا. هل تنسخ؟ زيادة!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_13_dead_city\\nvs_008_intheshelter_01_13_01",
+  "source": "<ffx:wonder_light>Artyom, let's contact the Aurora... <ffx:anger_light>I'm going to get that map, we should  tell them. <ffx:neutral>",
+  "target": "<ffx:wonder_light>Artyom، دعنا نتصل بـ Aurora...<ffx:anger_light>سأحصل على تلك الخريطة، يجب أن نخبرهم.<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_05_winter\\win_010_sam_alyosha_24",
+  "source": "<ffx:smile>There's this little whorehouse on the Tsvetnoi Bulvar station I'd like to see, <ffx:wonder_light>even if it was just in a dream... <ffx:sadness_light>Look, I'll catch some shuteye if you don't mind... <ffx:neutral>",
+  "target": "<ffx:smile>هناك بيت الدعارة الصغير هذا في محطة Tsvetnoi Bulvar أود رؤيته،<ffx:wonder_light>حتى لو كان ذلك في حلم فقط...<ffx:sadness_light>انظر، سأنام قليلاً إذا كنت لا تمانع...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_020_portbriefingupdate_anna_21",
+  "source": "<ffx:wonder>Artyom, have you forgotten about the boat? <ffx:neutral>",
+  "target": "<ffx:wonder>Artyom، هل نسيت أمر القارب؟<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_008_spartanmission_reminder_katya_stepan_10",
+  "source": "<ffx:sadness_light>I'd go look for her if I had a choice, <ffx:sadness>but the Colonel has ordered me to stay here to guard the Aurora... <ffx:fear_light>This could be a diversion, you know... <ffx:wonder_light>",
+  "target": "<ffx:sadness_light>سأذهب للبحث عنها إذا كان لدي خيار،<ffx:sadness>لكن العقيد أمرني بالبقاء هنا لحراسة Aurora...<ffx:fear_light>قد يكون هذا تحويلًا، كما تعلم...<ffx:wonder_light>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc2\\dlc2_067_firedepot_bandits_shouting_at_sam_01_01",
+  "source": "There he is! Up there! Going for the zipline!",
+  "target": "ها هو! هناك! الذهاب إلى zipline!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_02_dead_moscow\\dmc_030_goingtotheaurora_02_07",
+  "source": "<ffx:sadness_light>Let's sprint to Yermak, Artyom!<ffx:neutral>",
+  "target": "<ffx:sadness_light>هيا نركض بسرعة نحو Yermak، Artyom!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc2\\dlc2_080_twoneutrals_sam_leaves_01_08",
+  "source": "Yea! Korzh would have plugged him there and then! ",
+  "target": "نَعَم! كان Korzh قد قام بتوصيله هناك وبعد ذلك!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_05_winter\\win_010_yermaktalk_artyomreaction_01",
+  "source": "Look, <ffx:wonder_light>Artyom, you should at least <ffx:wonder>get some of that fresh air! <ffx:smile>No mask - this is just what you've always dreamed about! <ffx:smile_light>",
+  "target": "انظر يا<ffx:wonder_light>Artyom، يجب أن تحصل على الأقل على<ffx:wonder>على بعض من هذا الهواء النقي!<ffx:smile>بدون قناع - هذا هو ما حلمت به دائمًا!<ffx:smile_light>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_009_themoorcango_04",
+  "source": "<ffx:smile>Thanks, Artyom! We'll take it from here... <ffx:wonder>You should get to the Aurora now. <ffx:smile_light>Stepan was trying to get Katya and Nastya onto the train, <ffx:wide_smile_light>and the Colonel's putting up a fight. <ffx:neutral>",
+  "target": "<ffx:smile>شكرًا أرتيوم! سنتولى الأمر من هنا...<ffx:wonder>يجب أن تصل إلى Aurora الآن.  كان<ffx:smile_light>يحاول ستيبان إدخال كاتيا وناستيا إلى القطار، ويتقاتل<ffx:wide_smile_light>والعقيد.<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_003_05_e3_tokarevarmoryexplain_01",
+  "source": "<ffx:wide_smile>Check out my setup here, Artyom! <ffx:smile>I finally got everything the way I wanted!",
+  "target": "<ffx:wide_smile>تحقق من الإعداد الخاص بي هنا، Artyom!<ffx:smile>أخيرًا حصلت على كل شيء بالطريقة التي أردتها!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_000_narration_04",
+  "source": "<tab>I found Anna. She crashed through the roof of some pre-war bunker, bumped her head, and was unconscious for a while there. Luckily, she seems alright now.<br><br><tab>In the meantime, there have been some new developments at the Aurora. The Colonel wants me back there ASAP...<br><br>",
+  "target": "<tab>لقد وجدت آنا. لقد اصطدمت بسقف أحد المخابئ التي كانت موجودة قبل الحرب، واصطدمت برأسها، وفقدت الوعي لفترة هناك. ولحسن الحظ أنها تبدو بخير الآن.<br><br><tab>في هذه الأثناء، كانت هناك بعض التطورات الجديدة في Aurora. يريدني العقيد أن أعود إلى هناك في أسرع وقت ممكن...<br><br>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_011_portattackmissionsuspended_react_miller_02",
+  "source": "<ffx:wonder_light>Get some rest if you need it, Artyom, <ffx:sadness_light>but try to be quick! <ffx:wonder_light>They're waiting for you at the port.",
+  "target": "<ffx:wonder_light>احصل على قسط من الراحة إذا كنت في حاجة إليها، Artyom،<ffx:sadness_light>ولكن حاول أن تكون سريعًا!<ffx:wonder_light>إنهم في انتظارك في الميناء.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc1\\dlc1_225_1_rioters_battleshouts_01_13",
+  "source": "Down with the OSKOM!",
+  "target": "يسقط OSKOM!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_035_oasisfort_sentry_02_04",
+  "source": "<ffx:anger>Munda bireudin avtokelik! <ffx:neutral>",
+  "target": "<ffx:anger>موندا bireudin avtokelik!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\universal_m3\\factions\\merc_2\\danger\\attacking_enemy_04",
+  "source": "You fucking furball!",
+  "target": "أنت سخيف furball!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_007_02_06_briefing_1_5_nastyakatya_01_01",
+  "source": "<ffx:wonder>Muuum... How soon can we leave? <ffx:disgust>It's hot here... And booring... <ffx:neutral>",
+  "target": "<ffx:wonder>Muuum... متى يمكننا المغادرة؟<ffx:disgust>الجو حار هنا... وممل...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\universal_m3\\factions\\tribal_2\\context\\context_reaction_up_02",
+  "source": "What? There is a kutak up there, I think! ",
+  "target": "ماذا؟ هناك kutak هناك، على ما أعتقد!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_003_tt_talk_01_04",
+  "source": "<ffx:wonder_light>Hollowed out a couple Tikhar bullets and <ffx:wide_smile_light>filled them with explosive! <ffx:smile>Some explosive ammo right there! <ffx:neutral>",
+  "target": "<ffx:wonder_light>قام بتجويف بضع رصاصات من نوع Tikhar وملأها<ffx:wide_smile_light>بالمتفجرات!<ffx:smile>بعض الذخيرة المتفجرة هناك!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc_comments\\burunduk\\dlc_comments_canyon_rest_place_part_03",
+  "source": "The level was also a stage for tumultuous drama. Lots of events would play out here: Pavel from Last Light was looking for his grandfather's grave, Giul went tracking the cannibal who had kidnapped Nastya, ",
+  "target": "وكان المستوى أيضًا مسرحًا للدراما الصاخبة. ستدور أحداث كثيرة هنا: كان بافيل من فيلم Last Light يبحث عن قبر جده، وذهب جيول لتعقب آكل لحوم البشر الذي اختطف ناستيا،",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc1\\dlc1_110_khlebnikov_kirill_postsearch_conversation_01_11",
+  "source": "You said, OSKOM protects people, but you just take their green stuff away!",
+  "target": "قلت إن OSKOM تحمي الناس، لكنك تأخذ فقط الأشياء الخضراء الخاصة بهم بعيدًا!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_13_dead_city\\nvs_006_enterfirststation_06",
+  "source": "<ffx:smile_light>Our old pal, the DShK... <ffx:neutral>",
+  "target": "<ffx:smile_light>صديقنا القديم، DShK...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_13_dead_city\\nvs_103_carmovingoutcomm_03",
+  "source": "Contact Artyom (static) all blocked (static) running late (static)",
+  "target": "جهة الاتصال Artyom (ثابت) جميعها محظورة (ثابت) متأخرة (ثابت)",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc1\\dlc1_225_2_rioters_battleshouts_02_08",
+  "source": "Get your asses ready, you OSCUM bitches!",
+  "target": "جهزوا مؤخرتكم أيها العاهرات OSCUM!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_008_spartanmission_reminder_katya_stepan_08",
+  "source": "<ffx:wonder>Well, you see now? <ffx:smile>Artyom is on the case, so it's definitely going to be fine! <ffx:smile_light>",
+  "target": "<ffx:wonder>حسنا، هل ترى الآن؟<ffx:smile>Artyom موجود في هذه القضية، لذا سيكون بالتأكيد على ما يرام!<ffx:smile_light>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_13_dead_city\\nvs_001_initialbriefing_06",
+  "source": "<ffx:anger_light>Krest, Sam, Idiot and I will handle the Institute building in Akademgorodok. <ffx:smile_light>We'll pay a visit to the railroad museum on the way. <ffx:wonder_light>There might be something for the Aurora there... <ffx:neutral>",
+  "target": "<ffx:anger_light>أنا وكريست وسام وأيديوت سنتولى إدارة مبنى المعهد في أكاديمجورودوك.<ffx:smile_light>سنقوم بزيارة متحف السكك الحديدية في الطريق.<ffx:wonder_light>قد يكون هناك شيء ما لـ Aurora هناك...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_09_summer\\sum_003_05_partyends_01_04",
+  "source": "<ffx:sadness>Yes, this is getting old - as <ffx:wonder_light>soon as something happens, <ffx:disgust_light>it's always Artyom's fault, even <ffx:wonder>when he had nothing to do with it... <ffx:neutral>",
+  "target": "<ffx:sadness>نعم، هذا أصبح قديمًا - مثل<ffx:wonder_light>بمجرد حدوث شيء ما،<ffx:disgust_light>دائمًا ما يكون خطأ Artyom، حتى<ffx:wonder>عندما لا علاقة له بالأمر...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc_comments\\burunduk\\dlc_comments_camp_cave_rest_place_part_01",
+  "source": "There are more neutral NPCs in the Taiga level than anywhere else in Exodus, and their stories help us paint the picture of the local society.",
+  "target": "هناك شخصيات غير قابلة للعب (NPCs) أكثر حيادية في مستوى Taiga من أي مكان آخر في Exodus، وتساعدنا قصصهم في رسم صورة للمجتمع المحلي.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_05_chase\\cha_001_newchasestart_25",
+  "source": "<ffx:wonder_light>Artyom, leap over as <ffx:anger_light>soon as we slow down!<ffx:neutral>",
+  "target": "<ffx:wonder_light>Artyom، اقفز فوق<ffx:anger_light>بمجرد أن نبطئ السرعة!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_02_dead_moscow\\dmc_007_outsidewalk_06",
+  "source": "<ffx:anger>Stop! The pack is here... <ffx:smile>So, do we turn this place into Thermopylae, <ffx:wonder>or do we let them pass? <ffx:neutral>",
+  "target": "<ffx:anger>توقف! الحزمة هنا...<ffx:smile>إذًا، هل نحول هذا المكان إلى Thermopylae،<ffx:wonder>أم نسمح لهم بالمرور؟<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_035_oasisfort_sentry_02_03",
+  "source": "<ffx:anger>Heads up! Tagy da, bul bolyp tabyladu! <ffx:neutral>",
+  "target": "<ffx:anger>تنبيه! Tagy da، bul bolyp tabyladu!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_21_5_tokarev_invitationtoworkbench_02_01",
+  "source": "<ffx:wonder_light>Artyom, the workbench is <ffx:smile_light>at your service if you need it! <ffx:neutral>",
+  "target": "<ffx:wonder_light>Artyom، طاولة العمل هي<ffx:smile_light>في خدمتك إذا كنت في حاجة إليها!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_ending\\end_04_outcome_01_03_goodend",
+  "source": "<ffx:smile_light>Guys, please! We did all we could... <ffx:wonder>Soon we'll find out if it was enough. <ffx:smile_light>It's all in Artyom's hands now!",
+  "target": "<ffx:smile_light>يا شباب، من فضلكم! لقد بذلنا كل ما في وسعنا...<ffx:wonder>سنكتشف قريبًا ما إذا كان ذلك كافيًا.<ffx:smile_light>الأمر كله بين يدي Artyom الآن!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\universal_m3\\factions\\spartans\\sam\\loot\\loot_unique_06",
+  "source": "Vot eto kstati!",
+  "target": "التصويت لإيتو kstati!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_006_rapunzel_new_08",
+  "source": "<ffx:fear>Oh! It's the Bridge Guard!... <ffx:disgust_light>Silantius fooled them just like the locals, <ffx:fear>but unlike them, the Bridge Guard have guns...",
+  "target": "<ffx:fear>أوه! إنه حارس الجسر!... خدعهم<ffx:disgust_light>Silantius تمامًا مثل السكان المحليين،<ffx:fear>ولكن على عكسهم، فإن حارس الجسر لديه أسلحة...",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_003_backpackchat_01",
+  "source": "<ffx:wonder>Artyom, don't forget your backpack! <ffx:neutral>",
+  "target": "<ffx:wonder>Artyom، لا تنس حقيبة الظهر الخاصة بك!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\universal_m3\\factions\\merc_3\\danger\\attacking_enemy_03",
+  "source": "There, you fucking furball!",
+  "target": "هناك، أنت سخيف furball!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_12_autumn\\aut_011_kresttalk_01_09_karmagood",
+  "source": "<ffx:wonder>So, here's the main point... <ffx:smile>Bratukha, if you and Colonel have people like this coming with you, <ffx:wonder_light>this means our cause is right, <ffx:sadness>and we can take anything on, <ffx:smile>don't it? Haha! (Cough) Yeah... <ffx:neutral>",
+  "target": "<ffx:wonder>إذن، هذه هي النقطة الرئيسية...<ffx:smile>Bratukha، إذا كان لديك أنت والعقيد أشخاص مثل هؤلاء معك،<ffx:wonder_light>فهذا يعني أن قضيتنا صحيحة،<ffx:sadness>ويمكننا تحمل أي شيء،<ffx:smile>أليس كذلك؟ هاها! (السعال) نعم...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_spring\\spr_008_artyomarrives_03",
+  "source": "<ffx:wonder_light>As you can see, we are heading almost straight <ffx:smile_light>for the Yamantau complex - Katya and Krest tell me <ffx:wonder_light>that the line there is in decent condition... <ffx:neutral>",
+  "target": "<ffx:wonder_light>كما ترون، نحن نتجه بشكل مستقيم تقريبًا<ffx:smile_light>نحو مجمع Yamantau - أخبرني كاتيا وكريست<ffx:wonder_light>أن الخط هناك في حالة جيدة...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_013_briefing_02_21",
+  "source": "<ffx:wonder_light>Your goal is to bring water to the Aurora. <ffx:anger_light>Failure is not an option. <ffx:neutral>",
+  "target": "<ffx:wonder_light>هدفك هو جلب الماء إلى Aurora.  فشل<ffx:anger_light>ليس خيارًا.<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_02_dead_moscow\\dmc_051_turntrain_02_04_02",
+  "source": "<ffx:anger>Artyom, we need that turntable on!<ffx:neutral>",
+  "target": "<ffx:anger>Artyom، نحتاج إلى تشغيل هذا القرص الدوار!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_050_katya_extras_02_5_01",
+  "source": "<ffx:wonder>Artyom, have you seen Nastya around? <ffx:neutral>",
+  "target": "<ffx:wonder>Artyom، هل رأيت ناستيا في الجوار؟<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_000_narration_01_part1",
+  "source": "<tab>Three months on the road, three months of constant trial... But, after Yamantau we are ready for anything fate can throw at us.<br><br>",
+  "target": "<tab>ثلاثة أشهر على الطريق، ثلاثة أشهر من التجربة المستمرة... ولكن بعد Yamantau نحن مستعدون لأي شيء يمكن أن يلقيه القدر علينا.<br><br>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_011_timur_portgoodluck_01",
+  "source": "<ffx:wonder>Artyom, the team took the long way around to the port... <ffx:smile_light>",
+  "target": "<ffx:wonder>Artyom، قطع الفريق شوطًا طويلًا للوصول إلى الميناء...<ffx:smile_light>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_12_valley\\val_000_narration_03",
+  "source": "<tab>I ran into some locals in the ruins of a children's summer camp. Looks like they're not too fond of tourists... So, that's what she meant when she said I should \"stay out of sight\"... <br> Still, I must reach the Dam - my radio got drenched, and I couldn't return the calls from the Aurora, Anna is worried... I should visit the church on the way, it's a notable landmark, Alyosha might be waiting for me there...<br><br>",
+  "target": "<tab>التقيت ببعض السكان المحليين في أنقاض معسكر صيفي للأطفال. يبدو أنهم ليسوا مغرمين جدًا بالسياح... لذا، هذا ما قصدته عندما قالت إنني يجب أن \"أبقى بعيدًا عن الأنظار\"...<br>ومع ذلك، يجب أن أصل إلى السد - الراديو الخاص بي مبلل، ولم أتمكن من الرد على المكالمات من Aurora، آنا قلقة... يجب أن أزور الكنيسة في الطريق، إنها معلم بارز، ربما يكون أليوشا في انتظاري هناك...<br><br>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_020_portbriefingupdate_anna_19",
+  "source": "<ffx:wonder>Artyom, Krest was looking for you... <ffx:wonder_light>He said you should get to the tugboat when you're ready. <ffx:neutral>",
+  "target": "<ffx:wonder>Artyom، كان كريست يبحث عنك...<ffx:wonder_light>قال إنه يجب عليك الوصول إلى زورق القطر عندما تكون جاهزًا.<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_034_6_radiochatter_01_03",
+  "source": "Tell me something I don't know! I saw you both through my scope! And by the way, Duke, face the other way when taking a leak, because you sure look cold! Haha... [Cough]",
+  "target": "أخبرني بشيء لا أعرفه! لقد رأيتكما من خلال نطاقي! وبالمناسبة يا دوك، واجه الاتجاه الآخر عندما تتسرب، لأنك بالتأكيد تبدو باردًا! هاها...[Cough]",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc1\\dlc1_22_2_depot_radcheckertalk_02_15",
+  "source": "On behalf of OSKOM, I'm issuing an official commendation!",
+  "target": "بالنيابة عن OSKOM، أنا أصدر ثناءً رسميًا!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc1\\dlc1_72_1_civtroubles_01_04",
+  "source": "They're running out of canned food, and OSKOM must eat meat...",
+  "target": "لقد نفد الطعام المعلب لديهم، ويجب على OSKOM أن تأكل اللحوم...",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_035_merchants_talk_03_22",
+  "source": "<ffx:anger_light>And why, pray tell, is Seriy all grey even <ffx:wonder>though he's just turned forty? <ffx:neutral>",
+  "target": "<ffx:anger_light>ولماذا، أرجو أن تخبرنا، أن Seriy أصبح رمادي اللون حتى<ffx:wonder>على الرغم من أنه بلغ الأربعين للتو؟<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_02_dead_moscow\\dmc_007_guardstalk_04_07",
+  "source": "<ffx:anger>I lost all my tablets to Chromedome!<ffx:neutral>",
+  "target": "<ffx:anger>لقد فقدت جميع الأجهزة اللوحية الخاصة بي بسبب Chromedome!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_12_valley\\val_050_finale_01_01_10",
+  "source": "<ffx:disgust_light>That's where we need to go. <ffx:smile_light>The Old Man said the <ffx:wide_smile_light>Aurora will soon be on the dam!<ffx:neutral>",
+  "target": "<ffx:disgust_light>هذا هو المكان الذي يجب أن نذهب إليه.<ffx:smile_light>قال الرجل العجوز إن<ffx:wide_smile_light>Aurora سيكون قريبًا على السد!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_007_02_04_briefing_1_5_reactartyom_04_04",
+  "source": "<ffx:anger_light>Artyom, we must help our contact at the lighthouse. <ffx:sadness_light>Without  knowledge of the situation we could get stuck, <ffx:wonder_light>and this is a great chance to avoid that, <ffx:anger_light>so move out! <ffx:neutral>",
+  "target": "<ffx:anger_light>Artyom، يجب أن نساعد جهات الاتصال لدينا في المنارة.<ffx:sadness_light>بدون معرفة الموقف يمكن أن نتعثر،<ffx:wonder_light>وهذه فرصة عظيمة لتجنب ذلك،<ffx:anger_light>لذا ابتعد!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc2\\dlc2_282_loading_electricspider_reminder_01_05",
+  "source": "Sam, the power's down! There's a Zap Spider nearby!",
+  "target": "سام، الطاقة معطلة! هناك Zap Spider في مكان قريب!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc2\\dlc2_064_firedepot_bandit_humanimal_mentalstate_danger_01",
+  "source": "Some fucker is around! Stoop-Ass don't raise hell for nothing!",
+  "target": "بعض اللعين حولها! Stoop-Ass لا تثير الجحيم من أجل لا شيء!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_013_briefing_02_07",
+  "source": "<ffx:smile_light>Great news, Artyom got the maps! <ffx:neutral>",
+  "target": "<ffx:smile_light>أخبار رائعة، Artyom حصل على الخرائط!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_009_spartanmissionnew_37",
+  "source": "<ffx:wonder_light>Other than that, I'm fine, <ffx:smile>Artyom and the guys are here.",
+  "target": "<ffx:wonder_light>بخلاف ذلك، أنا بخير،<ffx:smile>Artyom والرجال هنا.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_003_05_e3_tokarevarmoryexplain_04",
+  "source": "<ffx:wonder>My gun rack is only available here on the Aurora though. <ffx:smile_light>I'll keep samples of every gun you find, and you can exchange them when you want - <ffx:smile>always in their best working condition, oiled <ffx:wide_smile>and shiny like new, haha! <ffx:smile_light>",
+  "target": "<ffx:wonder>حامل الأسلحة الخاص بي متاح هنا فقط في Aurora.<ffx:smile_light>سأحتفظ بعينات من كل سلاح تجده، ويمكنك استبدالها عندما تريد -<ffx:smile>دائمًا في أفضل حالة عمل،<ffx:wide_smile>مزيتة ولامعة كالجديدة، هاها!<ffx:smile_light>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_spring\\spr_004_krestsmoking_05",
+  "source": "<ffx:wonder>Khe-khm... Damn, this is rough... <ffx:neutral>",
+  "target": "<ffx:wonder>Khe-khm...اللعنة، هذا قاسي...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_015_firstattack_03_01_02",
+  "source": "<ffx:anger>Alau-kudai uly, Alau-kudai dana, Alau-kudai kushti!<ffx:neutral>",
+  "target": "<ffx:anger>Alau-kudai uly، Alau-kudai dana، Alau-kudai kushti!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\universal_m3\\factions\\forest_3\\danger\\pinned_enemy_03",
+  "source": "Te drifter’s pinned here!",
+  "target": "تم تثبيت Te Drifter هنا!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_013_briefing_02_05",
+  "source": "<ffx:sadness_light>...Stay there. I'm <ffx:wonder_light>sending Artyom over. <ffx:anger_light>Miller, out. <ffx:neutral>",
+  "target": "<ffx:sadness_light>... ابق هناك. أنا<ffx:wonder_light>أرسل Artyom.<ffx:anger_light>ميلر، خارج.<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_21_5_tokarev_invitationtoworkbench_02_04",
+  "source": "<ffx:wonder>I'm not doing anything with the workbench now, <ffx:smile>Artyom, so you are welcome to use it. <ffx:neutral>",
+  "target": "<ffx:wonder>لا أفعل أي شيء بطاولة العمل الآن،<ffx:smile>Artyom، لذا فنحن نرحب بك لاستخدامها.<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc1\\dlc1_000_narration_loadscreen_03_01",
+  "source": "<tab>When the oppressed have nothing to lose, they will rebel no matter how hard you try to dissuade them from the idea. The OSKOM people knew the fight was inevitable as soon as they ran out of \"green stuff\", the only thing they couldn’t know was the exact moment it was going to break out.<br><br>",
+  "target": "<tab>عندما لا يكون لدى المضطهدين ما يخسرونه، فسوف يتمردون مهما حاولت ثنيهم عن الفكرة. عرف أفراد OSKOM أن القتال أمر لا مفر منه بمجرد نفاد \"الأشياء الخضراء\"، والشيء الوحيد الذي لم يتمكنوا من معرفته هو اللحظة المحددة التي ستندلع فيها.<br><br>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_003_tt_talk_01_07",
+  "source": "<ffx:wonder_light>I have a few thoughts on Tikhar improvements... <ffx:smile_light>I'll tell you if I manage to make any progress. <ffx:neutral>",
+  "target": "<ffx:wonder_light>لدي بعض الأفكار حول تحسينات Tikhar...<ffx:smile_light>سأخبرك إذا تمكنت من تحقيق أي تقدم.<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_02_dead_moscow\\dmc_004_02_spartanscene_01_03",
+  "source": "<ffx:anger_strong>Enough! <ffx:disgust>\"Artyom this, Artyom that\"... <ffx:anger>Like a broken record! <ffx:disgust_light>Had the guys not made it in time, <ffx:fear_light>you'd be a widow now!",
+  "target": "<ffx:anger_strong>كفى!<ffx:disgust>\"Artyom هذا، Artyom ذلك\"...<ffx:anger>مثل الرقم القياسي المكسور!<ffx:disgust_light>لو لم يصل الرجال في الوقت المناسب،<ffx:fear_light>لكنت أرملة الآن!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc_comments\\burunduk\\dlc_comments_yamantau_start_part_03",
+  "source": "At the initial stages of story development, we were even thinking about bringing the Doctor with us aboard the Aurora to help search for the medicine to cure Anna.",
+  "target": "في المراحل الأولى من تطور القصة، كنا نفكر في إحضار الطبيب معنا على متن سفينة Aurora للمساعدة في البحث عن الدواء لعلاج آنا.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc2\\dlc2_212_11_25_sniperbattle_samgotsniper_01_01",
+  "source": "The fucker got Korzh! We're on our own now!",
+  "target": "اللعين حصل على Korzh! نحن لوحدنا الآن!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_13_dead_city\\nvs_008_shelter_radio_01_03_01",
+  "source": "<ffx:anger_light>A change of plans! <ffx:smile_light>We found the survivors, they say the Satcom center is still there. <ffx:sadness_light>I'm going there for the map, Artyom takes the Institute. <ffx:neutral>",
+  "target": "<ffx:anger_light>تغيير في الخطط!<ffx:smile_light>لقد عثرنا على الناجين، ويقولون إن مركز الاتصالات الفضائية لا يزال موجودًا.<ffx:sadness_light>أنا ذاهب إلى هناك للحصول على الخريطة، Artyom يأخذ المعهد.<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc_comments\\burunduk\\dlc_comments_rest_dem_nest_bed_part_03",
+  "source": "One couldn't ask for a better kidnapper for \"Private Teddy\"!",
+  "target": "لا يمكن للمرء أن يطلب خاطفًا أفضل لـ \"Private Teddy\"!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_013_1_briefing_02_kresttalk_09",
+  "source": "<ffx:sadness_light>It got so bad, Yermak <ffx:smile_light>decided to try and condense some from the air, <ffx:anger>but it's a god damn desert! <ffx:neutral>",
+  "target": "<ffx:sadness_light>أصبح الأمر سيئًا للغاية، قرر Yermak<ffx:smile_light>أن يحاول تكثيف بعض من الهواء،<ffx:anger>لكنها صحراء لعنة الله!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_059_insideoilrig_tribaloppression_04_01",
+  "source": "<ffx:anger>You fucking blind or what? <ffx:disgust>Fix that shit! Kisyk, mlia, tuzetu, nna, bitch! <ffx:neutral>",
+  "target": "<ffx:anger>أنت سخيف أعمى أم ماذا؟<ffx:disgust>أصلح هذا القرف! Kisyk، mlia، tuzetu، nna، العاهرة!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_019_portupdate_03_01",
+  "source": "<ffx:anger_light>So, here's the plan... <ffx:wonder_light>Your group captures the tugboat, then you, Duke and Krest take it to the bridge. <ffx:smile_light>While Krest distracts the guards, you and Duke infiltrate the control room at the top and lower the bridge. <ffx:anger_light>On your mark we’ll ram the gate, pick you up and... and... <ffx:anger_light>I pray to God it works out.",
+  "target": "<ffx:anger_light>إذن، هذه هي الخطة...<ffx:wonder_light>مجموعتك تلتقط زورق القطر، ثم تأخذه أنت وديوك وكريست إلى الجسر.<ffx:smile_light>بينما يقوم Krest بتشتيت انتباه الحراس، تتسلل أنت وDuke إلى غرفة التحكم في الجزء العلوي وأسفل الجسر.<ffx:anger_light>عند إشارتك، سنقتحم البوابة، ونلتقطك و... و...<ffx:anger_light>أدعو الله أن ينجح الأمر.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc1\\dlc1_61_general_newyearspeech_04",
+  "source": "On behalf of OSKOM leadership, I thank you all for your good work and wish you a happy New Year! ",
+  "target": "نيابة عن قيادة OSKOM، أشكركم جميعًا على عملكم الجيد وأتمنى لكم سنة جديدة سعيدة!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_070_terminal_cagetalk_05",
+  "source": "<ffx:disgust>Dumb dog fuck! Can only bark... <ffx:wonder_light>Make good hat, perhaps... <ffx:anger>Hat zhaksy, if make - become quiet! <ffx:neutral>",
+  "target": "<ffx:disgust>اللعنة الكلب البكم! يمكنه فقط النباح...<ffx:wonder_light>اصنع قبعة جيدة، ربما...<ffx:anger>قبعة zhaksy، إذا صنعت - كن هادئًا!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\universal_m3\\factions\\merc_1\\wounded\\wounded_combat_05",
+  "source": "Arghh... You fucking piece of shit!",
+  "target": "Arghh... أنت قطعة سخيف من القرف!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc1\\dlc1_130_khlebnikov_kirill_prebattle_conversation_01_03",
+  "source": "Rioters... Tell me, Dad... If we, the OSKOM, are protecting people... Why lie to them?",
+  "target": "مثيري الشغب... أخبرني يا أبي... إذا كنا نحن، OSKOM، نحمي الناس... لماذا نكذب عليهم؟",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc2\\dlc2_044_dock_06_incomingships_c_03_04",
+  "source": "Makes you wonder, though... Why all these boats decided to arrive at once? There's a queue, for chrissakes! ",
+  "target": "يجعلك تتساءل، رغم ذلك... لماذا قررت كل هذه القوارب الوصول مرة واحدة؟ هناك طابور، لchrissakes!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_02_dead_moscow\\dmc_019_getoutofhere_02_05",
+  "source": "<ffx:wonder>Don't forget your visibility gauge, Artyom.<ffx:neutral>",
+  "target": "<ffx:wonder>لا تنس مقياس الرؤية لديك يا Artyom.<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_spring\\spr_007_princeparty_idiotleaves_04",
+  "source": "<ffx:smile_light>A my montazhniki-vysotniki, da! <ffx:neutral>",
+  "target": "<ffx:smile_light>بلدي montazhniki-vysotniki، دا!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_10_yamantau\\yam_013_ridingelevator_07",
+  "source": "<ffx:anger_light>Artyom - you take the barracks and the sickbay. <ffx:neutral>",
+  "target": "<ffx:anger_light>Artyom - أنت تأخذ الثكنات ومكان المرضى.<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc1\\dlc1_41_general_conversation_01_speechrehearsal_13",
+  "source": "On behalf of OSKOM leadership, I thank you all for your good work and wish you a happy New Year! ",
+  "target": "نيابة عن قيادة OSKOM، أشكركم جميعًا على عملكم الجيد وأتمنى لكم سنة جديدة سعيدة!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_015_springattack_02_11",
+  "source": "<ffx:disgust>The strong always prey on the weak... <ffx:sadness>In Moscow it's the Nazis, The Hansa, and the Reds... <ffx:wonder>On Volga it was <ffx:disgust>Silantuis and here we <ffx:anger>have this cult of fire... <ffx:neutral>",
+  "target": "<ffx:disgust>القوي يفترس الضعيف دائمًا...<ffx:sadness>في موسكو، النازيون، الهانزا، والحمر...<ffx:wonder>على نهر الفولغا كان<ffx:disgust>Silantuis وها نحن<ffx:anger>لدينا عبادة النار هذه...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_02_dead_moscow\\dmc_004_hospital_02_01",
+  "source": "<ffx:wonder_light>Still, lucky those Spartans are <ffx:smile_light>damn good, they brought Artyom here just in time. <ffx:neutral>",
+  "target": "<ffx:wonder_light>ومع ذلك، من حسن حظ هؤلاء الإسبرطيين أنهم<ffx:smile_light>جيدون للغاية، فقد أحضروا Artyom إلى هنا في الوقت المناسب.<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_040_tape_recorder_people_playerleft_01_04",
+  "source": "<ffx:sadness>First, it's a sin. Second, you just went and brought a heretic upon us with this hellish contraption. Thank <ffx:wonder>Fish he was peaceful! And we won't get this lucky next time... <ffx:sadness>And last, someone really might hear! Then <ffx:fear>neither of us would get away with it!<ffx:neutral>",
+  "target": "<ffx:sadness>أولاً، إنها خطيئة. ثانيًا، لقد ذهبت للتو وأحضرت إلينا مهرطقًا بهذه الأداة الجهنمية. أشكر<ffx:wonder>Fish كان مسالمًا! ولن يحالفنا الحظ في المرة القادمة...<ffx:sadness>وأخيرًا، قد يسمع شخص ما حقًا! ثم<ffx:fear>لن يفلت أي منا من العقاب!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_061_castleship_inside_talk_02_05",
+  "source": "<ffx:wonder>Swag? Check the Rig boys out if you're in the market for swag... <ffx:smile>I sure wouldn't mind sharing in on that though... <ffx:neutral>",
+  "target": "غنيمة<ffx:wonder>؟ تحقق من فريق Rig boys إذا كنت في السوق للحصول على غنيمة...<ffx:smile>أنا بالتأكيد لا أمانع في المشاركة في ذلك بالرغم من ذلك...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_010_briefing_01_katya_teatalk_12",
+  "source": "<ffx:wonder>Oh, when the gargoyle attacked, <ffx:sadness_light>Nastya lost her Teddy. <ffx:wonder>The beast carried it away, it must have thought it was alive... <ffx:wonder_light>",
+  "target": "<ffx:wonder>أوه، عندما هاجم الجرغول،<ffx:sadness_light>فقدت Nastya دميتها.<ffx:wonder>حمله الوحش بعيدًا، لا بد أنه ظن أنه حي...<ffx:wonder_light>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc_comments\\burunduk\\dlc_comments_rest_farm_bed_part_01",
+  "source": "This location was supposed to be a trap for the player, into which Artyom would be lured by a dog trained by the bandits.",
+  "target": "كان من المفترض أن يكون هذا الموقع بمثابة فخ للاعب، حيث سيتم إغراء Artyom بواسطة كلب مدرب من قبل قطاع الطرق.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_13_dead_city\\nvs_006_walkingtochild_01",
+  "source": "<ffx:wonder>As far as I understand, this <ffx:smile_light>is Sibirskaya, a line transfer station. <ffx:neutral>",
+  "target": "<ffx:wonder>بقدر ما أفهم،<ffx:smile_light>هذه هي Sibirskaya، وهي محطة نقل خط.<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_041_lighthouseattack_tribalwounded_giul_goodcarma_01",
+  "source": "<ffx:disgust>These dogs fought for their masters, <ffx:sadness>protected the Munai-bailer... <ffx:neutral>",
+  "target": "<ffx:disgust>قاتلت هذه الكلاب من أجل أسيادها،<ffx:sadness>قامت بحماية Munai-bailer...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc1\\dlc1_13_1_tunnelburners_00_05",
+  "source": "\"Red-Two\" clear on the mission goals.",
+  "target": "\"Red-Two\" واضح في أهداف المهمة.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_12_valley\\val_004_punishtalk_01_02",
+  "source": "<ffx:sadness>No idea... Roman <ffx:wonder>will decide that when he's back. Why? <ffx:neutral>",
+  "target": "<ffx:sadness>ليس لدي أي فكرة... Roman<ffx:wonder>سيقرر ذلك عندما يعود. لماذا؟<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_spring\\spr_008_level2_10",
+  "source": "<ffx:wonder_light>Oh, the information about the \"Ark\" project I have is beyond doubt, <ffx:sadness_light>I'm saying this as a GRU officer... <ffx:wonder_light>I had colleagues working there, preparing evacuation plans... <ffx:sadness_light>So I've been briefed into it officially.<ffx:neutral>",
+  "target": "<ffx:wonder_light>أوه، المعلومات الخاصة بمشروع \"Ark\" التي لدي لا شك فيها،<ffx:sadness_light>أنا أقول هذا كضابط في GRU...<ffx:wonder_light>كان لدي زملاء يعملون هناك، يقومون بإعداد خطط الإخلاء...<ffx:sadness_light>لذا فقد تم إطلاعي عليها رسميًا.<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_061_castleship_inside_talk_02_02",
+  "source": "<ffx:disgust>Parade? Fuck you! <ffx:wonder_light>Roast says, we all have to be ready for anything - <ffx:sadness>there's a new gang around... <ffx:disgust>Came in on a train or something... <ffx:neutral>",
+  "target": "موكب<ffx:disgust>؟ اللعنة عليك!  يقول<ffx:wonder_light>Roast، علينا جميعًا أن نكون مستعدين لأي شيء -<ffx:sadness>هناك عصابة جديدة حولنا...<ffx:disgust>جاء على متن قطار أو شيء من هذا القبيل...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_12_autumn\\aut_003_briefing_01_25",
+  "source": "<ffx:wonder>There's a huge railway technology museum at the city outskirts. <ffx:smile_light>We will almost certainly find a snow plow for the Aurora there. <ffx:neutral>",
+  "target": "<ffx:wonder>يوجد متحف ضخم لتكنولوجيا السكك الحديدية في ضواحي المدينة.<ffx:smile_light>سنجد بالتأكيد محراث ثلج لـ Aurora هناك.<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_09_summer\\sum_015_yermakphase2_01_12",
+  "source": "<ffx:sadness_light>So that’s how it went, Artyom... <ffx:wonder>And now I have a family again, <ffx:smile_light>one worth living for... <ffx:smile>So, the Aurora and I will take you anywhere, even to the edge of the world!<ffx:neutral>",
+  "target": "<ffx:sadness_light>هكذا سارت الأمور، أرتيوم...<ffx:wonder>والآن لدي عائلة مرة أخرى،<ffx:smile_light>عائلة تستحق العيش من أجلها...<ffx:smile>لذا، سنأخذك أنا وAurora إلى أي مكان، حتى إلى حافة العالم!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc1\\dlc1_225_1_rioters_battleshouts_01_15",
+  "source": "Kill the OSKOM fuckers!",
+  "target": "اقتل الملاعين OSKOM!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_016_10_onapproach_02",
+  "source": "<ffx:wonder>Artyom, Giul and I will soon be leaving, <ffx:smile_light>so you can take some rest, <ffx:wonder_light>do a checkup on your gear, <ffx:smile_light>and catch up with us. <ffx:wonder_light>We'll rendezvous at their base. <ffx:neutral>",
+  "target": "<ffx:wonder>سنغادر أنا وArtyom وGiul قريبًا،<ffx:smile_light>حتى تتمكن من أخذ قسط من الراحة،<ffx:wonder_light>قم بإجراء فحص على معداتك،<ffx:smile_light>ولحق بنا.<ffx:wonder_light>سنلتقي في قاعدتهم.<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_000_narration_01",
+  "source": "<tab>Three months on the road, three months of constant trial... But, after Yamantau we are ready for anything fate can throw at us. <br><br><tab>Mere kilometers separate us from the \"Caspian-1” communications center. Will the maps within yield a spot free from radiation where we could finally settle in peace? I don't know... <br><br><tab>But, what's left for us but hope? The desert is taking its toll, the Crew suffers from heat and thirst, and the Aurora is not in her top form. We're out of coal, and had to switch to burning available fuel: old crossties and twigs...",
+  "target": "<tab>ثلاثة أشهر على الطريق، ثلاثة أشهر من التجربة المستمرة... ولكن بعد Yamantau نحن مستعدون لأي شيء يمكن أن يلقيه القدر علينا.<br><br><tab>كيلومترات فقط تفصلنا عن مركز الاتصالات \"Caspian-1\". هل ستُظهر الخرائط الموجودة في الداخل مكانًا خاليًا من الإشعاع حيث يمكننا أن نستقر أخيرًا بسلام؟ لا أعلم...<br><br><tab>ولكن، ماذا بقي لنا سوى الأمل؟ الصحراء تؤثر سلبًا، والطاقم يعاني من الحرارة والعطش، وأورورا ليست في أفضل حالاتها. لقد نفد الفحم لدينا، واضطررنا إلى التحول إلى حرق الوقود المتاح: الأغصان والأغصان القديمة...",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc1\\dlc1_110_khlebnikov_kirill_postsearch_conversation_01_06",
+  "source": "To be a Private, and I don't want to be in OSKOM anymore!",
+  "target": "أن أكون خاصًا، ولا أريد أن أكون في OSKOM بعد الآن!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_09_summer\\sum_020_damirtalk_01_05",
+  "source": "<ffx:smile>Kep rakmet, brother! <ffx:neutral>",
+  "target": "<ffx:smile>كيب rakmet، أخي!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_013_9_2_canyon_fight_over_01_03",
+  "source": "<ffx:smile>Kep rakmet for help, friend! <ffx:wonder>I lower ladder now, wait one moment! <ffx:neutral>",
+  "target": "<ffx:smile>كيب rakmet للمساعدة، صديق!<ffx:wonder>لقد قمت بخفض السلم الآن، انتظر لحظة واحدة!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_170_1_saultalk_02_19",
+  "source": "<ffx:wonder_light>Naturally, all of my friends on Baron's rig now can't <ffx:smile>wait for you to actually whack the bastard! <ffx:neutral>",
+  "target": "<ffx:wonder_light>بطبيعة الحال، جميع أصدقائي في منصة Baron لا يمكنهم الآن انتظار<ffx:smile>حتى تقوم بضرب اللقيط!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_010_miller_port1_task_reminder_02",
+  "source": "<ffx:wonder>Artyom, set out for the port once you've rested. <ffx:smile_light>I'd really like to talk to that mysterious mechanic... <ffx:neutral>",
+  "target": "<ffx:wonder>Artyom، انطلق إلى الميناء بمجرد أن تستريح.<ffx:smile_light>أود حقًا التحدث إلى ذلك الميكانيكي الغامض...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_002_initialbriefing_09_16_02_01",
+  "source": "<ffx:sadness>We need intel... Here <ffx:wonder>Artyom, I put a mark on your map... <ffx:wonder_light>",
+  "target": "<ffx:sadness>نحتاج إلى معلومات... هنا<ffx:wonder>Artyom، لقد وضعت علامة على خريطتك...<ffx:wonder_light>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_02_dead_moscow\\dmc_004_hospital_02_reactartyom_02_01",
+  "source": "<ffx:smile_light>Artyom, I understand how you feel, <ffx:smile_light>but you're not always going to save the Metro single-handedly. <ffx:wonder>Why keep looking for a solution alone? <ffx:neutral>",
+  "target": "<ffx:smile_light>Artyom، أنا أفهم ما تشعر به،<ffx:smile_light>ولكنك لن تتمكن دائمًا من إنقاذ المترو بمفردك.<ffx:wonder>لماذا نستمر في البحث عن حل بمفردنا؟<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_05_winter\\win_000_annanews_discussion_03_02_02",
+  "source": "<ffx:wonder>No masks needed, the railroad runs through the whole country... <ffx:smile_light>As far as we want, I reckon... <ffx:sadness_light>As for Yamantau, <ffx:wonder_light>it's about two thousand klicks away. <ffx:neutral>",
+  "target": "<ffx:wonder>ليست هناك حاجة إلى أقنعة، فخط السكة الحديد يمر عبر البلاد بأكملها...<ffx:smile_light>بقدر ما نريد، أعتقد...<ffx:sadness_light>أما بالنسبة إلى Yamantau،<ffx:wonder_light>فهو على بعد حوالي ألفي نقرة.<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_070_terminal_patriciantalk_01_02",
+  "source": "<ffx:anger>Hey, you! Bring food now! <ffx:disgust>Azyk-tulik akel, you fuck! <ffx:neutral>",
+  "target": "<ffx:anger>مرحبًا، أنت! أحضر الطعام الآن!<ffx:disgust>Azyk-tulik akel، اللعنة عليك!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_017_waytoterminal_17_01",
+  "source": "<ffx:sadness>Yes, I would also ask again... <ffx:wonder_light>Less blood if you can, the <ffx:disgust>Munai-bailer spill enough blood already. <ffx:anger>Way too much... <ffx:neutral>",
+  "target": "<ffx:sadness>نعم، أود أيضًا أن أسأل مرة أخرى...<ffx:wonder_light>دماء أقل إذا استطعت،<ffx:disgust>Munai-bailer يسفك ما يكفي من الدماء بالفعل.<ffx:anger>كثير جدا...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_05_winter\\win_003_radiogameaftermath_04",
+  "source": "<ffx:wonder>The \"Ark” project is a whole city underground! <ffx:smile>Enormous stores, machines, the best experts!",
+  "target": "<ffx:wonder>مشروع \"Ark\" عبارة عن مدينة كاملة تحت الأرض!<ffx:smile>متاجر ضخمة، آلات، أفضل الخبراء!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_030_carriage_bandits_about_caravan_02_03",
+  "source": "<ffx:smile>Don't fret, Glyba's got it all covered. <ffx:wonder>The boys are there so that the bridgeheads don't squeal on us to the caravaneers... <ffx:neutral>",
+  "target": "<ffx:smile>لا تقلق، Glyba قامت بتغطية كل شيء.<ffx:wonder>الأولاد موجودون هناك حتى لا يصرخ علينا رؤوس الجسور أمام القافلة...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_12_autumn\\aut_004_tokarevmiller_01_07",
+  "source": "<ffx:wonder>Sure, Yermak does have some lead sheets in store, <ffx:sadness>but the suits are rather bulky and heavy as it is... <ffx:neutral>",
+  "target": "<ffx:wonder>بالتأكيد، لدى Yermak بعض صفائح الرصاص في المتجر،<ffx:sadness>لكن البدلات ضخمة وثقيلة نوعًا ما كما هي...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_12_valley\\val_012_teacherhousetalk_01_06",
+  "source": "<ffx:smile>Boy, you are salty! <ffx:sadness_light>Zhorka's a guard there, a damn honor guard, <ffx:wonder>he can't even sit down for a moment! <ffx:disgust_light>The others are making vows while he stands at attention! <ffx:neutral>",
+  "target": "<ffx:smile>يا فتى، أنت مالح!<ffx:sadness_light>Zhorka حارس هناك، حارس شرف لعين،<ffx:wonder>لا يمكنه الجلوس حتى للحظة!<ffx:disgust_light>الآخرون يقطعون الوعود بينما يقف هو منتبهًا!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc_comments\\burunduk\\dlc_comments_canyon_rest_place_part_01",
+  "source": "The Taiga level prototype was the first level of Exodus where we tested all our new technologies.",
+  "target": "كان النموذج الأولي لمستوى Taiga هو المستوى الأول من Exodus حيث اختبرنا جميع تقنياتنا الجديدة.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_13_dead_city\\nvs_002_nastyakatyatalk_02",
+  "source": "<ffx:sadness_light>Yes... Could you <ffx:wonder_light>please watch over her for us <ffx:smile_light>until Artyom and I come back? Please? <ffx:neutral>",
+  "target": "<ffx:sadness_light>نعم... هل يمكنك<ffx:wonder_light>من فضلك راقبها لنا<ffx:smile_light>حتى نعود أنا وArtyom؟ لو سمحت؟<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_spring\\spr_007_princewake_loop_04",
+  "source": "Ah... Hmm. [seeps air in through his teeth]",
+  "target": "اه...هم.[seeps air in through his teeth]",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_034_6_radiochatter_01_01",
+  "source": "<ffx:smile_light>Hello everyone, Duke here. Artyom came over, we're ready to <ffx:smile>raise some hell. Over. <ffx:neutral>",
+  "target": "<ffx:smile_light>مرحبًا بالجميع، دوك هنا. لقد جاء Artyom، ونحن على استعداد لإثارة بعض الجحيم في<ffx:smile>. زيادة.<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc1\\dlc1_72_7_civtroubles_07_02",
+  "source": "What are we to do? The OSKOM is all but abandoned us lately, the mutants are getting bolder, and they can't even spare a few soldiers...",
+  "target": "ماذا علينا أن نفعل؟ لقد تخلى عنا OSKOM مؤخرًا، وأصبح المتحولون أكثر جرأة، ولا يمكنهم حتى الاستغناء عن عدد قليل من الجنود...",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_070_terminal_patroltalk_01_01",
+  "source": "<ffx:disgust>No use! Nobody go, nobody fool! <ffx:sadness>We stand here, all day here - use zhok! <ffx:neutral>",
+  "target": "<ffx:disgust>لا فائدة! لا أحد يذهب، لا أحد أحمق!<ffx:sadness>نحن نقف هنا طوال اليوم هنا - استخدم zhok!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_010_briefing_01_miller_task_01_03",
+  "source": "<ffx:sadness>His help is required if we are to fix the Aurora in the foreseeable future. <ffx:disgust_light>Yermak can't handle the repairs alone. <ffx:neutral>",
+  "target": "<ffx:sadness>مساعدته مطلوبة إذا أردنا إصلاح Aurora في المستقبل المنظور.  لا يستطيع<ffx:disgust_light>Yermak التعامل مع الإصلاحات بمفرده.<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\universal_m3\\factions\\bridger_3\\alert\\alert_hear_03",
+  "source": "Huh? What riff-raff is making those noises?",
+  "target": "هاه؟ ما هو riff-raff الذي يصدر تلك الأصوات؟",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_019_portupdate_03_02",
+  "source": "<ffx:sadness_light>I can't give you or Duke any direct support. The data we have tells us the <ffx:disgust_light>enemy's main force is guarding the gate. <ffx:wonder>One more thing,  Artyom... Look after Duke, all right? He's a great scout, but... <ffx:sadness>prone to unnecessary risks. Sure, he's young, <ffx:anger_light>but if he continues like that, who knows what will happen? So, give him a <ffx:smile_light>good example and do it smoothly and quietly! <ffx:sadness_light>You are his role model and, as such, should remember that you're <ffx:smile_light>special forces, not tank jocks. <ffx:neutral>",
+  "target": "<ffx:sadness_light>لا أستطيع أن أقدم لك أو لـ Duke أي دعم مباشر. البيانات التي لدينا تخبرنا أن القوة الرئيسية للعدو<ffx:disgust_light>هي حراسة البوابة.<ffx:wonder>شيء آخر يا أرتيوم... اعتن بـ ديوك، حسنًا؟ إنه مستكشف عظيم، لكن...<ffx:sadness>عرضة لمخاطر غير ضرورية. بالتأكيد، إنه شاب،<ffx:anger_light>لكن إذا استمر على هذا النحو، فمن يدري ماذا سيحدث؟ لذا، أعطه مثالًا جيدًا على<ffx:smile_light>وافعل ذلك بسلاسة وهدوء!<ffx:sadness_light>أنت قدوة له، وعلى هذا النحو، يجب أن تتذكر أنك من القوات الخاصة<ffx:smile_light>، وليس لاعبو الدبابات.<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_010_refugeestaken_07",
+  "source": "<ffx:smile_light>Don't thank us before it's all ready to go. <ffx:wonder>It all hangs on Artyom now, so wish him luck!<ffx:neutral>",
+  "target": "<ffx:smile_light>لا تشكرنا قبل أن يصبح كل شيء جاهزًا للانطلاق.<ffx:wonder>كل شيء معلق على Artyom الآن، لذا أتمنى له التوفيق!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_13_dead_city\\nvs_008_intheshelter_01_06",
+  "source": "<ffx:wonder>Stalkers brought it from the Satcom center, a <ffx:sadness_light>long time ago... <ffx:neutral>",
+  "target": "<ffx:wonder>أحضره الملاحقون من مركز Satcom،<ffx:sadness_light>منذ زمن طويل...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_02_dead_moscow\\dmc_055_spartansarrive_01_28",
+  "source": "<ffx:wonder>What jammer? It's one of Hansa's meteorological posts... <ffx:wonder_light>",
+  "target": "<ffx:wonder>ما التشويش؟ إنها إحدى منشورات الأرصاد الجوية الخاصة بـ Hansa...<ffx:wonder_light>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_02_dead_moscow\\dmc_004_02_spartanscene_01_13",
+  "source": "<ffx:wonder_light>But what if you consider, even for <ffx:wonder>one second, that Artyom was right? <ffx:wonder_light>What if he did hear that signal?",
+  "target": "<ffx:wonder_light>ولكن ماذا لو اعتبرت، حتى لثانية واحدة من<ffx:wonder>، أن Artyom كان على حق؟<ffx:wonder_light>ماذا لو سمع تلك الإشارة؟",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_016_briefing_03_20_01",
+  "source": "<ffx:wonder_light>Damir, you and Giul go check the route. <ffx:sadness_light>Call Artyom once you've learned everything. <ffx:neutral>",
+  "target": "<ffx:wonder_light>دامير، أنت وجيول اذهبوا للتحقق من الطريق.<ffx:sadness_light>اتصل بـ Artyom بمجرد أن تتعلم كل شيء.<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_009_triptocommscenter_20",
+  "source": "<ffx:wonder>Artyom, I brought some gas from the car, <ffx:smile_light>so Giul and I here, will try to start the generator... <ffx:disgust>The place is a real mess though, so <ffx:sadness_light>I can't promise anything. <ffx:neutral>",
+  "target": "<ffx:wonder>Artyom، لقد أحضرت بعض الوقود من السيارة،<ffx:smile_light>لذلك أنا وGiul هنا، سنحاول تشغيل المولد...<ffx:disgust>المكان في حالة فوضى حقيقية، لذلك<ffx:sadness_light>لا أستطيع أن أعدك بأي شيء.<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_spring\\spr_007_princewake_loop_03",
+  "source": "[Drinks] Oh-ho...",
+  "target": "[Drinks]أوه هو...",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc1\\dlc1_26_depot_workerstalk_audiolog_01",
+  "source": "-You greenhorn should look where you step when walking on the catwalks.-The slime might eat most of the plank from below, but from the outside it still looks fine. Step on that, and you're off! It also eats the supporters, miss one, and you're in the drink!-Aha.-And when in the drink, you clench your ass-cheeks real tight!-Huh? What for?-There' worms! When there's lots of slime around, they always appear! Huge, longer than my arm!-So, if one feels you swimming, it sneaks inside! And then you're done for, no doctor could get it out! Modern medicine has no solution!-The only way, so you know, is to wait till the night when it sticks its head out to draw some air. That's when you grab the fucker and pull real hard!-Shit! Vityok, quit scaring the greenhorns again, you hear?!-Hahaha!-Don't listen to his shit! The worms may bite you, but they won't home in, or get in, or whatever, not in your lifetime! These worms are not that kind of worms!-But as for the catwalks, you really should be careful around those. The OSKOM is miserly with green stuff nowadays, and taking a dive means three days' worth of radiation you absorb right there.",
+  "target": "- يجب أن تنظر إلى المكان الذي تخطو فيه عند المشي على منصات العرض. - قد يأكل الوحل معظم اللوح الخشبي من الأسفل، لكنه لا يزال يبدو جيدًا من الخارج. خطوة على ذلك، وأنت خارج! كما أنه يأكل الأنصار، يا آنسة واحدة، وأنت في الشراب!-آها.-وعندما تكون في الشراب، تضغط على مؤخرتك بشدة!-هاه؟ لماذا؟ - هناك ديدان! عندما يكون هناك الكثير من السلايم حولك، فإنها تظهر دائمًا! ضخمة، أطول من ذراعي! - لذا، إذا شعر أحد أنك تسبح، فإنه يتسلل إلى الداخل! وبعد ذلك انتهيت، لا يمكن لأي طبيب أن يخرجها! الطب الحديث ليس له حل! - الطريقة الوحيدة، كما تعلمون، هي الانتظار حتى الليل عندما يخرج رأسه ليسحب بعض الهواء. وذلك عندما تمسك باللعين وتسحبه بقوة!-تبا! فيتيوك، توقف عن إخافة القرون الخضراء مرة أخرى، هل تسمع؟!-هاهاها!-لا تستمع إلى هراءه! قد تعضك الديدان، لكنها لن تصل إلى المنزل، أو تدخل، أو أيًا كان، ليس طوال حياتك! هذه الديدان ليست من هذا النوع من الديدان! - لكن بالنسبة إلى منصات العرض، يجب عليك الحذر عند التعامل معها. إن OSKOM شحيح فيما يتعلق بالأشياء الخضراء هذه الأيام، والغوص يعني امتصاص ثلاثة أيام من الإشعاع هناك.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_10_yamantau\\yam_013_ridingelevator_06",
+  "source": "<ffx:anger_light>Idiot - you come with me to the command center. <ffx:neutral>",
+  "target": "<ffx:anger_light>Idiot - تعال معي إلى مركز القيادة.<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_003_backpackchat_02",
+  "source": "<ffx:wonder>Artyom, don't forget your backpack! <ffx:smile>It's a new model, a portable workshop, so to speak. <ffx:wonder>The manual is inside... <ffx:wonder_light>",
+  "target": "<ffx:wonder>Artyom، لا تنس حقيبة الظهر الخاصة بك!<ffx:smile>إنه نموذج جديد، ورشة عمل محمولة، إذا جاز التعبير.<ffx:wonder>الدليل موجود بالداخل...<ffx:wonder_light>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_040_bguards_idle_talk_03_15",
+  "source": "<ffx:anger_light>You are an ass, Romanych, <ffx:fear_light>God bless you... <ffx:neutral>",
+  "target": "<ffx:anger_light>أنت حمار، Romanych،<ffx:fear_light>بارك الله فيك...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc_comments\\burunduk\\dlc_comments_forest_rest_place_part_01",
+  "source": "At the pre-production stage, we were thinking about making Artyom try to survive alone in the uninhabited Taiga, but eventually we decided to add the Children of the Forest.",
+  "target": "في مرحلة ما قبل الإنتاج، كنا نفكر في جعل Artyom يحاول البقاء بمفرده في منطقة Taiga غير المأهولة، لكننا قررنا في النهاية إضافة أطفال الغابة.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_12_valley\\val_005_07_olgaextrachat_01_16",
+  "source": "<ffx:wonder_light>In the end, Liuda and a few boys just <ffx:sadness>couldn’t take it anymore, and left. I <ffx:wonder>wonder if they found a better place to live... <ffx:sadness_light>I still keep checking the radio hoping to hear from them... <ffx:neutral>",
+  "target": "<ffx:wonder_light>في النهاية، Liuda وعدد قليل من الأولاد فقط<ffx:sadness>لم يتمكنوا من تحمل الأمر بعد الآن، وغادروا. أنا<ffx:wonder>أتساءل عما إذا كانوا قد وجدوا مكانًا أفضل للعيش فيه...<ffx:sadness_light>ما زلت أتحقق من الراديو على أمل أن أسمع منهم...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_21_5_tokarev_invitationtoworkbench_02_03",
+  "source": "<ffx:smile_light>Artyom, the workbench is free at the moment, so if you <ffx:wonder>need to craft any supplies or change your weapons, <ffx:smile_light>you're welcome! <ffx:neutral>",
+  "target": "<ffx:smile_light>Artyom، طاولة العمل مجانية في الوقت الحالي، لذا إذا كنت بحاجة إلى<ffx:wonder>لتصنيع أي لوازم أو تغيير أسلحتك،<ffx:smile_light>فنحن نرحب بك!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_12_valley\\val_000_trolleyride_05",
+  "source": "<ffx:anger_light>Come in Aurora, this is forward recon! <ffx:wonder>Do you read? Over! <ffx:neutral>",
+  "target": "<ffx:anger_light>تعال إلى Aurora، هذا هو الاستطلاع الأمامي!<ffx:wonder>هل تقرأ؟ زيادة!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_044_95_kosh_shiptalk_02_06",
+  "source": "<ffx:sadness_light>\"SvarogOil\" security... Man, <ffx:smile_light>was I mad when they sent me here... <ffx:sadness>I had it all made in Moscow... Money, flat, car, wife... <ffx:wonder_light>All I had was there. <ffx:sadness>And it all burned there. <ffx:neutral>",
+  "target": "<ffx:sadness_light>أمن \"SvarogOil\"... يا رجل،<ffx:smile_light>كنت غاضبًا عندما أرسلوني إلى هنا...<ffx:sadness>لقد صنعت كل شيء في موسكو... المال، الشقة، السيارة، الزوجة...<ffx:wonder_light>كل ما أملك كان هناك.<ffx:sadness>وأحرق كل شيء هناك.<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\universal_m3\\factions\\forest_2\\uber_alert\\uber_alert_search_06",
+  "source": "Come out now! Do you hear? Come out, you chicken! Cluck-co-co-co-co! Hahaha!",
+  "target": "اخرج الآن! هل تسمع؟ اخرج يا دجاج! Cluck-co-co-co-co! هاهاها!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc1\\dlc1_70_miller_kirill_radio_01_04",
+  "source": "It's downstairs, OSKOM HQ used to be there... They brought the green stuff they took from the people there.",
+  "target": "إنه في الطابق السفلي، حيث كان مقر OSKOM موجودًا هناك... لقد أحضروا الأشياء الخضراء التي أخذوها من الناس هناك.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_040_oasisfort_tribalzindan_dogtalk_01_04",
+  "source": "<ffx:wonder>Eeeeh, myrza for his dog, do you-know-what, to you! <ffx:anger>Tear head off! <ffx:neutral>",
+  "target": "<ffx:wonder>Eeeeh، ميرزا لكلبه، هل تعرف ماذا، لك!<ffx:anger>تمزيق الرأس!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc2\\dlc2_064_firedepot_bandit_talk_humanimal_01_06",
+  "source": "You're so boring! I've heard this \"Gr-r-r-r-rowr...\" <imitating humanimal growl> of yours a hundred times already! Tell me something new! Haha! ",
+  "target": "أنت ممل جدا! لقد سمعت هذا \"Gr-r-r-r-rowr...\"<imitating humanimal growl>الخاص بك مائة مرة بالفعل! أخبرني بشيء جديد! هاها!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_12_valley\\val_004_punishtalk_01_10",
+  "source": "<ffx:anger_light>Vitya didn't either, and see where it got him? <ffx:sadness>Learn from his mistakes, man... <ffx:neutral>",
+  "target": "<ffx:anger_light>Vitya لم يفعل ذلك أيضًا، وانظر إلى أين وصل به؟<ffx:sadness>تعلم من أخطائه يا رجل...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_016_9_3_breakingcamp_artyomreact_02_04",
+  "source": "<ffx:wonder>Hey Artyom, finished checking your gear? <ffx:sadness_light>Damir's waiting! <ffx:neutral>",
+  "target": "<ffx:wonder>مرحبًا Artyom، هل انتهيت من فحص معداتك؟<ffx:sadness_light>دامير ينتظر!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc1\\dlc1_225_3_oskom_battleshouts_02_21",
+  "source": "You idiots! Without OSKOM, you'd be long since dead by now! Attack your ringleaders!",
+  "target": "أيها البلهاء! بدون OSKOM، لكنت ميتًا منذ فترة طويلة الآن! مهاجمة زعماء العصابة الخاصة بك!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc_comments\\burunduk\\dlc_comments_rest_farm_bed_part_04",
+  "source": "Another curio: even now there's no generally accepted name for this location amongst the developers, with Farm, Pigsty, Cowshed, Byre, and The Shed being used interchangeably. ",
+  "target": "مفاجأة أخرى: حتى الآن لا يوجد اسم مقبول بشكل عام لهذا الموقع بين المطورين، حيث يتم استخدام Farm وPigsty وCowshed وByre وThe Shed بالتبادل.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_017_waytoterminal_01_06",
+  "source": "Yes. <ffx:wonder_light>In any case, the plan is this: <ffx:anger_light>Giul and I will try to take their guards down quietly and get in through the gate. <ffx:sadness_light>If quiet does not work out, <ffx:smile_light>we will at least distract them... <ffx:wonder_light>While you get in through the underground. <ffx:neutral>",
+  "target": "نعم.<ffx:wonder_light>على أية حال، الخطة هي كما يلي:<ffx:anger_light>Giul وأنا سنحاول إنزال حراسهم بهدوء والدخول عبر البوابة.<ffx:sadness_light>إذا لم ينجح الهدوء،<ffx:smile_light>فسوف نقوم على الأقل بتشتيت انتباههم...<ffx:wonder_light>أثناء دخولك عبر مترو الأنفاق.<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_05_winter\\win_099_radiostation_02_02_04",
+  "source": "Your shipment of fertilizer is out of the door, ETA two days, did you copy that?",
+  "target": "شحنتك من الأسمدة خارج الباب، ETA بعد يومين، هل قمت بنسخ ذلك؟",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_13_dead_city\\nvs_004_damiralyoshaduketalk_01_05",
+  "source": "<ffx:sadness>He's just being his usual self... <ffx:smile>Artyom and I could have gone there and back twice before dinner with time to spare, <ffx:disgust_light>but no, he has to do it himself! <ffx:neutral>",
+  "target": "<ffx:sadness>إنه يتصرف على طبيعته المعتادة...<ffx:smile>كان بإمكاني أنا وArtyom الذهاب إلى هناك والعودة مرتين قبل العشاء مع توفر الوقت،<ffx:disgust_light>لكن لا، عليه أن يفعل ذلك بنفسه!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_059_6_95_ship_slavesfree_04_04",
+  "source": "<ffx:disgust>Death to munai-bailer! <ffx:neutral>",
+  "target": "<ffx:disgust>الموت لـ munai-bailer!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_010_briefing_01_miller_task_01_02",
+  "source": "<ffx:anger_light>A mechanic called Krest is hiding in the port. <ffx:wonder_light>",
+  "target": "<ffx:anger_light>ميكانيكي يُدعى Krest يختبئ في الميناء.<ffx:wonder_light>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_02_dead_moscow\\dmc_004_hospital_02_09",
+  "source": "<ffx:wonder_strong>Ten years? <ffx:anger>We'll be lucky if we make it halfway there! <ffx:sadness>No antibiotics, no suture thread... <ffx:anger_light>Which is why we can't afford to have our best fighters taking unnecessary risks! <ffx:wonder>What will we do if all the <ffx:sadness>Spartans come down with radiation poisoning like Artyom, <ffx:wonder_strong>and the Nazis try something?<ffx:neutral>",
+  "target": "<ffx:wonder_strong>عشر سنوات؟<ffx:anger>سنكون محظوظين إذا وصلنا إلى منتصف الطريق!<ffx:sadness>لا مضادات حيوية ولا خيوط خياطة...<ffx:anger_light>ولهذا السبب لا يمكننا أن نجعل أفضل المقاتلين لدينا يتحملون مخاطر غير ضرورية!<ffx:wonder>ماذا سنفعل إذا أصيب جميع الإسبارطيين<ffx:sadness>بالتسمم الإشعاعي مثل Artyom و<ffx:wonder_strong>والنازيين حاولوا شيئًا ما؟<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_13_dead_city\\nvs_101_commercial_01_01",
+  "source": "The AI-2000 medkit and VF-P field medic kits include another product of our Institute’s research: the RENERGAN-F vesicant effect suppressor - regeneration stimulant combination, providing quick remedy for the consequences of vesicant agent exposure and ensuring rapid recovery of damaged tissue, particularly lung tissue.",
+  "target": "تتضمن مجموعة أدوات AI-2000 medkit وVF-P الطبية الميدانية منتجًا آخر من أبحاث معهدنا: مثبط التأثير النفطي RENERGAN-F - مجموعة منبهات التجديد، مما يوفر علاجًا سريعًا لعواقب التعرض للعامل النفطي ويضمن التعافي السريع للأنسجة التالفة، وخاصة أنسجة الرئة.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_09_summer\\sum_007_tokarevworkshoptalk_01_13_not_used_fireammo",
+  "source": "<ffx:wonder>Well, I wouldn’t have a poor showing here, either, given a chance! <ffx:smile>The Tikhar with the new ammo <ffx:smile>would have worked wonders there! <ffx:wonder_light>I’m sure you’ll give it a try later, though... <ffx:neutral>",
+  "target": "<ffx:wonder>حسنًا، لم أكن لأقدم عرضًا سيئًا هنا أيضًا، إذا أتيحت لي الفرصة!<ffx:smile>كان Tikhar مع الذخيرة الجديدة<ffx:smile>سيعمل العجائب هناك!<ffx:wonder_light>أنا متأكد من أنك ستجربها لاحقًا، رغم ذلك...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_12_autumn\\aut_006_katyalyosha_01_01",
+  "source": "<ffx:smile>I'm so glad I found mother's record... <ffx:sadness_light>The medicine is called \"Ren-nergan-F\", and she was completely amazed by it - <ffx:wonder_strong>mind you, she was a real doctor, unlike me... <ffx:neutral>",
+  "target": "<ffx:smile>أنا سعيد للغاية لأنني وجدت سجل الأم...<ffx:sadness_light>الدواء يسمى \"Ren-nergan-F\"، وقد اندهشت تمامًا منه -<ffx:wonder_strong>انتبه، لقد كانت طبيبة حقيقية، على عكسي...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\universal_m3\\factions\\tribal_2\\context\\context_alert_up_03",
+  "source": "Up there! There that kutak is!",
+  "target": "هناك! هناك هذا kutak!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_000_narration_07_b",
+  "source": "<tab>I had to fight the bandits over the carriage, but with it, the Aurora will have much more living space. I need to get the carriage there first, though.<br><br>",
+  "target": "<tab>اضطررت لمحاربة قطاع الطرق على العربة، ولكن معها، سيكون لدى Aurora مساحة معيشة أكبر بكثير. على الرغم من ذلك، يجب أن أصل بالعربة إلى هناك أولاً.<br><br>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_02_dead_moscow\\dmc_030_4_goingtotheaurora_guardstalk_02_01",
+  "source": "<ffx:anger_light>Go down with Seriy and check the ravine.<ffx:neutral>",
+  "target": "<ffx:anger_light>انزل مع Seriy وتحقق من الوادي.<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc_comments\\burunduk\\dlc_comments_rest_truck_bed_part_03",
+  "source": "This location also houses our favorite audio log: \"Liubochka\", a song accidentally erased by the bandits. ",
+  "target": "يضم هذا الموقع أيضًا السجل الصوتي المفضل لدينا: \"Liubochka\"، وهي أغنية تم مسحها عن طريق الخطأ بواسطة قطاع الطرق.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_spring\\spr_002_level2_princedead_04",
+  "source": "<ffx:wonder>I talked to Katya, they <ffx:sadness>had a tough life, and that <ffx:disgust>Silantius really kept them in his grip... <ffx:neutral>",
+  "target": "<ffx:wonder>لقد تحدثت إلى كاتيا، لقد عاشوا<ffx:sadness>حياة صعبة، وأن<ffx:disgust>Silantius أبقهم حقًا في قبضته...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc1\\dlc1_74_1_pa_address_01_03",
+  "source": "The OSKOM soldiers act within the framework of law and according to orders of the Command! Do not obstruct their duties! Comply with all their requirements!",
+  "target": "يتصرف جنود OSKOM في إطار القانون ووفقًا لأوامر القيادة! لا تعيق واجباتهم! الامتثال لجميع متطلباتهم!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_157_baron_broadcast_08_04",
+  "source": "Well, I have just put Shellgame down, nothing could be done about that - those of you who he owed can get remuneration from his wife, she's worth it. So, to avoid further incidents like this, I got to tell you people, something here, especially the new ones...",
+  "target": "حسنًا، لقد أسقطت شركة Shellgame للتو، ولا يمكن فعل أي شيء حيال ذلك - يمكن لمن يدين به منكم الحصول على مكافأة من زوجته، فهي تستحق ذلك. لذا، لتجنب وقوع المزيد من الحوادث مثل هذه، علي أن أخبركم أيها الناس، بشيء هنا، وخاصة الأحداث الجديدة...",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_003_backpackchat_07_01",
+  "source": "<ffx:wonder>As for where to look... <ffx:sadness_light>I found lots of stuff in Nosalises' lairs back in Moscow. <ffx:disgust_light>When they get someone, they <ffx:wonder>often drag the body there to feed their young... <ffx:neutral>",
+  "target": "<ffx:wonder>أما بالنسبة للمكان الذي يجب أن أبحث فيه...<ffx:sadness_light>فقد وجدت الكثير من الأشياء في مخابئ Nosalises في موسكو.<ffx:disgust_light>عندما يحصلون على شخص ما، فإنهم<ffx:wonder>غالبًا ما يسحبون الجثة هناك لإطعام صغارهم...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc1\\dlc1_000_narration_loadscreen_02_02",
+  "source": "<tab>Judging by Kirill’s story, at that moment OSKOM really had no choice but to conserve what little reserves they still had left and stop issuing the radioprotector to all but the personnel most critical for evacuation effort. Judging by my experience, that was not going to make them a lot of friends.<br><br>",
+  "target": "<tab>استنادًا إلى قصة كيريل، لم يكن أمام OSKOM في تلك اللحظة خيار سوى الحفاظ على الاحتياطيات القليلة المتبقية لديهم والتوقف عن إصدار واقي الراديو للجميع باستثناء الأفراد الأكثر أهمية في جهود الإخلاء. وبالحكم من خلال تجربتي، فإن ذلك لن يجعل منهم الكثير من الأصدقاء.<br><br>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_spring\\spr_099_radiostation_02_03_12",
+  "source": "Give the old Sabertooth my regards! Over and out!",
+  "target": "أبلغ Sabertooth القديم تحياتي! مرارا وتكرارا!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc_comments\\burunduk\\dlc_comments_rest_trainyard_bed_part_01",
+  "source": "The Train Wash is the first location of Exodus where the bandit faction made its appearance. ",
+  "target": "يعد Train Wash الموقع الأول لـ Exodus حيث ظهر فصيل قطاع الطرق.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_059_insideoilrig_tribaloppression_04_05",
+  "source": "<ffx:anger>Why the fuck are you spacing out there? <ffx:disgust>Uiyktamau, mlia! <ffx:neutral>",
+  "target": "<ffx:anger>لماذا تبتعد هناك؟<ffx:disgust>Uiyktamau، مليا!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_002_brief_01_05",
+  "source": "<ffx:sadness_strong>Stepan is the worst off, <ffx:sadness>the others are not so well, either. <ffx:wonder_light>Only us here are still in fighting shape. <ffx:neutral>",
+  "target": "<ffx:sadness_strong>Stepan هو الأسوأ حالًا،<ffx:sadness>الآخرون ليسوا على ما يرام أيضًا.<ffx:wonder_light>نحن فقط هنا لا نزال في حالة قتال.<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_ending\\end_01_initial_01_03",
+  "source": "<ffx:sadness>Artyom is extremely radioactive... <ffx:sadness_strong>We can't put him in Anna's compartment... But... <ffx:sadness_light>I can try to shield the one next to hers.",
+  "target": "<ffx:sadness>Artyom مشع للغاية...<ffx:sadness_strong>لا يمكننا وضعه في مقصورة آنا... لكن...<ffx:sadness_light>يمكنني محاولة حماية الشخص المجاور لها.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_spring\\spr_007_princeparty_06",
+  "source": "<ffx:wonder>Well... There I am, <ffx:smile_light>sitting on a beam looking at Artyom milling about below... <ffx:neutral>",
+  "target": "<ffx:wonder>حسنًا... ها أنا ذا،<ffx:smile_light>جالس على عارضة وأنظر إلى Artyom وهو يطحن بالأسفل...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc1\\dlc1_225_1_rioters_battleshouts_01_01",
+  "source": "Kill them OSKOM bastards!",
+  "target": "اقتلهم الأوغاد OSKOM!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_040_oasisfort_tribalzindan_dogtalk_01_05",
+  "source": "<ffx:wonder>Eeeh, myrza tear me head off anyway, <ffx:smile>but I full by then, good! <ffx:neutral>",
+  "target": "<ffx:wonder>Eeeh، myrza تمزق رأسي على أي حال،<ffx:smile>لكنني ممتلئ بحلول ذلك الوقت، جيد!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_spring\\spr_007_princeparty_idiotleaves_05",
+  "source": "<ffx:smile_light>I s vysoty vam shlem privet! <ffx:neutral>",
+  "target": "<ffx:smile_light>أنا vysoty vam shlem privet!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_006_rapunzel_new_04",
+  "source": "<ffx:sadness>We're not from here, either... <ffx:disgust>Silantius locked us up here a year ago...",
+  "target": "<ffx:sadness>نحن لسنا من هنا أيضًا...<ffx:disgust>Silantius حبسنا هنا منذ عام...",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc_comments\\burunduk\\dlc_comments_summer_start_part_02",
+  "source": "While we were still thinking about taking the Doctor from Yamantau aboard the Aurora, one of the resulting scenes would involve the cannibal kidnap the child and vanish into the forest.",
+  "target": "بينما كنا لا نزال نفكر في أخذ الطبيب من Yamantau على متن السفينة Aurora، كان أحد المشاهد الناتجة يتضمن آكل لحوم البشر وهو يختطف الطفل ويختفي في الغابة.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_09_summer\\sum_001_7_1_tabletalk_01_16",
+  "source": "<ffx:wonder>And why not? <ffx:sadness_strong>Solitude is tearing at my soul! <ffx:wonder_strong>Why, I’ve even been denied the comfort of confession - <ffx:smile>my usual confessors at Tsvetnoi Bulvar are kinda hard to reach! <ffx:neutral>",
+  "target": "<ffx:wonder>ولماذا لا؟<ffx:sadness_strong>العزلة تمزق روحي!<ffx:wonder_strong>لماذا، لقد حرمت من راحة الاعتراف -<ffx:smile>من الصعب جدًا الوصول إلى معترفي المعتاد في Tsvetnoi Bulvar!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_016_10_onapproach_04",
+  "source": "Artyom, Damir and Giul are waiting for you. There are just a few guards. Infiltrate the base quietly and open the gate. We will wait for your signal outside, and when the gate is open, tow the fuel tank to the Aurora using the railcar.",
+  "target": "أرتيوم ودامير وجيول في انتظارك. لا يوجد سوى عدد قليل من الحراس. تسلل إلى القاعدة بهدوء وافتح البوابة. سننتظر إشارتك بالخارج، وعندما تكون البوابة مفتوحة، اسحب خزان الوقود إلى Aurora باستخدام عربة السكة الحديد.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_12_autumn\\aut_011_kresttalk_01_06_dukedead",
+  "source": "<ffx:smile_light>Take Duke, for one... Such a great guy! <ffx:sadness>He died at that bridge... <ffx:wonder>Though, I must say, to see <ffx:disgust>Silantius laid in state, I'd stick my <ffx:smile_light>neck out further than anyone... yes... <ffx:neutral>",
+  "target": "<ffx:smile_light>خذ Duke على سبيل المثال... يا له من رجل عظيم!<ffx:sadness>لقد مات عند ذلك الجسر...<ffx:wonder>على الرغم من ذلك، يجب أن أقول، لرؤية<ffx:disgust>Silantius في وضعية جيدة، سأضع رقبتي<ffx:smile_light>في مكان أبعد من أي شخص آخر... نعم...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_13_dead_city\\nvs_001_initialbriefing_04",
+  "source": "<ffx:wonder_light>We'll take the Aurora South, to the <ffx:sadness_light>Sibirskaya cargo station, I marked it on your map... <ffx:neutral>",
+  "target": "<ffx:wonder_light>سنأخذ طريق Aurora South، إلى محطة الشحن<ffx:sadness_light>Sibirskaya، وقد حددتها على خريطتك...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_spring\\spr_004_level1_04",
+  "source": "<ffx:disgust_light>Kha-khm... Damn, it is rough!<ffx:neutral>",
+  "target": "<ffx:disgust_light>Kha-khm...اللعنة، الأمر خشن!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_007_02_08_briefing_1_5_samreportstomiller_01_02",
+  "source": "<ffx:sadness_light>Got it... Are <ffx:wonder_light>Krest and Yermak on the lookout for more guests? <ffx:neutral>",
+  "target": "<ffx:sadness_light>فهمت... هل يبحث<ffx:wonder_light>Krest وYermak عن المزيد من الضيوف؟<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc1\\dlc1_225_2_rioters_battleshouts_02_06",
+  "source": "You're done for, you OSCUM bitches!",
+  "target": "لقد انتهيتم من الأمر يا عاهرات OSCUM!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_003_backpackchat_07_02",
+  "source": "<ffx:wonder>If you find any new guns out there, <ffx:smile_light>I'll hold onto a sample, and you can always exchange <ffx:wonder>them here at the Aurora <ffx:smile_light>whenever you like.",
+  "target": "<ffx:wonder>إذا وجدت أي أسلحة جديدة هناك،<ffx:smile_light>سأحتفظ بعينة منها، ويمكنك دائمًا استبدال<ffx:wonder>بها هنا في Aurora<ffx:smile_light>وقتما تشاء.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_05_winter\\win_010_damir_stepan_17",
+  "source": "<ffx:anger_light>Here what? Do you think anyone would know you're from <ffx:disgust>Kulandy around these parts? <ffx:anger_light>You'd be a stranger to them, just the same as the rest of us!<ffx:neutral>",
+  "target": "<ffx:anger_light>هنا ماذا؟ هل تعتقد أن أي شخص سيعرف أنك من<ffx:disgust>Kulandy حول هذه الأجزاء؟<ffx:anger_light>ستكون غريبًا بالنسبة لهم، تمامًا مثل بقيتنا!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_spring\\spr_007_level2_03_princealive_01",
+  "source": "<ffx:wonder>Personally, I want to come back and <ffx:smile>tell Sveta of my adventures! <ffx:wonder_light>So that she'd look at me with <ffx:smile_light>her huge grey eyes without blinking and keep saying: <ffx:wonder_strong>\"you're such a hero, darling!\" <ffx:neutral>",
+  "target": "<ffx:wonder>شخصيًا، أريد العودة وإخبار<ffx:smile>لـ Sveta عن مغامراتي!<ffx:wonder_light>حتى تنظر إلي بعينيها الرماديتين الكبيرتين<ffx:smile_light>دون أن ترمش وتظل تقول:<ffx:wonder_strong>\"أنت بطلة يا عزيزتي!\"<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_016_9_2_breakingcamp_artyomreact_01_01",
+  "source": "<ffx:wonder_light>Artyom, I think Colonel and I <ffx:smile_light>have found our spot. <ffx:sadness_light>Don't tell anyone yet though, <ffx:smile_light>we need to make sure first and then make the grand announcement! <ffx:neutral>",
+  "target": "<ffx:wonder_light>Artyom، أعتقد أنني والعقيد<ffx:smile_light>قد وجدنا مكاننا.<ffx:sadness_light>لا تخبر أحدًا بعد،<ffx:smile_light>نحتاج إلى التأكد أولاً ثم إصدار الإعلان الكبير!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc2\\dlc2_080_twoneutrals_seastories_04_04",
+  "source": "About Korzh and that plane! Look, if they do have planes out there in the South, why didn't they use them to come here?",
+  "target": "عن Korzh وتلك الطائرة! انظر، إذا كان لديهم طائرات في الجنوب، لماذا لم يستخدموها للمجيء إلى هنا؟",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_000_narration_01_part2",
+  "source": "<tab>Mere kilometers separate us from the \"Caspian-1” communications center. Will the maps within yield a spot free from radiation where we could finally settle in peace? I don't know...<br><br>",
+  "target": "<tab>كيلومترات فقط تفصلنا عن مركز الاتصالات \"Caspian-1\". هل ستُظهر الخرائط الموجودة في الداخل مكانًا خاليًا من الإشعاع حيث يمكننا أن نستقر أخيرًا بسلام؟ لا أعرف...<br><br>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_12_valley\\val_004_helmettalk_01_09",
+  "source": "<ffx:wonder>So, it reads S... parta? <ffx:anger>Still doesn't make any sense! <ffx:neutral>",
+  "target": "<ffx:wonder>إذًا، يقرأ S...parta؟<ffx:anger>ما زال غير منطقي!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_02_dead_moscow\\dmc_004_hospital_02_reactartyom_01_01",
+  "source": "<ffx:sadness_light>Artyom... <ffx:wonder_light>Just try to take better care of yourself, yes? <ffx:wonder>Even if you find someone else out <ffx:sadness_light>there, they probably have their own troubles... <ffx:neutral>",
+  "target": "<ffx:sadness_light>Artyom...<ffx:wonder_light>فقط حاول أن تعتني بنفسك بشكل أفضل، أليس كذلك؟<ffx:wonder>حتى لو وجدت شخصًا آخر خارج<ffx:sadness_light>هناك، فمن المحتمل أن يكون لديه مشاكله الخاصة...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_spring\\spr_007_princeparty_07",
+  "source": "<ffx:smile>Oh, you are so full of it! Ha-ha! <ffx:wonder>Artyom did most of the work! <ffx:neutral>",
+  "target": "<ffx:smile>أوه، أنت ممتلئ جدًا به! ها ها!  قام<ffx:wonder>Artyom بمعظم العمل!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_spring\\spr_005_level3_10",
+  "source": "<ffx:sadness_light>Senya went to check what was going on - <ffx:anger_light>and there were only locals there! <ffx:sadness>Because Silantius, the old ass, had sent our people away to test them... <ffx:neutral>",
+  "target": "ذهبت<ffx:sadness_light>Senya للتحقق مما يحدث -<ffx:anger_light>ولم يكن هناك سوى السكان المحليين هناك!<ffx:sadness>لأن سيلانتيوس، العجوز، أرسل شعبنا بعيدًا لاختبارهم...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_05_winter\\win_000_miller_confession_27",
+  "source": "<ffx:wonder>If Artyom finds their signal, you'll figure everything out, <ffx:sadness>otherwise there's nothing to talk about... <ffx:sadness_light>",
+  "target": "<ffx:wonder>إذا وجد Artyom إشارته، فستكتشف كل شيء،<ffx:sadness>وإلا فلن يكون هناك ما يمكن الحديث عنه...<ffx:sadness_light>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc1\\dlc1_300_general_revelation_alt_01_17",
+  "source": "Petrov! Petrov! The fuckers left without us! Get Seryoga on the line, now! ",
+  "target": "بيتروف! بيتروف! لقد غادر الملاعين بدوننا! احصل على Seryoga على الخط، الآن!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_060_castleship_bandits_talk_02_03",
+  "source": "<ffx:wonder>Well, I don't, but <ffx:anger>Roast is going to take your water ration away!<ffx:neutral>",
+  "target": "<ffx:wonder>حسنًا، لا أعرف، لكن<ffx:anger>Roast سيأخذ حصتك من المياه!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_040_tape_recorder_people_01_01",
+  "source": "<ffx:wonder>See now?! <ffx:disgust_light>Do you see it now, you great dummy? <ffx:disgust>Silantius is bullshitting you! <ffx:anger_light>",
+  "target": "<ffx:wonder>انظر الآن؟!<ffx:disgust_light>هل تراه الآن، أيتها الدمية العظيمة؟<ffx:disgust>Silantius هو هراء لك!<ffx:anger_light>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_spring\\spr_099_radiostation_02_02_03",
+  "source": "Ufa-Central here, say again...",
+  "target": "Ufa-Central هنا، قل مرة أخرى...",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_010_briefing_01_katya_teatalk_18",
+  "source": "<ffx:disgust>No wonder Silantius has such a hold over everyone here, with people <ffx:sadness>seeing things like that every day! <ffx:sadness_light>",
+  "target": "<ffx:disgust>لا عجب أن Silantius يتمتع بهذه السيطرة على الجميع هنا، حيث يرى الأشخاص<ffx:sadness>أشياء كهذه كل يوم!<ffx:sadness_light>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\universal_m3\\factions\\tribal_2\\context\\context_alert_up_02",
+  "source": "That kutak is up there!",
+  "target": "أن kutak هو هناك!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_015_8_canyon_riggers_talk_06_05",
+  "source": "<ffx:wonder>Eeeeh, no fear about me, <ffx:smile>fear about you, Sun make you head hot, <ffx:wide_smile>you get even dumber than now! <ffx:neutral>",
+  "target": "<ffx:wonder>Eeeeh، لا خوف علي،<ffx:smile>الخوف عليك، الشمس تجعلك ساخنًا،<ffx:wide_smile>أصبحت أكثر غباءً من الآن!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_170_1_saultalk_02_17_freedslaves",
+  "source": "<ffx:smile_light>Besides, you’ve just helped that Giul out at the lighthouse, <ffx:disgust_light>and let the slaves from the ship dismantling operation... <ffx:smile>We caught most of them by now, haha, but <ffx:wonder_light>you still made a splash. Now the Baron <ffx:smile>is sure you’re targeting his slave operation, too!<ffx:neutral>",
+  "target": "<ffx:smile_light>بالإضافة إلى ذلك، لقد ساعدت جيول للتو في الخروج من المنارة،<ffx:disgust_light>ودع العبيد من عملية تفكيك السفينة...<ffx:smile>لقد قبضنا على معظمهم حتى الآن، هاها، لكن<ffx:wonder_light>مازلت تثير الإعجاب. الآن أصبح Baron<ffx:smile>متأكدًا من أنك تستهدف عملية العبيد الخاصة به أيضًا!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_009_spartanmission_suspended_03",
+  "source": "<ffx:wonder>Damir and Sam should be there soon, leave no stone unturned. <ffx:anger_light>If you don't find Anna in half an hour, <ffx:sadness>expand the search area! <ffx:sadness_light>",
+  "target": "<ffx:wonder>دامير وسام يجب أن يكونا هناك قريبًا، لا تتركوا حجرًا دون أن تقلبوه.<ffx:anger_light>إذا لم تجد Anna خلال نصف ساعة،<ffx:sadness>قم بتوسيع منطقة البحث!<ffx:sadness_light>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_12_valley\\val_005_trappedtalk_01_13",
+  "source": "<ffx:fear_strong>AAAAAA! It's the Bear! <ffx:neutral>",
+  "target": "<ffx:fear_strong>AAAAAAA! إنه الدب!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_spring\\spr_099_radiostation_02_02_09",
+  "source": "Looks like they just can’t hear me... Switch to backup frequency, Ufa-Central! Over!",
+  "target": "يبدو أنهم لا يستطيعون سماعي... قم بالتبديل إلى التردد الاحتياطي، Ufa-Central! زيادة!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_09_summer\\sum_006_afterparty_childrentalk_01_14",
+  "source": "<ffx:smile>Yeah, you'd teach them CQC... <ffx:neutral>",
+  "target": "<ffx:smile>نعم، ستعلمهم CQC...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_12_autumn\\aut_000_narration_good",
+  "source": "<tab>We all remained silent while the Aurora was running along the poisoned sea held at bay by the dam... We believed we'd be back. Now, having seen the sword of Damocles hanging over the valley, we knew it was not meant to be. <br><br><tab>Alyosha is especially worried - his Olga is there... Perhaps, he will be able to warn her via Radio and save the people there...<br><br><tab>What happens next? I've no idea, I am ready for anything. Anything, but one thing. Anna... Please, hold on... Without you, I've nothing to live for, nothing to dream about... Doubly so, since if not for that dream of mine, you'd be all right now...<br><br>",
+  "target": "<tab>بقينا جميعًا صامتين بينما كانت سفينة Aurora تجري على طول البحر المسموم الذي يحاصره السد... كنا نعتقد أننا سنعود. الآن، بعد أن رأينا سيف ديموقليس معلقًا فوق الوادي، عرفنا أنه لم يكن من المفترض أن يكون كذلك.<br><br><tab>يشعر أليوشا بالقلق بشكل خاص - أولجا الخاصة به هناك... ربما سيكون قادرًا على تحذيرها عبر الراديو وإنقاذ الأشخاص هناك...<br><br><tab>ماذا سيحدث بعد ذلك؟ ليس لدي أي فكرة، أنا مستعد لأي شيء. أي شيء، ولكن شيء واحد. آنا... أرجوك، انتظر... بدونك، ليس لدي ما أعيش من أجله، ولا شيء أحلم به... وهذا مضاعف، لأنه لولا حلمي هذا، لكنت بخير الآن...<br><br>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_bridge\\bri_007_shut_the_door_please_01_09",
+  "source": "Oh, Lord - [cough] - Oh... Lord, save us and be merciful to us... And forgive us our sins, both the intentional... And, especially, the unintentional ones...",
+  "target": "يا رب -[cough]- يا رب خلصنا وارحمنا... واغفر لنا خطايانا العمد... وخاصة غير العمد...",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_12_valley\\val_130_01_teacherlog_01_01",
+  "source": "It’s been two months already. Nobody came for the kids. Vykhin and Tucha aren’t coming back, either. The dam workers told they’d give them the lift to the city, but...",
+  "target": "لقد مر شهرين بالفعل. لم يأت أحد من أجل الأطفال. Vykhin و Tucha لن يعودوا أيضًا. أخبرهم عمال السد أنهم سيوصلونهم إلى المدينة، لكن...",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc2\\dlc2_215_sam_sniperneuitralized_silent_02_02",
+  "source": "Legche legkogo, haha!",
+  "target": "Legche Legkogo، هاها!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_041_lighthouseattack_tribalwounded_giul_goodcarma_02",
+  "source": "<ffx:wonder>But, maybe now they will understand that the <ffx:anger>Munai-bailer are dogs themselves! <ffx:neutral>",
+  "target": "<ffx:wonder>ولكن، ربما سيفهمون الآن أن<ffx:anger>Munai-bailer هم كلاب بحد ذاتها!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_10_yamantau\\yam_099_cannibal_attack_01_08",
+  "source": "You're not getting awaaaay!",
+  "target": "أنت لا تحصل على awaaaay!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_017_waytoterminal_01_05",
+  "source": "<ffx:anger_light>You can go not through gate, go <ffx:wonder_light>through the prison cellar where <ffx:disgust_light>the Munai-bailer keep the slaves. <ffx:neutral>",
+  "target": "<ffx:anger_light>لا يمكنك المرور عبر البوابة، اذهب إلى<ffx:wonder_light>عبر قبو السجن حيث يحتفظ<ffx:disgust_light>حارس Munai بالعبيد.<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_06_spring\\spr_002_level2_princealive_04",
+  "source": "<ffx:disgust>They are, essentially... Slaves! For real! <ffx:anger>They work all day and pray all night... Always watched, always directed. <ffx:anger_strong>Everything is under control! Everything is decided by the community, <ffx:sadness>well, I mean Silantius... They don’t even have any property, <ffx:disgust>even their socks belong to the community!<ffx:neutral>",
+  "target": "<ffx:disgust>إنهم في الأساس... عبيد! لريال مدريد!<ffx:anger>يعملون طوال النهار ويصلون طوال الليل... مراقبون دائمًا، وموجهون دائمًا.<ffx:anger_strong>كل شيء تحت السيطرة! كل شيء يقرره المجتمع،<ffx:sadness>حسنًا، أقصد Silantius... ليس لديهم حتى أي ممتلكات،<ffx:disgust>حتى جواربهم تنتمي إلى المجتمع!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\universal_m3\\factions\\bandit_1\\uber_alert\\uber_alert_search_14",
+  "source": "Come the fuck out, you failed cumstain! I'm finding you anyway, so don't make me any madder!",
+  "target": "تعال اللعنة خارجا، لقد فشلت cumstain! أنا أجدك على أية حال، لذا لا تجعلني أكثر جنونًا!",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc_comments\\burunduk\\dlc_comments_rest_island_bed_part_02",
+  "source": "This encounter was the first we implemented in Exodus to test the concept of NPCs' context-dependent reactions to the player's actions.",
+  "target": "كانت هذه المواجهة هي الأولى التي قمنا بتنفيذها في Exodus لاختبار مفهوم ردود أفعال الشخصيات غير القابلة للعب المعتمدة على السياق تجاه تصرفات اللاعب.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_12_autumn\\aut_003_briefing_01_20",
+  "source": "<ffx:anger>Discussion is closed! <ffx:sadness>This is not an Order mission, it is a personal errand, <ffx:anger>mine and Artyom's! We <ffx:disgust_light>don't need any help. <ffx:neutral>",
+  "target": "<ffx:anger>المناقشة مغلقة!<ffx:sadness>هذه ليست مهمة طلبية، إنها مهمة شخصية، منجم<ffx:anger>وArtyom! نحن<ffx:disgust_light>لا نحتاج إلى أي مساعدة.<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_dlc1\\dlc1_14_1_burntunnels_audiodiary_01_01",
+  "source": "So, the foreman calls me over, still raw from the chewing out the OSKOM bigwig gave him... You could see it by his walk, and the way his pants still smoked... So, he calls me over and says \"I don't care how you do it, but the pumps must work!\" So I say \"Where am I supposed to get the O-rings? The slime just rots them, and the pumps break down!\"",
+  "target": "لذلك، اتصل بي رئيس العمال، وأنا لا أزال خاملًا من المضغ الذي قدمه له أحد كبار الشخصيات في OSKOM... يمكنك رؤية ذلك من خلال مشيته، والطريقة التي لا يزال يدخن بها سرواله... لذا، اتصل بي وقال \"لا يهمني كيف تفعل ذلك، لكن المضخات يجب أن تعمل!\" لذلك قلت \"أين من المفترض أن أحصل على الحلقات الدائرية؟ إن المادة اللزجة تتعفنها وتتعطل المضخات!\"",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_059_6_1_1_shiptribalstalk_01_06",
+  "source": "<ffx:fear>Kep rakmet, great myrza, no <ffx:smile_light>kill good slave, at all! <ffx:fear>Kep rakmet! <ffx:neutral>",
+  "target": "<ffx:fear>Kep rakmet، ميرزا عظيم، لا<ffx:smile_light>يقتل العبد الجيد، على الإطلاق!<ffx:fear>كيب rakmet!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_017_waytoterminal_15",
+  "source": "<ffx:sadness_light> Giul is right about the locals... <ffx:neutral>",
+  "target": "<ffx:sadness_light>Giul على حق فيما يتعلق بالسكان المحليين...<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_000_narration_03_01",
+  "source": "<tab>On my way to the lighthouse I got a message from the Colonel: a lady named Giul got in contact with us and offered to show the way into the Communications Center if we help her fight off the local bandits besieging her home. Looks like we won't be able to stay out of local conflicts, after all. We're too close to our goal to miss such a chance, so I'm on my way to save that damsel in distress.<br><br>",
+  "target": "<tab>في طريقي إلى المنارة تلقيت رسالة من العقيد: اتصلت بنا سيدة تدعى Giul وعرضت علينا أن نرشدها إلى مركز الاتصالات إذا ساعدناها في محاربة قطاع الطرق المحليين الذين يحاصرون منزلها. يبدو أننا لن نكون قادرين على الابتعاد عن الصراعات المحلية، بعد كل شيء. نحن قريبون جدًا من هدفنا بحيث لا يمكننا تفويت مثل هذه الفرصة، لذلك أنا في طريقي لإنقاذ تلك الفتاة في محنتها.<br><br>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_05_winter\\win_010_samtalks_01",
+  "source": "<ffx:wonder_light>Hey Artyom, was there anything from <ffx:smile_light>America on the radio? <ffx:neutral>",
+  "target": "<ffx:wonder_light>مرحبًا أرتيوم، هل كان هناك أي شيء من<ffx:smile_light>America على الراديو؟<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_12_valley\\val_34_bandits_totem_01_13",
+  "source": "<ffx:smile_light>Not us, you! It was you who had a bet with <ffx:disgust>Baldie that you’d bring all their broads back home! <ffx:smile_light>The boys are all probably hot and bothered by now, so if you don’t bring the broads, they might <ffx:smile>just make you one! Haha!<ffx:neutral>",
+  "target": "<ffx:smile_light>ليس نحن، أنتم! لقد كنت أنت من راهنت مع<ffx:disgust>Baldie على أنك ستعيد كل ما لديهم إلى المنزل!<ffx:smile_light>من المحتمل أن يكون جميع الأولاد مثيرين ومنزعجين الآن، لذا إذا لم تحضر معك، فقد يصنعون لك<ffx:smile>واحدًا فقط! هاها!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_008_meeting_giul_10",
+  "source": "<ffx:smile_light>I'm in your debt. <ffx:wonder>But why are you here? <ffx:sadness_light>For five years nobody would come here, <ffx:disgust>save for Munai-bailer! <ffx:neutral>",
+  "target": "<ffx:smile_light>أنا مدين لك.<ffx:wonder>ولكن لماذا أنت هنا؟<ffx:sadness_light>لمدة خمس سنوات لن يأتي أحد إلى هنا،<ffx:disgust>باستثناء Munai-bailer!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "voices\\m3_08_desert\\des_003_riggers_shiptalk_01_03",
+  "source": "<ffx:smile>Zhogal it then! <ffx:neutral>",
+  "target": "<ffx:smile>Zhogal ذلك الحين!<ffx:neutral>",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ }
+]

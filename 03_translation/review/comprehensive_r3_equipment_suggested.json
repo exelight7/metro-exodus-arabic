@@ -1,0 +1,226 @@
+[
+  {
+    "id": "m3_health_system_hint",
+    "source": "You have suffered extensive damage and have to use a medkit to restore your health. Try finding one as soon as possible.",
+    "before": "لقد تعرضت لأضرار جسيمة ويجب عليك استخدام مجموعة أدوات طبية لاستعادة صحتك. حاول العثور على واحد في أقرب وقت ممكن.",
+    "target": "أصبت بجروح خطيرة، وعليك استخدام حقيبة الإسعافات لاستعادة صحتك. حاول العثور على واحدة بأسرع ما يمكن.",
+    "reason": "حقيبة الإسعافات هي المصطلح المعتمد؛ الإصابة البشرية ليست أضرارا بالمعدات، وواحد لا يطابق الحقيبة."
+  },
+  {
+    "id": "m3_general_hint_113",
+    "source": "If you take a lot of damage in a fight and don’t happen to have a medkit handy, you should find a campfire and have some rest to restore your health. All the campfires you find get marked on your map.",
+    "before": "إذا تعرضت لأضرار كبيرة في قتال ولم يكن لديك مجموعة أدوات طبية في متناول يدك، فيجب أن تجد نارًا في المخيم وتحصل على قسط من الراحة لاستعادة صحتك. يتم وضع علامة على جميع نيران المخيمات التي تجدها على خريطتك.",
+    "target": "إذا أصبت بجروح خطيرة في القتال ولم تكن لديك حقيبة إسعافات، فابحث عن نار مخيم واسترح عندها لاستعادة صحتك. تظهر على خريطتك علامات جميع نيران المخيمات التي تعثر عليها.",
+    "reason": "توحيد Medkit وتصحيح نار في المخيم إلى نار المخيم؛ تحديد مكان الاستراحة المقصود في آلية استعادة الصحة."
+  },
+  {
+    "id": "$med_dsc",
+    "source": "The standard army-issue medkit containing painkillers and countermeasures for weapons of mass destruction.",
+    "before": "المجموعة الطبية القياسية للجيش التي تحتوي على مسكنات الألم والتدابير المضادة لأسلحة الدمار الشامل.",
+    "target": "حقيبة الإسعافات العسكرية القياسية، تحتوي على مسكنات الألم ومواد للوقاية من آثار أسلحة الدمار الشامل.",
+    "reason": "Medkit حقيبة إسعافات؛ countermeasures هنا محتويات طبية وليست تدابير إجرائية عامة."
+  },
+  {
+    "id": "menu_item_medkit_desc",
+    "source": "The standard army-issue medkit containing painkillers and countermeasures for weapons of mass destruction.",
+    "before": "المجموعة الطبية القياسية للجيش التي تحتوي على مسكنات الألم والتدابير المضادة لأسلحة الدمار الشامل.",
+    "target": "حقيبة الإسعافات العسكرية القياسية، تحتوي على مسكنات الألم ومواد للوقاية من آثار أسلحة الدمار الشامل.",
+    "reason": "نسخة مكررة من وصف الحقيبة الطبي؛ توحيد المصطلح وتحديد طبيعة المحتويات."
+  },
+  {
+    "id": "m3_08_final_yes",
+    "source": "<use> ACCEPT<br><medkit> BREAK FREE",
+    "before": "<use> اقبل<br><medkit> بدون استراحة",
+    "target": "<use> اقبل<br><medkit> تحرر",
+    "reason": "BREAK FREE فعل التحرر وليس WITHOUT BREAK بدون استراحة؛ خطأ في اختيار الفعل يغيّر قرار اللاعب."
+  },
+  {
+    "id": "m3_dlc01_general_hint_1",
+    "source": "Keep an eye on your flamethrower's pressure gauge and don't forget to top it off when needed.",
+    "before": "راقب مقياس الضغط الخاص بقاذف اللهب ولا تنس رفعه عند الحاجة.",
+    "target": "راقب مقياس ضغط قاذف اللهب، ولا تنس إعادة ضخ الهواء فيه عند الحاجة.",
+    "reason": "top it off يعني تجديد ضغط الخزان، لا رفع المقياس أو السلاح."
+  },
+  {
+    "id": "m3_general_hint_33",
+    "source": "Your Geiger counter lets you know when you are too close to a source of radiation. When you hear it go off, get to safety quickly!",
+    "before": "يتيح لك عداد جيجر الخاص بك معرفة متى تكون قريبًا جدًا من مصدر الإشعاع. عندما تسمع صوت الانفجار، اذهب إلى بر الأمان بسرعة!",
+    "target": "ينبهك عداد جيجر عندما تقترب كثيرا من مصدر إشعاع. حين تسمع صوته، ابتعد إلى مكان آمن بسرعة!",
+    "reason": "go off للعداد يعني إصدار صوته، لا حدوث انفجار."
+  },
+  {
+    "id": "m3_dlc01_general_hint_10",
+    "source": "Light your way with the flamethrower's igniter.",
+    "before": "أشعل طريقك باستخدام مشعل قاذف اللهب.",
+    "target": "أنر طريقك بمشعل قاذف اللهب.",
+    "reason": "Light your way تعني الإضاءة لا إشعال الطريق بالنار."
+  },
+  {
+    "id": "hellbreath_dsc",
+    "source": "The railgun shoots bearing balls at incredible speeds, but takes time to charge its capacitor. Deals lower damage if fired before charging fully.",
+    "before": "يطلق المدفع الكهرومغناطيسي الكرات الحاملة بسرعات لا تصدق، لكن شحن مكثفه يستغرق وقتًا. يتسبب في ضرر أقل إذا تم إطلاقه قبل الشحن بالكامل.",
+    "target": "يطلق المدفع الكهرومغناطيسي كرات المحامل بسرعات هائلة، لكن شحن مكثفه يستغرق وقتا. تقل قوة الإصابة إذا أطلقت النار قبل اكتمال الشحن.",
+    "reason": "bearing balls كرات المحامل، لا كرات حاملة؛ capacitor مكثف كهربائي، وضرر المقذوف مشروط باكتمال شحنه."
+  },
+  {
+    "id": "m3_dlc01_general_hint_2",
+    "source": "If flowing water prevents you from burning slime, look for a valve to close, they are usually nearby.",
+    "before": "إذا كانت المياه المتدفقة تمنعك من حرق السلايم، فابحث عن صمام للإغلاق، فهو عادةً ما يكون قريبًا.",
+    "target": "إذا منعك الماء المتدفق من حرق المادة اللزجة، فابحث عن صمام وأغلقه؛ عادة ما يكون قريبا.",
+    "reason": "إزالة النقل الصوتي السلايم إلى معنى عربي واضح، وتوضيح الفعل المطلوب عند الصمام."
+  },
+  {
+    "id": "m3_dlc01_general_hint_3",
+    "source": "Burn away slime to uncover resources and other objects you could use.",
+    "before": "احرق السلايم لتكتشف الموارد والأشياء الأخرى التي يمكنك استخدامها.",
+    "target": "احرق المادة اللزجة للكشف عن الموارد والأشياء الأخرى المفيدة.",
+    "reason": "Slime مصطلح بيئي لا اسم علم؛ يستبدل النقل الصوتي بمعناه."
+  },
+  {
+    "id": "m3_hint_ingame_gasmask_filter_upd_menu_hint",
+    "source": "SWAP FILTER",
+    "before": "مرشح المبادلة",
+    "target": "تبديل المرشح",
+    "reason": "SWAP FILTER أمر بتبديل المرشح، وليس مرشحا من نوع المبادلة."
+  },
+  {
+    "id": "m3_hint_ingame_gasmask_filter_upd",
+    "source": "PRESS <filter>  SWAP FILTER",
+    "before": "اضغط على مرشح تبديل <filter>",
+    "target": "اضغط على <filter> لتبديل المرشح",
+    "reason": "الترجمة القديمة تجعل مرشح التبديل اسما للزر ولا تعطي إجراء مفهوما؛ الوسم محفوظ."
+  },
+  {
+    "id": "ammo_5_45_fire_dsc",
+    "source": "5.45x39mm incendiary ammo made by Vladivostok craftsmen and valued for its superior efficiency against mutants, it's prone to fouling the gas systems of regular assault rifles, so it is only used in specifically modified ones.",
+    "before": "ذخيرة حارقة مقاس 5.45 × 39 ملم صنعها حرفيون في فلاديفوستوك وتم تقييمها لكفاءتها الفائقة ضد المسوخ، وهي عرضة لتلوث أنظمة الغاز للبنادق الهجومية العادية، لذلك يتم استخدامها فقط في البنادق المعدلة خصيصًا.",
+    "target": "ذخيرة حارقة بعيار 5.45 × 39 ملم، يصنعها حرفيو فلاديفوستوك وتقدر لفعاليتها العالية ضد المسوخ. تتسبب في تراكم الأوساخ داخل أنظمة الغاز في البنادق الهجومية العادية، لذا لا تستخدم إلا في بنادق معدلة خصيصا لها.",
+    "reason": "valued مقدّرة وليست تم تقييمها؛ الذخيرة هي التي توسخ منظومة الغاز، وليست معرضة للتلوث منها. حفظ العيار."
+  },
+  {
+    "id": "menu_customize_barrel_short_silencer_shotgun_dsc",
+    "source": "Barrel with an improvised suppressor mounted on it. Useful for stealth.",
+    "before": "سبطانة مع كاتم الصوت المرتجل المثبت عليه. مفيدة للتسلل.",
+    "target": "سبطانة مزودة بكاتم صوت مرتجل، مفيدة للتخفي.",
+    "reason": "تصحيح عودة الضمير إلى السبطانة المؤنثة وتسمية وظيفة كاتم الصوت دون تركيب نحوي مكسور."
+  },
+  {
+    "id": "m3_general_hint_40",
+    "source": "Crouch to make your footsteps quieter. Noisy environments will also help to mask the noise of your movements - take note of this while sneaking.",
+    "before": "انحنى لتجعل خطواتك أكثر هدوءًا. ستساعد البيئات الصاخبة أيضًا على إخفاء ضجيج حركاتك - انتبه لهذا أثناء التسلل.",
+    "target": "انحن لتخفيف صوت خطواتك. تساعدك البيئات الصاخبة أيضا على إخفاء أصوات حركتك، فاستفد من ذلك أثناء التسلل.",
+    "reason": "انحنى فعل ماض؛ المطلوب أمر اللاعب بالانحناء. توضيح دور الضوضاء في التخفي."
+  },
+  {
+    "id": "m3_general_hint_41",
+    "source": "An attached silencer greatly reduces muzzle flash, which would otherwise illuminate you in a dark environment.",
+    "before": "كاتم الصوت المرفق يقلل بشكل كبير من وميض الفوهة، والذي قد يضيء لك في بيئة مظلمة.",
+    "target": "يقلل تركيب كاتم الصوت كثيرا من وميض الفوهة، الذي قد يكشف موقعك في الظلام.",
+    "reason": "illuminate you يضيء اللاعب فيكشفه، وليس يضيء له الطريق؛ فرق في فائدة كاتم الصوت أثناء التخفي."
+  },
+  {
+    "id": "$filter_dsc",
+    "source": "After the War, all the available filters were used up and refitted many times over, and now are only good for some 5 minutes of breathing.",
+    "before": "بعد الحرب، تم استخدام جميع المرشحات المتاحة وإعادة تركيبها عدة مرات، وهي الآن صالحة للتنفس لمدة 5 دقائق فقط.",
+    "target": "بعد الحرب، استهلكت المرشحات المتاحة وأعيد تجهيزها مرارا، ولم تعد تتيح الآن سوى نحو 5 دقائق من التنفس.",
+    "reason": "refitted تعني إعادة تجهيز المرشحات المستهلكة لا تركيبها المتكرر فقط؛ some 5 minutes قيمة تقريبية لا ثابتة."
+  },
+  {
+    "id": "general_hint_68_cstm",
+    "source": "When the gas mask is in use, your watch shows time remaining until the current filter runs out. You can view your total filter capacity on the Equipment Inventory by holding <popup_devices>.",
+    "before": "عندما يكون قناع الغاز قيد الاستخدام، تعرض ساعتك الوقت المتبقي حتى نفاد المرشح الحالي. يمكنك عرض سعة المرشح الإجمالية في قائمة المعدات بالضغط على <popup_devices>.",
+    "target": "عند ارتداء قناع الغاز، تبين ساعتك الوقت المتبقي قبل نفاد المرشح الحالي. اضغط باستمرار على <popup_devices> لفتح قائمة المعدات ومعرفة إجمالي مدة التنفس المتاحة بمرشحاتك.",
+    "reason": "total filter capacity مجموع زمن المرشحات المتاحة، لا سعة مرشح واحد؛ حفظ الزر."
+  },
+  {
+    "id": "general_hint_68_xbox",
+    "source": "When the gas mask is in use, your watch shows time remaining until the current filter runs out. You can view your total filter capacity on the Equipment Inventory by holding <popup_devices>.",
+    "before": "عندما يكون قناع الغاز قيد الاستخدام، تعرض ساعتك الوقت المتبقي حتى نفاد المرشح الحالي. يمكنك عرض سعة المرشح الإجمالية في قائمة المعدات بالضغط على <popup_devices>.",
+    "target": "عند ارتداء قناع الغاز، تبين ساعتك الوقت المتبقي قبل نفاد المرشح الحالي. اضغط باستمرار على <popup_devices> لفتح قائمة المعدات ومعرفة إجمالي مدة التنفس المتاحة بمرشحاتك.",
+    "reason": "نسخة منصة أخرى من تلميح السعة الإجمالية للمرشحات؛ توحيد المعنى مع حفظ الوسم."
+  },
+  {
+    "id": "m3_general_hint_68",
+    "source": "When the gas mask is in use, your watch shows time remaining until the current filter runs out. You can view your total filter capacity in the Equipment Inventory by holding <popup_weapons>",
+    "before": "عندما يكون قناع الغاز قيد الاستخدام، تعرض ساعتك الوقت المتبقي حتى نفاد المرشح الحالي. يمكنك عرض سعة المرشح الإجمالية في قائمة المعدات بالضغط على <popup_weapons>",
+    "target": "عند ارتداء قناع الغاز، تبين ساعتك الوقت المتبقي قبل نفاد المرشح الحالي. اضغط باستمرار على <popup_weapons> لفتح قائمة المعدات ومعرفة إجمالي مدة التنفس المتاحة بمرشحاتك.",
+    "reason": "total filter capacity مجموع المدة عبر المرشحات؛ هذه النسخة لها زر مختلف يجب حفظه."
+  },
+  {
+    "id": "m3_general_hint_68_cstm",
+    "source": "When the gas mask is in use, your watch shows time remaining until the current filter runs out. You can view your total filter capacity in the Equipment Inventory by holding <popup_devices>",
+    "before": "عندما يكون قناع الغاز قيد الاستخدام، تعرض ساعتك الوقت المتبقي حتى نفاد المرشح الحالي. يمكنك عرض سعة المرشح الإجمالية في قائمة المعدات بالضغط على <popup_devices>",
+    "target": "عند ارتداء قناع الغاز، تبين ساعتك الوقت المتبقي قبل نفاد المرشح الحالي. اضغط باستمرار على <popup_devices> لفتح قائمة المعدات ومعرفة إجمالي مدة التنفس المتاحة بمرشحاتك.",
+    "reason": "نفس المعنى في نسخة التحكم المخصص، مع حفظ الوسم."
+  },
+  {
+    "id": "m3_general_hint_68_xbox",
+    "source": "When the gas mask is in use, your watch shows time remaining until the current filter runs out. You can view your total filter capacity in the Equipment Inventory by holding <popup_devices>",
+    "before": "عندما يكون قناع الغاز قيد الاستخدام، تعرض ساعتك الوقت المتبقي حتى نفاد المرشح الحالي. يمكنك عرض سعة المرشح الإجمالية في قائمة المعدات بالضغط على <popup_devices>",
+    "target": "عند ارتداء قناع الغاز، تبين ساعتك الوقت المتبقي قبل نفاد المرشح الحالي. اضغط باستمرار على <popup_devices> لفتح قائمة المعدات ومعرفة إجمالي مدة التنفس المتاحة بمرشحاتك.",
+    "reason": "نفس المعنى في نسخة Xbox، مع حفظ الوسم."
+  },
+  {
+    "id": "$general_hint_36",
+    "source": "Press <time> to see how much time is left on your gasmask, and also to check how well hidden you are.",
+    "before": "اضغط على<time>لمعرفة مقدار الوقت المتبقي على قناع الغاز الخاص بك، وكذلك للتحقق من مدى إخفائك.",
+    "target": "اضغط على <time> لمعرفة المدة المتبقية لمرشح قناع الغاز، وللتحقق من مدى نجاحك في التخفي.",
+    "reason": "how well hidden you are يتعلق بتخفي اللاعب؛ مدى إخفائك صيغة متعدية غامضة. الوقت يخص قدرة المرشح."
+  },
+  {
+    "id": "$general_hint_38",
+    "source": "Press <time> to see how much time is left on your gasmask, and also to check how well hidden you are.",
+    "before": "اضغط على<time>لمعرفة مقدار الوقت المتبقي على قناع الغاز الخاص بك، وكذلك للتحقق من مدى إخفائك.",
+    "target": "اضغط على <time> لمعرفة المدة المتبقية لمرشح قناع الغاز، وللتحقق من مدى نجاحك في التخفي.",
+    "reason": "توحيد النسخة المكررة من تلميح الساعة والتخفي."
+  },
+  {
+    "id": "general_hint_51",
+    "source": "The tilt of your lighter's flame can show you the way.",
+    "before": "يمكن لإمالة لهب ولاعتك أن ترشدك إلى الطريق.",
+    "target": "يمكن أن يرشدك ميل لهب الولاعة إلى الطريق.",
+    "reason": "المقصود ملاحظة اتجاه ميل اللهب تلقائيا؛ إمالة لهبك قد تفهم كأمر بتحريكه يدويا."
+  },
+  {
+    "id": "m3_general_hint_75",
+    "source": "Male \"Shrimp\" mutants have hard claws they use for attack and defense. You can break through this armor with the more powerful weapons, but it is more effective to time your shots to catch the mutant posing for a strike.",
+    "before": "تمتلك ذكور \"الروبيان\" المتحولة مخالب صلبة تستخدمها في الهجوم والدفاع. يمكنك اختراق هذا الدرع بأسلحة أكثر قوة، ولكن من الأكثر فعالية أن تحدد توقيت طلقاتك للقبض على المتحول الذي يستعد للضربة.",
+    "target": "لذكور الروبيان المتحول مخالب صلبة تستخدمها للهجوم والدفاع. يمكنك اختراق هذا الدرع بأسلحة أقوى، لكن الأفضل توقيت طلقاتك لتصيبه حين يستعد للهجوم.",
+    "reason": "catch the mutant posing for a strike يعني إصابته في لحظة استعداد الهجوم، لا القبض عليه."
+  },
+  {
+    "id": "m3_suit_upg_helm_1_desc",
+    "source": "This visor design makes the mask much more resistant to damage, rendering it a lot harder to crack.",
+    "before": "تصميم القناع هذا يجعل القناع أكثر مقاومة للتلف، مما يجعل تشققه أكثر صعوبة.",
+    "target": "يجعل تصميم الواقي الزجاجي هذا قناع الغاز أكثر مقاومة للتلف، وأصعب تشققا بكثير.",
+    "reason": "visor جزء واقي مختلف عن القناع كله؛ الترجمة القديمة تكرر القناع بدلا من ذكر الجزء المحسن."
+  },
+  {
+    "id": "m3_dlc01_gasmask_wipe_hint",
+    "source": "Tap <facepalm> to wipe your visor.",
+    "before": "اضغط على<facepalm>لمسح حاجبك.",
+    "target": "اضغط على <facepalm> لمسح الواقي الزجاجي.",
+    "reason": "حاجبك بلا ذكر الخوذة أو القناع يوحي بحاجب العين؛ المطلوب مسح visor. وسم الزر محفوظ."
+  },
+  {
+    "id": "m3_dlc01_gasmask_wipe_hint_xbox",
+    "source": "Tap <popup_devices> to wipe your visor.",
+    "before": "اضغط على <popup_devices> لمسح حاجبك.",
+    "target": "اضغط على <popup_devices> لمسح الواقي الزجاجي.",
+    "reason": "نفس الغموض في تلميح منصة أخرى، مع الحفاظ على زرها المختلف."
+  },
+  {
+    "id": "m3_general_hint_99",
+    "source": "Avoid the radioactive pollution zones, entering them not only damages you directly, but also increases the rate of your gas mask filters' depletion, which could lead to your death. Listen to the Geiger counter on your bracer, and leave the irradiated areas as soon as you can.",
+    "before": "تجنب مناطق التلوث الإشعاعي، فدخولها لا يضرك مباشرة فحسب، بل يزيد أيضًا من معدل استنزاف مرشحات قناع الغاز لديك، مما قد يؤدي إلى وفاتك. استمع إلى عداد جيجر الموجود على دعامتك، واترك المناطق المعرضة للإشعاع في أسرع وقت ممكن.",
+    "target": "تجنب مناطق التلوث الإشعاعي؛ فهي تؤذيك مباشرة وتسرع استهلاك مرشحات قناع الغاز، مما قد يودي بحياتك. أصغ إلى عداد جيجر على واقي ساعدك، وغادر المناطق الملوثة بالإشعاع بأسرع ما يمكن.",
+    "reason": "bracer واقي الساعد المحمول عليه العداد، لا دعامة عامة. irradiated مناطق ملوثة بالإشعاع وليست محتملة التعرض له فقط."
+  },
+  {
+    "id": "me_dlc_01_rp_gamepresence_000",
+    "source": "The Two Colonels: Service tunnels - Burning slime",
+    "before": "العقيدان: أنفاق الخدمة - الوحل المحترق",
+    "target": "العقيدان: أنفاق الخدمة - حرق المادة اللزجة",
+    "reason": "Burning slime هنا نشاط حرق المادة اللزجة الجاري، لا صفة الوحل المحترق، وتوحيد الاسم مع التلميحات."
+  }
+]

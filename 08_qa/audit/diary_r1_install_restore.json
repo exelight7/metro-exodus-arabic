@@ -1,0 +1,9 @@
+{
+  "fixture": "WORKSPACE\\MetroExodus_AR\\06_build\\diary_install_20261103-170056",
+  "revision": "diary_r1",
+  "independent_asset_install": true,
+  "native_companion_compatible": true,
+  "repeat_install_idempotent": true,
+  "combined_uninstall_restores_original_exe_and_index": true,
+  "game_launched": false
+}

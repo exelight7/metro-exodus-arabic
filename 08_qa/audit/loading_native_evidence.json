@@ -1,0 +1,29 @@
+{
+  "executable_read_only": true,
+  "executable_sha256": "d4ab0e9b076d324f6b8ddad601fd9dda68c0c593adb7b0019944d560bc9875a5",
+  "alignment_enum": [
+    {
+      "name": "Left",
+      "value": 0,
+      "table_va": "0x14162fdf0"
+    },
+    {
+      "name": "Right",
+      "value": 1,
+      "table_va": "0x14162fe00"
+    },
+    {
+      "name": "Center",
+      "value": 2,
+      "table_va": "0x14162fe10"
+    },
+    {
+      "name": "Justify",
+      "value": 3,
+      "table_va": "0x14162fe20"
+    }
+  ],
+  "caption_reader": "0x140bc6d10 -> object byte +0xAA",
+  "typewriter_schema": "main_loop/final_sound/volume/click_time/random_div/hints_time; no RTL option established",
+  "runtime_tested": false
+}

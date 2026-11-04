@@ -1,0 +1,289 @@
+[
+ {
+  "id": "$dlss",
+  "source": "DLSS",
+  "target": "DLSS",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$game_subtitles_speaker",
+  "source": "SUBTITLE SPEAKER",
+  "target": "مكبر صوت الترجمة",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$af_16x",
+  "source": "AF 16X",
+  "target": "أف 16X",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$vsync",
+  "source": "VSYNC",
+  "target": "VSYNC",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$game_subtitles_deaf",
+  "source": "SUBTITLES FOR HEARING IMPAIRED",
+  "target": "ترجمة لضعاف السمع",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$video_resolution",
+  "source": "RESOLUTION",
+  "target": "القرار",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$overwrite_checkpoint_message",
+  "source": "After a level is loaded the last autosave will be overwritten.",
+  "target": "بعد تحميل المستوى، ستتم الكتابة فوق الحفظ التلقائي الأخير.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$tesselation",
+  "source": "TESSELLATION",
+  "target": "التغطية بالفسيفساء",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$dx_11_options",
+  "source": "DIRECTX 11 OPTIONS",
+  "target": "خيارات ديريكتكس 11",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$aim_assist",
+  "source": "AIM ASSIST",
+  "target": "مساعدة الهدف",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$motion_blur",
+  "source": "MOTION BLUR",
+  "target": "طمس الحركة",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$qte_hold",
+  "source": "HOLD",
+  "target": "عقد",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$credits.2563.d_center_position",
+  "source": "DIRECTOR OF QUALITY ASSURANCE",
+  "target": "مدير ضمان الجودة",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$adv_phisics",
+  "source": "ADVANCED PHYSX",
+  "target": "فيسكس المتقدم",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$gyro_enable-1",
+  "source": "MOTION CONTROLS AIMING",
+  "target": "ضوابط الحركة تهدف",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$rtgi",
+  "source": "RAY TRACING",
+  "target": "تتبع الأشعة",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$shading_rate",
+  "source": "SHADING RATE",
+  "target": "معدل التظليل",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$game_subtitles_background",
+  "source": "SUBTITLE BACKGROUND",
+  "target": "خلفية الترجمة",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$sound_music_volume",
+  "source": "MUSIC VOLUME",
+  "target": "حجم الموسيقى",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$general_hint_32",
+  "source": "Aim down the sights using <wpn_aim> for a more accurate shot.",
+  "target": "قم بالتصويب نحو الأسفل باستخدام<wpn_aim>للحصول على لقطة أكثر دقة.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$aspect_ratio",
+  "source": "ASPECT RATIO",
+  "target": "نسبة العرض إلى الارتفاع",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$raytrace",
+  "source": "NVIDIA RTX",
+  "target": "نفيديا آر تي إكس",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$localizable_signs",
+  "source": "SIGN SUBTITLES",
+  "target": "التوقيع على الترجمة",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$texture_filtering",
+  "source": "TEXTURE FILTERING",
+  "target": "تصفية النسيج",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$crosshair",
+  "source": "CROSSHAIR",
+  "target": "التقاطع",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$sound_effect_volume",
+  "source": "MASTER VOLUME",
+  "target": "الحجم الرئيسي",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$direct_x",
+  "source": "DIRECTX",
+  "target": "ديريكتكس",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$credits.0542.d_center_position",
+  "source": "QUALITY ASSURANCE",
+  "target": "ضمان الجودة",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$credits.2415.d_center_position",
+  "source": "EXTERNAL LOCALISATION & QUALITY ASSURANCE SUPPORT",
+  "target": "التوطين الخارجي ودعم ضمان الجودة",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$aim_sensitivity",
+  "source": "AIM SENSITIVITY",
+  "target": "حساسية الهدف",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$game_subtitles_size",
+  "source": "SUBTITLE SIZE",
+  "target": "حجم الترجمة",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$general_hint_29",
+  "source": "You can use your firearms in melee by pressing <wpn_aim>.",
+  "target": "يمكنك استخدام الأسلحة النارية الخاصة بك في المشاجرة عن طريق الضغط على<wpn_aim>.",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$video_quality",
+  "source": "QUALITY",
+  "target": "الجودة",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$af_4x",
+  "source": "AF 4X",
+  "target": "التركيز البؤري التلقائي 4X",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$credits.1430.d_title_nl",
+  "source": "AFTERMATH PRODUCTION",
+  "target": "إنتاج ما بعد ذلك",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$gp_wpn_aim",
+  "source": "AIM",
+  "target": "الهدف",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$very_high",
+  "source": "ULTRA",
+  "target": "الترا",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$credits.2715.c_legal",
+  "source": "and with the following additions to the disclaimer: ",
+  "target": "ومع الإضافات التالية إلى إخلاء المسؤولية:",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$gamma",
+  "source": "GAMMA",
+  "target": "غاما",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ },
+ {
+  "id": "$game_subtitles",
+  "source": "SUBTITLES",
+  "target": "الترجمة",
+  "status": "reviewed",
+  "translation_origin": "reviewed"
+ },
+ {
+  "id": "$vo_volume",
+  "source": "VOICE VOLUME",
+  "target": "حجم الصوت",
+  "status": "draft",
+  "translation_origin": "machine_draft"
+ }
+]

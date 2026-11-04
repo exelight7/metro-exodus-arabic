@@ -1,0 +1,14 @@
+{
+  "revision": "final_review_r1",
+  "rows_checked": 38221,
+  "whole_pipeline_idempotent": true,
+  "all_protected_formats_preserved": true,
+  "canonical_setting_entries": 193,
+  "consistent_duplicate_control_groups": 32,
+  "confirmed_corrections": 11,
+  "only_explicit_review_ids_changed": true,
+  "other_runtime_entries_preserved": 38212,
+  "game_launched": false,
+  "runtime_tested": false,
+  "scope": "Closing structural/terminology review and explicit context corrections. Full manual prose review, in-game visual confirmation and orange speaker coloring remain incomplete."
+}

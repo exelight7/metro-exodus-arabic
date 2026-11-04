@@ -1,0 +1,1832 @@
+{
+  "tag": "v0.2.0-beta.1",
+  "scope": "All shareable authoring sources; originals recovered locally",
+  "excluded": [
+    "01_original/",
+    "02_extracted/raw game resources",
+    "06_build/caches and virtual environments",
+    "07_patch/raw game-derived binaries (recover locally from differences)",
+    "backups/",
+    "00_admin/private receipts, locks, sessions and host information",
+    "tools/upstream/third-party SDK archives and binaries",
+    ".git/ and credentials"
+  ],
+  "files": {
+    ".gitattributes": {
+      "bytes": 8,
+      "sha256": "705fd4d6451a31d36b3df7de96f83f30ac976c9b4a6d1e51671d8e2f33e2d0da"
+    },
+    ".gitignore": {
+      "bytes": 185,
+      "sha256": "6e3df9ddcbd069321b4c7e4001505730e68f7323a280117bf2a9b8f17d8422a4"
+    },
+    "AGENTS.md": {
+      "bytes": 15573,
+      "sha256": "640f6677f1c2cc61bb80675f735fa8d8b9a3ca7740cdc3bc5c171b5ed70ca276"
+    },
+    "CHANGELOG.md": {
+      "bytes": 1535,
+      "sha256": "5906b9846cacb3ed65704d0a2abec59a8cb411fb62fb0feecdc017c2188db472"
+    },
+    "LICENSE": {
+      "bytes": 1089,
+      "sha256": "b62ffa5d866c1562a968e6bfd6703200ac82d91133927857fff26f0653c4af27"
+    },
+    "project.json": {
+      "bytes": 5488,
+      "sha256": "fd1a93b0cd12e854abf6944c34c3bc65a3a601b0947e48d7800c433a13b709ef"
+    },
+    "README.md": {
+      "bytes": 6114,
+      "sha256": "c300d62ffcae03cb58f3eb3b237587106be983be245685bf7d9ead109cd90dff"
+    },
+    "requirements-project.txt": {
+      "bytes": 221,
+      "sha256": "92a97dadfc2b3d663411eefc64716cba5adfab244c4cf7b6b11f9045551f12b8"
+    },
+    "03_translation/comprehensive_context_review.json": {
+      "bytes": 27977,
+      "sha256": "879657071aa6ea1f5ae64b585524d58ed7823a5a5a6d31a359951ae5fa58c415"
+    },
+    "03_translation/comprehensive_r2_context.json": {
+      "bytes": 17071,
+      "sha256": "fe9a5464a7cbf4d85dc0d256ec03b7b69bae8cfc3c88c19e32aa47f0efe8f787"
+    },
+    "03_translation/comprehensive_r2_labels.json": {
+      "bytes": 669,
+      "sha256": "c3740503b85b6d611580a7417faa87dba2017b30ceb0bd939e4131481bf0f9ac"
+    },
+    "03_translation/comprehensive_r2_voice.json": {
+      "bytes": 2820,
+      "sha256": "356e76412b663eb8a6c6bcea8cff1f4a60b387544c142e20323db09c10853668"
+    },
+    "03_translation/comprehensive_r3_achievements.json": {
+      "bytes": 5217,
+      "sha256": "e59c5ff972ca08dee17b27942614599d2ed7afce23f97d17b809e0c71067a49a"
+    },
+    "03_translation/comprehensive_r3_context.json": {
+      "bytes": 36252,
+      "sha256": "9c33fae5213562780550c9e8d7f30f79985fc79ae992f50accd0c679a8431b1e"
+    },
+    "03_translation/comprehensive_r3_misc.json": {
+      "bytes": 2117,
+      "sha256": "0b6419286de6ae4db4a9fc2e518973098aaee853008295597889265db3276e0c"
+    },
+    "03_translation/comprehensive_voice_review.json": {
+      "bytes": 16384,
+      "sha256": "cd1eceabcaca3f69e4efd89488b4f200f54c2042047574b65e4fcd6607d0a1ba"
+    },
+    "03_translation/extra_timed_ar.json": {
+      "bytes": 20522,
+      "sha256": "7be8c92e725619bc78d37ee39e6807ed3f1cac6ae87e3a421a0184de67510e24"
+    },
+    "03_translation/final_review_r1_context.json": {
+      "bytes": 1416,
+      "sha256": "edc616d30c01aa568a79aff7f6c116e75a5360f6af186817e8e9dc4ecd8cc514"
+    },
+    "03_translation/formal_terms.json": {
+      "bytes": 13165,
+      "sha256": "3768d3b9742b6de101ac3df4d1d4c959947eb901cedb20a44e10d65a3cc850b8"
+    },
+    "03_translation/formal_terms_r2_context.json": {
+      "bytes": 9535,
+      "sha256": "66125a75ff4005bd90ed334f3bc866e1b4066463da9560d760b1c157064e53fe"
+    },
+    "03_translation/formal_terms_r3_context.json": {
+      "bytes": 7597,
+      "sha256": "2e69e8dd20fbfb612d88f521ee47e55df6490d759758259c25905d72aaa14b4c"
+    },
+    "03_translation/formal_terms_r4_context.json": {
+      "bytes": 5610,
+      "sha256": "96f8743165528c794bdf2eb28d1863c57fccae529af84bbf64af5bc8dd4eb135"
+    },
+    "03_translation/glossary.csv": {
+      "bytes": 1330,
+      "sha256": "6f4097c293daaad875d95dccb7c7a5b182f5fa5bef6a606ba69736dd67662813"
+    },
+    "03_translation/overrides.json": {
+      "bytes": 6116,
+      "sha256": "4aea7458d9220b52a02cc1f009ea1f679cf817fc9ecfa6126e204146e340d77e"
+    },
+    "03_translation/overrides_by_id.json": {
+      "bytes": 144246,
+      "sha256": "1eb1281f4f16ea2265cb6d7d998f0178fab868c9187a602a299deb83758e55f2"
+    },
+    "03_translation/puns.csv": {
+      "bytes": 36,
+      "sha256": "32c15e13a854f26f5c6909bc70c9aa2245c32c36cd2f0fac3028681141ad608c"
+    },
+    "03_translation/settings_glossary.json": {
+      "bytes": 6767,
+      "sha256": "151dd693db3aca4d19db29614020f6e0f4ad90294f290486e3f4bc0dda48c782"
+    },
+    "03_translation/speaker_names.json": {
+      "bytes": 2374,
+      "sha256": "9cc1800e6be0c4a4f8f68c216dd8de8169db2cb6bedffdfbe0f92579a84467da"
+    },
+    "03_translation/spelling_context.json": {
+      "bytes": 16067,
+      "sha256": "1701907af5ad92cb7c475a720e3c4a4f73806137c33ca0b26748421c1678fe30"
+    },
+    "03_translation/supplemental_entries.json": {
+      "bytes": 2472,
+      "sha256": "7f8c63f8926e91b8a05728efa063b0ca4e2b559490493bf2696073b03646c32c"
+    },
+    "03_translation/video_cues_ar.json": {
+      "bytes": 31717,
+      "sha256": "f515e4a47c432d029cb1d381839b92fd692e2a0bafc09d14973118c8f19f17b9"
+    },
+    "03_translation/voice_terms.json": {
+      "bytes": 3791,
+      "sha256": "b4a8b72d0d6604ed40516cd90073dd45854b37dee0517d74a9177f5bb4a9889f"
+    },
+    "03_translation/_README.md": {
+      "bytes": 544,
+      "sha256": "879d1e0387b135b7319fcae331850353c3ad22a1199239278cdb04d42d8cb531"
+    },
+    "05_media/_README.md": {
+      "bytes": 507,
+      "sha256": "aa844a000ea04332f67563755f4ccff015113cf93e4e6c51c5285b0a24538ea8"
+    },
+    "08_qa/bugs.csv": {
+      "bytes": 1324,
+      "sha256": "53a8f74bd200600e588649c6587f721e1e9a9ef5e98fd778ed3f69c36f16b89a"
+    },
+    "08_qa/comprehensive_r1_review_ar.md": {
+      "bytes": 3555,
+      "sha256": "e2324172f350623f63d785ed79ac503d0e958dbe61c7c8a1f3b7c8c8b449b3bb"
+    },
+    "08_qa/comprehensive_r2_review_ar.md": {
+      "bytes": 3763,
+      "sha256": "9efd658b33742af8be72a67da9eb7d5da23a0a647198974ed4f7e648ef823d02"
+    },
+    "08_qa/comprehensive_r3_review_ar.md": {
+      "bytes": 4371,
+      "sha256": "50b7206173fa5e1a36cf9caa882f9f7278037fe0842a91155f8b6f0483c856ac"
+    },
+    "08_qa/final_review_r1_review_ar.md": {
+      "bytes": 3280,
+      "sha256": "1617d040022c2d8c31f9c2fcfae94db81a1c7e8494d656c3e748357d473e6960"
+    },
+    "08_qa/installer_review_ar.md": {
+      "bytes": 3166,
+      "sha256": "228a303d69e360447bc5b117941ac796a72c11f43af14ef65dab8fa8a3c6a0aa"
+    },
+    "08_qa/_README.md": {
+      "bytes": 475,
+      "sha256": "4a19bef515878e2113bdf32aadcbc8a13f7d7854414e6397b59163238021c70d"
+    },
+    "assets/installer-preview.png": {
+      "bytes": 138089,
+      "sha256": "82844bb85987aae5ea4445ad2da139565853db1583fa165e3219655fabd9e676"
+    },
+    "docs/BUILD.md": {
+      "bytes": 1513,
+      "sha256": "213b47d66b14b56fcb1b5c563860156b910d5b69e3007e3319b5d0298190e7ad"
+    },
+    "docs/FULL_PROJECT_AR.md": {
+      "bytes": 5164,
+      "sha256": "5bac3a9ed6f56fb91bf644291425152b0582a444fd797e73c0643900bf6ac370"
+    },
+    "docs/INSTALLATION_AR.md": {
+      "bytes": 4281,
+      "sha256": "45ad3cb6c003457796f026c3346ad48b2c5bf15e490410d7855633550690ff84"
+    },
+    "docs/QA.md": {
+      "bytes": 975,
+      "sha256": "9f3b9f872261476d54c9a3426aac624163a43dcbb9408fb7508de9fa7c02cc32"
+    },
+    "docs/THIRD-PARTY-NOTICES.txt": {
+      "bytes": 1636,
+      "sha256": "b481d024539f3658ce1280ebc048b5d3f727b90e3d5de4de3ed9008478282180"
+    },
+    "docs/UPSTREAM_SOURCES.md": {
+      "bytes": 1160,
+      "sha256": "726391980a97e988e3e37b24b3991be1fb5abdc1e5cd8a2301ee6c1570deedbe"
+    },
+    "installer/app.py": {
+      "bytes": 19452,
+      "sha256": "5ca5b39e8de0212b8624cd9b08e1b43d153d9a71621c11131b004a97d4adcc1d"
+    },
+    "installer/core.py": {
+      "bytes": 19485,
+      "sha256": "7eeec4a5cd81aaee175129b850d1efd82c526582cb91df873d5a8d8fec7c6a2e"
+    },
+    "installer/README.md": {
+      "bytes": 249,
+      "sha256": "c1ce5658b6538d09bcf450d7d8be67d37df80429e7a1690b1ac37c08fa26acb9"
+    },
+    "installer/rebuild.py": {
+      "bytes": 891,
+      "sha256": "ec5f84cebd8559b165ed3d456537522288aad17806271ea2609e078d79ba9806"
+    },
+    "installer/requirements.txt": {
+      "bytes": 73,
+      "sha256": "42885d453e65be47bb9b992ce25108812bea7ee065fd6d42bad68052e06ffeb2"
+    },
+    "installer/test_core.py": {
+      "bytes": 9008,
+      "sha256": "70cf1ee7932aa8bac2931c1f7354aaea1bcb65ee0968c71c27a133a799885826"
+    },
+    "installer/test_ui.py": {
+      "bytes": 2975,
+      "sha256": "23e5558245c3696866155e7b4b7e46fb62efe676ba313d306f00d02e5eefda59"
+    },
+    "project_seed/dramatis_records.json": {
+      "bytes": 8439,
+      "sha256": "3ad87a9318cae45f4950929460b9c4ab91dbdc20331eb8c75840b83b01a99a76"
+    },
+    "project_seed/speaker_map.json": {
+      "bytes": 2608831,
+      "sha256": "f6b5d7dce6bc21adcde40b5599bb5d98cc89dfa5fe31ce44444769def72ebdf9"
+    },
+    "tools/apply_cinematic_edits.py": {
+      "bytes": 3943,
+      "sha256": "5d4f980ea85aecbd74872f63b649c7b2e2c36660e054990ab7e33cc6d4cb1510"
+    },
+    "tools/apply_completion_edits.py": {
+      "bytes": 3296,
+      "sha256": "ab903b52a37834156511faff15e7af210c0cf78719ca6be6d222bef99373d043"
+    },
+    "tools/apply_diary_review.py": {
+      "bytes": 28019,
+      "sha256": "c7645db6bb15cd3e31778146a3d72d5808a0fdbed5d930e146b2794323738dfd"
+    },
+    "tools/apply_hamza_context_review.py": {
+      "bytes": 4463,
+      "sha256": "264ff8c353106841be99d859aa8ab029260e30e958f3f4a032f8eb4f4839e789"
+    },
+    "tools/apply_input_spacing_review.py": {
+      "bytes": 654,
+      "sha256": "c3b187b86278baa185ae360adb5e29311a5f89f9d1ea7ad1e9907ab59dc56cc8"
+    },
+    "tools/apply_magazine_review.py": {
+      "bytes": 8180,
+      "sha256": "d082949fff69bf2ef41428543602d23956133f6355de3100b27df91e8fb6cc36"
+    },
+    "tools/apply_residual_voice_review.py": {
+      "bytes": 8510,
+      "sha256": "18be4b7ad5ebb76ea8dfc255721643fa0ce55675825ebe19a652cb39157e1bc7"
+    },
+    "tools/apply_semantic_review.py": {
+      "bytes": 10004,
+      "sha256": "7031d0ead6e469920ad8ed82a1822ce5a816aeba8688ff926e998fd605630fa1"
+    },
+    "tools/apply_settings_review.py": {
+      "bytes": 9406,
+      "sha256": "7538794c14e9413086d8953689678e4c3263f5f5309004566ca5746a94a542f4"
+    },
+    "tools/apply_spelling_r2_review.py": {
+      "bytes": 6055,
+      "sha256": "01b1ed1158d722842077a1f23ebc08de9c7c7b7be5fdc686d8f5f9b67d6fbced"
+    },
+    "tools/apply_ui_semantic_review.py": {
+      "bytes": 8258,
+      "sha256": "f24d5b5e5eb1099e33ba637e02f2de5fd69db3d303189d5f1cbc26a5e7f96bdc"
+    },
+    "tools/arabic_spelling.py": {
+      "bytes": 2273,
+      "sha256": "33a40bffc1362b044271e7b8c049d41ee7e87405b9a781afd908a83b39ee39f2"
+    },
+    "tools/ar_guard.py": {
+      "bytes": 11511,
+      "sha256": "1b9e967b2b0737711805dc33f358332148aeb6d2bdf1f421404b29f2b087d34f"
+    },
+    "tools/audit_comprehensive_review.py": {
+      "bytes": 2268,
+      "sha256": "2d9445adb6841e293b47eddd8b0434a0b307b5a5722887470f903dcf7cfb8799"
+    },
+    "tools/author_comprehensive_additions.py": {
+      "bytes": 28290,
+      "sha256": "ff7782616d5971b79cca2e5d379b69a99dade2c32b21eff3388fd2d221b879c6"
+    },
+    "tools/author_comprehensive_r3.py": {
+      "bytes": 3189,
+      "sha256": "f1c75b4a4739878c3cb68550e4a60f65a382b427a3f173b069883a3ab3487392"
+    },
+    "tools/build_arabic_fonts.py": {
+      "bytes": 7261,
+      "sha256": "864085a290ef457c5d89990c778840e2208e7242a68fa026d04404828745451f"
+    },
+    "tools/build_completion_patch.py": {
+      "bytes": 3608,
+      "sha256": "a6908298fd67da08ffcd754bb22829dbb2cb82ce5a3c8445eba3c051e7c2ef06"
+    },
+    "tools/build_dialogue_patch.py": {
+      "bytes": 1705,
+      "sha256": "bdab26038322d6202d8cefc68b5bb0bcf8e8ddf3687dfe5fbfc8a3a1fe2bed30"
+    },
+    "tools/build_diary_ui.py": {
+      "bytes": 2007,
+      "sha256": "10b07708c63b012bc4e27c793b684849cbb5421df48feb2f2c1c91f975962d94"
+    },
+    "tools/build_loading_native.py": {
+      "bytes": 1463,
+      "sha256": "a25b15836dd4bb89761a990bff6430d880a0e5376777cdeed63f2e5dfa05f2a9"
+    },
+    "tools/build_loading_ui.py": {
+      "bytes": 1867,
+      "sha256": "7c369707eef3eac500aecfa8212a662f0b93d60547abee070f18da035f3c688b"
+    },
+    "tools/build_localization.py": {
+      "bytes": 5110,
+      "sha256": "3b069c312e531a3de7c804546ad849739d4264a0b094ec8d80554a0c24c82b01"
+    },
+    "tools/build_phases.py": {
+      "bytes": 4845,
+      "sha256": "82c309f9cd79fa79ab1f732c49c047531b7bf8a8a4f4c4a75f1abf01422a77bd"
+    },
+    "tools/build_repair_ui.py": {
+      "bytes": 580,
+      "sha256": "d4c4f963b9cbb1ab36e6b282ffc2f713b837e2067628426a49efb9f789286ea7"
+    },
+    "tools/build_rtl_loader.py": {
+      "bytes": 1282,
+      "sha256": "64349cf4aff889246e98ad4424b50dce6f106de58a00d7e800e529c8884aa6b7"
+    },
+    "tools/build_subtitle_colors.py": {
+      "bytes": 4243,
+      "sha256": "9800f4ff15b2edc9d088a03ffcaa19362827c08d52bbb4aec03b967088666582"
+    },
+    "tools/diary_layout.py": {
+      "bytes": 2236,
+      "sha256": "6c8334b4b6a05d22dbca594b39a177674ff4baa606b3b52abc84346a5a2c4432"
+    },
+    "tools/formal_terms.py": {
+      "bytes": 2514,
+      "sha256": "171e2dd39c2886af5f5bad0f1582f0afe568d0bb186c6f51f49af03b89494478"
+    },
+    "tools/foura_dialogue.py": {
+      "bytes": 298,
+      "sha256": "4c6e7712fc2fb253bdec5f95d0e07411e2516bc7f10268b6948875cd0ae7607e"
+    },
+    "tools/input_spacing.py": {
+      "bytes": 1073,
+      "sha256": "8b1c2525a626c7352e5b3ea92a28bab3f3221356f754d1894af38899c18c508a"
+    },
+    "tools/install_loading_native.py": {
+      "bytes": 4954,
+      "sha256": "eb7a976c3550edde7bd721aba83a0b1f01ddd5cea397e5bb5c8f8020b8cb957a"
+    },
+    "tools/install_patch.py": {
+      "bytes": 2554,
+      "sha256": "44b0ee59a48610b20500561738b2fc373f8967799c44b1e34adcafd80fae8238"
+    },
+    "tools/install_phase.py": {
+      "bytes": 6846,
+      "sha256": "1ef3e775f1c5e5b7d9d240999e1a852c4beeb472a0528991a81253b1ecf4ce94"
+    },
+    "tools/l10n_ws.py": {
+      "bytes": 75900,
+      "sha256": "7af455f938361b5d70835a52c108787dea8a86aaeca22fe664ef052791be60fe"
+    },
+    "tools/loading_layout.py": {
+      "bytes": 1732,
+      "sha256": "1ef409b82326be08196049235cb72b4e188beefdd3e34de744edf8bbf2c0d915"
+    },
+    "tools/loading_native_patch.py": {
+      "bytes": 1597,
+      "sha256": "4b6b465a2eafdf0d3bfc3504db829dadf6b69aa1400d5bd38511b4f0518e057b"
+    },
+    "tools/metro_archive.py": {
+      "bytes": 2413,
+      "sha256": "03058e723232bd83901ad027fdbe835c77031148f068a5b96f41d7bd020729f1"
+    },
+    "tools/metro_fonts.py": {
+      "bytes": 2398,
+      "sha256": "74f646a017d730337b6567b3d104f72fed7246df8e9d0e85b06da22f7bc21e15"
+    },
+    "tools/metro_lng.py": {
+      "bytes": 1586,
+      "sha256": "60d3cc4c48aa1a7ffe5b182fe5af223c3fe35462351f28f8a3fa384427b45695"
+    },
+    "tools/package_patch.py": {
+      "bytes": 3997,
+      "sha256": "d1c8958d6f9c5efa57045904391532811151d5eea28fa5cd5548499682598e8b"
+    },
+    "tools/prepare_full_project_release.py": {
+      "bytes": 22578,
+      "sha256": "2d3f1e6aa62a810a93001bd8ce5866be8a904cce0f41d53f1131d3f849af93b5"
+    },
+    "tools/prepare_public_release.py": {
+      "bytes": 22561,
+      "sha256": "80fab78cebd0bd619eb93cc668bc53918a5630f34b376771f22c873b3cc863c9"
+    },
+    "tools/preview_font.py": {
+      "bytes": 1730,
+      "sha256": "057dd7cf94b6c75080ccf5d92331772c2a394bc5f470e119a9fe0ab1a3836797"
+    },
+    "tools/preview_rtl_loading.py": {
+      "bytes": 2308,
+      "sha256": "451ed3d2e3dbb4183f5c64ed9ceb9ff2b87c814a4f48a1e8fcae4ecd9761058f"
+    },
+    "tools/publish_github_release.py": {
+      "bytes": 8681,
+      "sha256": "f6201ba10494369f4e9da127b73475e1067fa4ae51416ac73406fecc4616f5d1"
+    },
+    "tools/rebuild_text.py": {
+      "bytes": 3232,
+      "sha256": "181f241b76aef3ab7578f868bb4d328efb81f622c12cb191460a5706a4740745"
+    },
+    "tools/recover_project.py": {
+      "bytes": 8237,
+      "sha256": "2562c336784f5e8fc2993221d82d0c8ab63f291f51d3e02dc639ca8ef40cce8e"
+    },
+    "tools/rtl_layout.py": {
+      "bytes": 5880,
+      "sha256": "6a3bd7c451650febc1e237b1b5860192521db90072f043714910e23aeb623f09"
+    },
+    "tools/subtitle_color.py": {
+      "bytes": 1314,
+      "sha256": "332c4f58e0be173cc26f5bd8ba8fb781d807e600a3756f2bb4fbbb7970bdfaf2"
+    },
+    "tools/subtitle_layout.py": {
+      "bytes": 3380,
+      "sha256": "b46561ca769dfc5b81c4d19ac0a75924f65b4e31bebdd0aaf9b0ae3e492ed090"
+    },
+    "tools/translate_draft.py": {
+      "bytes": 5412,
+      "sha256": "8d43b604c2319225de8c1ec6e737485612ac59da8daa6ef795d4d5d4046974fa"
+    },
+    "tools/translation_terms.py": {
+      "bytes": 5982,
+      "sha256": "bc6449d3a854208b9afdd243a6f65ccc84448e9eea6e6a662533494847dac1bc"
+    },
+    "tools/verify_completion_patch.py": {
+      "bytes": 7920,
+      "sha256": "ac4320743dd892577733df43ee1d521d4fdd8f0f675ce07b7eaed564c2cda464"
+    },
+    "tools/verify_comprehensive_integrity.py": {
+      "bytes": 4109,
+      "sha256": "374b46c2279b821d40a0f5ed13844cc6b1db683c627f5c15ccb0efa3b0e284b6"
+    },
+    "tools/verify_dialogue_patch.py": {
+      "bytes": 3450,
+      "sha256": "ad4f72d8c6edd3bf71996ffd4e6f5c9785f170f6088b1adf37bb56418090be7c"
+    },
+    "tools/verify_diary_install.py": {
+      "bytes": 1733,
+      "sha256": "3ebcff3674474f86c2e8c93083ee14fbad49bf19295c99a102a120887377a8d5"
+    },
+    "tools/verify_diary_patch.py": {
+      "bytes": 5804,
+      "sha256": "96e796bb65a6f7f1ac1e2902c8be4fdbed9352a7ba145f47efff8b065b514aaa"
+    },
+    "tools/verify_final_review.py": {
+      "bytes": 3429,
+      "sha256": "7cb9484682ca321858a7465e5cbc1adb7a0ef46e1e34b0abc279b703d23c61cc"
+    },
+    "tools/verify_formal_terms.py": {
+      "bytes": 9488,
+      "sha256": "e757abd1a1a288741169a6099bdcd7904bd7c6d5cc3bf3606adee60d7866caa6"
+    },
+    "tools/verify_foura_real.py": {
+      "bytes": 3100,
+      "sha256": "33118b9f9eb7545d2d6f1bcb884c73e9a7a56e3aea7a36e790c6681d2ce25911"
+    },
+    "tools/verify_full_project.py": {
+      "bytes": 3614,
+      "sha256": "647fc5df725aaf3fc97a805d164184867587ba3331ba426c5420b88268336003"
+    },
+    "tools/verify_github_release.py": {
+      "bytes": 3641,
+      "sha256": "59ee77b2f50d821a328651501891c0a3267f5b9aa611ea9659882ce6620a6846"
+    },
+    "tools/verify_graphics_fonts.py": {
+      "bytes": 4228,
+      "sha256": "838a706faeafb133bca1fb8315c72efd3ff6f661bb14d509652bf96e4cdf0277"
+    },
+    "tools/verify_input_spacing.py": {
+      "bytes": 4256,
+      "sha256": "76b8c50efc3574bb0f0994b0387be2937aa9dbe64c6872bf5a262444973dbcab"
+    },
+    "tools/verify_loading_install.py": {
+      "bytes": 2714,
+      "sha256": "2b0ce9b6c660f3ad066a144b176251a9d077d7bf8dabeb7a9ddfc91ba53b888b"
+    },
+    "tools/verify_loading_native.py": {
+      "bytes": 9289,
+      "sha256": "8e57aa04f368a997ea14935f5f3a6d07c9c3ee1812d0db404ad498a60c903f97"
+    },
+    "tools/verify_loading_patch.py": {
+      "bytes": 3496,
+      "sha256": "ccb9a8b3e2bc4b9873927650fc01c4be9bcab30a2cea29c4d483b69999727cc6"
+    },
+    "tools/verify_repair_patch.py": {
+      "bytes": 7763,
+      "sha256": "bb70cbe8bf7a53db5472ad53ed2a8222df03aa4c710275a6a7e268d18233b396"
+    },
+    "tools/_README.md": {
+      "bytes": 483,
+      "sha256": "735760a1e457975755cb19bee38e6b27983bbe0886736b9ad6eda0d74978ea5c"
+    },
+    "translations/arabic.csv": {
+      "bytes": 5902001,
+      "sha256": "a528631db7fce542876446076d4c3150387ba6f447d71ade39b6f5b3bbd0b3ce"
+    },
+    "translations/extra_timed_ar.json": {
+      "bytes": 20522,
+      "sha256": "7be8c92e725619bc78d37ee39e6807ed3f1cac6ae87e3a421a0184de67510e24"
+    },
+    "translations/README.md": {
+      "bytes": 687,
+      "sha256": "311d5196a20c91daa0cd3d56b8103e4780ab2fff8f5d5df713d940acf7247dc4"
+    },
+    "translations/settings_glossary.json": {
+      "bytes": 6767,
+      "sha256": "151dd693db3aca4d19db29614020f6e0f4ad90294f290486e3f4bc0dda48c782"
+    },
+    "translations/speaker_names.json": {
+      "bytes": 2374,
+      "sha256": "9cc1800e6be0c4a4f8f68c216dd8de8169db2cb6bedffdfbe0f92579a84467da"
+    },
+    "translations/stats.json": {
+      "bytes": 282,
+      "sha256": "974029ccab051cbf659b95b4128134e330d969062c05d68d6686fc6a3157f33a"
+    },
+    "03_translation/incoming/_README.md": {
+      "bytes": 588,
+      "sha256": "7ba1f7d800b3fd0dea01af65ee4028f458611b5b4875750a846f231989580018"
+    },
+    "03_translation/review/comprehensive_r3_approved.json": {
+      "bytes": 128138,
+      "sha256": "c576962635acb890948924f999e30992665c1a156ec5a9b78e99f8f992ad014c"
+    },
+    "03_translation/review/comprehensive_r3_dialogue_suggested.json": {
+      "bytes": 20089,
+      "sha256": "5d8b9b1a72e8ba65643f63603a9b102d53a9a1e0f6a7fa8a3e43980b16c82846"
+    },
+    "03_translation/review/comprehensive_r3_equipment_suggested.json": {
+      "bytes": 23384,
+      "sha256": "fa18d8ceec4ee41963a2f2128b9c839fdd04d5bb6281fa0b98dcdc6f68eb9927"
+    },
+    "03_translation/review/comprehensive_r3_names_suggested.json": {
+      "bytes": 14086,
+      "sha256": "06d5364f2e3d7cbb7ea44cc590d88c6d27ea9042e8f2ca166b65bce9a1fd0022"
+    },
+    "03_translation/review/comprehensive_r3_notes_suggested.json": {
+      "bytes": 38752,
+      "sha256": "80ab9a72454bd310906c03635375f2ff3bd1619bcf192511b9147405df1bed34"
+    },
+    "03_translation/review/cutscenes_timed.json": {
+      "bytes": 63476,
+      "sha256": "d6ff01ddc149dd077201b390a0cb05414cfdbc4dcbea878fb0ba6a3892ae6e0a"
+    },
+    "03_translation/review/diary_r1_baseline.json": {
+      "bytes": 386511,
+      "sha256": "bc9c0c22771bd50c6d39b287322aec0194e6b3c9a9581c9cce7460a14a4f8658"
+    },
+    "03_translation/review/diary_r1_review_receipt.json": {
+      "bytes": 5827,
+      "sha256": "4ad5d41a31aa724bf1e6525fe1ea040aba97e7980759914e0f926b6e2218ce2d"
+    },
+    "03_translation/review/extra_timed_segments.json": {
+      "bytes": 20187,
+      "sha256": "c52ded4e5f93306eecd22542ff67688a3ea837a50a0f05ce1245b04abb571cdb"
+    },
+    "03_translation/review/final_review_r1_approved.json": {
+      "bytes": 4127,
+      "sha256": "63adb91ec5218b1c21682832e89484ee91dac4f6cb60052d94962617cfbc1d07"
+    },
+    "03_translation/review/final_review_r1_changes.json": {
+      "bytes": 3919,
+      "sha256": "a0be8a18ebf674fc1b987a9fbc9f3feb2a2317ee4e639ebd63cef59a70c17774"
+    },
+    "03_translation/review/formal_terms_r1_changes.json": {
+      "bytes": 76917,
+      "sha256": "b26e792b84f196e1250ff43e8c69b7782f1c646ec417bbcc9fb94dd64d7e99c6"
+    },
+    "03_translation/review/graphics_label_r1_before.json": {
+      "bytes": 135,
+      "sha256": "c5854a318258da9c493a2cec32fc56734044df0715e330ad1cf8c6874a7357ed"
+    },
+    "03_translation/review/hamza_context_candidates.json": {
+      "bytes": 42863,
+      "sha256": "02ccb71d8b465a1dfbb50051315059ccc24fd504f2e68fc2fa12f6da0d4da023"
+    },
+    "03_translation/review/hamza_review_receipt.json": {
+      "bytes": 11256,
+      "sha256": "d530b4ca8793e68f24c4482fb3d455e31f06d9cb311230745cc9cce55633a921"
+    },
+    "03_translation/review/latin_voice_after_terms.json": {
+      "bytes": 21149,
+      "sha256": "7676146bd69cd0fcec62b77a16c4a9cbd0c906399f715106c1508102f84e5ccd"
+    },
+    "03_translation/review/latin_voice_candidates.json": {
+      "bytes": 224298,
+      "sha256": "f05baf64d275fde45f596810dd46804d3fd4ade620254f5fb4037f540a76109d"
+    },
+    "03_translation/review/legacy_referenced_sources.json": {
+      "bytes": 1134,
+      "sha256": "2f93d0efaffadf077261d086ded35169f103608edf1096b732be060c8a697be2"
+    },
+    "03_translation/review/magazine_review_receipt.json": {
+      "bytes": 18929,
+      "sha256": "263d6f4a79f408538664c6483a0d6429a9cf2de6c1fdfc0944dd4dc006a5939f"
+    },
+    "03_translation/review/missing.json": {
+      "bytes": 574605,
+      "sha256": "226b74ae067ab0a19672b74b8c71cfced9db1e39bd29a7ea094a838561a227df"
+    },
+    "03_translation/review/remaining_after_dialogue.json": {
+      "bytes": 997639,
+      "sha256": "4f41cbb723c7ebb0942af0610761cf982988cbc42ec980e753db5778f51b4989"
+    },
+    "03_translation/review/repeated_glyph_candidates.json": {
+      "bytes": 13149,
+      "sha256": "d9dc0a8164df9d2e6ccf24343991a44b1ea81e7aa3950a62f99cb68eab19e096"
+    },
+    "03_translation/review/residual_voice_review_receipt.json": {
+      "bytes": 3774,
+      "sha256": "a5b985df5cf886a39d1ffa00180fa097472b54697da7b674abcd781e8fcdd005"
+    },
+    "03_translation/review/semantic_review_receipt.json": {
+      "bytes": 4451,
+      "sha256": "4b522aee2f31909e92c69e5462df865501679b87d00680c5b556ee0819fe0fc2"
+    },
+    "03_translation/review/settings_inventory.json": {
+      "bytes": 646096,
+      "sha256": "d8fe892e515355ce0aef298f20a9b549383732673a2b68e3e8f9476d880c5c27"
+    },
+    "03_translation/review/settings_review_receipt.json": {
+      "bytes": 31819,
+      "sha256": "3b21440cdd6c7a29fd61d841911ee49d61217141c0716f594c593c6338ad65e0"
+    },
+    "03_translation/review/settings_sources.json": {
+      "bytes": 7503,
+      "sha256": "f1524e1d2a8b657f1fbe578b81151584f5cc38e43c09559dcdd6dfb49a319150"
+    },
+    "03_translation/review/spelling_r1_changes.json": {
+      "bytes": 82494,
+      "sha256": "2be0d9d72e294399d5868532c1c6fa288b185e6105ddb85e1005beed6143be5d"
+    },
+    "03_translation/review/spelling_r2_baseline.json": {
+      "bytes": 11708963,
+      "sha256": "3c34882f19b61d12f2b86cb6508990c3851e0e579d6ed3ea873de41960b25b3b"
+    },
+    "03_translation/review/spelling_r2_changes.json": {
+      "bytes": 81544,
+      "sha256": "08781891e297c2ff401bf9280bd9b6c0feed78b961de3017a7f565b8f89efb9a"
+    },
+    "03_translation/review/spelling_r2_contexts.json": {
+      "bytes": 29264,
+      "sha256": "d2d33fa429af21cf00f11e7b119fffb56eeebc8f888b1041aff40336eefd9e52"
+    },
+    "03_translation/review/spelling_r2_context_receipt.json": {
+      "bytes": 17547,
+      "sha256": "92ccb334008f3bad5ba22f211e2e2656accdd81a877c9b6ae766c0a305ee044a"
+    },
+    "03_translation/review/spelling_review_receipt.json": {
+      "bytes": 11419,
+      "sha256": "f4181dce7f44aa17d0760f23ce483492f68d2cd664b9d3885ac887c3aeec564d"
+    },
+    "03_translation/review/ui_latin_after_terms.json": {
+      "bytes": 116123,
+      "sha256": "e10ef1f5f4bd419a0e6334bbbe330dbd91eaefe75cce5af377415a920f2f1ab2"
+    },
+    "03_translation/review/ui_latin_candidates.json": {
+      "bytes": 263249,
+      "sha256": "8e0bd2f550b2a9e616ef060675a67c03161462d626b9da8c1c6b4e0093c1b9d2"
+    },
+    "03_translation/review/ui_semantic_review_receipt.json": {
+      "bytes": 883,
+      "sha256": "f20e9c9f4207c1772c7ce409b2388abf336b855b6b6a7630e0f4e588dd180d88"
+    },
+    "03_translation/review/ya_context_r2.json": {
+      "bytes": 106892,
+      "sha256": "2dcbb049dfdbafc4f63c0da4643ce4621a555ab7b0b71dae6c2b12b1e9517e81"
+    },
+    "03_translation/review/_README.md": {
+      "bytes": 509,
+      "sha256": "ff7e3f35ab69d1c1a9d515fa7b7c0afa862d99c35794f8d95335abeb2aa0e2e7"
+    },
+    "03_translation/tables/game.csv": {
+      "bytes": 8778477,
+      "sha256": "1cfc053871ee62c46e023aaef762ee414757e4e9b6f9e70e19d3b1693dfd4f7b"
+    },
+    "03_translation/tables/_README.md": {
+      "bytes": 618,
+      "sha256": "6474ee7e91c0b93640390021740eb02cc38059e15bd5d481512983acafb8cc5a"
+    },
+    "03_translation/tm/google_draft.jsonl": {
+      "bytes": 5695234,
+      "sha256": "c68d23727c19abbd3d9e7286e0c1dd8a159870575e993f1b83aaf1626ad3946e"
+    },
+    "03_translation/tm/_README.md": {
+      "bytes": 521,
+      "sha256": "1d45f05027440ed6da4f416c0d8dde5eb47d06c62f2326f0c8214e77427b5973"
+    },
+    "04_fonts/build/font_characters.json": {
+      "bytes": 1525,
+      "sha256": "418830a8c4b01ad32a7c6122d5ba9278e82c6d7f061514eb7e0c53ea97f14e9a"
+    },
+    "04_fonts/build/noto_arabic_pf.ttf": {
+      "bytes": 844604,
+      "sha256": "3529c6cb3da971f0c675fd60cb4810e6022aa3153446b75d656e2d6fa1e10635"
+    },
+    "04_fonts/maps/diary_advances.json": {
+      "bytes": 17613,
+      "sha256": "b949c1cdf33ec09c64703e3f8930ceb207c0694fa5edf6cf226eeb6b148f70a2"
+    },
+    "04_fonts/maps/loading_advances.json": {
+      "bytes": 6022,
+      "sha256": "c979b017ee25a1a1f7f0ec5c6c58d98f322231ef645ce795cf28016edaa5645c"
+    },
+    "04_fonts/maps/native_advances.json": {
+      "bytes": 47930,
+      "sha256": "4a8c7b40c3b18bf21e3cc6965d3a2a659dd5538a198c25ca5b27b40135f2596b"
+    },
+    "04_fonts/maps/_README.md": {
+      "bytes": 573,
+      "sha256": "7b9f3bb4f5ca987bf92760bb91e8ad3d2743c196e2c98a72bfda94b72bcb004e"
+    },
+    "04_fonts/src/NotoSansArabic.ttf": {
+      "bytes": 844676,
+      "sha256": "63111b5b2e074dd48cc67692e0a2726d86ee94c1c37fe8598257b7b4e87e869e"
+    },
+    "04_fonts/src/OFL.txt": {
+      "bytes": 4382,
+      "sha256": "07fc70bfeb985cc1a87a8587d0a0c80bab11c86c9dc3fd95b6f0cb332f983e96"
+    },
+    "04_fonts/src/_README.md": {
+      "bytes": 597,
+      "sha256": "527195530086765ec6a14d88cf0755ee6a16d5daf9a69790619e1ecdb31cb08a"
+    },
+    "05_media/textures/out/_README.md": {
+      "bytes": 521,
+      "sha256": "b424c1003d630e15edf4515b748915f8915cd558bc44214a7a40354e0a9649e5"
+    },
+    "05_media/textures/src/_README.md": {
+      "bytes": 505,
+      "sha256": "ddd5264a3670a87a74760620af0745ae459f1da15e11ed184e02e1a99e8a98c8"
+    },
+    "05_media/video/out/_README.md": {
+      "bytes": 546,
+      "sha256": "f3b85253bebec7a8982b70e7489125683d630b3b9f37cfd899e878c539d3c2e0"
+    },
+    "05_media/video/subs/_README.md": {
+      "bytes": 481,
+      "sha256": "aad34f1d7335e9a8a4444fb21815a75b2718a5922ae94f2f2e968cafeb55e957"
+    },
+    "08_qa/audit/comprehensive_candidates.json": {
+      "bytes": 436200,
+      "sha256": "5c623823a6ef36027060fb0f299edcc2b2d6c981317c1790b6616b80425b79c0"
+    },
+    "08_qa/audit/comprehensive_candidates_before.json": {
+      "bytes": 465921,
+      "sha256": "5c20b110d23459d5f202c3bc20b3a36c4f1ef267f93e66dec5938d20b5cafbbb"
+    },
+    "08_qa/audit/comprehensive_r1.json": {
+      "bytes": 552,
+      "sha256": "d85338b02ce9fc09c26d536ee0db557e53ea648cfe7adfeb9e34acff4ab113e3"
+    },
+    "08_qa/audit/comprehensive_r1_integrity.json": {
+      "bytes": 629,
+      "sha256": "04bd291c64b2f00f55e8b31266e7e9a4ddf88a184107112148616756e295090d"
+    },
+    "08_qa/audit/comprehensive_r1_language.json": {
+      "bytes": 108440,
+      "sha256": "c076e8e1a5fdcfcf160a0d2e672faf434c64ea9a07f37c35f59dbd9bb272a1ae"
+    },
+    "08_qa/audit/comprehensive_r1_live.json": {
+      "bytes": 460,
+      "sha256": "eade5286edf6a4ed52f6ce69199a09b24d0377d0b98d4e637b28156c3e1564a3"
+    },
+    "08_qa/audit/comprehensive_r2.json": {
+      "bytes": 552,
+      "sha256": "d85338b02ce9fc09c26d536ee0db557e53ea648cfe7adfeb9e34acff4ab113e3"
+    },
+    "08_qa/audit/comprehensive_r2_candidates_false_friends.json": {
+      "bytes": 78082,
+      "sha256": "bbbef3f69936cc33263fa201363cc43c127604d7f52ded39232f3afcd206f711"
+    },
+    "08_qa/audit/comprehensive_r2_candidates_idiom.json": {
+      "bytes": 76809,
+      "sha256": "9f85f5e0539361d8e987fead398102824227e3480826ffddb40edd680c4f1799"
+    },
+    "08_qa/audit/comprehensive_r2_candidates_ui.json": {
+      "bytes": 20995,
+      "sha256": "9dade92d6f18a9dab524c4dc23e8af879f311d1239313db1fada3f67c314343f"
+    },
+    "08_qa/audit/comprehensive_r2_integrity.json": {
+      "bytes": 628,
+      "sha256": "ae967f383350b3ee1d95c9b5a1b7bb521745fc8870e82f621d7346fde715c360"
+    },
+    "08_qa/audit/comprehensive_r2_language.json": {
+      "bytes": 45005,
+      "sha256": "3189d256c0537528e6ef30ece0d044107fcae0cb36563bbc72d78396d6782730"
+    },
+    "08_qa/audit/comprehensive_r2_live.json": {
+      "bytes": 460,
+      "sha256": "7ce16912049342e4733808a7889aec7a3fe8505ff2cb886cd2b94d96ed8d475e"
+    },
+    "08_qa/audit/comprehensive_r2_proposed.json": {
+      "bytes": 50712,
+      "sha256": "6f0f46cb0df8d02399e66c50c8de2753163daf88b66b172c4321ad229f8b3965"
+    },
+    "08_qa/audit/comprehensive_r3.json": {
+      "bytes": 552,
+      "sha256": "d85338b02ce9fc09c26d536ee0db557e53ea648cfe7adfeb9e34acff4ab113e3"
+    },
+    "08_qa/audit/comprehensive_r3_integrity.json": {
+      "bytes": 629,
+      "sha256": "1ebec587828118723ad4cda0e20ef5b42858b81a588516ccfdd0f5415a1a9ed4"
+    },
+    "08_qa/audit/comprehensive_r3_language.json": {
+      "bytes": 68295,
+      "sha256": "e7a9b56ead4035f8f8935efcf73cf9a22d4f23c67f7107094c66f38e57e48e35"
+    },
+    "08_qa/audit/comprehensive_r3_live.json": {
+      "bytes": 460,
+      "sha256": "07fa4c79c86d272bc80b93f37bfc8546aab4a28ea60962a54b3dc6526f3ba5e2"
+    },
+    "08_qa/audit/dialogue_r1.json": {
+      "bytes": 259,
+      "sha256": "8252e5414205c8537c82192d0f65ed5d07b7c6477d4b577cc4b812bb8a682896"
+    },
+    "08_qa/audit/diary_r1.json": {
+      "bytes": 552,
+      "sha256": "d85338b02ce9fc09c26d536ee0db557e53ea648cfe7adfeb9e34acff4ab113e3"
+    },
+    "08_qa/audit/diary_r1_install_restore.json": {
+      "bytes": 320,
+      "sha256": "1bfff14ceb278aa6d2b5229001e84e9b2ea1f2b8f939bff28e9b7193fa282c7f"
+    },
+    "08_qa/audit/diary_r1_layout.json": {
+      "bytes": 66100,
+      "sha256": "a0482165ba95ff5efed70a4811e26c92c879d9a2531348b79ea2b0636b632197"
+    },
+    "08_qa/audit/diary_r1_live.json": {
+      "bytes": 159,
+      "sha256": "6fe5eddf2175de798ea9122d386831f4ad361307ba503f49491798c3a8477c6e"
+    },
+    "08_qa/audit/diary_ui.json": {
+      "bytes": 235,
+      "sha256": "7adbc94432164a35b0a50f0a5331767f9802a111c277f28381e675ecf890d46e"
+    },
+    "08_qa/audit/english_archive_scope.json": {
+      "bytes": 272593,
+      "sha256": "428a0febc74a2610609c6d62374b81f45cbd5bd4df2f9f98287cedd2d21e05f6"
+    },
+    "08_qa/audit/final_review_candidates.json": {
+      "bytes": 9236,
+      "sha256": "918442389e04e88f0ebaa41a71eacf3b2fc930d06f4e7dfbb29b250c94823d60"
+    },
+    "08_qa/audit/final_review_r1.json": {
+      "bytes": 552,
+      "sha256": "d85338b02ce9fc09c26d536ee0db557e53ea648cfe7adfeb9e34acff4ab113e3"
+    },
+    "08_qa/audit/final_review_r1_closing.json": {
+      "bytes": 593,
+      "sha256": "577d22e71b4d01043ef54cb5bd1e6146f0b4d1c720641875462fc621c6f6f8db"
+    },
+    "08_qa/audit/final_review_r1_integrity.json": {
+      "bytes": 627,
+      "sha256": "9c9194bef41b18ead221159c5ae2514eaba55183f3f1d23649ad4d68336af83e"
+    },
+    "08_qa/audit/final_review_r1_language.json": {
+      "bytes": 4048,
+      "sha256": "ee67d4c28de9cd8281ccec118fca3d883d33144ad3d2dbeb2f37eaff4cc1b1fb"
+    },
+    "08_qa/audit/final_review_r1_live.json": {
+      "bytes": 459,
+      "sha256": "6eb32259348e18362031626761e133f245779f7070d7fd5c92557bbfd8bc220d"
+    },
+    "08_qa/audit/font_build.json": {
+      "bytes": 822,
+      "sha256": "6e05ee0757cd462bac2bba582367a26eb191ee9d81c6400f0e98dd0fb83dd635"
+    },
+    "08_qa/audit/formal_terms_r1.json": {
+      "bytes": 552,
+      "sha256": "d85338b02ce9fc09c26d536ee0db557e53ea648cfe7adfeb9e34acff4ab113e3"
+    },
+    "08_qa/audit/formal_terms_r1_language.json": {
+      "bytes": 56333,
+      "sha256": "09b5fd48ffe6aa39a340c65092d2109fef9992d1f2be7662d87d338e8f111044"
+    },
+    "08_qa/audit/formal_terms_r1_live.json": {
+      "bytes": 145,
+      "sha256": "db0e0f73ffda87acc529ec7dba1565f074988da0b0b44638d2944fe6920a679b"
+    },
+    "08_qa/audit/formal_terms_r2.json": {
+      "bytes": 552,
+      "sha256": "d85338b02ce9fc09c26d536ee0db557e53ea648cfe7adfeb9e34acff4ab113e3"
+    },
+    "08_qa/audit/formal_terms_r2_language.json": {
+      "bytes": 19755,
+      "sha256": "df48f8ba6c3030f464c82e4059c8184dd492e08661b252ec2357e25e3c8622db"
+    },
+    "08_qa/audit/formal_terms_r2_live.json": {
+      "bytes": 145,
+      "sha256": "6f1035d1cd5572603fbd96b0e1a0507e9391c8fb0a79213af1487181cdb69b30"
+    },
+    "08_qa/audit/formal_terms_r3.json": {
+      "bytes": 552,
+      "sha256": "d85338b02ce9fc09c26d536ee0db557e53ea648cfe7adfeb9e34acff4ab113e3"
+    },
+    "08_qa/audit/formal_terms_r3_language.json": {
+      "bytes": 14886,
+      "sha256": "5da769c22be577aee0ef45057d7bc11c8ed2c8a2adc2209136da8f967b847950"
+    },
+    "08_qa/audit/formal_terms_r3_live.json": {
+      "bytes": 145,
+      "sha256": "a0c7764c29f6ecc28a2201985b825ef05ce9a4e3acda01e5ba3c7e7e114c9f21"
+    },
+    "08_qa/audit/formal_terms_r4.json": {
+      "bytes": 552,
+      "sha256": "d85338b02ce9fc09c26d536ee0db557e53ea648cfe7adfeb9e34acff4ab113e3"
+    },
+    "08_qa/audit/formal_terms_r4_language.json": {
+      "bytes": 11391,
+      "sha256": "e3731f34a9f0e5fc23fa0e5175b00ed8377c2cbf8d71c8655d2b0cf4fda3b580"
+    },
+    "08_qa/audit/formal_terms_r4_live.json": {
+      "bytes": 145,
+      "sha256": "d219fecbb27bbb48771ff645d65120cf61604928a3482307d54a0c20a7f8e63e"
+    },
+    "08_qa/audit/foura_real_validation.json": {
+      "bytes": 3064,
+      "sha256": "03ee59110d6cea4b6b011a0c295a382de6b53fa8fb8742d2330f47e215c1b7a1"
+    },
+    "08_qa/audit/full_project_preflight.json": {
+      "bytes": 197,
+      "sha256": "99d3fca6e403b0f95a51e2854eb32c033b6e38aeabadc9615b36f4ae1de1fdcd"
+    },
+    "08_qa/audit/full_project_recovery.json": {
+      "bytes": 548,
+      "sha256": "cc5020577e881347ec4f4a8410f3c043812e42a08448a99ba7e49e77e80f44c8"
+    },
+    "08_qa/audit/github_publication_preflight.json": {
+      "bytes": 972,
+      "sha256": "8bc1ea7fadb89cf53311eb58a69efa3e342a98a61c5661a3933353adeab81981"
+    },
+    "08_qa/audit/github_publication_verified.json": {
+      "bytes": 2722,
+      "sha256": "87cc325ad8f06c0324c25ac32ff683e4ef13efdf389ec7dbf6883844e8173d47"
+    },
+    "08_qa/audit/graphics_label_r1.json": {
+      "bytes": 552,
+      "sha256": "d291b5f46759cd53b82305775f3f6e3c45d983c7782cbd927faa094dd8a647af"
+    },
+    "08_qa/audit/graphics_label_r1_layout.json": {
+      "bytes": 679,
+      "sha256": "7261d55d16e2c0e8bbcab6f328fd1c202397abed29f9c7a82841621c4a22f75c"
+    },
+    "08_qa/audit/input_spacing_r1.json": {
+      "bytes": 552,
+      "sha256": "d85338b02ce9fc09c26d536ee0db557e53ea648cfe7adfeb9e34acff4ab113e3"
+    },
+    "08_qa/audit/input_spacing_r1_live.json": {
+      "bytes": 145,
+      "sha256": "bcfa2a3e727caf9e05683ed103b6855b5d212a43e77bf0144ab8aaa9de17c061"
+    },
+    "08_qa/audit/input_spacing_r1_spacing.json": {
+      "bytes": 8904,
+      "sha256": "1e6804939fbf2fb827890de343398ebd009a2ff0c07d9d26c9a3a326ef433ea6"
+    },
+    "08_qa/audit/installer_linux_smoke.txt": {
+      "bytes": 2501,
+      "sha256": "718d8f8f5e8d58083fc3a860a35028a94fcd7609965faa7173ae0a6fc77e892f"
+    },
+    "08_qa/audit/installer_real_transaction.json": {
+      "bytes": 2982,
+      "sha256": "57910a5112d19d13b628d08e4a34dc15afdd268739a3bc97954972cdd7e0e6c4"
+    },
+    "08_qa/audit/installer_review.json": {
+      "bytes": 17423,
+      "sha256": "aaf22ae5ec5c181c3c014d84794dffa2ab2216e1dd6d0e8b2b47a5b435fb69a4"
+    },
+    "08_qa/audit/installer_windows_smoke.json": {
+      "bytes": 293,
+      "sha256": "4d034f77a40174f6adaf32440d2fa4f915ef83fddc27a878ae19bcba4888f330"
+    },
+    "08_qa/audit/legacy_key_references.json": {
+      "bytes": 223,
+      "sha256": "a1f503dc71c09077c2d1659a4f3cce2d6f20028599c8dfb4bdadd17fb22d1db5"
+    },
+    "08_qa/audit/loading_complete_r1_emulation.json": {
+      "bytes": 1476,
+      "sha256": "4d4b75993518d17caa4a47e6f623596d678e46b4ad8348af471c48373bac8701"
+    },
+    "08_qa/audit/loading_complete_r1_install_test.json": {
+      "bytes": 335,
+      "sha256": "d4cca797c5c6a94d4feb9d2d0397bcd0bfeb46ac17093695977c0b54c578079c"
+    },
+    "08_qa/audit/loading_native_evidence.json": {
+      "bytes": 723,
+      "sha256": "5e8b534b1ea1cf9aa676dd138a69d0198f6b9c1aae5d3a352dc8e07ce902b52b"
+    },
+    "08_qa/audit/loading_r1.json": {
+      "bytes": 552,
+      "sha256": "d291b5f46759cd53b82305775f3f6e3c45d983c7782cbd927faa094dd8a647af"
+    },
+    "08_qa/audit/loading_r1_install_restore.json": {
+      "bytes": 140,
+      "sha256": "612d5a2303222f9f112790db4948bdf880f8efc1fa79e10b9c86e07cee01aa01"
+    },
+    "08_qa/audit/loading_r1_layout.json": {
+      "bytes": 505,
+      "sha256": "b864ebff06b7dc524805effc8de24eedafd7825c76f5fd794d873fa714402d09"
+    },
+    "08_qa/audit/loading_r1_user_failure.json": {
+      "bytes": 1296,
+      "sha256": "8fe81ed8c475aeb0deda803759a0ab2e564d67349f662b1f4aa4c1af0b5f5fbb"
+    },
+    "08_qa/audit/loading_ui.json": {
+      "bytes": 365,
+      "sha256": "e922cd9b59015961553fe1491fdb913764a7c78cdd57060b3573445c9e278c67"
+    },
+    "08_qa/audit/localization_build.json": {
+      "bytes": 703,
+      "sha256": "2002ade797cb0c89c76e2869cb6a232b6f4f3effe2ff85e9919b419e29c0b8a0"
+    },
+    "08_qa/audit/local_tools.json": {
+      "bytes": 990,
+      "sha256": "2ca8f465c3aef792b501bd9746fd45944540850f048ae17255564655464b1424"
+    },
+    "08_qa/audit/package.json": {
+      "bytes": 532,
+      "sha256": "c5412d80348a291b3075680f1b33e0ca1c291e2919ee0dc8f41d33dd6adeba2c"
+    },
+    "08_qa/audit/phase_installer_test.json": {
+      "bytes": 200,
+      "sha256": "d55e672c82e82e0b16c380a709703e7ab58a447dd30dfe4d7457a9a8ce956ab8"
+    },
+    "08_qa/audit/repair_r1.json": {
+      "bytes": 568,
+      "sha256": "323bee13b1835d66fa25d1845bdee166f16560e1eb141de51a216ecd2fab9124"
+    },
+    "08_qa/audit/review_r1.json": {
+      "bytes": 552,
+      "sha256": "8ba2cec17ae2e89f25030ee57fe47f489f06fe705408939991f3d056736c2265"
+    },
+    "08_qa/audit/review_r1_coverage.json": {
+      "bytes": 959,
+      "sha256": "6b025f6c7504cc95935e76ee858ce531398aaed5b29e64fdfba2e5129a3f82dd"
+    },
+    "08_qa/audit/review_r1_install_restore.json": {
+      "bytes": 162,
+      "sha256": "715756efc5c9177a4c6ccbe8aa80b1f89199a3ee408aabedc55349cddfb643d6"
+    },
+    "08_qa/audit/rtl_layout_entries.json": {
+      "bytes": 6852467,
+      "sha256": "b65cabc152559db3b3f1be009a94e24939effe7150db0bb231952b52aed52e6f"
+    },
+    "08_qa/audit/rtl_loader.json": {
+      "bytes": 146,
+      "sha256": "c185cd9295e7eae3ba6a2c69324b900cddf25e12fb9a82081b521c50182362c2"
+    },
+    "08_qa/audit/rtl_overwidth_entries.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "08_qa/audit/rtl_r1.json": {
+      "bytes": 1300,
+      "sha256": "de2cc28306d3f0efe58a69ec91cebd533cf6d59d47f6156829a0c12371e68c9f"
+    },
+    "08_qa/audit/settings_r1.json": {
+      "bytes": 714,
+      "sha256": "d7975b435480dc495fd4b53c29898e23b34c960157ff7076538b5f3819f8ca78"
+    },
+    "08_qa/audit/settings_r2.json": {
+      "bytes": 689,
+      "sha256": "603425c88603aab71e5544e8db1789a69af5e3f2841e4e511392874f0c41a5e4"
+    },
+    "08_qa/audit/spelling_r1.json": {
+      "bytes": 552,
+      "sha256": "8ba2cec17ae2e89f25030ee57fe47f489f06fe705408939991f3d056736c2265"
+    },
+    "08_qa/audit/spelling_r1_install_restore.json": {
+      "bytes": 162,
+      "sha256": "715756efc5c9177a4c6ccbe8aa80b1f89199a3ee408aabedc55349cddfb643d6"
+    },
+    "08_qa/audit/spelling_r1_language.json": {
+      "bytes": 453,
+      "sha256": "96d4cc40778099f96bddd9f73f6e1ca9f8bc34e26cb67e5460f5168dea55380a"
+    },
+    "08_qa/audit/spelling_r2.json": {
+      "bytes": 552,
+      "sha256": "8ba2cec17ae2e89f25030ee57fe47f489f06fe705408939991f3d056736c2265"
+    },
+    "08_qa/audit/spelling_r2_install_restore.json": {
+      "bytes": 140,
+      "sha256": "612d5a2303222f9f112790db4948bdf880f8efc1fa79e10b9c86e07cee01aa01"
+    },
+    "08_qa/audit/spelling_r2_language.json": {
+      "bytes": 462,
+      "sha256": "8e0bffc1450c44f1e3b9b5144e53d860e10d805d81e17f0c5d04f5c7ac3d74dc"
+    },
+    "08_qa/audit/subtitle_colors.json": {
+      "bytes": 351,
+      "sha256": "78eccc1a12b738d5a98e5c09a4f29f23d9c941a96f401b4dde0e38818196bc75"
+    },
+    "08_qa/audit/text_complete_r1.json": {
+      "bytes": 1068,
+      "sha256": "de572b7ea0566ac2c770f758cafb4b2b51481d29663be1c89854c05010d247d3"
+    },
+    "08_qa/audit/translation_audit.md": {
+      "bytes": 27409,
+      "sha256": "eae7eda90c12f66c919e60cbc78de1ed15e1a1908b8347a31785a9186a894ea2"
+    },
+    "08_qa/audit/translation_issues.csv": {
+      "bytes": 3465234,
+      "sha256": "c0830d24d15c31401deb5c85938d6e3688e2a6f2a7006ddec77b744ed808b64e"
+    },
+    "08_qa/audit/_README.md": {
+      "bytes": 517,
+      "sha256": "e30e407469b7306dab2168979b03e02046a3e91c0b4be8a8db37f8cfba4574c2"
+    },
+    "08_qa/render_tests/arabic_bitmap_preview.png": {
+      "bytes": 50436,
+      "sha256": "fd65f6933bb1341e7d07ce2655c958be1be2a7512cb2a9f2a7650a4be7adab40"
+    },
+    "08_qa/render_tests/comprehensive_r1_subtitle_preview.png": {
+      "bytes": 38955,
+      "sha256": "d67d9e7838a7c142bf39a9ccea9c5f14811c7fc5187a2ad33f574a0626bed9ea"
+    },
+    "08_qa/render_tests/comprehensive_r2_subtitle_preview.png": {
+      "bytes": 38955,
+      "sha256": "d67d9e7838a7c142bf39a9ccea9c5f14811c7fc5187a2ad33f574a0626bed9ea"
+    },
+    "08_qa/render_tests/comprehensive_r3_subtitle_preview.png": {
+      "bytes": 38955,
+      "sha256": "d67d9e7838a7c142bf39a9ccea9c5f14811c7fc5187a2ad33f574a0626bed9ea"
+    },
+    "08_qa/render_tests/diary_r1_dusty_diary.png": {
+      "bytes": 249491,
+      "sha256": "f0161f85428ef98b40ecb356443c29c771cb1f153507c928aa6090d47dfe84a1"
+    },
+    "08_qa/render_tests/diary_r1_subtitle_preview.png": {
+      "bytes": 38955,
+      "sha256": "d67d9e7838a7c142bf39a9ccea9c5f14811c7fc5187a2ad33f574a0626bed9ea"
+    },
+    "08_qa/render_tests/final_review_r1_subtitle_preview.png": {
+      "bytes": 38955,
+      "sha256": "d67d9e7838a7c142bf39a9ccea9c5f14811c7fc5187a2ad33f574a0626bed9ea"
+    },
+    "08_qa/render_tests/formal_terms_r1_subtitle_preview.png": {
+      "bytes": 38955,
+      "sha256": "d67d9e7838a7c142bf39a9ccea9c5f14811c7fc5187a2ad33f574a0626bed9ea"
+    },
+    "08_qa/render_tests/formal_terms_r2_subtitle_preview.png": {
+      "bytes": 38955,
+      "sha256": "d67d9e7838a7c142bf39a9ccea9c5f14811c7fc5187a2ad33f574a0626bed9ea"
+    },
+    "08_qa/render_tests/formal_terms_r3_subtitle_preview.png": {
+      "bytes": 38955,
+      "sha256": "d67d9e7838a7c142bf39a9ccea9c5f14811c7fc5187a2ad33f574a0626bed9ea"
+    },
+    "08_qa/render_tests/formal_terms_r4_subtitle_preview.png": {
+      "bytes": 38955,
+      "sha256": "d67d9e7838a7c142bf39a9ccea9c5f14811c7fc5187a2ad33f574a0626bed9ea"
+    },
+    "08_qa/render_tests/graphics_font_before_after.png": {
+      "bytes": 51376,
+      "sha256": "768124cd1db6f12f5c2944cbc549abfea6b355f0d47859e0cb61f14838453839"
+    },
+    "08_qa/render_tests/graphics_label_r1_static_preview.png": {
+      "bytes": 194522,
+      "sha256": "88cf28d9e39117854d1cb0296a0247d3f6f8b24ddb336e5e2ea4998723963c92"
+    },
+    "08_qa/render_tests/graphics_label_r1_subtitle_preview.png": {
+      "bytes": 38955,
+      "sha256": "d67d9e7838a7c142bf39a9ccea9c5f14811c7fc5187a2ad33f574a0626bed9ea"
+    },
+    "08_qa/render_tests/input_spacing_r1_before_after.png": {
+      "bytes": 27856,
+      "sha256": "e533ddc584cbbd87aa89125e43dbf57320071523c899c2e947e6eb9be32fcce4"
+    },
+    "08_qa/render_tests/input_spacing_r1_subtitle_preview.png": {
+      "bytes": 38955,
+      "sha256": "d67d9e7838a7c142bf39a9ccea9c5f14811c7fc5187a2ad33f574a0626bed9ea"
+    },
+    "08_qa/render_tests/installer_linux.png": {
+      "bytes": 144771,
+      "sha256": "95099f407aa9124903f4ac9989e1f4726fe05497b45f9e928311bff20a5e0dcc"
+    },
+    "08_qa/render_tests/installer_review.png": {
+      "bytes": 138089,
+      "sha256": "82844bb85987aae5ea4445ad2da139565853db1583fa165e3219655fabd9e676"
+    },
+    "08_qa/render_tests/installer_windows_debug.png": {
+      "bytes": 138089,
+      "sha256": "82844bb85987aae5ea4445ad2da139565853db1583fa165e3219655fabd9e676"
+    },
+    "08_qa/render_tests/installer_windows_exe.png": {
+      "bytes": 138089,
+      "sha256": "82844bb85987aae5ea4445ad2da139565853db1583fa165e3219655fabd9e676"
+    },
+    "08_qa/render_tests/lcd_original.png": {
+      "bytes": 129028,
+      "sha256": "e6e28a0c94212b2e60fd2c2c61970ba3115639dabf768debf8b3e2c0e7d05507"
+    },
+    "08_qa/render_tests/loading_r1_static_preview.png": {
+      "bytes": 194522,
+      "sha256": "88cf28d9e39117854d1cb0296a0247d3f6f8b24ddb336e5e2ea4998723963c92"
+    },
+    "08_qa/render_tests/loading_r1_subtitle_preview.png": {
+      "bytes": 38955,
+      "sha256": "d67d9e7838a7c142bf39a9ccea9c5f14811c7fc5187a2ad33f574a0626bed9ea"
+    },
+    "08_qa/render_tests/original_regular.png": {
+      "bytes": 148425,
+      "sha256": "f48841412b5895107d6435f9228efb707bfd7babfa871b45269e5d0087186593"
+    },
+    "08_qa/render_tests/repair_r1_subtitle_preview.png": {
+      "bytes": 38955,
+      "sha256": "d67d9e7838a7c142bf39a9ccea9c5f14811c7fc5187a2ad33f574a0626bed9ea"
+    },
+    "08_qa/render_tests/review_r1_subtitle_preview.png": {
+      "bytes": 38955,
+      "sha256": "d67d9e7838a7c142bf39a9ccea9c5f14811c7fc5187a2ad33f574a0626bed9ea"
+    },
+    "08_qa/render_tests/rtl_r1_loading_preview.png": {
+      "bytes": 195511,
+      "sha256": "08349d75bf7f07d3b9649b34f51bc8990afb9e65a25b63b268f0552684163920"
+    },
+    "08_qa/render_tests/rtl_r1_subtitle_preview.png": {
+      "bytes": 44715,
+      "sha256": "6db395453ae7c6c42b198db8d651fd35dfe42cbc3307440dd2b76cd25f7bf7d4"
+    },
+    "08_qa/render_tests/spelling_r1_subtitle_preview.png": {
+      "bytes": 38955,
+      "sha256": "d67d9e7838a7c142bf39a9ccea9c5f14811c7fc5187a2ad33f574a0626bed9ea"
+    },
+    "08_qa/render_tests/spelling_r2_subtitle_preview.png": {
+      "bytes": 38955,
+      "sha256": "d67d9e7838a7c142bf39a9ccea9c5f14811c7fc5187a2ad33f574a0626bed9ea"
+    },
+    "08_qa/render_tests/subtitle_order_preview.png": {
+      "bytes": 39789,
+      "sha256": "4902837aff67862bfabb3a10d5da2ae85cbe9fa2d106ba3c1a1c06619a8d9873"
+    },
+    "08_qa/render_tests/white_dialogue_orange_name.png": {
+      "bytes": 44720,
+      "sha256": "83b9bfa4a8c2f5e5f22c8de21ab0fb9afd13ee82768f652538af8b5a9a8f05ce"
+    },
+    "08_qa/render_tests/_README.md": {
+      "bytes": 492,
+      "sha256": "3decc2756b89acc801bea1088c3b245847dae1055e13df8662663c272cfdce20"
+    },
+    "08_qa/shots/_README.md": {
+      "bytes": 495,
+      "sha256": "3d4eb5022574d15f5790ff626c544a285d2f4c26677b87fa9b8821d8ddd4cb08"
+    },
+    "docs/history/CHANGELOG.md": {
+      "bytes": 258,
+      "sha256": "9b145d6ee2de73a904eb3b9855e1ad11cb940d50a21201918bbf58a30457f229"
+    },
+    "docs/history/DECISIONS.md": {
+      "bytes": 28251,
+      "sha256": "d76c3f9792db745e69b97480893c8fb964e0e46e4ee7734af0d20f7664feed89"
+    },
+    "docs/history/JOURNAL.md": {
+      "bytes": 53897,
+      "sha256": "312519888dc530751a40411e5d89ac6cb426280e8c5acec09a82a46843a935ca"
+    },
+    "docs/history/STATUS.md": {
+      "bytes": 30488,
+      "sha256": "b028ca33feff45f4da8c12a993536e1cffd3a35014464c770af58ede57b87f35"
+    },
+    "installer/assets/fonts.conf": {
+      "bytes": 227,
+      "sha256": "8f268033024c84089cd73ed1db07afb83ede48d72a3b4f89dbc04b9bc5a9bf0f"
+    },
+    "installer/assets/icon.ico": {
+      "bytes": 13767,
+      "sha256": "2614275f8c8d977f7b2f305f48a6084a25d1d59cae1789329157cf6360315137"
+    },
+    "installer/assets/icon.png": {
+      "bytes": 3627,
+      "sha256": "8cb985dcc3f74c83dfb905719746e4241d50ef91bb4c1cde24c70017d9f033ae"
+    },
+    "installer/assets/NotoSansArabic.ttf": {
+      "bytes": 844676,
+      "sha256": "63111b5b2e074dd48cc67692e0a2726d86ee94c1c37fe8598257b7b4e87e869e"
+    },
+    "installer/assets/OFL.txt": {
+      "bytes": 4382,
+      "sha256": "07fc70bfeb985cc1a87a8587d0a0c80bab11c86c9dc3fd95b6f0cb332f983e96"
+    },
+    "installer/assets/THIRD-PARTY-NOTICES.txt": {
+      "bytes": 1636,
+      "sha256": "b481d024539f3658ce1280ebc048b5d3f727b90e3d5de4de3ed9008478282180"
+    },
+    "installer/resources/index.forward.bsdiff": {
+      "bytes": 477,
+      "sha256": "6370f1f0fa9319c68f78ec6e5979a733f47c2a9c9a2e6a8c0d19290fa32c3299"
+    },
+    "installer/resources/index.reverse.bsdiff": {
+      "bytes": 412,
+      "sha256": "d14fa91c450f5614be5dac44108f80b9af735729d3a4d2445e888aa09f64e7c4"
+    },
+    "installer/resources/payload.bsdiff": {
+      "bytes": 2977383,
+      "sha256": "aa7e5fca4f34a0187e75a85dc6b5d8f9fc64a7bd4ff3b5332b261646ac170084"
+    },
+    "installer/resources/profile.json": {
+      "bytes": 4742,
+      "sha256": "d1a6ef9fca3f61765ca8976fb7f0c242bc23fa967516551efc98678f00194de2"
+    },
+    "installer/assets/licenses/Apache-2.0": {
+      "bytes": 11358,
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    "installer/assets/licenses/AppImage-runtime-LICENSE": {
+      "bytes": 1678,
+      "sha256": "aa154fc9070614bbe7921f89db11efd1dba7a1f3a41685958110e2230f9c0ca1"
+    },
+    "installer/assets/licenses/Artistic": {
+      "bytes": 6111,
+      "sha256": "b7fd9b73ea99602016a326e0b62e6646060d18febdd065ceca8bb482208c3d88"
+    },
+    "installer/assets/licenses/BSD": {
+      "bytes": 1499,
+      "sha256": "5d588eb3b157d52112afea935c88a7ff9efddc1e2d95a42c25d3b96ad9055008"
+    },
+    "installer/assets/licenses/CC0-1.0": {
+      "bytes": 7048,
+      "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499"
+    },
+    "installer/assets/licenses/GFDL-1.2": {
+      "bytes": 20432,
+      "sha256": "d8e94ae5fdb5433fcae2961aeb1a8cf17174d6f4a0465d24bf37dd8a038bd439"
+    },
+    "installer/assets/licenses/GFDL-1.3": {
+      "bytes": 22955,
+      "sha256": "110535522396708cea37c72a802c5e7e81391139f5f7985631c93ef242b206a4"
+    },
+    "installer/assets/licenses/GPL-1": {
+      "bytes": 12632,
+      "sha256": "d77d235e41d54594865151f4751e835c5a82322b0e87ace266567c3391a4b912"
+    },
+    "installer/assets/licenses/GPL-2": {
+      "bytes": 18092,
+      "sha256": "8177f97513213526df2cf6184d8ff986c675afb514d4e68a404010521b880643"
+    },
+    "installer/assets/licenses/GPL-3": {
+      "bytes": 35149,
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+    },
+    "installer/assets/licenses/GPL-3.0.txt": {
+      "bytes": 35149,
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+    },
+    "installer/assets/licenses/LGPL-2": {
+      "bytes": 25381,
+      "sha256": "681e386e44a19d7d0674b4320272c90e66b6610b741e7e6305f8219c42e85366"
+    },
+    "installer/assets/licenses/LGPL-2.1": {
+      "bytes": 26530,
+      "sha256": "dc626520dcd53a22f727af3ee42c770e56c97a64fe3adb063799d8ab032fe551"
+    },
+    "installer/assets/licenses/LGPL-3": {
+      "bytes": 7652,
+      "sha256": "e3a994d82e644b03a792a930f574002658412f62407f5fee083f2555c5f23118"
+    },
+    "installer/assets/licenses/LGPL-3.0.txt": {
+      "bytes": 7652,
+      "sha256": "e3a994d82e644b03a792a930f574002658412f62407f5fee083f2555c5f23118"
+    },
+    "installer/assets/licenses/MPL-1.1": {
+      "bytes": 25755,
+      "sha256": "f849fc26a7a99981611a3a370e83078deb617d12a45776d6c4cada4d338be469"
+    },
+    "installer/assets/licenses/MPL-2.0": {
+      "bytes": 16726,
+      "sha256": "fab3dd6bdab226f1c08630b1dd917e11fcb4ec5e1e020e2c16f83a0a13863e85"
+    },
+    "installer/assets/licenses/NotoSansArabic-OFL.txt": {
+      "bytes": 4382,
+      "sha256": "07fc70bfeb985cc1a87a8587d0a0c80bab11c86c9dc3fd95b6f0cb332f983e96"
+    },
+    "installer/assets/licenses/Python-LICENSE.txt": {
+      "bytes": 36874,
+      "sha256": "e502c6b880ff58d614901495a9009c136539cd0b1e2a2abb8fc00b934c203419"
+    },
+    "installer/assets/licenses/bsdiff4/LICENSE": {
+      "bytes": 8486,
+      "sha256": "589a32d54ac910a8922c4a1f00610f86d51e8a911173a1006b65657f9424528a"
+    },
+    "installer/assets/licenses/lz4/LICENSE": {
+      "bytes": 1523,
+      "sha256": "a7d65d1dd4dcc86dca5d17d46aa4a1c77669c9b72f55f298e9e2212f2905c0cf"
+    },
+    "installer/assets/licenses/PyInstaller/COPYING.txt": {
+      "bytes": 32604,
+      "sha256": "0598064c7d2718e38d7914a7d08343b2fa008e3bea9ebba2aa7a6ffa5900dd64"
+    },
+    "installer/assets/licenses/PySide6-Essentials/LicenseRef-Qt-Commercial.txt": {
+      "bytes": 470,
+      "sha256": "4f54763ac0fe2abd8f7f8d8fe370a94a08ebf84786aa0b91045bd6628deb08a3"
+    },
+    "installer/assets/licenses/shiboken6/LicenseRef-Qt-Commercial.txt": {
+      "bytes": 470,
+      "sha256": "4f54763ac0fe2abd8f7f8d8fe370a94a08ebf84786aa0b91045bd6628deb08a3"
+    },
+    "installer/assets/licenses/Debian/libblkid1/copyright": {
+      "bytes": 23237,
+      "sha256": "30539a2df6a89d844f43c727505a3193a60515f8ec6cdede8cc515ed22941d1c"
+    },
+    "installer/assets/licenses/Debian/libbrotli1/copyright": {
+      "bytes": 1354,
+      "sha256": "24a64e5bb83d0960d1835696a1e23c0896ad6055b0ca47c66ab0eb9a766324b1"
+    },
+    "installer/assets/licenses/Debian/libbsd0/copyright": {
+      "bytes": 23960,
+      "sha256": "00fd7be5d907a6bcc409a80f2d565f508673db4761d54623691f89ae3aa20fc7"
+    },
+    "installer/assets/licenses/Debian/libcap2/copyright": {
+      "bytes": 4631,
+      "sha256": "e60a5642e12e340060e4e519a65b2eb0330be2917854841c644e36268f607d54"
+    },
+    "installer/assets/licenses/Debian/libcom-err2/copyright": {
+      "bytes": 15209,
+      "sha256": "1ca415a294c0e56958c4f795b3f1f69ea3479bca53d7811f5cdd020a258949db"
+    },
+    "installer/assets/licenses/Debian/libcrypt1/copyright": {
+      "bytes": 6010,
+      "sha256": "5a5e7ca0e9f3f9679977e3a3e9ede45ad92885a3297ea78e766979f9866c5a16"
+    },
+    "installer/assets/licenses/Debian/libdbus-1-3/copyright": {
+      "bytes": 22102,
+      "sha256": "4cfc9f33368f3b95429992704c96fa598818ec796046426a9979ce4d9b8b1900"
+    },
+    "installer/assets/licenses/Debian/libdrm2/copyright": {
+      "bytes": 15612,
+      "sha256": "512c9a57fd8b449aa157351da9df07bf8e19f767e496a72205a4020268ddb2e0"
+    },
+    "installer/assets/licenses/Debian/libegl1/copyright": {
+      "bytes": 4283,
+      "sha256": "cf246da9d8979f9be80e5b9c3ce0010c09786f11a55637ff3d09f1a36d269b25"
+    },
+    "installer/assets/licenses/Debian/libelogind0/copyright": {
+      "bytes": 3544,
+      "sha256": "e934d55df4497fbca7537fd124a6c4a06ce450949efa47210b6e2b5e0d1f15e2"
+    },
+    "installer/assets/licenses/Debian/libexpat1/copyright": {
+      "bytes": 1756,
+      "sha256": "60919fe1a156395ff14511bb6ff79756c50ade2fff59ac60c9bae1d8a7fe6292"
+    },
+    "installer/assets/licenses/Debian/libffi8/copyright": {
+      "bytes": 10165,
+      "sha256": "f83d2ecba1ea4d99957e81c50bebbd076a128194288a3ec22cc8ccdb77c43087"
+    },
+    "installer/assets/licenses/Debian/libfontconfig1/copyright": {
+      "bytes": 1301,
+      "sha256": "b215a61cdd3e62b5b17cc28b1852c78acb3dd38be0fb30706f7efc050dba91db"
+    },
+    "installer/assets/licenses/Debian/libfreetype6/copyright": {
+      "bytes": 25069,
+      "sha256": "70a7a0a06e6440777417f6875476cb712b03943010abed1c32297798c8cc8ed8"
+    },
+    "installer/assets/licenses/Debian/libgl1/copyright": {
+      "bytes": 4283,
+      "sha256": "cf246da9d8979f9be80e5b9c3ce0010c09786f11a55637ff3d09f1a36d269b25"
+    },
+    "installer/assets/licenses/Debian/libglib2.0-0/copyright": {
+      "bytes": 51488,
+      "sha256": "03cbcd6142c92bb14c997af557b8c73b1534710c34fe7f69788f8e8fc5fd941d"
+    },
+    "installer/assets/licenses/Debian/libglvnd0/copyright": {
+      "bytes": 4283,
+      "sha256": "cf246da9d8979f9be80e5b9c3ce0010c09786f11a55637ff3d09f1a36d269b25"
+    },
+    "installer/assets/licenses/Debian/libglx0/copyright": {
+      "bytes": 4283,
+      "sha256": "cf246da9d8979f9be80e5b9c3ce0010c09786f11a55637ff3d09f1a36d269b25"
+    },
+    "installer/assets/licenses/Debian/libgssapi-krb5-2/copyright": {
+      "bytes": 63047,
+      "sha256": "936728f4181718f42951b881c1e8f1386bf6b2723c4fbc533c374d6f42c71816"
+    },
+    "installer/assets/licenses/Debian/libk5crypto3/copyright": {
+      "bytes": 63047,
+      "sha256": "936728f4181718f42951b881c1e8f1386bf6b2723c4fbc533c374d6f42c71816"
+    },
+    "installer/assets/licenses/Debian/libkeyutils1/copyright": {
+      "bytes": 2104,
+      "sha256": "c62fe37d22203046611112bc10a9e03a39a7f73bec1b061e7c615326166d9ff5"
+    },
+    "installer/assets/licenses/Debian/libkrb5-3/copyright": {
+      "bytes": 63047,
+      "sha256": "936728f4181718f42951b881c1e8f1386bf6b2723c4fbc533c374d6f42c71816"
+    },
+    "installer/assets/licenses/Debian/libkrb5support0/copyright": {
+      "bytes": 63047,
+      "sha256": "936728f4181718f42951b881c1e8f1386bf6b2723c4fbc533c374d6f42c71816"
+    },
+    "installer/assets/licenses/Debian/libmd0/copyright": {
+      "bytes": 8018,
+      "sha256": "4365ef6255ad553fce69dd4bc0e093472c5d0e41b8ea493a545cc926ce171aa6"
+    },
+    "installer/assets/licenses/Debian/libmount1/copyright": {
+      "bytes": 23237,
+      "sha256": "30539a2df6a89d844f43c727505a3193a60515f8ec6cdede8cc515ed22941d1c"
+    },
+    "installer/assets/licenses/Debian/libpcre2-8-0/copyright": {
+      "bytes": 6626,
+      "sha256": "030511beb4d9d620ad09914c369c36ec0528dcf301d1923cc643c948ee7c6a38"
+    },
+    "installer/assets/licenses/Debian/libpng16-16/copyright": {
+      "bytes": 12976,
+      "sha256": "68bd3997355bc44ccb97ff5e2bb146360e762c7d9c721945a4fabf77d1349e4a"
+    },
+    "installer/assets/licenses/Debian/libselinux1/copyright": {
+      "bytes": 3131,
+      "sha256": "641806738b0c6a3d03168c2649e6b94205198bb66cd557e6bae3a20b71c9bb0b"
+    },
+    "installer/assets/licenses/Debian/libssl3/copyright": {
+      "bytes": 2543,
+      "sha256": "6a7da622fe0637a334d2a8fc470852d2ffb77d9a2b2f930f854e32a41ad6ef35"
+    },
+    "installer/assets/licenses/Debian/libwayland-client0/copyright": {
+      "bytes": 1934,
+      "sha256": "736bf54141fa9808939ffff2691b817888ea53197484c2099e8d03b954b83e3b"
+    },
+    "installer/assets/licenses/Debian/libwayland-cursor0/copyright": {
+      "bytes": 1934,
+      "sha256": "736bf54141fa9808939ffff2691b817888ea53197484c2099e8d03b954b83e3b"
+    },
+    "installer/assets/licenses/Debian/libx11-6/copyright": {
+      "bytes": 47102,
+      "sha256": "0b380a7fd5b2228f26e9585e56f14812efd3350f3df307507d2bc055dfd8de3e"
+    },
+    "installer/assets/licenses/Debian/libx11-xcb1/copyright": {
+      "bytes": 47102,
+      "sha256": "0b380a7fd5b2228f26e9585e56f14812efd3350f3df307507d2bc055dfd8de3e"
+    },
+    "installer/assets/licenses/Debian/libxau6/copyright": {
+      "bytes": 1224,
+      "sha256": "118dd263a7b91c8f21c489f949bf13281dff9e766deea92b829dac4dce66601a"
+    },
+    "installer/assets/licenses/Debian/libxcb-cursor0/copyright": {
+      "bytes": 1851,
+      "sha256": "8ee3b982784137d7e651d37c8c0978983984b0fe93ce2760013b0abbf6652bed"
+    },
+    "installer/assets/licenses/Debian/libxcb-icccm4/copyright": {
+      "bytes": 2683,
+      "sha256": "b5b83faabe190515e7a5938aa00441204cd163e24191ef7bcf5e4ac690acd376"
+    },
+    "installer/assets/licenses/Debian/libxcb-image0/copyright": {
+      "bytes": 2707,
+      "sha256": "daf2d51e978ec64fc21f59b12d850c2efc907c15eae5c4ba2f3237ce946476de"
+    },
+    "installer/assets/licenses/Debian/libxcb-keysyms1/copyright": {
+      "bytes": 2757,
+      "sha256": "ec64999ff22c8cbba2aa1c88828cd51461efd74db3a6f4044ea81fbc0a6f6288"
+    },
+    "installer/assets/licenses/Debian/libxcb-randr0/copyright": {
+      "bytes": 1781,
+      "sha256": "4f7cb9db6bf6542f5417e3d674c780d3a5fd12291a54d63054fb576ee0cfae80"
+    },
+    "installer/assets/licenses/Debian/libxcb-render-util0/copyright": {
+      "bytes": 2722,
+      "sha256": "94e32edbc98a324a3c13cd7a1687406328a9a94c6fefe319d6ac43dd4cbf151c"
+    },
+    "installer/assets/licenses/Debian/libxcb-render0/copyright": {
+      "bytes": 1781,
+      "sha256": "4f7cb9db6bf6542f5417e3d674c780d3a5fd12291a54d63054fb576ee0cfae80"
+    },
+    "installer/assets/licenses/Debian/libxcb-shape0/copyright": {
+      "bytes": 1781,
+      "sha256": "4f7cb9db6bf6542f5417e3d674c780d3a5fd12291a54d63054fb576ee0cfae80"
+    },
+    "installer/assets/licenses/Debian/libxcb-shm0/copyright": {
+      "bytes": 1781,
+      "sha256": "4f7cb9db6bf6542f5417e3d674c780d3a5fd12291a54d63054fb576ee0cfae80"
+    },
+    "installer/assets/licenses/Debian/libxcb-sync1/copyright": {
+      "bytes": 1781,
+      "sha256": "4f7cb9db6bf6542f5417e3d674c780d3a5fd12291a54d63054fb576ee0cfae80"
+    },
+    "installer/assets/licenses/Debian/libxcb-util1/copyright": {
+      "bytes": 2741,
+      "sha256": "1142dc404c2f6845a5e9a39ee569e670fd629b3a974a03bcd64f84e57e5acd90"
+    },
+    "installer/assets/licenses/Debian/libxcb-xfixes0/copyright": {
+      "bytes": 1781,
+      "sha256": "4f7cb9db6bf6542f5417e3d674c780d3a5fd12291a54d63054fb576ee0cfae80"
+    },
+    "installer/assets/licenses/Debian/libxcb-xkb1/copyright": {
+      "bytes": 1781,
+      "sha256": "4f7cb9db6bf6542f5417e3d674c780d3a5fd12291a54d63054fb576ee0cfae80"
+    },
+    "installer/assets/licenses/Debian/libxcb1/copyright": {
+      "bytes": 1781,
+      "sha256": "4f7cb9db6bf6542f5417e3d674c780d3a5fd12291a54d63054fb576ee0cfae80"
+    },
+    "installer/assets/licenses/Debian/libxdmcp6/copyright": {
+      "bytes": 1265,
+      "sha256": "1bcbb50f8603fe8b86d330bfa460b772ea04fbd3c70e4499f0768b5340b9fd6e"
+    },
+    "installer/assets/licenses/Debian/libxkbcommon-x11-0/copyright": {
+      "bytes": 3566,
+      "sha256": "5eeaeb1b6e029a0274e1573765bb0bae2926ef96a3679203faa4fd00fdaeaa88"
+    },
+    "installer/assets/licenses/Debian/libxkbcommon0/copyright": {
+      "bytes": 3566,
+      "sha256": "5eeaeb1b6e029a0274e1573765bb0bae2926ef96a3679203faa4fd00fdaeaa88"
+    },
+    "installer/assets/licenses/Debian/libzstd1/copyright": {
+      "bytes": 5389,
+      "sha256": "35e85e8e9bbb71492c5f5dddf39ed65b68775a02ad8d710c25d097b497f06c49"
+    },
+    "installer/assets/licenses/Debian/zlib1g/copyright": {
+      "bytes": 2927,
+      "sha256": "9e5b96d63773a5d177ba264254390f792be07e41748ebd94730981c6cac31cc6"
+    },
+    "skills/foura-dialogue/SKILL.md": {
+      "bytes": 5405,
+      "sha256": "566a19c8d43303b36e71fbca7d6b7c73efa889dfc3ae09338af68e7d05d98ae4"
+    },
+    "skills/foura-dialogue/agents/openai.yaml": {
+      "bytes": 409,
+      "sha256": "afc649c93a241bfd1f64709c238069eeedef811b72e2a5a30c847d36f9ddc89f"
+    },
+    "skills/foura-dialogue/references/formats.md": {
+      "bytes": 3998,
+      "sha256": "612aa10aa5802e3388c21d0773a9a5a79917a7d1d2ae892211c62b67ec42dec0"
+    },
+    "skills/foura-dialogue/references/workflow.md": {
+      "bytes": 3065,
+      "sha256": "fc246dfb9c18ae11a8844c2d49f308a585ef5d0d250cd187a81f1ffccac7abc3"
+    },
+    "skills/foura-dialogue/scripts/foura_dialogue.py": {
+      "bytes": 24281,
+      "sha256": "0652f2bfa10ac5a3b91b4e5cee0a6d47a2ca1148ffae01eaae0890f7034c7535"
+    },
+    "skills/foura-dialogue/scripts/requirements.txt": {
+      "bytes": 11,
+      "sha256": "f957a1197432942b8e01f3ba222639d0a341a93360a6bad23a99b6a9c3496a5f"
+    },
+    "skills/foura-dialogue/scripts/test_foura_dialogue.py": {
+      "bytes": 11904,
+      "sha256": "23e653eda1a51f65452dcbc68320535ecbe5f4f4984683e6815bbd7b5a69f0b4"
+    },
+    "tools/installer/app.py": {
+      "bytes": 19452,
+      "sha256": "5ca5b39e8de0212b8624cd9b08e1b43d153d9a71621c11131b004a97d4adcc1d"
+    },
+    "tools/installer/build.py": {
+      "bytes": 8642,
+      "sha256": "99afcbfe5fa3c65529c8d8302a1d98f8b1a14116936876fdf32494d3862181d6"
+    },
+    "tools/installer/core.py": {
+      "bytes": 19485,
+      "sha256": "7eeec4a5cd81aaee175129b850d1efd82c526582cb91df873d5a8d8fec7c6a2e"
+    },
+    "tools/installer/fetch_linux.py": {
+      "bytes": 2732,
+      "sha256": "ffa479df1f4e6929091568075635b8a2a93ddee81054c6891868b97e579b8cce"
+    },
+    "tools/installer/finalize.py": {
+      "bytes": 5755,
+      "sha256": "c91e26d0a005e24ac11e3499c0eab365bb0445b1ba56bdbb3ed39196e0f9af23"
+    },
+    "tools/installer/linux_qa.py": {
+      "bytes": 10571,
+      "sha256": "92483ca9744fd450dfe2dd03a53e52b6e281227345dc9bca6442b010139529c7"
+    },
+    "tools/installer/notices.py": {
+      "bytes": 3034,
+      "sha256": "70b7b792fbc2376e5eac0c77614970312aca39d531f36499c9ed6e0b1d9ae0f8"
+    },
+    "tools/installer/prepare.py": {
+      "bytes": 3960,
+      "sha256": "836034c3aaababadb9191ca9d58906b45061302ab2975de9ba6155ee913478c6"
+    },
+    "tools/installer/README.md": {
+      "bytes": 6790,
+      "sha256": "73c8998a1bb8e61f7147d6d1f76067001fc36c8b50e73da0f0cb1dcf821d3897"
+    },
+    "tools/installer/requirements-build.txt": {
+      "bytes": 90,
+      "sha256": "3eb86af37eaa01f424effd5f46e211d64a06cc7972c234c7cb9ff54f79d2f79b"
+    },
+    "tools/installer/requirements.txt": {
+      "bytes": 53,
+      "sha256": "592a8c09b711c6cdaf557d0731a460cfaa331d65a5ceb7178bbf901125825d04"
+    },
+    "tools/installer/smoke_windows.py": {
+      "bytes": 1180,
+      "sha256": "77d4bea197aa17a1f3d741f806f08bb3a08fbdfc5e7ce082a7f1109e894e2142"
+    },
+    "tools/installer/test_core.py": {
+      "bytes": 9008,
+      "sha256": "70cf1ee7932aa8bac2931c1f7354aaea1bcb65ee0968c71c27a133a799885826"
+    },
+    "tools/installer/test_real_payload.py": {
+      "bytes": 2731,
+      "sha256": "9ae884bb453aa269aa6c0e077a2b78589c867107641e57ead12af8fc1a77f78a"
+    },
+    "tools/installer/test_ui.py": {
+      "bytes": 2975,
+      "sha256": "23e5558245c3696866155e7b4b7e46fb62efe676ba313d306f00d02e5eefda59"
+    },
+    "tools/textlib/_README.md": {
+      "bytes": 495,
+      "sha256": "3c796d860cedf4ff84b11447212d5c6cf1e71173088a170fa2e84475b6b717ea"
+    },
+    "tools/vendor/_README.md": {
+      "bytes": 682,
+      "sha256": "348167152ac1a5a7d5b0671c8b1eda9774caed00488d52e7472e534cebd7f25a"
+    },
+    "tools/vendor/game-arabization/ar_shape.py": {
+      "bytes": 29615,
+      "sha256": "3f005f0a2a018907f020867bcbd78e12c36e7b3aaed0cf0acc7f19f90ed35a9d"
+    },
+    "tools/vendor/game-arabization/burn_subs.py": {
+      "bytes": 13921,
+      "sha256": "d2cc47ba4ca729496a5b4f547a3880d9013f1984233ec9cdab6ea858a42b860c"
+    },
+    "tools/vendor/game-arabization/charset_remap.py": {
+      "bytes": 6863,
+      "sha256": "778e935d78b97be060920afff7c735f249c4641fb98270d73c1ca633d61ad3bd"
+    },
+    "tools/vendor/game-arabization/font_add_presforms.py": {
+      "bytes": 8666,
+      "sha256": "e62a4618975fcc1b2b5e2a46a9a535f242bc085f7cf5346952ce2375af3a1a89"
+    },
+    "tools/vendor/game-arabization/font_check.py": {
+      "bytes": 9695,
+      "sha256": "92bbd7351b83b0e451cc591fa1bb8c7ccb9bd0d45e02133eaeaa06aa39533dee"
+    },
+    "tools/vendor/game-arabization/font_merge.py": {
+      "bytes": 6767,
+      "sha256": "221beeebe1d9569cfecae265aca6422cbb5ad3edc7ce765ba9aeb1c6580e9b26"
+    },
+    "tools/vendor/game-arabization/hardsub_ocr.py": {
+      "bytes": 9784,
+      "sha256": "35d3f8d014bc39d3dce52d24c0ffe3f9cb76a7dfd1153417f44bcbef837b51fa"
+    },
+    "tools/vendor/game-arabization/l10n_audit.py": {
+      "bytes": 14456,
+      "sha256": "fc7a9dc32d21ca41569c8c9a39a560646a589f261b010b8f9aa5d466fe6d0fcf"
+    },
+    "tools/vendor/game-arabization/l10n_io.py": {
+      "bytes": 5656,
+      "sha256": "e32fbe077ba6ad287d39cf889d591d9a009a0714a8bf3ed0ebbcdabaf450021b"
+    },
+    "tools/vendor/game-arabization/l10n_ws.py": {
+      "bytes": 75900,
+      "sha256": "7af455f938361b5d70835a52c108787dea8a86aaeca22fe664ef052791be60fe"
+    },
+    "tools/vendor/game-arabization/locres_tool.py": {
+      "bytes": 11247,
+      "sha256": "5424e406268ed5c31c0f7e2179139858228dce543c7033c4a652081dc7fa0e29"
+    },
+    "tools/vendor/game-arabization/make_ass.py": {
+      "bytes": 7956,
+      "sha256": "39201c53ce16293003a85b0a1b08e9b7ceae3b7da761ce860ffd9528abe32c2b"
+    },
+    "tools/vendor/game-arabization/mojibake.py": {
+      "bytes": 4629,
+      "sha256": "f92e93417270c7410c1bfb7fa04c932b34d45918bf42ec13099587b02506697f"
+    },
+    "tools/vendor/game-arabization/patch_builder.py": {
+      "bytes": 10671,
+      "sha256": "ecb6bc65568dc3e334ddd4f5aed78ea5459b6bde12c1e17efd7e8c67188b834d"
+    },
+    "tools/vendor/game-arabization/probe_file.py": {
+      "bytes": 18832,
+      "sha256": "7cd16eaf4dc060a1a31c3f672fa0d6fa00558be2225e4b1befd9a871f61b4f39"
+    },
+    "tools/vendor/game-arabization/rpgmv_crypt.py": {
+      "bytes": 8089,
+      "sha256": "1e462fa15a562d2a6e6102703824ccf80a4a96f063187dffe8b0f1e7216263be"
+    },
+    "tools/vendor/game-arabization/simulate_render.py": {
+      "bytes": 7738,
+      "sha256": "cd155193cf04564d244750fbcdd7ee2ca7dbf99f6ac746ca03e9da9718848444"
+    },
+    "tools/vendor/game-arabization/test_strings.py": {
+      "bytes": 5166,
+      "sha256": "3c840ffe7e4fe5fc6b02a0fcb1edd62610bc893a7bd98024c46a6b899f8a0edf"
+    },
+    "tools/vendor/game-arabization/tmp_sdf_atlas.py": {
+      "bytes": 20590,
+      "sha256": "4f0a7510f428283bc9cd8ac55cbf1464690d72be171554094abf29944cfc0ee3"
+    },
+    "tools/vendor/game-arabization/tm_fill.py": {
+      "bytes": 5925,
+      "sha256": "ce04fb87df1863ac6751aeb9f892dd50a0bbb0022090c90a7a66893071076ce5"
+    },
+    "tools/vendor/game-arabization/ue3_int_tool.py": {
+      "bytes": 5886,
+      "sha256": "ee3af8b96707966418808942780d9e61cb1a4b320ca386c0aa22b158416393e3"
+    },
+    "tools/vendor/game-arabization/ue_font_swap.py": {
+      "bytes": 4885,
+      "sha256": "31840a628fafeebed01ef61ef796ff474231df0de952bd2648ef78680585f7ed"
+    },
+    "tools/vendor/game-arabization/unity_text.py": {
+      "bytes": 23673,
+      "sha256": "650b32521f07af00bcf20acbd75f50ecd7be32e9ce07f636f033ecabdc8acfd3"
+    },
+    "tools/vendor/game-arabization/VERSION.json": {
+      "bytes": 2205,
+      "sha256": "4d4778bfcc29bdf782d14db1812c7e621822e8d947849ba564aa9ed4abedaba5"
+    }
+  }
+}
