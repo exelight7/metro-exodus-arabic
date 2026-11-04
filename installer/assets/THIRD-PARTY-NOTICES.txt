@@ -1,0 +1,25 @@
+Third-party components
+
+Qt / PySide6 / Shiboken6 6.12.0: LGPL v3 / GPL v3 options and applicable exceptions.
+Unmodified sources: https://code.qt.io/cgit/qt/qtbase.git/?h=v6.12.0
+Bindings source: https://code.qt.io/cgit/pyside/pyside-setup.git/?h=v6.12.0
+Source archives: https://download.qt.io/official_releases/qt/6.12/6.12.0/
+Use the LGPL option for the applicable libraries in this application. The installer
+does not restrict replacement or debugging of those libraries. Application source,
+resources and rebuild instructions accompany the review delivery.
+
+Python 3.12: PSF license; Linux build by astral-sh/python-build-standalone.
+https://github.com/astral-sh/python-build-standalone
+bsdiff4 1.4.1 and LZ4 4.4.5: BSD licenses in the accompanying notices.
+Noto Sans Arabic: SIL Open Font License 1.1 (font and license included).
+Windows bootstrap: PyInstaller (GPL with bootloader exception).
+AppImage runtime: https://github.com/AppImage/type2-runtime (license included).
+Linux shared libraries: unmodified Debian 12 packages. Their copyright and
+license texts are included under licenses/Debian inside the AppImage and delivery.
+Exact binary versions and hashes are recorded in build-metadata.json.
+Corresponding Debian sources: https://sources.debian.org/ (package names in metadata).
+GNU runtime library exceptions are reproduced in the package copyright notices.
+
+Metro Exodus is the property of its respective owners. This is an unofficial
+localization installer. It redistributes binary differences rather than whole
+original game archives or a game executable. No official affiliation is implied.

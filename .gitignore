@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+build/
+dist/
+*.spec
+*.exe
+*.AppImage
+*.vfs0
+*.vfx
+*.dll
+*.pyd
+.metro_arabic/
+.env

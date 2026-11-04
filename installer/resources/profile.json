@@ -1,0 +1,135 @@
+{
+  "schema": 1,
+  "revision": "final_review_r1",
+  "installer_version": "0.1.0-review",
+  "game": "Metro Exodus Steam Windows",
+  "platforms": [
+    "Windows x86_64",
+    "Linux x86_64 / Proton"
+  ],
+  "original_index": "19d953db824e487f63f3a15f7a95883d1706470c09aa45ecfc490765438f13b4",
+  "installed_index": "5ec4154aca9bb1925b64604282d20202da3b4d99bf8909f5d9c4917ff2db18f1",
+  "original_exe": "d4ab0e9b076d324f6b8ddad601fd9dda68c0c593adb7b0019944d560bc9875a5",
+  "installed_exe": "784b2deeca2270731851622a7789d1684eb4e6551bb051e20ca15bd9ad7d5333",
+  "installed_payload": "46e3188d1b89a78d4435bfe6e366bb6e302679bc13c6dbbc23cd739ca49303ac",
+  "payload_name": "metro_arabic_100_final_review_r1.vfs0",
+  "native_offset": 7513870,
+  "native_before": "ff83340200008b8334020000",
+  "native_after": "b80000100089833402000090",
+  "required_free_bytes": 805306368,
+  "resources": {
+    "index.forward.bsdiff": "6370f1f0fa9319c68f78ec6e5979a733f47c2a9c9a2e6a8c0d19290fa32c3299",
+    "index.reverse.bsdiff": "d14fa91c450f5614be5dac44108f80b9af735729d3a4d2445e888aa09f64e7c4",
+    "payload.bsdiff": "aa7e5fca4f34a0187e75a85dc6b5d8f9fc64a7bd4ff3b5332b261646ac170084"
+  },
+  "base_assets": [
+    {
+      "id": 11009,
+      "path": "content/menu_handles_storage.bin",
+      "archive": "patch_04.vfs0",
+      "offset": 23744225,
+      "csize": 284259,
+      "usize": 5983478,
+      "sha256": "1ff9a3dae578917ae0343a24552de90f90256f3cd886f49176c2368627f8acda"
+    },
+    {
+      "id": 11011,
+      "path": "content/config.bin",
+      "archive": "patch_04.vfs0",
+      "offset": 353532542,
+      "csize": 981685,
+      "usize": 6409520,
+      "sha256": "029dca23656bc3f10925f01545549195e9c5bcd0cc9678bf2d9972994a750d73"
+    },
+    {
+      "id": 18634,
+      "path": "content\\textures\\font/font_metro_for_map_us.1024",
+      "archive": "patch_04.vfs0",
+      "offset": 47151900,
+      "csize": 99236,
+      "usize": 99236,
+      "sha256": "717207906b1a20062d252118d12bc98c29dcea320f0f70e031087e2ceceadd2e"
+    },
+    {
+      "id": 18638,
+      "path": "content\\textures\\font/font_metro_for_menu_main_strings_us.512",
+      "archive": "patch_04.vfs0",
+      "offset": 798845943,
+      "csize": 106860,
+      "usize": 106860,
+      "sha256": "0fd5e172a4c0e0af4ba499ceac136e536c3388c3d7a6b78260fd760ca3c0e0f2"
+    },
+    {
+      "id": 18650,
+      "path": "content\\textures\\font/font_credits_names_us.1024",
+      "archive": "patch_04.vfs1",
+      "offset": 230107896,
+      "csize": 159196,
+      "usize": 159196,
+      "sha256": "8d91e5a3bb000253e638d043ade3f3c0f048a73b7049d0bf2a9d6bac22768f6a"
+    },
+    {
+      "id": 18660,
+      "path": "content\\textures\\font/font_credits_names_us.512",
+      "archive": "patch_04.vfs1",
+      "offset": 1336642657,
+      "csize": 102731,
+      "usize": 102731,
+      "sha256": "d1c2132d4a6d26463b830f3f9a46cb976f3b943d75713ded550854530a8aa08a"
+    },
+    {
+      "id": 18667,
+      "path": "content\\textures\\font/font_credits_titles_us.1024",
+      "archive": "patch_04.vfs1",
+      "offset": 1730452577,
+      "csize": 153870,
+      "usize": 153870,
+      "sha256": "704abac5edecd0cbf3f16660ee677b8d48a4644227a9006e7da20f3459940d14"
+    },
+    {
+      "id": 18670,
+      "path": "content\\textures\\font/font_metro_for_map_us.512",
+      "archive": "patch_04.vfs1",
+      "offset": 1975964213,
+      "csize": 57114,
+      "usize": 57114,
+      "sha256": "de61ed6274ce474af2dfc9bab78432144479f8d76d2fcf21f87747174ff80996"
+    },
+    {
+      "id": 18672,
+      "path": "content\\textures\\font/font_credits_titles_us.512",
+      "archive": "patch_04.vfs2",
+      "offset": 73290470,
+      "csize": 91913,
+      "usize": 91913,
+      "sha256": "21d81058ba63d251879ed192a84c26e939305f117a855e7390ebb691572ad334"
+    },
+    {
+      "id": 18677,
+      "path": "content\\textures\\font/font_metro_for_menu_us.512",
+      "archive": "patch_04.vfs2",
+      "offset": 889913396,
+      "csize": 130846,
+      "usize": 130846,
+      "sha256": "d075424b90bfba90a9025aab8ad8911fb7d815c2c38996d9ea2eb5ecf77dc881"
+    },
+    {
+      "id": 18679,
+      "path": "content\\textures\\font/font_font_regular_us.512",
+      "archive": "patch_04.vfs2",
+      "offset": 1018863776,
+      "csize": 140332,
+      "usize": 140332,
+      "sha256": "1e428e3466858a6d21c04efe4004b70e52464adff857cebfd8d5669aaf40742a"
+    },
+    {
+      "id": 37676,
+      "path": "content\\localization/stable_us.lng",
+      "archive": "patch_04.vfs0",
+      "offset": 366979108,
+      "csize": 1375878,
+      "usize": 4598529,
+      "sha256": "edc121baec72a2c173045df267e52c283f780a07e6ef879386c98b57e90e2786"
+    }
+  ]
+}

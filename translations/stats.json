@@ -1,0 +1,13 @@
+{
+  "rows": 38221,
+  "nonempty_targets": 37413,
+  "intentionally_empty_rows": 808,
+  "status_counts": {
+    "draft": 36434,
+    "skip": 840,
+    "reviewed": 947
+  },
+  "patch_revision": "final_review_r1",
+  "manual_proofreading_complete": false,
+  "in_game_runtime_tested": false
+}
