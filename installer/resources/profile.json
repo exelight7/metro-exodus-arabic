@@ -1,26 +1,26 @@
 {
   "schema": 1,
-  "revision": "final_review_r1",
-  "installer_version": "0.1.0-review",
+  "revision": "full_language_r1",
+  "installer_version": "1.0.0",
   "game": "Metro Exodus Steam Windows",
   "platforms": [
     "Windows x86_64",
     "Linux x86_64 / Proton"
   ],
   "original_index": "19d953db824e487f63f3a15f7a95883d1706470c09aa45ecfc490765438f13b4",
-  "installed_index": "5ec4154aca9bb1925b64604282d20202da3b4d99bf8909f5d9c4917ff2db18f1",
+  "installed_index": "d5ceb8c175d44f57ffdc398062d7da1ea0d542916691706620a9ee5014e9fd93",
   "original_exe": "d4ab0e9b076d324f6b8ddad601fd9dda68c0c593adb7b0019944d560bc9875a5",
   "installed_exe": "784b2deeca2270731851622a7789d1684eb4e6551bb051e20ca15bd9ad7d5333",
-  "installed_payload": "46e3188d1b89a78d4435bfe6e366bb6e302679bc13c6dbbc23cd739ca49303ac",
-  "payload_name": "metro_arabic_100_final_review_r1.vfs0",
+  "installed_payload": "c311ec5b4abde85cf1b05ef296355297b175e0cbb300248b2f3820abd3a58997",
+  "payload_name": "metro_arabic_dev_e9df0ce30c43.vfs0",
   "native_offset": 7513870,
   "native_before": "ff83340200008b8334020000",
   "native_after": "b80000100089833402000090",
   "required_free_bytes": 805306368,
   "resources": {
-    "index.forward.bsdiff": "6370f1f0fa9319c68f78ec6e5979a733f47c2a9c9a2e6a8c0d19290fa32c3299",
-    "index.reverse.bsdiff": "d14fa91c450f5614be5dac44108f80b9af735729d3a4d2445e888aa09f64e7c4",
-    "payload.bsdiff": "aa7e5fca4f34a0187e75a85dc6b5d8f9fc64a7bd4ff3b5332b261646ac170084"
+    "index.forward.bsdiff": "8e6ba4dfbb51b89ed4c44d5697d9e892f29d17ebc4cd801b2a1928d9be1656d5",
+    "index.reverse.bsdiff": "67c25f287975ecb0b649da2534adc17a091dd4aed1ee8d1218575a2617499941",
+    "payload.bsdiff": "208ee2083b49683e94e2131492b04ff0bcc26d9e26aec2dd61a97bc5a72906b7"
   },
   "base_assets": [
     {

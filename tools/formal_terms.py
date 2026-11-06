@@ -6,7 +6,7 @@ DATA=json.loads((ROOT/'03_translation/formal_terms.json').read_text(encoding='ut
 DATA['labels'].update(json.loads((ROOT/'03_translation/comprehensive_r2_labels.json').read_text(encoding='utf-8')))
 DATA.setdefault('voice_labels',{}).update(json.loads((ROOT/'03_translation/comprehensive_voice_review.json').read_text(encoding='utf-8')))
 DATA['voice_labels'].update(json.loads((ROOT/'03_translation/comprehensive_r2_voice.json').read_text(encoding='utf-8')))
-for filename in ['formal_terms_r2_context.json','formal_terms_r3_context.json','formal_terms_r4_context.json','comprehensive_context_review.json','comprehensive_r2_context.json','comprehensive_r3_context.json','final_review_r1_context.json']:
+for filename in ['formal_terms_r2_context.json','formal_terms_r3_context.json','formal_terms_r4_context.json','comprehensive_context_review.json','comprehensive_r2_context.json','comprehensive_r3_context.json','final_review_r1_context.json','story_context_r1.json','story_context_r2.json','story_context_r3.json','story_context_r4.json']:
     review=ROOT/'03_translation'/filename
     if review.exists():DATA.setdefault('contextual',{}).update(json.loads(review.read_text(encoding='utf-8')))
 TAG=re.compile('<[^>]+>')

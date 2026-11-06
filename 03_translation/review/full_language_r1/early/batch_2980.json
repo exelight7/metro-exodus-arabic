@@ -1,0 +1,256 @@
+{
+  "start": 2980,
+  "end": 3080,
+  "decisions": {
+    "2981": {
+      "decision": "change",
+      "target": "<ffx:wonder_light>ثم نصعد النهر، <ffx:smile_light>ونوصل ما يحتاجه الرجال هناك من الجنوب، ونحمّل بضائعهم ونعود مع التيار. <ffx:wide_smile>رزق سهل أيضًا! فلا نضطر إلى جر مراكب الشحن. <ffx:neutral>",
+      "reason": "أسفل وأعلى النهر اتجاها سير المركب؛ صياغة المقابل التجاري والبضائع لا أغراض عشوائية."
+    },
+    "2982": {
+      "decision": "change",
+      "target": "<ffx:wonder_light>فهمت... <ffx:smile>",
+      "reason": "I see إقرار بالفهم."
+    },
+    "2985": {
+      "decision": "change",
+      "target": "<ffx:wonder>إلى متى سنظل قابعين هنا مكتوفي الأيدي؟ <ffx:neutral>",
+      "reason": "sitting thumbs تعطّل العمل لا الجلوس على الأصابع."
+    },
+    "2987": {
+      "decision": "change",
+      "target": "<ffx:anger_light>كان عليك جلب شمعات إشعال سليمة، <ffx:disgust>لا تلك الخردة التي أحضرتها! <ffx:anger_light>لكانت وفّرت علينا متاعب كثيرة! <ffx:neutral>",
+      "reason": "normal صلاحية الشمعات وshit وصف رداءة القطع لا قذارة فعلية."
+    },
+    "2988": {
+      "decision": "change",
+      "target": "<ffx:anger_light>ليست سيئة إلى هذا الحد! <ffx:wonder_light>انظر كم صمدت! <ffx:disgust_light>وأخميت أراد مخزنين إضافيين للوافدين الجدد، لذا... <ffx:neutral>",
+      "reason": "شمعات الإشعال مؤنثة وclips مخازن ذخيرة لا مقاطع مرئية."
+    },
+    "2989": {
+      "decision": "change",
+      "target": "<ffx:anger_light>ثم ما <ffx:wonder>مشكلتك؟ أمستعجل أنت؟ <ffx:neutral>",
+      "reason": "إصلاح حرف الجر والعبارة الناقصة."
+    },
+    "2990": {
+      "decision": "change",
+      "target": "<ffx:fear>هذا المكان يقشعرّ له بدني... ذلك الوحش في النهر... <ffx:disgust>هذا يفوق احتمالي! <ffx:neutral>",
+      "reason": "too much إفراط الخوف لا كمية من القذارة."
+    },
+    "2993": {
+      "decision": "change",
+      "target": "<ffx:wonder>أغرق أحد تلك الوحوش مركب شحن! <ffx:neutral>",
+      "reason": "barge مركب شحن نهري لا بارجة حربية."
+    },
+    "2994": {
+      "decision": "change",
+      "target": "<ffx:anger>هذا محض هراء! <ffx:neutral>",
+      "reason": "now أداة اعتراض لا ظرف زمان جديد."
+    },
+    "2997": {
+      "decision": "change",
+      "target": "<ffx:anger_light>بالطريقة المعتادة! <ffx:wonder_light>أحضروا مرساة قارب وعلقوا عليها كلبًا مشويًا، وربطوا الحبل بعمود الربط... <ffx:fear_light>ثم انتظروا! <ffx:neutral>",
+      "reason": "فاعل الرواية الرجال لا المتحدث؛ bollard عمود ربط المركب لا حاجز."
+    },
+    "2999": {
+      "decision": "change",
+      "target": "<ffx:anger_light>عضّ الطعم، هذا ما حدث! وبقوة <ffx:wonder>اقتلع معها عمود الربط من مركب الشحن ومعه نصف جانبه! <ffx:sadness>فغرق المركب في الحال. <ffx:neutral>",
+      "reason": "bit فعل العض لا قليلًا؛ حفظ آلية اقتلاع عمود الربط وغرق المركب."
+    },
+    "3000": {
+      "decision": "change",
+      "target": "<ffx:fear>واو! أعني... واو! <ffx:neutral>",
+      "reason": "like أداة تردد لا تشبيه ناقص."
+    },
+    "3003": {
+      "decision": "change",
+      "target": "<ffx:sadness>حسنًا... سبحوا إلى الشاطئ. وقبل خروجهم من الماء، <ffx:fear>كان اثنان من رفاق سيري قد التُهما. <ffx:neutral>",
+      "reason": "إصلاح المبني للمجهول؛ الرفيقان ضحيتان لا آكلان."
+    },
+    "3004": {
+      "decision": "change",
+      "target": "<ffx:fear_strong>فتح فمه وابتلعهما كاملين... <ffx:neutral>",
+      "reason": "الضحيتان اثنان مثنى."
+    },
+    "3006": {
+      "decision": "change",
+      "target": "<ffx:anger_light>فقل لي، لماذا شاب شعر سيري كله <ffx:wonder>مع أنه لم يبلغ الأربعين إلا للتو؟ <ffx:neutral>",
+      "reason": "grey شيب الشعر من الفزع لا لون البشرة الرمادي؛ حفظ السن أربعين."
+    },
+    "3008": {
+      "decision": "change",
+      "target": "<ffx:anger_light>اسأله بنفسك! <ffx:sadness>سيحدثك عن السباحة والوحش يطارده... <ffx:neutral>",
+      "reason": "تصحيح همزة الأمر وتحديد خلفه في المطاردة."
+    },
+    "3016": {
+      "decision": "change",
+      "target": "<ffx:anger_light>هيا، أنت تحمل كيس تبغ! <ffx:neutral>",
+      "reason": "pouch on you حمل الكيس لا حقيبة فوق الجسم أو حصلت عليها الآن."
+    },
+    "3018": {
+      "decision": "change",
+      "target": "<ffx:wonder>طُعم؟ ها ها! <ffx:smile>هذه طريفة! <ffx:neutral>",
+      "reason": "good one وصف مزحة الطعم لا أمر جيد عام."
+    },
+    "3019": {
+      "decision": "change",
+      "target": "<ffx:smile_light>السمك هنا لا يقضم الطعم أصلًا! <ffx:fear_light>لا بد أن ذلك الوحش أكل الأسماك كلها... <ffx:neutral>",
+      "reason": "bite أكل طعم الصيد لا عض من غير مفعول."
+    },
+    "3020": {
+      "decision": "change",
+      "target": "<ffx:disgust>لا يمكنه أكل الأسماك كلها... <ffx:neutral>",
+      "reason": "نفي إمكان التهام الوحش كل السمك لا مخاطبة الصياد بأكله."
+    },
+    "3021": {
+      "decision": "change",
+      "target": "<ffx:disgust_light>على أي حال، انصرف وكفّ عن إخافة السمك بهُرائك. <ffx:wonder_light>آن له أن يقضم الطعم! <ffx:neutral>",
+      "reason": "إصلاح هجاء هرائك ومعنى biting في الصيد."
+    },
+    "3023": {
+      "decision": "change",
+      "target": "<ffx:disgust_light>مجنون... «كفّ عن إخافة <ffx:smile>السمك»... ها ها... <ffx:neutral>",
+      "reason": "إصلاح إضافة أسماك الناقصة والاقتباس."
+    },
+    "3025": {
+      "decision": "change",
+      "target": "<ffx:anger_light>لا، سنعود أدراجنا على بعد عشرين كيلومترًا منها. <ffx:disgust_light>تبًا لأولئك الأوغاد. <ffx:neutral>",
+      "reason": "klicks كيلومترات لا نقرات؛ حفظ مسافة عشرين وموضع الدوران."
+    },
+    "3027": {
+      "decision": "change",
+      "target": "<ffx:disgust_light>نعم! آخر مرة زرناهم حوّل أولئك الملاعين، المدعوون «الحراس اليقظون»، غرفة قيادتنا إلى غربال من الرصاص. <ffx:wonder>والعجيب أن كل شيء سار بخير ونحن نفرغ البضائع، لكن حين حان الدفع... <ffx:neutral>",
+      "reason": "bridge غرفة قيادة المركب لا جسر النهر؛ sieve كثرة ثقوب الرصاص وconveniently سخرية من ذريعة الهجوم."
+    },
+    "3028": {
+      "decision": "change",
+      "target": "<ffx:anger>أوغاد ملاعين! <ffx:neutral>",
+      "reason": "assholes شتيمة لا متسكعون، وتصحيح الرفع."
+    },
+    "3030": {
+      "decision": "change",
+      "target": "<ffx:sadness>لكنهم يقولون إن الأمر ليس هيّنًا هناك أيضًا... <ffx:neutral>",
+      "reason": "no fun and games صعوبة وخطر، لا غياب ألعاب ترفيهية."
+    },
+    "3031": {
+      "decision": "change",
+      "target": "<ffx:wonder>لا أحد يعرف حقًا... <ffx:disgust_light>فالجميع يبالغون في الأكاذيب. لكننا نعرف حقيقة نيجني الآن... <ffx:wonder>أترى هذه الندبة؟ <ffx:anger_light>هذا دليلك. <ffx:neutral>",
+      "reason": "There you have it الندبة دليل تجربة الخطر لا إليكم الأمر الحرفية."
+    },
+    "3032": {
+      "decision": "change",
+      "target": "<ffx:anger_light>صه!<ffx:neutral>",
+      "reason": "صيحة إسكات عربية."
+    },
+    "3034": {
+      "decision": "change",
+      "target": "<ffx:anger>صه!<ffx:neutral>",
+      "reason": "صيحة إسكات عربية."
+    },
+    "3035": {
+      "decision": "change",
+      "target": "<ffx:anger>صه! هدوء!<ffx:neutral>",
+      "reason": "Quiet طلب الهدوء لا صفة مذكر."
+    },
+    "3038": {
+      "decision": "change",
+      "target": "ابقَ في الظل!",
+      "reason": "صيغة أمر بالتسلل لا مصدر."
+    },
+    "3039": {
+      "decision": "change",
+      "target": "احذر، وابقَ في الظل!",
+      "reason": "إصلاح صيغة الأمرين."
+    },
+    "3041": {
+      "decision": "change",
+      "target": "الزم الظلال!",
+      "reason": "صيغة أمر بالحركة خفية لا مصدر التمسك."
+    },
+    "3043": {
+      "decision": "change",
+      "target": "هناك عوامة بين مراكب الشحن، انزل إليها من الجانب.",
+      "reason": "overboard النزول خارج حافة المركب إلى العوامة لا التسلق إلى البحر؛ الموقع نهر."
+    },
+    "3044": {
+      "decision": "change",
+      "target": "ثمة فراغات ضيقة بين البضائع، تسلل من بينها!",
+      "reason": "squeeze through مرور عبر الفراغات لا الضغط عليها."
+    },
+    "3056": {
+      "decision": "change",
+      "target": "<ffx:anger_light>كان عليّ أن أعرف... <ffx:anger>كان عليّ أن أعرف حين زجرتني، <ffx:disgust>وأن أقتلها في مكانها...",
+      "reason": "told off زجرتني وdone her in قتلها، لا أخبرتني أو تفعلها."
+    },
+    "3057": {
+      "decision": "change",
+      "target": "<ffx:anger>والآن هربت الأفعى... <ffx:disgust>مع الزنادقة... <ffx:fear>لتمارس السحر الدنس مع وليدتها، بلا شك... <ffx:neutral>",
+      "reason": "spawn ابنة كاتيا في خطاب الحقد، لا فرخ حيوان."
+    },
+    "3058": {
+      "decision": "change",
+      "target": "<ffx:disgust>أغوت الأب سيلانتيوس نفسه! <ffx:fear>ثم هربت... أشعر بلعنة تقترب... <ffx:neutral>",
+      "reason": "الموضوع كاتيا المؤنثة؛ حفظ وجهة نظر المتعصب لا حقائق جديدة."
+    },
+    "3060": {
+      "decision": "change",
+      "target": "<ffx:disgust>تبًا للشبان... لا <ffx:sadness>يريدون معرفة شيء سوى الصلوات... <ffx:sadness_light>",
+      "reason": "جمع الشباب لا مفرد مؤنث، وصلوات الطائفة لا الصلاة المجردة."
+    },
+    "3061": {
+      "decision": "change",
+      "target": "<ffx:disgust>الجميع زنادقة ونحن وحدنا الأبرار... نعم، طبعًا... <ffx:sadness_light>",
+      "reason": "just الصلاح والبر لا فقط الناقصة، وتوحيد زنديق."
+    },
+    "3062": {
+      "decision": "change",
+      "target": "<ffx:disgust>تلك السمكة القيصر التي يعبدونها، كم شخصًا قتلت؟ <ffx:anger>والشياطين أيضًا! <ffx:sadness_strong>الغابة تعج بالعظام، وهو لا يزال يرسل الرجال إليها... <ffx:sadness_light>",
+      "reason": "توحيد اللقب وإصلاح اسم الغابة المبتور ودلالة استمرار إرسال الضحايا."
+    },
+    "3068": {
+      "decision": "change",
+      "target": "<ffx:sadness>حسنًا، لم تفتني... <ffx:neutral>",
+      "reason": "لم يفته حضور الموعظة، لا فعل مبهم؛ النوم خلالها هو الرد التالي."
+    },
+    "3069": {
+      "decision": "change",
+      "target": "<ffx:wonder>إذن نمت طوال الموعظة؟ <ffx:neutral>",
+      "reason": "slept through it النوم طوال الموعظة لا للتو خلالها."
+    },
+    "3070": {
+      "decision": "change",
+      "target": "<ffx:anger_light>سيأتي يوم يرسلونك فيه لمحاربة الشياطين عقابًا لك! <ffx:neutral>",
+      "reason": "for that عقوبة تفويت الموعظة، لا غاية المحاربة من أجلها."
+    },
+    "3072": {
+      "decision": "change",
+      "target": "حسنًا... <ffx:wonder>ظهر زنديق في أثناء الموعظة فعلًا! <ffx:fear_light>هرع رجالنا لإنقاذ الأب المقدس، <ffx:anger>فقتلهم الزنديق جميعًا! <ffx:sadness_light>",
+      "reason": "توحيد الزنديق والأب المقدس وحفظ فرع قتل جميع الحراس."
+    },
+    "3073": {
+      "decision": "change",
+      "target": "حسنًا... <ffx:wonder>ظهر زنديق في أثناء الموعظة فعلًا! <ffx:fear_light>هرع رجالنا لإنقاذ الأب المقدس، <ffx:anger>فقتل الزنديق معظمهم... <ffx:wonder_light>لكنهم يقولون إنه لا يؤذي <ffx:sadness>من يستسلم له...",
+      "reason": "إصلاح الجملة المبتورة وحفظ فرع قتل معظم الحراس مع قبول الاستسلام."
+    },
+    "3074": {
+      "decision": "change",
+      "target": "<ffx:anger>لكنه قتل البسطاء الذين لم يمسكوا سلاحًا في حياتهم! <ffx:disgust_strong>قتل كل من وقع عليه بصره منهم! <ffx:anger_strong>إنه وحش. وحش، لا إنسان... <ffx:anger_light>",
+      "reason": "إصلاح مرجع every one he saw وحفظ فرع قتل المدنيين لا تخفيفه."
+    },
+    "3075": {
+      "decision": "change",
+      "target": "<ffx:wonder_light>ولم يؤذِ العزّل الذين صادف وجودهم هناك... <ffx:wonder>بقيت فيه بقية من إنسانية، <ffx:disgust>ذلك الزنديق... <ffx:neutral>",
+      "reason": "تصحيح جزم يؤذِ والتعبير الاصطلاحي عن آخر الإنسانية؛ فرع إنقاذ المدنيين محفوظ."
+    },
+    "3076": {
+      "decision": "change",
+      "target": "حسنًا... <ffx:wonder>ظهر زنديق في أثناء الموعظة فعلًا! <ffx:fear_light>هرع رجالنا لإنقاذ الأب المقدس، <ffx:anger>فقتلهم الزنديق جميعًا... <ffx:disgust>حتى التوسل للإبقاء على حياتك لا يجدي مع ذلك القاتل... <ffx:disgust_light>",
+      "reason": "begging life التماس النجاة لا التسول؛ حفظ فرع قتل المستسلمين."
+    },
+    "3079": {
+      "decision": "change",
+      "target": "حسنًا. <ffx:wonder>ظهر زنديق في أثناء الموعظة فعلًا! كما جاء في النبوءة تمامًا! <ffx:fear>قرعوا الجرس، فركب رجالنا القوارب <ffx:wonder_light>وذهبوا وفتشوا المكان، <ffx:fear>لكن الزنديق اختفى فجأة! <ffx:neutral>",
+      "reason": "تصحيح الجمع وتوحيد الزنديق وصياغة تحقق نبوءة الأب من وجهة نظر الحراس؛ فرع التسلل بلا قتل محفوظ."
+    }
+  }
+}

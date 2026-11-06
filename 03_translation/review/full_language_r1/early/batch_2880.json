@@ -1,0 +1,271 @@
+{
+  "start": 2880,
+  "end": 2980,
+  "decisions": {
+    "2880": {
+      "decision": "change",
+      "target": "<ffx:smile>لا تقلق، غليبا دبّر كل شيء. <ffx:wonder>أرسل الرجال كي لا يشي أهل الجسر بنا إلى رجال القافلة... <ffx:neutral>",
+      "reason": "غليبا مذكر، وsqueal وشاية لا صراخ ورؤوس جسور."
+    },
+    "2885": {
+      "decision": "change",
+      "target": "<ffx:smile_light>فهمت... غليبا يعرف ما يفعل حقًا... <ffx:wonder>لكن أليس لديهم حراس؟ <ffx:neutral>",
+      "reason": "توحيد اسم غليبا المذكر وreal deal مديح كفاءته لا صفقة."
+    },
+    "2886": {
+      "decision": "change",
+      "target": "<ffx:disgust_light>بلى، لكن رجالنا كفيلون بهم. <ffx:wide_smile>سنأسرهم ونسمهم ثم نبيعهم في أستراخان! ها ها! <ffx:neutral>",
+      "reason": "bag أسر وbrand وسم العبيد لا تغليف سلع بعلامة تجارية."
+    },
+    "2888": {
+      "decision": "change",
+      "target": "<ffx:sadness_light>أرتيوم، عليّ أن أخبرك بشيء... <ffx:fear_light>عدني بألّا تضحك...",
+      "reason": "طلب وعد من أرتيوم لا وعد تقطعه آنا له."
+    },
+    "2889": {
+      "decision": "change",
+      "target": "<ffx:sadness_light>على أي حال... رأيت حلمًا اليوم. <ffx:anger_light>حلمًا بشعًا حقًا!",
+      "reason": "إصلاح جنس الحلم وصياغة روايته."
+    },
+    "2892": {
+      "decision": "change",
+      "target": "<ffx:disgust>شيئًا ما. ضخمًا مظلمًا، <ffx:fear_light>يزحف ملاصقًا للأرض نحوك...",
+      "reason": "hugging ground الحركة المنخفضة لا عناق الأرض."
+    },
+    "2893": {
+      "decision": "change",
+      "target": "<ffx:fear>أحاول التصويب إليه، ولا أستطيع تحريك بندقيتي ولو بوصة؛ <ffx:sadness>يداي لا تطيعانني...",
+      "reason": "مرجع الشيء مذكر والمثنى وعدم طاعة اليدين لا الاستماع."
+    },
+    "2894": {
+      "decision": "change",
+      "target": "<ffx:sleep>أحاول تحذيرك عبر اللاسلكي، <ffx:fear_light>لكن صوتي <ffx:fear>لا يخرج... <shudders>",
+      "reason": "صياغة عجزها عن الصراخ في الكابوس مع حفظ وسم الارتجاف."
+    },
+    "2895": {
+      "decision": "change",
+      "target": "<ffx:sadness>تبًا... اعذرني على كل هذا الكلام... <ffx:sadness_light>لن أكرر ذلك.",
+      "reason": "آنا أنثى؛ صياغة اعتذارها الحواري."
+    },
+    "2896": {
+      "decision": "change",
+      "target": "<ffx:wonder>كل ما في الأمر أنني أحبك كثيرًا، <ffx:smile_light>وأقلق كلما عجزت عن تغطيتك.",
+      "reason": "cover نيران التغطية لا غطاء مادي."
+    },
+    "2898": {
+      "decision": "change",
+      "target": "<ffx:smile_light>شكرًا لإصغائك إليّ... <ffx:neutral>",
+      "reason": "hearing me out الإصغاء إلى كامل الحديث."
+    },
+    "2899": {
+      "decision": "change",
+      "target": "<ffx:wonder>أرتيوم، لم أشكرك كما ينبغي بعد على <ffx:sadness>إنقاذي من ذلك <ffx:sadness_light>القبو اللعين...",
+      "reason": "إصلاح الإضافة والضمير الناقص ووصف القبو في نبرتها."
+    },
+    "2903": {
+      "decision": "change",
+      "target": "<ffx:smile>عد سريعًا، وابتعد <ffx:fear_light>عن المناطق شديدة الإشعاع! <ffx:neutral>",
+      "reason": "hotspots بؤر إشعاع في سياق التحذير الصحي لا نقاط ساخنة مبهمة."
+    },
+    "2904": {
+      "decision": "change",
+      "target": "<ffx:wonder>مهلًا، أهذه عربة سكة حديد؟ هل ننتظر أحدًا؟ <ffx:anger_light>",
+      "reason": "توحيد railcar وتمييزها من عربة الركاب."
+    },
+    "2905": {
+      "decision": "change",
+      "target": "<ffx:wonder>لا، ليست من عرباتنا... <ffx:neutral>",
+      "reason": "عربة مملوكة لهم لا فرد في جماعتهم."
+    },
+    "2906": {
+      "decision": "change",
+      "target": "<ffx:fear>انتبهوا يا رجال، لدينا زائر! <ffx:anger_light>",
+      "reason": "got company إنذار بدخيل لا صحبة مرغوبة."
+    },
+    "2908": {
+      "decision": "change",
+      "target": "لا... <ffx:wonder>ولماذا أفعل أصلًا؟<ffx:neutral>",
+      "reason": "Nah نفي لا نقل صوتي، واستفهام عن سبب التزييت."
+    },
+    "2909": {
+      "decision": "change",
+      "target": "<ffx:anger>أتمزح معي؟ سنهاجم رجال القافلة ليلًا، وصرير هذه البوابة عالٍ جدًا <ffx:disgust_light>حتى إنهم سيسمعونه عند الجسر!<ffx:neutral>",
+      "reason": "fucking with me مزاح ساخر، وsqueaky صرير البوابة الذي يكشف الهجوم."
+    },
+    "2914": {
+      "decision": "change",
+      "target": "<ffx:anger>لا أستطيع حمل أحد على إنجاز شيء... <ffx:neutral>",
+      "reason": "do shit إنجاز أي عمل في الشكوى لا فعل الهراء."
+    },
+    "2916": {
+      "decision": "change",
+      "target": "<ffx:wonder_light>أخذه سيفير، كان يريد تنظيف بندقيته...<ffx:neutral>",
+      "reason": "got it أخذ الزيت لا فهم الأمر."
+    },
+    "2918": {
+      "decision": "change",
+      "target": "<ffx:anger>سيفير، أين الزيت اللعين؟<ffx:neutral>",
+      "reason": "توحيد الاسم مع سطر تسليم الزيت السابق."
+    },
+    "2919": {
+      "decision": "change",
+      "target": "<ffx:sadness_light>استهلكناه كله. <ffx:wonder_light>زيّت الرجال جميع معداتهم، فنحن ذاهبون إلى النهر قريبًا...<ffx:neutral>",
+      "reason": "الزيت مذكر وتصحيح البنية الفعلية."
+    },
+    "2921": {
+      "decision": "change",
+      "target": "<ffx:smile_light>حسنًا، انتظر حتى يسمع غليبا ذلك الصرير. <ffx:anger>سيشويك بسبب الزيت! <ffx:disgust>وسأجلب الفحم بنفسي... <ffx:anger_light>لا أحد ينجز شيئًا هنا...<ffx:neutral>",
+      "reason": "غليبا مذكر؛ حفظ تهديد الشواء والسخرية من استهلاك الزيت."
+    },
+    "2926": {
+      "decision": "change",
+      "target": "<ffx:wonder>ما هذا بحق الجحيم؟ <ffx:anger_light>هناك علبة كاملة في السقيفة! اذهب وأحضرها!<ffx:neutral>",
+      "reason": "ضمير العلبة مؤنث."
+    },
+    "2928": {
+      "decision": "change",
+      "target": "<ffx:anger_light>أنا، أيكفيك هذا؟<ffx:neutral>",
+      "reason": "إصلاح صياغة الرد الغاضب."
+    },
+    "2931": {
+      "decision": "change",
+      "target": "<ffx:wonder>يا كوزميتش، أتعرف شيئًا <ffx:disgust>عن العصابة الجديدة؟ <ffx:neutral>",
+      "reason": "bout اختصار about لا نوبة؛ استعادة الرابط الناقص."
+    },
+    "2932": {
+      "decision": "change",
+      "target": "<ffx:wonder>أي عصابة؟ <ffx:neutral>",
+      "reason": "المرجع العصابة مؤنث."
+    },
+    "2933": {
+      "decision": "change",
+      "target": "<ffx:anger_light>تلك التي تملك القطار! <ffx:wonder_light>يقول رومكا وليشي إن لديها أسلحة لم يريا مثلها من قبل... <ffx:neutral>",
+      "reason": "الأسلحة يملكها رجال القطار لا رومكا وليشي."
+    },
+    "2935": {
+      "decision": "change",
+      "target": "<ffx:wonder>فلعلهم جاؤوا لتفقّد أمرنا فحسب؟ <ffx:neutral>",
+      "reason": "check on us تفقد العصابة لا رعاية صحتها."
+    },
+    "2936": {
+      "decision": "change",
+      "target": "<ffx:anger_light>قد يكلّفهم ذلك أكثر مما يتوقعون! لكن... <ffx:wonder>لعلّي أتحدث إلى الرجال وأعرف عدد الوافدين الجدد وما إلى ذلك... <ffx:neutral>",
+      "reason": "bargained for توقع لا مساومة حرفية وإصلاح مضاف عدد الرجال."
+    },
+    "2939": {
+      "decision": "change",
+      "target": "<ffx:smile>... فقال لها: «أيتها الغبية، أريد سمكًا، فأنا الرجل السمكة!» ها ها ها! <ffx:smile_light>",
+      "reason": "الروسية ИХТИАНДР تؤكد شخصية برمائية في النكتة؛ الإنجليزية تعيد تسميتها Fishman، فحُفظ تكييفها بدل نقل الاسم الروسي."
+    },
+    "2941": {
+      "decision": "change",
+      "target": "<ffx:smile_light>هذه مضحكة حقًا... <ffx:wonder>لكن ما «الرجل السمكة» أصلًا؟ <ffx:neutral>",
+      "reason": "تصحيح السؤال عن الشخصية وحذف حرف n الشارد في المصدر بوصفه خطأ كتابيًا لا رمزًا وظيفيًا."
+    },
+    "2942": {
+      "decision": "change",
+      "target": "<ffx:disgust_light>آه، إنهم طائفة... <ffx:wonder>مثل أهل الجسر عندنا، أتعلم أنهم لا يأكلون سمك السلور؟ <ffx:neutral>",
+      "reason": "bridgeheads أهل الجسر لا رؤوس الجسور."
+    },
+    "2944": {
+      "decision": "change",
+      "target": "<ffx:wonder_light>حسنًا، الأمر هو... <ffx:fear_light>تعرف سمكة السلور اللعينة الهائلة التي تعيش هنا؟ <ffx:neutral>",
+      "reason": "سمكة سلور محددة مفردة، واستعادة نبرة الشتيمة."
+    },
+    "2946": {
+      "decision": "change",
+      "target": "<ffx:wonder>إذا مات أحدهم، أطعموه لسمكة السلور كي تأخذه إلى الجنة أو ما شابه... <ffx:smile>فلو أكلوا السمكة، لما وصل رفاقهم إلى الجنة أبدًا! <ffx:neutral>",
+      "reason": "تصحيح ضمير الميت المفرد والسمكة والتعليل في معتقد الطائفة."
+    },
+    "2948": {
+      "decision": "change",
+      "target": "<ffx:disgust_light>قد يبدون مجرد أتباع طائفة، <ffx:wonder>لكن زعيمهم لا بد أن يكون جسورًا إلى حد الجنون، ليقترب <ffx:fear_light>من تلك السمكة الوحشية ويطعمها! <ffx:neutral>",
+      "reason": "balls of steel شجاعة بالغة لا كرات فولاذية؛ حفظ نبرة الإعجاب بجرأته مقابل خطر الوحش."
+    },
+    "2950": {
+      "decision": "change",
+      "target": "<ffx:wonder>بالتأكيد! نحن <ffx:smile>كفتيان كشافة يلهون هنا مقارنة بما يفعلونه هم... <ffx:neutral>",
+      "reason": "صياغة المقارنة وإزالة بأشياءهم غير السليمة."
+    },
+    "2953": {
+      "decision": "change",
+      "target": "<ffx:anger_light>ضجة من النوع المناسب. <ffx:wonder>وما شأنك أنت؟ <ffx:neutral>",
+      "reason": "What’s it to you زجر عن التدخل لا سؤال معنى شخصي."
+    },
+    "2954": {
+      "decision": "change",
+      "target": "<ffx:fear_light>حسنًا، أردت فقط... <ffx:wonder>أثار الأمر فضولي، كما تعلم، من أجل الرجال وما إلى ذلك... <ffx:neutral>",
+      "reason": "إصلاح العبارة المبتورة مع حفظ عذر المتحدث المتردد."
+    },
+    "2957": {
+      "decision": "change",
+      "target": "<ffx:smile_light>ثم نستولي على زورق قطرهم، ونذهب إلى الجسر ونذبح بعضًا من أهله! سينتظرون تجارًا، لا نحن! <ffx:wide_smile>وعندها يصبح النهر كله لنا! وسنطلق الرصاص العسكري طوال الوقت! <ffx:neutral>",
+      "reason": "bridgehead throats أعناق أهل الجسر وtraders تجار؛ حفظ وعد الثراء بإنفاق الذخيرة العسكرية."
+    },
+    "2959": {
+      "decision": "change",
+      "target": "<ffx:smile>بالتأكيد! <ffx:neutral>",
+      "reason": "موافقة على خطة مؤنثة دون ضمير مذكر زائد."
+    },
+    "2960": {
+      "decision": "change",
+      "target": "<ffx:smile_light>مرحبًا بالجميع، هنا ديوك. وصل أرتيوم، ونحن مستعدان <ffx:smile>لإشعالها! حوّل. <ffx:neutral>",
+      "reason": "توحيد ديوك وإصلاح العبارة المبتورة والمثنى؛ raise hell تعبير حماسي."
+    },
+    "2961": {
+      "decision": "change",
+      "target": "مرحبًا بالجميع، هنا ديوك. رأيت أرتيوم يمر لكنه لم يزرني حتى، فلا بد أنه بخير، ذلك الوغد الجافي. حوّل.",
+      "reason": "توحيد ديوك وcold bastard جفاء الرفيق لا برودة الجسد."
+    },
+    "2962": {
+      "decision": "change",
+      "target": "قل لي شيئًا لا أعرفه! رأيتكما بمنظار بندقيتي! وبالمناسبة يا ديوك، أدر ظهرك إلى الجهة الأخرى حين تتبول، فآثار البرد واضحة عليك! هاها... [Cough]",
+      "reason": "scope منظار السلاح وtaking leak التبول، مع حفظ المزحة الضمنية ورمز السعال."
+    },
+    "2963": {
+      "decision": "change",
+      "target": "ونحن هنا نتجمد من البرد... أأنا وحدي من يشعر بهذا، أم كان المترو أدفأ؟",
+      "reason": "تعبير البرد الطبيعي والاستفهام الاستنكاري لا تجميد المؤخرات عمدًا."
+    },
+    "2965": {
+      "decision": "change",
+      "target": "أما أنا فتُضمد جراحي، اغبطوني جميعًا! كاتيا، كما لاحظتِ، أنا رومانسي جدًا، وكلما رأيتك...",
+      "reason": "المتحدث يتلقى علاج الجروح لا يعالجها بنفسه؛ Katy كاتيا المعتمدة."
+    },
+    "2966": {
+      "decision": "change",
+      "target": "وأنا أستطيع كسر ذراعك كغصين! حوّل!",
+      "reason": "snap كسر العظم لا قطع الذراع."
+    },
+    "2969": {
+      "decision": "change",
+      "target": "أرتيوم، يا أخي... خرجت تلك المخلوقات البرقية... إن رأيت إحداها، فلا تُحدث جلبة؛ يبدو أنها تستجيب للصوت والحركة. يمكنك رمي شيء لتشتيت انتباهها.",
+      "reason": "bratukha يا أخي، وتصحيح الأمر المجزوم ومرجع المخلوقة المؤنث."
+    },
+    "2970": {
+      "decision": "change",
+      "target": "مرحبًا بالجميع، معكم برنامج ديوك الإذاعي وآخر الأخبار! نجح أرتيوم في إحضار العربة! حوّل...",
+      "reason": "over حوّل لا إنهاء الاتصال؛ صياغة مذيع مازح."
+    },
+    "2973": {
+      "decision": "change",
+      "target": "مفهوم، سيدي العقيد!",
+      "reason": "Roger that إقرار لا اسم روجر."
+    },
+    "2974": {
+      "decision": "change",
+      "target": "<ffx:wonder>أووه... مفهوم يا سيدي! <ffx:neutral>",
+      "reason": "توحيد إقرار اللاسلكي."
+    },
+    "2976": {
+      "decision": "change",
+      "target": "<ffx:sadness_light>السوق وحده. المدينة، كما تعلم... دُمّرت... <ffx:wonder>لكن الأرصفة ما زالت قائمة، وحين صار النهر أنظف بدأوا يتاجرون هناك. <ffx:wonder_light>كنت هناك أيضًا، وساعدت في إزالة التلوث عن الأرصفة... <ffx:neutral>",
+      "reason": "حفظ cleaner درجة أنظف لا ادعاء نقاء كامل، وdecontaminate إزالة التلوث."
+    },
+    "2978": {
+      "decision": "change",
+      "target": "<ffx:wonder>وأين غيرها؟ كانت <ffx:sadness>مدينة كبيرة ومكانًا ممتازًا لسوق. لكن <ffx:disgust>العصابات استولت عليها، فغادر قبطاننا وتبعه الرجال. <ffx:sadness>من بقي منهم حيًا، على الأقل...<ffx:neutral>",
+      "reason": "تصحيح الإضافة الناقصة وتوحيد لقب قبطان القافلة البحرية."
+    }
+  }
+}

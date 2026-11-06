@@ -1,0 +1,216 @@
+{
+  "start": 3180,
+  "end": 3280,
+  "decisions": {
+    "3180": {
+      "decision": "change",
+      "target": "<ffx:anger_strong>أيها... الكلب... القذر... <ffx:sleep>",
+      "reason": "ترتيب شتيمة متقطعة مفهومة بالعربية."
+    },
+    "3183": {
+      "decision": "change",
+      "target": "<ffx:smile_light>لقد حماني الإيمان الحق بمشيئة الرب... <ffx:wonder_light>",
+      "reason": "الاختبار انتهى في المشهد، فجملة did protect ماضية."
+    },
+    "3185": {
+      "decision": "change",
+      "target": "<ffx:disgust_light>كوني مؤمنًا حقيقيًا؟",
+      "reason": "whether في سؤال عن الشيء المختبَر لا شرط إذا المعلق."
+    },
+    "3187": {
+      "decision": "change",
+      "target": "<ffx:wonder>إذن، أكان الحكيم المقدس هو موضع الاختبار؟ وتعاليمه؟",
+      "reason": "إصلاح الضبط والترقيم حول السؤال."
+    },
+    "3188": {
+      "decision": "change",
+      "target": "<ffx:anger_light>تعاليمه حق، وقد اتضح ذلك الآن...",
+      "reason": "إصلاح الجملة الثانية الناقصة."
+    },
+    "3190": {
+      "decision": "change",
+      "target": "<ffx:sadness>حسنًا، إن كانوا يغووننا فعلًا... فهذا أفهمه... <ffx:sadness_light>",
+      "reason": "تصحيح بإغراءنا إملائيًا وصياغة التفكير المتردد."
+    },
+    "3195": {
+      "decision": "change",
+      "target": "<ffx:wonder_strong>آه، نعم... الرب حماه... <ffx:smile_light>",
+      "reason": "مرجع الدير مذكر."
+    },
+    "3196": {
+      "decision": "change",
+      "target": "<ffx:wonder>فكيف دخل الزنادقة إذن؟",
+      "reason": "توحيد الزنادقة."
+    },
+    "3205": {
+      "decision": "change",
+      "target": "<ffx:anger_strong>أنت من جلب هذا على نفسه يا شيطان! <ffx:disgust_light>",
+      "reason": "had it coming استحقاق العقاب لا شيء قادم."
+    },
+    "3207": {
+      "decision": "change",
+      "target": "<ffx:disgust>يا أنت! كفى! <ffx:disgust_light>",
+      "reason": "زجر لا تحية وإصلاح كاف الاسمية."
+    },
+    "3208": {
+      "decision": "change",
+      "target": "<ffx:disgust>كفى، <ffx:anger_strong>أقول لك! <ffx:anger_light>",
+      "reason": "صياغة الزجر لا إخبار خبري مبتور."
+    },
+    "3216": {
+      "decision": "change",
+      "target": "<ffx:smile>افعلها! لا أخشى أي شيء قد يسلّطه الشيطان عليّ! <ffx:smile_light>",
+      "reason": "تصحيح انعكاس النفي في الهدف الذي يجعله يخشى ألّا يقذف الشيطان شيئًا."
+    },
+    "3218": {
+      "decision": "change",
+      "target": "<ffx:disgust>يا لك من تابع للشيطان... ومُغوٍ بارع... <ffx:smile_light>اذهب في سبيلك، فأنت مثير للشفقة... <ffx:smile>لا سلطان لك على المؤمنين! <ffx:smile_light>",
+      "reason": "Some minion سخرية من عجزه وtempter مغوٍ لا مجرّب؛ nothing on لا سلطان."
+    },
+    "3220": {
+      "decision": "change",
+      "target": "<ffx:anger>أطلق النار عليّ فحسب! هيا! <ffx:anger_light>",
+      "reason": "come on هنا حث على الفعل لا أمر بالاقتراب."
+    },
+    "3222": {
+      "decision": "change",
+      "target": "<ffx:sadness>مات ابني وابنتي... <ffx:anger>سيلانتيوس رفض أن ندوايهما... <ffx:anger_light>",
+      "reason": "wouldn’t let رفض ماضٍ سبق الموت لا منع مستقبلي."
+    },
+    "3223": {
+      "decision": "change",
+      "target": "<ffx:sadness>قالت كاتيا، الممرضة السابقة، إنها تستطيع إنقاذهما، لكن <ffx:disgust>سيلانتيوس فضّل تركهما يموتان ببطء... <ffx:anger_light>",
+      "reason": "الطفلان مثنى وتصحيح زمن قرار سيلانتيوس وحفظ الموقف المأساوي."
+    },
+    "3224": {
+      "decision": "change",
+      "target": "<ffx:sadness_strong>كان فانيا يبتسم حين مات...",
+      "reason": "فانيا الابن ذكر لا مؤنث."
+    },
+    "3227": {
+      "decision": "change",
+      "target": "<ffx:anger_strong>تبًا لهذه الحياة! أطلق النار عليّ وانتهِ من الأمر!",
+      "reason": "المخاطب أرتيوم مفرد وalready ضيق وتوسل لا بالفعل."
+    },
+    "3229": {
+      "decision": "change",
+      "target": "<ffx:wonder>اسمع، يقولون إنك تعبد الشيطان؟",
+      "reason": "إن بعد القول."
+    },
+    "3231": {
+      "decision": "change",
+      "target": "<ffx:smile>سأكون تلميذًا جيدًا! <ffx:wide_smile>بل جيدًا جدًا جدًا!",
+      "reason": "one يعود إلى المتدرب/التلميذ لا شيء مادي."
+    },
+    "3239": {
+      "decision": "change",
+      "target": "<ffx:anger>وستحمل السمكة القيصر روحي الحرة إلى ملكوت الرب! <ffx:wonder_light>",
+      "reason": "توحيد الاسم وKingdom في الاعتقاد الديني ملكوت."
+    },
+    "3240": {
+      "decision": "change",
+      "target": "<ffx:disgust>لا تستطيع إيذائي أيها الوغد! <ffx:smile_light>",
+      "reason": "تصحيح نداء الحثالة غير المطابق للجنس."
+    },
+    "3241": {
+      "decision": "change",
+      "target": "<ffx:wonder>أهذا أنت يا دانيا؟ <ffx:neutral>",
+      "reason": "دانيا منادى مذكر بحسب تتابع طلب مساعدة بوريس، لا هل هذه أنت."
+    },
+    "3243": {
+      "decision": "change",
+      "target": "<ffx:sadness>أستطيع عبور الممر وحدي، لكن السلم...<ffx:neutral>",
+      "reason": "handle corridor قدرة الشيخ على المشي في الممر لا تعامل مجرد."
+    },
+    "3245": {
+      "decision": "change",
+      "target": "<ffx:wonder>أأنت بوريس؟ يمكنك أن تساعدني على المشي!<ffx:neutral>",
+      "reason": "walk me مرافقة العاجز ومساعدته لا المشي له."
+    },
+    "3248": {
+      "decision": "change",
+      "target": "<ffx:anger>ابتعد عني فحسب! <ffx:sadness_strong>حالي سيئة بما يكفي! <ffx:sadness_light>",
+      "reason": "bad as it is ضيق المتحدث من حاله لا تركيب حرفي غير مفهوم."
+    },
+    "3250": {
+      "decision": "change",
+      "target": "<ffx:fear>هذا عقاب على خطايانا... <ffx:anger_light>كله بسبب خطايانا... <ffx:sadness_strong>فقد اقترفنا خطايا عظيمة... <ffx:sadness_light>",
+      "reason": "sinned ذنوب دينية لا أخطاء عادية؛ حفظ التكرار المذعور."
+    },
+    "3251": {
+      "decision": "change",
+      "target": "<ffx:fear>يا رب، نجّنا وارحمنا... يا رب... <ffx:fear_light>",
+      "reason": "استعادة مفعول ارحم المفهوم من الدعاء."
+    },
+    "3254": {
+      "decision": "change",
+      "target": "<ffx:anger_light>ليست رائعة، ولتشهد السمكة على ذلك!",
+      "reason": "Fish المعبود السمكة لا اسم أجنبي فيش؛ المرجع الحياة مؤنث."
+    },
+    "3255": {
+      "decision": "change",
+      "target": "<ffx:fear_light>ليس لنا سوى حامٍ واحد، أبينا المقدس سيلانتيوس، <ffx:sadness_light>وبصلواته ما زلنا أحياء...",
+      "reason": "توحيد Holy Father الأب المقدس وتصحيح الحامي المضاف."
+    },
+    "3256": {
+      "decision": "change",
+      "target": "<ffx:disgust>كأن المسوخ وشياطين الكهرباء لم تكفنا، <ffx:fear>حتى انقضّ علينا قطاع الطرق الآن! <ffx:fear_light>",
+      "reason": "إصلاح الظرف المبتور وتسلسل الشكوى."
+    },
+    "3257": {
+      "decision": "change",
+      "target": "<ffx:sadness>لا يدعوننا نعيش أو نموت بسلام! <ffx:fear>بتنا مضطرين إلى اجتياز منطقة قطاع الطرق لحمل جثة إلى بيت <ffx:sadness>السمكة... <ffx:sadness_light>",
+      "reason": "إصلاح اسم بيت السمكة المبتور ومسار موكب الموتى."
+    },
+    "3258": {
+      "decision": "change",
+      "target": "<ffx:sadness>قبل يومين مات أحد الشيوخ، <ffx:anger>واضطررنا إلى التوسل للأب المقدس كي يسمح لنا بأداء الطقس! <ffx:wonder>حمل ثلاثة من أقوى الرجال الجثة إلى هناك، <ffx:sadness_strong>لكنهم لم يعودوا... <ffx:sadness_light>",
+      "reason": "توحيد الأب المقدس والمفرد الطقسي دون تغيير عدد الرجال أو اليومين."
+    },
+    "3259": {
+      "decision": "change",
+      "target": "<ffx:sadness>مع أن الأب قال إن الطقس لخدمة الروح، <ffx:wonder_light>لا الروح لخدمة الطقس... <ffx:wonder_light>",
+      "reason": "إصلاح إن وإظهار طرفي المقابلة الفلسفية بدل العكس الملتبس."
+    },
+    "3260": {
+      "decision": "change",
+      "target": "<ffx:sadness_strong>وهو الآن يلوم نفسه. حاول منعهم، <ffx:disgust_light>لكنه سمح لهم بالذهاب في النهاية... <ffx:sadness>ولهذا استدعى المحاربين... <ffx:fear_light>",
+      "reason": "called in استدعى أفراد الحراسة لا دعا الفرسان في؛ توحيد المحارب وفق الدور المعتمد."
+    },
+    "3262": {
+      "decision": "change",
+      "target": "<ffx:wonder>انظر من حلّ علينا! <ffx:wonder_light>",
+      "reason": "what cat dragged in تعجب ساخر من الوافد لا قطة حقيقية."
+    },
+    "3264": {
+      "decision": "change",
+      "target": "<ffx:disgust>انظر إلى ذلك الكافر يجدّف... وأنا لا أحمل سلاحًا حتى... <ffx:neutral>",
+      "reason": "row فعل تجديف لا صف، ومفرد الكافر."
+    },
+    "3267": {
+      "decision": "change",
+      "target": "<ffx:fear_light>بوركت السمكة إذ أبعدته عنا... <ffx:neutral>",
+      "reason": "تصحيح تأنيث الدعاء للمعبود."
+    },
+    "3270": {
+      "decision": "change",
+      "target": "<ffx:anger_strong>أطفئه، أقول لك! <ffx:anger_light>",
+      "reason": "صياغة الزجر الطبيعية."
+    },
+    "3273": {
+      "decision": "change",
+      "target": "<ffx:fear_strong>آآآه! لا تشعل ذلك الضوء هنا! ستجذب الشياطين! <ffx:fear_light>",
+      "reason": "تحذير من نتيجة الضوء لا أمر بجذب الشياطين."
+    },
+    "3278": {
+      "decision": "change",
+      "target": "<ffx:disgust>لن تخيف مؤمنًا حقيقيًا مهما فعلت، <ffx:fear>ولتشهد السمكة! <ffx:anger_strong>أطلق النار أيها الكلب! سترى <ffx:anger>رجلًا صالحًا يموت من أجل إيمانه!",
+      "reason": "Fish اسم المعبود السمكة لا شخص فيش؛ حفظ التحدي الديني."
+    },
+    "3279": {
+      "decision": "change",
+      "target": "<ffx:anger>وحتى إن سرت في ظل الموت، فلن أخشى العدو، <ffx:anger_light>ولا مكائده ولا خدمه، فإيماني يحميني وستحمل السمكة <ffx:anger>روحي إلى ملكوتك يا رب! <ffx:anger_light>",
+      "reason": "إصلاح الجملة المبتورة عن حمل الروح وحفظ طابع الدعاء."
+    }
+  }
+}

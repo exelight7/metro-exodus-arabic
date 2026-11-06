@@ -1,0 +1,18 @@
+{
+  "revision": "story_context_r2",
+  "table_rows_checked": 38221,
+  "runtime_entries": 38223,
+  "individually_reviewed_contexts": 83,
+  "name_only_consistency_fixes": 37,
+  "changed_runtime_entries": 120,
+  "other_runtime_entries_preserved": 38103,
+  "previous_74_reviewed_contexts_preserved": true,
+  "nontext_assets_preserved": 11,
+  "ids_sources_status_policy_tags_and_timings_verified": true,
+  "normalization_idempotent": true,
+  "full_manual_game_review": false,
+  "installed": false,
+  "published": false,
+  "live_game_written": false,
+  "game_launched": false
+}

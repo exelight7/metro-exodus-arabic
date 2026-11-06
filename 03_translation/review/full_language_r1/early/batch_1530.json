@@ -1,0 +1,266 @@
+{
+  "start": 1530,
+  "end": 1620,
+  "decisions": {
+    "1533": {
+      "decision": "change",
+      "target": "<ffx:anger_light>أيها الإسبرطيون، لنجهز أورورا للدفاع!",
+      "reason": "توحيد اسم الإسبرطيين وصياغة الأمر العسكري."
+    },
+    "1534": {
+      "decision": "change",
+      "target": "ستيبان، دامير!<ffx:disgust_light> أمنا محيط القطار!",
+      "reason": "Get perimeter تأمين محيط القاطرة، لا الحصول على المحيط؛ المخاطب مثنى."
+    },
+    "1535": {
+      "decision": "change",
+      "target": "<ffx:smile_light>سأتولى ذلك!<ffx:neutral>",
+      "reason": "On it إقرار بتنفيذ المهمة لا وجود فوقها."
+    },
+    "1537": {
+      "decision": "change",
+      "target": "<ffx:sadness_light>سام وأليوشا، ابقيا في الاحتياط.",
+      "reason": "تصحيح أمر المثنى."
+    },
+    "1540": {
+      "decision": "change",
+      "target": "<ffx:wonder>ديوك، استطلع المنطقة المحيطة...<ffx:wonder_light>",
+      "reason": "recon استطلاع لا إعادة معاينة، وتوحيد ديوك."
+    },
+    "1542": {
+      "decision": "change",
+      "target": "<ffx:wonder>إيديوت، وفر له غطاء ناريًا من أورورا!<ffx:wonder_light>",
+      "reason": "ضبط نصب الغطاء الناري وتوحيد صياغة التغطية."
+    },
+    "1544": {
+      "decision": "change",
+      "target": "<ffx:sadness>نحتاج إلى معلومات... تفضل<ffx:wonder> يا أرتيوم، وضعت علامة على خريطتك...<ffx:wonder_light>",
+      "reason": "Here تقديم الخريطة لا هنا منفصلة؛ صياغة مخاطبة طبيعية."
+    },
+    "1545": {
+      "decision": "change",
+      "target": "<ffx:sadness>اذهب واجمع ما تستطيع من معلومات عن الجسر...<ffx:wonder> والأفضل أن تأخذ أسيرًا.<ffx:wonder_light> آنا، وفري له التغطية.",
+      "reason": "مصدر الأمر استخبارات لا ما يمكنك فعله بالجسر، وأسير لا سجين؛ تصحيح أمر آنا."
+    },
+    "1549": {
+      "decision": "change",
+      "target": "<ffx:sadness>لا... حتى نفهم<ffx:anger_light> وضعنا، لا تبتعد عن أورورا خطوة واحدة.<ffx:smile_light> هذان يتدبران أمرهما جيدًا.<ffx:sleep>",
+      "reason": "إصلاح وضعنا والمثنى ومعنى handle themselves لا التعامل مع النفس."
+    },
+    "1550": {
+      "decision": "change",
+      "target": "<ffx:fear_light>ألم أعد أهلًا للثقة؟<ffx:neutral>",
+      "reason": "إصلاح استفهام النفي المكرر."
+    },
+    "1551": {
+      "decision": "change",
+      "target": "<ffx:anger_light>لأخبرتك لو كان الأمر كذلك يا سام.<ffx:anger> كف عن الثرثرة الآن!<ffx:neutral>",
+      "reason": "تصحيح فعل الأمر cut chatter إلى الكف لا القطع الحرفي."
+    },
+    "1554": {
+      "decision": "change",
+      "target": "<ffx:wonder>هل وجدته؟ لا؟<ffx:smile> إنه هنا تمامًا!<ffx:neutral>",
+      "reason": "تصحيح المفعول العائد إلى دفتر الملاحظات."
+    },
+    "1555": {
+      "decision": "change",
+      "target": "<ffx:fear_light>إطلاق نار!<ffx:disgust_light> أربعة أشخاص مجهولين على عربة.<ffx:neutral>",
+      "reason": "bogeys أشخاص مجهولو الهوية في التقرير لا أشباح؛ صيحة إطلاق النار."
+    },
+    "1557": {
+      "decision": "change",
+      "target": "<ffx:anger_light>يرماك! متى تستطيع<ffx:wonder> إعادة أورورا إلى العمل؟<ffx:neutral>",
+      "reason": "حذف لام زائدة وإصلاح تركيب تشغيل القاطرة."
+    },
+    "1558": {
+      "decision": "change",
+      "target": "<ffx:wonder_strong>لا أدري بعد...<ffx:wonder> علي فحص الأسطوانة،<ffx:sadness_light> لكن الإصلاح سيستغرق يومًا كاملًا على الأقل...<ffx:neutral>",
+      "reason": "إكمال خبر مدة الإصلاح الذي بترته الترجمة."
+    },
+    "1559": {
+      "decision": "change",
+      "target": "<ffx:sadness>فهمت... باشر العمل إذن!<ffx:anger_light>",
+      "reason": "I see تفهم للتقرير لا رؤية."
+    },
+    "1560": {
+      "decision": "change",
+      "target": "<ffx:wide_smile>انظر إلى ما جهزته هنا يا أرتيوم!<ffx:smile> أخيرًا رتبت كل شيء كما أريد!",
+      "reason": "setup تجهيز الورشة لا إعداد خيارات؛ صياغة فخر توكاريف."
+    },
+    "1561": {
+      "decision": "change",
+      "target": "<ffx:smile_light>طاولة عمل حقيقية،<ffx:wonder> تتسع لكل أدواتي ويبقى فيها متسع أيضًا!",
+      "reason": "some to spare مساحة زائدة لا أدوات احتياطية."
+    },
+    "1564": {
+      "decision": "change",
+      "target": "<ffx:sadness_light>لكن عليك تركيب ملحقات السلاح مجددًا...<ffx:smile> سأجعل منكم جميعًا صانعي أسلحة بارعين في النهاية!<ffx:smile_light>",
+      "reason": "attachments ملحقات السلاح لا مرفقات عامة."
+    },
+    "1567": {
+      "decision": "change",
+      "target": "<ffx:wonder>أرتيوم، لا تنس حقيبة ظهرك!<ffx:smile> إنها من طراز جديد؛ ورشة متنقلة، إن صح التعبير.<ffx:wonder> ودليل الاستخدام بداخلها...<ffx:wonder_light>",
+      "reason": "تصحيح إحالة حقيبة الظهر المؤنثة وصياغة دليلها."
+    },
+    "1568": {
+      "decision": "change",
+      "target": "<ffx:smile>هيا، نشط نفسك وارتدها!<ffx:smile_light> لا أريد أن يوبخني العقيد...<ffx:neutral>",
+      "reason": "look alive تنشيط حركة لا النظر للحياة، وchewed out توبيخ لا مجرد إزعاج."
+    },
+    "1569": {
+      "decision": "change",
+      "target": "<ffx:smile>تلائمك تمامًا، وإن كنت أنا من يقول ذلك!<ffx:smile_light>",
+      "reason": "إصلاح وصف ملاءمة الحقيبة مع إبقاء مفاخرته بصنعها."
+    },
+    "1570": {
+      "decision": "change",
+      "target": "<ffx:sadness_light>لكنها لا تأتي بمواد صنع،<ffx:smile_light> فابحث عنها في طريقك.<ffx:neutral>",
+      "reason": "crafting materials مواد صنع لا مواد حرفية، وتصحيح جنس الحقيبة."
+    },
+    "1571": {
+      "decision": "change",
+      "target": "<ffx:wonder>تأتي المواد الكيميائية أولًا:<ffx:wide_smile_light> كالخمر والأسمدة وما شابه...<ffx:smile> ثم الصواميل والبراغي وسائر الخردة بالطبع.<ffx:wonder_light>",
+      "reason": "bolts مثبتات براغٍ في سياق الخردة، وليست مسامير أو أسهم نشاب."
+    },
+    "1572": {
+      "decision": "change",
+      "target": "<ffx:smile_light>اجمع تلك المواد، ويمكنك<ffx:wonder> صنع أي شيء تقريبًا. ستفهم<ffx:smile> طريقة العمل؛ فالدليل في الداخل!<ffx:smile_light>",
+      "reason": "basically تقريبًا لا بشكل أساسي، وإكمال ما سيفهمه بدل ستكتشف المبتورة."
+    },
+    "1573": {
+      "decision": "change",
+      "target": "<ffx:wonder>أما أين تبحث عنها...<ffx:sadness_light> فقد وجدت أشياء كثيرة في أوكار النوساليس بموسكو.<ffx:disgust_light> حين تفتك بأحدهم،<ffx:wonder> غالبًا ما تجر جثته إلى هناك لتطعم صغارها...<ffx:neutral>",
+      "reason": "نصيحة لأرتيوم عن أوكار الوحوش لا مخابئ بشرية أو اقتناء شخص؛ تصحيح الضمائر."
+    },
+    "1574": {
+      "decision": "change",
+      "target": "<ffx:wonder>إن وجدت أسلحة جديدة هناك،<ffx:smile_light> فسأحتفظ بنموذج منها، ويمكنك دائمًا تبديل<ffx:wonder> أسلحتك هنا على أورورا<ffx:smile_light> متى شئت.",
+      "reason": "إصلاح جملة الاستبدال المبتورة وإحالة الأسلحة."
+    },
+    "1577": {
+      "decision": "change",
+      "target": "<ffx:wonder>بالطبع، سأصنع واحدة لكل منكم<ffx:smile> بعد أن يختبر أرتيوم هذه، وأعالج ما فيها من عيوب.<ffx:smile_light>",
+      "reason": "حقيبة لكل فرد لا واحدة مشتركة للجميع؛ quirks عيوب النموذج لا مراوغات."
+    },
+    "1579": {
+      "decision": "change",
+      "target": "<ffx:smile>بالتأكيد!<ffx:neutral>",
+      "reason": "Sure thing جواب موافقة لا شيء أكيد."
+    },
+    "1582": {
+      "decision": "change",
+      "target": "<ffx:smile>بندقية تيخار!<ffx:wonder> أتتذكرها؟",
+      "reason": "Ring any bells سؤال تذكر لا قرع أجراس."
+    },
+    "1583": {
+      "decision": "change",
+      "target": "<ffx:smile_light>تعمل بالهواء المضغوط، لكنها تصيب بقوة رغم ذلك.",
+      "reason": "packs wallop قوة الإصابة لا حمل صدمات كثيرة."
+    },
+    "1584": {
+      "decision": "change",
+      "target": "<ffx:wonder>وصنع رصاصها بالغ السهولة،<ffx:smile> حتى في الميدان...",
+      "reason": "easy as pie اصطلاح السهولة لا مقارنة بفطيرة."
+    },
+    "1585": {
+      "decision": "change",
+      "target": "<ffx:wonder_light>فقط احرص على إبقاء ضغطها مرتفعًا،<ffx:smile_light> وإلا فالأجدى أن تبصق رصاصها بنفسك!",
+      "reason": "حفظ سخرية ضعف الإطلاق عند انخفاض الضغط لا لفظ رصاص مبهم."
+    },
+    "1586": {
+      "decision": "change",
+      "target": "<ffx:wonder_light>فيما عدا ذلك،<ffx:smile_light> لن تخذلك أبدًا؛<ffx:smile> فقد بذلت قصارى جهدي!",
+      "reason": "البندقية مؤنثة في السياق؛ ضبط ضميرها."
+    },
+    "1588": {
+      "decision": "change",
+      "target": "<ffx:wonder>ولا تنس زيارتي من وقت لآخر!<ffx:smile_light> لدي بعض الأفكار لتحسينها...<ffx:neutral>",
+      "reason": "توحيد إحالة بندقية تيخار المؤنثة."
+    },
+    "1589": {
+      "decision": "change",
+      "target": "<ffx:wonder_light>اسمع يا أرتيوم...<ffx:smile_light> لدي شيء لبندقية تيخار خاصتك...<ffx:wonder> جرب تركيبه على طاولة العمل!<ffx:neutral>",
+      "reason": "توحيد تيخار بدل تخار وصياغة دعوة تجربة الملحق."
+    },
+    "1590": {
+      "decision": "change",
+      "target": "<ffx:wonder_light>انظر يا أرتيوم... جهزت<ffx:smile_light> تحسينًا لتيخار.<ffx:wonder_light> خذه لتجربته في الخارج، ويمكنك<ffx:smile_light> استخدام طاولة العمل لتركيبه!<ffx:neutral>",
+      "reason": "إصلاح أهلا باستخدام الطاولة الحرفية وحفظ التجربة الميدانية."
+    },
+    "1592": {
+      "decision": "change",
+      "target": "<ffx:wonder_strong>كيف يواعد الرجل<ffx:smile_light> فتاة قناصة أصلًا؟",
+      "reason": "تصحيح قناصة المؤنث وصياغة سؤال ساخر طبيعي."
+    },
+    "1594": {
+      "decision": "change",
+      "target": "<ffx:fear_light>أقصد لو ضبطتك تخونها أو ما شابه...<ffx:sadness_light> وهذا وحده صعب الاحتمال!",
+      "reason": "cheating خيانة عاطفية في الحديث عن المواعدة لا غش عام."
+    },
+    "1595": {
+      "decision": "change",
+      "target": "<ffx:fear>أما القناصة!<ffx:smile_light>",
+      "reason": "المقصود امرأة قناصة لا رجل."
+    },
+    "1596": {
+      "decision": "change",
+      "target": "أرتيوم؟ ما سبب إطلاق النار، وأين أنت بحق الجحيم؟",
+      "reason": "what shots about سؤال سبب إطلاق النار لا حديث الطلقات."
+    },
+    "1597": {
+      "decision": "change",
+      "target": "ذهب نحو الميناء بحثًا عن المغامرة، ويبدو أنه وجدها...",
+      "reason": "إكمال الضمير العائد إلى المغامرة دون بعض المبتورة."
+    },
+    "1599": {
+      "decision": "change",
+      "target": "اعرف من يقاتل من، وساعدهم إن رأيت ما يستحق. قد ينفعنا كسب ود السكان. واعرف إن كان أحد يعمل لصالح قوات الاحتلال، أو يستطيع أن يدلنا على آثارها...",
+      "reason": "تصحيح ضمير آثار قوات الاحتلال لا أثر شخص واحد، وصياغة جمع الاستخبارات."
+    },
+    "1600": {
+      "decision": "change",
+      "target": "حين تنتهي، عد إلى آنا وأكمل مهمتك في الكنيسة. ميلر، انتهى الاتصال.",
+      "reason": "تصحيح أمر إنهاء المهمة وOut إنهاء لاسلكي لا ميلر خارج."
+    },
+    "1601": {
+      "decision": "change",
+      "target": "<ffx:wonder>يا أرتيوم! أين آنا؟<ffx:wonder_strong> ظننت أنكما ذهبتما إلى الكنيسة!<ffx:wonder_light>",
+      "reason": "توحيد مثنى الزوجين بدل جمع غير منضبط."
+    },
+    "1604": {
+      "decision": "change",
+      "target": "<ffx:anger>تذكر... معظم<ffx:sadness> البلاد دمر أو احتل.",
+      "reason": "استعادة اسم البلاد المحذوف مع حفظ ادعاء ميلر في كلامه."
+    },
+    "1605": {
+      "decision": "change",
+      "target": "<ffx:disgust>حتى من يتحدثون لغتنا قد يكونون أعداء،<ffx:anger_light> عن قناعة أو خوف...<ffx:wonder> أتفهم؟",
+      "reason": "إعادة وسم الاستفهام إلى بدايته مع حفظ المعنى الجيد."
+    },
+    "1612": {
+      "decision": "change",
+      "target": "<ffx:wonder>ها أنا أنزل...",
+      "reason": "Going down إعلان النزول لا ظرف مستقل."
+    },
+    "1613": {
+      "decision": "change",
+      "target": "<ffx:wide_smile_strong>مرحى! كان ذلك رائعًا!<ffx:neutral>",
+      "reason": "great رائع لا كبير، وحفظ صيحة الفرح."
+    },
+    "1617": {
+      "decision": "change",
+      "target": "<ffx:smile_light>وأتذكر أنني ناديتك «أرنبًا» ذات مرة...<ffx:wide_smile_light> كم كان غضبك حينها لطيفًا!<ffx:neutral>",
+      "reason": "حفظ ذكرى لقب الأرنب وسبب ملاطفة آنا له لا تركيب لدرجة الغضب المشوه."
+    },
+    "1618": {
+      "decision": "change",
+      "target": "<ffx:smile_light>هذا ما جذبني إليك!<ffx:anger_light> كان حولي أولئك الرجال الأشداء،<ffx:smile> لكنك كنت تحمر خجلًا بطريقة آسرة!<ffx:neutral>",
+      "reason": "got into you انجذاب عاطفي لا دخول الجسم، وhard-boiled أشداء لا مسلوقون."
+    },
+    "1619": {
+      "decision": "change",
+      "target": "<ffx:anger_light>يا أرتيوم! ما الذي يؤخرك؟<ffx:smile_light> اخرج إلى هنا!<ffx:neutral>",
+      "reason": "إصلاح السؤال عن التأخر وأمر الخروج دون تحية متكررة."
+    }
+  }
+}

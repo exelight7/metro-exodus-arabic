@@ -1,0 +1,300 @@
+{
+  "start": 2405,
+  "end": 2500,
+  "decisions": {
+    "2405": {
+      "decision": "change",
+      "target": "<ffx:fear_light>أردت أن أسألك فحسب... <ffx:wonder_light>هناك، عند الخزانات الكبيرة... <ffx:fear>إن وجدت دبّي الدمية... <ffx:wonder>فهل تعيده إلى البيت؟ <ffx:wonder_light>",
+      "reason": "tanks خزانات موقع عش الشيطان لا دبابات، وتوحيد اسم دمية الدب الفصيح."
+    },
+    "2407": {
+      "decision": "change",
+      "target": "<ffx:sadness>أخذه إلى صغاره... <Sigh> أشتاق إلى <ffx:sadness_strong>دبّي كثيرًا... <ffx:sadness_light>",
+      "reason": "توحيد Teddy الدب الدمية وحفظ التنهد؛ صغار المتحول لا أطفال بشر."
+    },
+    "2408": {
+      "decision": "change",
+      "target": "<ffx:wonder>أردت زيارته، لكن أمي لا تسمح لي! <ffx:smile_light>لأن شياطين الكهرباء هناك أيضًا! <ffx:wonder_light>",
+      "reason": "won’t منع قائم لا رفض ماضٍ فقط، وتوحيد اسم ظاهرة الكهرباء."
+    },
+    "2409": {
+      "decision": "change",
+      "target": "<ffx:anger_light>أنا أقول الحقيقة! <ffx:wonder>تخرج ليلًا <ffx:smile>وتتوهج! ما أجملها! <ffx:wonder_light>",
+      "reason": "light up تتوهج لا تشعل شيئًا محذوفًا."
+    },
+    "2410": {
+      "decision": "change",
+      "target": "<ffx:fear_light>ومخيفة أيضًا... قليلًا... <ffx:neutral>",
+      "reason": "مطابقة الظواهر/الشياطين بصفتها غير عاقل."
+    },
+    "2411": {
+      "decision": "change",
+      "target": "<ffx:wonder_strong>دبّي؟",
+      "reason": "Teddy دمية ناستيا لا اسم شخص."
+    },
+    "2412": {
+      "decision": "change",
+      "target": "<ffx:smile>دبّي! أعدت حقًا؟! أنت بطلي يا دبّي! <ffx:smile_light>",
+      "reason": "حفظ فرح الطفلة بالدمية دون نقل Teddy صوتيًا."
+    },
+    "2413": {
+      "decision": "change",
+      "target": "<ffx:smile>أمي! عاد دبّي! <ffx:neutral>",
+      "reason": "توحيد دمية ناستيا."
+    },
+    "2414": {
+      "decision": "change",
+      "target": "<ffx:anger_light>وماذا عليك أن تقولي؟ <ffx:wonder_light>",
+      "reason": "الأم تذكّر ابنتها بالشكر؛ مخاطبة مؤنثة."
+    },
+    "2417": {
+      "decision": "change",
+      "target": "<ffx:smile>شكرًا يا أرتيوم... أنت بطل! <ffx:smile_light>",
+      "reason": "You are the man ثناء لا إثبات الذكورة."
+    },
+    "2420": {
+      "decision": "change",
+      "target": "<ffx:wonder>أراد ستيبان أخذ الآلة منهم، <ffx:wide_smile_light>فقد كانوا يشوّهون اللحن تشويهًا! <ffx:neutral>",
+      "reason": "صياغة وصف العزف السيئ الطبيعية وحفظ تسلسل الوسوم."
+    },
+    "2423": {
+      "decision": "change",
+      "target": "<ffx:smile>واو، من أين أتيت بهذه؟ <ffx:wide_smile>تبًا، إنها رائعة! شكرًا يا رجل! <ffx:smile>لقد أذهلتني! <ffx:smile_light>",
+      "reason": "مرجع القيثارة مؤنث وصياغة السباب التعبيري، لا دعاء مبتور."
+    },
+    "2424": {
+      "decision": "change",
+      "target": "أرتيوم، <ffx:wonder>هل ستذهب إلى المحطة؟ قد تقابل ديوك هناك، فقد أقام <ffx:sadness_light>نقطة مراقبة في عربة قرب الجسر. <ffx:wonder>اطلب منه تقريرًا عن الوضع قبل أن تدخل... <ffx:neutral>",
+      "reason": "sit rep اختصار situation report العسكري، لا أمر بالجلوس."
+    },
+    "2425": {
+      "decision": "change",
+      "target": "<ffx:sadness_light>وأمر آخر... ذلك البرج إلى <ffx:wonder>اليمين... أتراه؟ <ffx:sadness_light>ثمة أحد هناك.",
+      "reason": "right اتجاه اليمين لا صحيح."
+    },
+    "2431": {
+      "decision": "change",
+      "target": "تكثر الهياكل الحديدية والخرسانة في المحطة، وهي تحجب إشارتك!",
+      "reason": "shielding حجب الإشارة، لا حمايتها وهو عكس المعنى."
+    },
+    "2435": {
+      "decision": "change",
+      "target": "أجب! اللعنة. حوّل!",
+      "reason": "Come in نداء لاسلكي لا ادخل."
+    },
+    "2436": {
+      "decision": "change",
+      "target": "ما زلت لا أتلقى إشارة. لا أستطيع الاتصال بك.",
+      "reason": "المتكلم لا يتلقى الإشارة، لا غائب لا يتلقى."
+    },
+    "2437": {
+      "decision": "change",
+      "target": "- تشويش -",
+      "reason": "static صوت التشويش اللاسلكي، لا ثابت."
+    },
+    "2438": {
+      "decision": "change",
+      "target": "إن كنت تسمعني، فأجب!",
+      "reason": "تصحيح صيغة الأمر."
+    },
+    "2439": {
+      "decision": "change",
+      "target": "أرتيوم! أما زلت حيًا؟",
+      "reason": "تصحيح ما زال المنفصلة وصياغة نداء القلق."
+    },
+    "2441": {
+      "decision": "change",
+      "target": "أرتيوم، هل أنت بخير؟ أجب!",
+      "reason": "Respond أمر للمخاطب لا مضارع الغائب."
+    },
+    "2442": {
+      "decision": "change",
+      "target": "آه! عاد الاتصال به! أخيرًا!",
+      "reason": "got him التقاط الإشارة لا الإمساك بالشخص."
+    },
+    "2444": {
+      "decision": "change",
+      "target": "يا إلهي... كدت أجن من القلق هنا...",
+      "reason": "drove myself crazy حالة القلق لا قيادة حرفية."
+    },
+    "2445": {
+      "decision": "change",
+      "target": "عدت إلى الاتصال أخيرًا...",
+      "reason": "online اتصال الجهاز اللاسلكي مع عودة التغطية."
+    },
+    "2446": {
+      "decision": "change",
+      "target": "قال كريست إن مبنى المحطة حجب إشارتك.",
+      "reason": "cut off by terminal انقطاع اللاسلكي لا قطع الطريق."
+    },
+    "2448": {
+      "decision": "change",
+      "target": "اطمأننت الآن يا أرتيوم...",
+      "reason": "معنى الارتياح النفسي بعد سماع عودته دون جنس متحدث غير محسوم."
+    },
+    "2449": {
+      "decision": "change",
+      "target": "كفّ عن ذلك يا أبي... (سعال)",
+      "reason": "Cut that out طلب الكفّ عن السلوك لا قطع شيء."
+    },
+    "2450": {
+      "decision": "change",
+      "target": "أرتيوم لم يكن يتكاسل هناك!",
+      "reason": "نفي التكاسل أثناء غياب الاتصال، لا تهرب من هناك."
+    },
+    "2451": {
+      "decision": "change",
+      "target": "إذن، أعثرت على عربة السكة الحديد؟",
+      "reason": "توحيد railcar المميزة من عربة الركاب."
+    },
+    "2454": {
+      "decision": "change",
+      "target": "لكن توخَّ الحذر!",
+      "reason": "watch your step تحذير عام قبل مواجهة قطاع الطرق."
+    },
+    "2455": {
+      "decision": "change",
+      "target": "هناك بضعة رجال مشبوهين... بل عصابة كاملة في الحقيقة!",
+      "reason": "characters أشخاص حقيقيون والسياق عصابة قطاع طرق، لا شخصيات قصة."
+    },
+    "2457": {
+      "decision": "change",
+      "target": "<ffx:wonder>أرتيوم، سلك الفريق الطريق الطويل الملتف إلى الميناء... <ffx:smile_light>",
+      "reason": "took long way around طريق التفاف لا مجرد قطع مسافة طويلة."
+    },
+    "2461": {
+      "decision": "needs_context",
+      "reason": "لقب ranger العسكري ظاهر في الإنجليزية والروسية рейнджер؛ ننتظر توحيد الجذر للاسم بدل اقتراح لفظ يناقض بقية المشروع."
+    },
+    "2463": {
+      "decision": "change",
+      "target": "<ffx:smile_light>لا بد أنه أثر تقدّمي في السن... <ffx:neutral>",
+      "reason": "يتعلل بكثرة القلق بسبب السن لا مجرد عمره عددًا."
+    },
+    "2465": {
+      "decision": "change",
+      "target": "لكن <ffx:smile>قلق آنا فاق الجميع، <ffx:smile_light>هذا ما أقوله لك!",
+      "reason": "took to new level مبالغة في قلقها، لا نقل شيء إلى مستوى."
+    },
+    "2466": {
+      "decision": "change",
+      "target": "<ffx:wonder_light>توخَّ الحذر يا أرتيوم. <ffx:smile_light>أبلغ الرجال تحياتي! و... <ffx:smile>حظًا موفقًا! <ffx:smile_light>",
+      "reason": "Tell said Hi إبلاغ التحية، لا اقتباس حرفي متكلف."
+    },
+    "2467": {
+      "decision": "change",
+      "target": "<ffx:smile_light>بصراحة، عجوزي هذه قطعة متحف... <ffx:wonder>أخرجت هانسا أمثالها من مخازنها في الديار، لأن وقود الديزل أصبح شبه مفقود، <ffx:sadness>ومعظم ما بقي في المخازن تلف... <ffx:wonder_light>",
+      "reason": "mothballs كناية عن العتاد المخزّن القديم، لا كرات نفتالين؛ الروسية تؤكد إعادة استخدام القاطرة القديمة."
+    },
+    "2468": {
+      "decision": "change",
+      "target": "لكن عجوزي <ffx:smile>تعمل بكل ما تلقمه لها، فحمًا كان أو حطبًا... <ffx:wonder>بكل ما يحترق حقًا. <ffx:wide_smile>آلة ليوم القيامة بحق، عجوزي هذه، هاها! <ffx:smile_light>",
+      "reason": "تأنيس القاطرة بلسان سائقها مع صياغة الوقود الطبيعية لا إطعام فتاة."
+    },
+    "2469": {
+      "decision": "change",
+      "target": "<ffx:wonder>أورورا... هذا <ffx:smile>الاسم وحده دليل على الثقة بها، هاها... <ffx:smile_light>",
+      "reason": "credit of trust تشبيه الثقة بالاسم لا رصيد مصرفي؛ الروسية تؤيد منحها الثقة بالتسمية."
+    },
+    "2470": {
+      "decision": "change",
+      "target": "<ffx:smile_light>كانوا يسمونها كومة خردة، <ffx:wonder_light>وكانت تحتاج إلى الصيانة كل يومين...",
+      "reason": "استعادة ضمير القاطرة الناقص بعد الصيانة."
+    },
+    "2471": {
+      "decision": "change",
+      "target": "<ffx:wonder>أما هنا فقد دبّت الحياة فيها من جديد! <ffx:smile>أورورا حبيبتي! <ffx:smile_light>",
+      "reason": "second breath تجدّد النشاط لا لفظ الأنفاس، وmy Aurora نداء حنون لا بلدي."
+    },
+    "2473": {
+      "decision": "change",
+      "target": "<ffx:smile>وأنا أوافقها كل الموافقة في ذلك.",
+      "reason": "إقرار الاتفاق التام لا نفي القدرة الحرفي."
+    },
+    "2475": {
+      "decision": "change",
+      "target": "<ffx:smile_light>لكننا الآن، وقد أوشك الستار أن يُسدل علينا، <ffx:smile>نحصل كلانا على فرصة ثانية!",
+      "reason": "curtain call نهاية العمر استعارة دون تركيب مكسور."
+    },
+    "2477": {
+      "decision": "change",
+      "target": "<ffx:wonder>ألا توافقينني يا عجوزي؟ <ffx:smile_light>",
+      "reason": "نداء تحبب للقاطرة يوافق بقية حديث يرماك."
+    },
+    "2479": {
+      "decision": "change",
+      "target": "<ffx:smile_light>أتستمتع بوقتك هناك؟ أما أنا <ffx:disgust_light>فعليّ ملازمة هذا المكان حتى تشفى ذراعي! ومن يكترث <ffx:sadness>بالذراع ما دام <ffx:smile>الجزء المهم سليمًا! <ffx:smile_light>",
+      "reason": "إصلاح البنية الناقصة وكناية أليوشا الساخرة دون شرح زائد."
+    },
+    "2481": {
+      "decision": "change",
+      "target": "<ffx:sadness>تملؤنا الشكوك، هذا حالنا... <ffx:wonder>أسمعت أهل المنطقة؟ <ffx:disgust_light>لا يبدو أبدًا أن الناتو وصل إلى الفولغا.",
+      "reason": "إصلاح جواب الجمع والجملة المنفية الناقصة."
+    },
+    "2485": {
+      "decision": "change",
+      "target": "<ffx:anger_light>نحن في الشرق، ألا ترى؟ <ffx:sadness_light>نتجه إلى شرق موسكو، <ffx:disgust>والناتو كان في الغرب! <ffx:anger_light>في الجهة الأخرى! <ffx:wonder_light>",
+      "reason": "كان الناتو غربًا لا متجهًا إلى الغرب؛ حفظ الاستدلال الجغرافي."
+    },
+    "2486": {
+      "decision": "change",
+      "target": "<ffx:wonder>أتعلم؟ <ffx:disgust_light>الحمقى وحدهم لا يشكّون في شيء! <ffx:neutral>",
+      "reason": "تصحيح تركيب الحصر وإبقاء تورية اسم إيديوت والحمق."
+    },
+    "2488": {
+      "decision": "change",
+      "target": "<ffx:smile>إذن يمكنك الانصراف أيها المتدرّب! <ffx:smile_light>",
+      "reason": "you are excused إذن الانصراف العسكري لا إعفاء من اللوم؛ الروسية تؤيد المعنى."
+    },
+    "2489": {
+      "decision": "change",
+      "target": "<ffx:smile>ها ها ها! أنت مضحك حقًا... <ffx:smile_light>حسنًا، عليّ الذهاب...",
+      "reason": "blast شخص مسلّ وgotta run وداع لا ضرورة الركض."
+    },
+    "2490": {
+      "decision": "change",
+      "target": "<ffx:smile_light>حسنًا...",
+      "reason": "إصلاح نقاط الحذف."
+    },
+    "2491": {
+      "decision": "change",
+      "target": "<ffx:smile>مرحبًا أرتيوم! كيف حالك، <ffx:wide_smile>بخير؟ ها ها! <ffx:smile_light>",
+      "reason": "horosho كلمة روسية معناها بخير؛ ليست اسمًا خاصًا يستلزم النقل الصوتي."
+    },
+    "2492": {
+      "decision": "change",
+      "target": "<ffx:anger>قف مكانك! ارفع يديك!",
+      "reason": "أوامر حراسة عربية طبيعية."
+    },
+    "2493": {
+      "decision": "change",
+      "target": "أرتيوم، هنا ميلر... أرسل إليك إحداثيات ديوك... يراقب الجسر من هناك. التقِ به ليطلعك على آخر المستجدات في المحطة. ميلر، انتهى الاتصال.",
+      "reason": "تصحيح فاعل الإرسال وإنهاء اللاسلكي over and out."
+    },
+    "2494": {
+      "decision": "change",
+      "target": "<ffx:smile>ها!",
+      "reason": "صيحة الظهور المفاجئ، لا اسم هوب أو أمر بالقفز؛ تؤكدها Опачки الروسية."
+    },
+    "2496": {
+      "decision": "change",
+      "target": "لم ترني، أليس كذلك؟ <ffx:wide_smile_light>ولا الآخرون يرونني، فقد أصبحت كأنني جزء <ffx:smile_light>من المكان نفسه!",
+      "reason": "تصحيح الضمير وحرف الجر المكرر في مزاح التمويه."
+    },
+    "2497": {
+      "decision": "change",
+      "target": "سمعت أنك متجه إلى المحطة لجلب عربة السكة الحديد؟ دعني أطلعك على الوضع إذن...",
+      "reason": "fill in إطلاع على المعلومات لا إكمال مبهم أو مخاطبة جمع."
+    },
+    "2498": {
+      "decision": "change",
+      "target": "<ffx:wonder>أترى محطة الوقود تلك؟ إنها مخبأ لقطاع الطرق. ينصبون كمائن للمتعصبين... <ffx:sadness>فالحمقى ينجذبون إلى المحطة كالذباب إلى... تعرف ما أقصد... <ffx:disgust>أسر قطاع الطرق ثلاثة منهم وأنا أراقب المكان. <ffx:sadness_light>",
+      "reason": "حفظ الكناية المحذوفة عمدًا وon my watch أثناء المراقبة لا ساعة اليد."
+    },
+    "2499": {
+      "decision": "change",
+      "target": "<ffx:wonder>انظر إلى ذلك المبنى... <ffx:sadness>يحتجز قطاع الطرق فيه أسرى لطلب فدية أو ما شابه، لكنهم <ffx:anger>ينكّلون بالمساكين حقًا! طلبت من العقيد الإذن باقتحامه ثلاث مرات، <ffx:sadness>لكنه رفض... أتفهم السبب، <ffx:anger_light>لكننا لطالما حمينا الناس من حثالة كهؤلاء... لذا <ffx:sadness_light>يصعب عليّ البقاء مكتوف اليدين. آه، حسنًا... <ffx:sadness_light>",
+      "reason": "go to town التنكيل الشديد بالأسرى لا الذهاب لبلدة، وno dice رفض الإذن."
+    }
+  }
+}

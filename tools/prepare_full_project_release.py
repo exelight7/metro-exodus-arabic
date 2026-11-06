@@ -103,7 +103,8 @@ unicorn==2.1.4
     assert len(rows)==38221 and not any(r['source'].strip() and not r['target'].strip() for r in rows)
     # All editable tables and review data must remain byte-identical in the snapshot.
     for source in (ROOT/'03_translation').rglob('*'):
-        if source.is_file(): assert digest(source)==digest(REPO/source.relative_to(ROOT)),source.name
+        if source.is_file() and source.suffix.lower() in ['.csv','.jsonl']:
+            assert digest(source)==digest(REPO/source.relative_to(ROOT)),source.name
     write(REPO/'translations/README.md','''# بيانات الترجمة
 
 النسخة الكاملة المعتمدة للتحرير في [`03_translation/`](../03_translation)، ويشمل

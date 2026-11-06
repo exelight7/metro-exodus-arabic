@@ -1,0 +1,261 @@
+{
+  "start": 2225,
+  "end": 2315,
+  "decisions": {
+    "2225": {
+      "decision": "change",
+      "target": "<ffx:anger>أرتيوم، أنت السبب الوحيد لبقائنا هنا! <ffx:disgust>عليك الذهاب إلى ذلك الميناء، تحرّك الآن! <ffx:neutral>",
+      "reason": "port الميناء وmove it أمر بالتحرك لا نقل شيء."
+    },
+    "2226": {
+      "decision": "change",
+      "target": "<ffx:smile>أحسنت بإنقاذهما يا أرتيوم! <ffx:wonder>فقد زوّدتنا كاتيا بمعلومات بالغة الأهمية... <ffx:neutral>",
+      "reason": "المُنقذتان كاتيا وابنتها مثنى وصياغة الثناء الطبيعية."
+    },
+    "2228": {
+      "decision": "change",
+      "target": "<ffx:sadness>نحتاج إلى مساعدته إن أردنا إصلاح أورورا في وقت قريب. <ffx:disgust_light>يرماك لا يستطيع تولّي الإصلاحات وحده. <ffx:neutral>",
+      "reason": "صياغة الحوار الطبيعي بدل لغة التقرير الجامدة."
+    },
+    "2232": {
+      "decision": "change",
+      "target": "<ffx:wonder>قد لا تكون هناك قوات معادية في هذه المنطقة أصلًا، <ffx:disgust_light>فلعلهم نشروا حامياتهم في المناطق الرئيسية فقط... <ffx:neutral>",
+      "reason": "garrisoned نشر الحاميات لا بناء التحصين فقط."
+    },
+    "2233": {
+      "decision": "change",
+      "target": "<ffx:sadness_light>على أي حال، سنعرف كل شيء حين نصل إلى يامانتو... <ffx:anger_light>من أعلى سلطة. <ffx:disgust_light>فحكومة موسكو ليست في الحقيقة سوى مجلس محلي إذا قارنا الأمر... <ffx:sadness_light>ولذا علينا الآن أن نجد سبيلًا لعبور هذا الجسر اللعين. <ffx:neutral>",
+      "reason": "توحيد يامانتو وبيان مقارنة سلطة موسكو بالقيادة العليا دون المصدر الحرفي."
+    },
+    "2236": {
+      "decision": "change",
+      "target": "<ffx:smile>ها هو أرتيوم يعود! ويبدو أنه سالم معافى أيضًا! <ffx:neutral>",
+      "reason": "in one piece سالم لا في قطعة واحدة."
+    },
+    "2239": {
+      "decision": "change",
+      "target": "<ffx:sadness>أرتيوم، أجريت بعض القياسات... <ffx:anger_light>ثمة بقعة شديدة التلوث الإشعاعي بيننا وبين الميناء، <ffx:fear>والقراءات تتجاوز مدى الجهاز! <ffx:wonder_light>",
+      "reason": "hotspot بقعة إشعاع مرتفع، وoff scale تجاوز مدى القياس لا خارج مقياس مبهم."
+    },
+    "2240": {
+      "decision": "change",
+      "target": "لذا من الأفضل أن تذهب بالقارب. <ffx:wonder>عثرنا على واحد وربطناه تحت الجسر. <ffx:neutral>",
+      "reason": "docked ربط القارب في مرساه لا تثبيت عام."
+    },
+    "2242": {
+      "decision": "change",
+      "target": "<ffx:wonder_strong>أرتيوم؟ يخاف؟ هراء! <ffx:smile_light>ثم إن ذلك الوحش ليس سوى سمكة سلور. <ffx:neutral>",
+      "reason": "catfish سمكة محددة مفردة لا جمع السمك."
+    },
+    "2243": {
+      "decision": "change",
+      "target": "<ffx:wonder>بعد القصف النووي، انجرفت المواد المشعة إلى الأنهار وترسّبت في القاع. <ffx:anger_light>وأسماك السلور تعيش في القاع، <ffx:sadness_light>لذا كانت الأكثر تضررًا.",
+      "reason": "fallout مواد مشعة؛ تصحيح جنس السمك وصياغة آثار القصف."
+    },
+    "2245": {
+      "decision": "change",
+      "target": "<ffx:smile_light>لا أظنه سيهاجم إن لم تُحدث ضجة. فهو ليس تمساحًا في النهاية... <ffx:wonder>بالمناسبة، أرأيت أيًا منها؟ في الولايات المتحدة، أعني؟",
+      "reason": "quiet غياب الضوضاء وBack in the States محل الذكريات لا العودة مرة أخرى."
+    },
+    "2246": {
+      "decision": "change",
+      "target": "<ffx:smile_light>لم تكن منتشرة في كل مكان هناك، <ffx:smile>كالدببة في روسيا، كما تعلم... <ffx:wonder>لكنني زرت فلوريدا مرة ورأيت مزرعة تماسيح هناك... <ffx:neutral>",
+      "reason": "صياغة نفي الانتشار والسخرية الثقافية دون حرفية لا يبدو الأمر."
+    },
+    "2247": {
+      "decision": "change",
+      "target": "<ffx:sadness>لكنني لم أرَ تمساحًا منذ انضمامي إلى مشاة البحرية... <ffx:neutral>",
+      "reason": "مرجع one تمساح لا إنسان."
+    },
+    "2248": {
+      "decision": "change",
+      "target": "<ffx:wonder>الشرق الأوسط... موسكو... السفارة... <ffx:sadness>أنت تعرف...",
+      "reason": "you know إقرار بالمعرفة المشتركة لا سؤال."
+    },
+    "2249": {
+      "decision": "change",
+      "target": "<ffx:wonder>سمعت أن ميلر أنقذك من القتل على يد حشد غاضب، حين عمّت الفوضى؟ <ffx:sadness_light>",
+      "reason": "lynching قتل الحشد وshit hit the fan بداية الكارثة لا براز ومروحة."
+    },
+    "2251": {
+      "decision": "change",
+      "target": "<ffx:sadness>بالطبع، أفهم... كاد الأمر نفسه يحدث لي... <ffx:sadness_light>",
+      "reason": "Had the same thing happen إخبار بتجربة سابقة لا شرط افتراضي."
+    },
+    "2252": {
+      "decision": "change",
+      "target": "<ffx:disgust>كان نازيو الرايخ ينوون شنقي، <ffx:fear_light>لولا فرقة التنظيم... <ffx:neutral>",
+      "reason": "تصحيح الشرط الامتناعي وصياغة الإنقاذ."
+    },
+    "2255": {
+      "decision": "change",
+      "target": "<ffx:disgust_light>إن لم نجد محتلين، وجدنا متعصبين... <ffx:wonder>لكن لعل في ذلك خيرًا... <ffx:neutral>",
+      "reason": "Then again استدراك لا ثم مرة أخرى."
+    },
+    "2258": {
+      "decision": "change",
+      "target": "<ffx:smile>لقد بذلت كل ما عندي في صنعها! <ffx:neutral>",
+      "reason": "put my soul into it بذل وإتقان في صنع الحقيبة، لا وضع الروح حرفيًا."
+    },
+    "2264": {
+      "decision": "change",
+      "target": "<ffx:wonder>يمكنني استبدال الأسطوانة، <ffx:sadness>لكن لا توجد واحدة احتياطية.",
+      "reason": "spare أسطوانة بديلة مفردة لا خطأ لا يوجد قطع."
+    },
+    "2265": {
+      "decision": "change",
+      "target": "عليّ إصلاح هذه الأسطوانة، <ffx:wonder>ولا أدري حتى من أين أبدأ! <ffx:sadness>إصلاح شيء كهذا يحتاج عادة إلى ورشة كاملة... <ffx:sadness_light>",
+      "reason": "workshop مورد مطلوب لا مدة زمنية يستغرقها الإصلاح."
+    },
+    "2267": {
+      "decision": "change",
+      "target": "<ffx:sadness_light>أرجوك، ابذل قصارى جهدك، <ffx:sadness>وإلا فعلينا أن نعتاد الإقامة هنا... <ffx:neutral>",
+      "reason": "might as well احتمال اضطرار البقاء لا مجرد إمكان الاعتياد."
+    },
+    "2268": {
+      "decision": "change",
+      "target": "<ffx:wonder>اللعنة، كيف أعالج هذه المشكلة أصلًا... <ffx:sadness_light>",
+      "reason": "صياغة سؤال العجز الطبيعي."
+    },
+    "2269": {
+      "decision": "change",
+      "target": "<ffx:sadness>يا لسوء حظي... <ffx:sadness_light>",
+      "reason": "استعادة سخرية just my luck."
+    },
+    "2271": {
+      "decision": "change",
+      "target": "<ffx:anger>تبًا... <ffx:sadness_light>",
+      "reason": "صياغة السباب غير المبتور."
+    },
+    "2273": {
+      "decision": "change",
+      "target": "<ffx:wonder>آه، عمي أرتيوم! مرحبًا! <ffx:sadness_light>لماذا يسمحون للعم كريست <ffx:wonder>بالمجيء ولا يسمحون لنا؟ <ffx:wonder_light>",
+      "reason": "استعادة زمن الحال وموازنة الفعلين في سؤال الطفلة."
+    },
+    "2275": {
+      "decision": "change",
+      "target": "<ffx:wonder>وإلى أين ستذهبان؟ <ffx:anger>سيلتهمكما أولئك المتعصبون حيتين! <ffx:sadness_light>",
+      "reason": "ستيبان يخاطب كاتيا وابنتها مثنى مؤنثًا."
+    },
+    "2278": {
+      "decision": "change",
+      "target": "<ffx:anger_light>نعم، بل أخبرته عن تلك العربة في مستودع القطارات! <ffx:sadness_light>جئنا على متنها كل هذه المسافة، <ffx:wonder>وهي بحالة ممتازة، فقد جهزناها للرحلة الطويلة... <ffx:wonder_light>",
+      "reason": "استعادة أن الرحلة تمت في العربة مع تصحيح مرجع جودتها."
+    },
+    "2279": {
+      "decision": "change",
+      "target": "<ffx:sadness>أعني، صحيح أن الأمر لا يتعلق بالمساحة وحدها... <ffx:fear_light>قد نضطر إلى شق طريقنا عبر الجسر بالقتال، وحتى بعد ذلك <ffx:sadness>لا ندري أي أخطار تنتظرنا... <ffx:anger_light>لكن مع ذلك! <ffx:sadness_light>",
+      "reason": "تصحيح الاستدراك الأخير الحرفي مع إبقاء الاعتراض المبتور."
+    },
+    "2280": {
+      "decision": "change",
+      "target": "<ffx:sadness>وأخبرته أنني أستطيع المساعدة، فأنا مسعفة... <ffx:sadness_light>وأخبرته أيضًا أن الجسر قابل للخفض...",
+      "reason": "كاتيا أنثى ممرضة/مسعفة، لا طبيب ذكر."
+    },
+    "2281": {
+      "decision": "change",
+      "target": "<ffx:sadness>عمي أرتيوم، أرجوك، دعنا نرافقكم! سأحسن التصرف! <ffx:wonder>وسأساعد في كل شيء، أعدك! <ffx:sadness_light>",
+      "reason": "المتحدثة طفلة؛ good حسن التصرف لا جيدًا المذكر."
+    },
+    "2282": {
+      "decision": "change",
+      "target": "<ffx:sadness>ناستيا، كفّي عن إزعاج عمك أرتيوم... <ffx:sadness_light>",
+      "reason": "bugging إزعاج لا تنصت، وناستيا مؤنثة."
+    },
+    "2283": {
+      "decision": "change",
+      "target": "<ffx:sadness>لا تقلقي يا ناستيا، <ffx:smile_light>سيتحدث عمك أرتيوم إلى قائدنا ويحل الأمر كله... <ffx:neutral>",
+      "reason": "تصحيح جنس الطفلة المخاطبة."
+    },
+    "2284": {
+      "decision": "change",
+      "target": "<ffx:smile>واو! عمي أرتيوم أهم من ذلك القائد المخيف ذي الساقين المعدنيتين! <ffx:smile_light>",
+      "reason": "تصحيح النعت المجرور والمثنى للساقين الاصطناعيتين."
+    },
+    "2287": {
+      "decision": "change",
+      "target": "<ffx:smile_light>حسنًا، العم ميلر هو القائد هنا، <ffx:wonder>لكنه يستمع إلى رأي أرتيوم. <ffx:smile>أليس كذلك يا عم أرتيوم؟ <ffx:smile_light>",
+      "reason": "صياغة العلاقة القيادية ورأي أرتيوم الطبيعية."
+    },
+    "2288": {
+      "decision": "change",
+      "target": "<ffx:sadness_light>كنت سأذهب لجلب تلك العربة بنفسي، لكن دون جدوى. <ffx:anger>«ترك موقعك، العدو، محاكمة عسكرية»... <ffx:disgust>أنت تعرف هذه الأسطوانة. والآن <ffx:smile_light>عليك أنت وآنا إقناعه. <ffx:neutral>",
+      "reason": "No dice فشل المحاولة وknow the drill معرفة ردود ميلر المتكررة لا تدريبات."
+    },
+    "2289": {
+      "decision": "change",
+      "target": "<ffx:wonder>إذن يا أرتيوم، هل ذهبت إلى الميناء؟ <ffx:sadness_light>تحرّك، فيرماك يعاني في تدبّر الإصلاحات وحده... <ffx:neutral>",
+      "reason": "توحيد يرماك وget going أمر بالذهاب لا ابدأ المجرد."
+    },
+    "2291": {
+      "decision": "change",
+      "target": "<ffx:fear_light>سيدي العقيد...",
+      "reason": "إصلاح النداء العسكري."
+    },
+    "2292": {
+      "decision": "change",
+      "target": "<ffx:anger_light>لا يمكننا تركهما هنا!",
+      "reason": "ضمير كاتيا وابنتها مثنى."
+    },
+    "2293": {
+      "decision": "change",
+      "target": "<ffx:disgust_light>سيلتهمونهما حيتين!",
+      "reason": "ضمير كاتيا وابنتها مثنى مؤنث."
+    },
+    "2294": {
+      "decision": "change",
+      "target": "<ffx:anger>ستيبان! أما حاولت التفكير ولو مرة؟",
+      "reason": "use your head تعقل لا استعمال عضو حرفيًا."
+    },
+    "2296": {
+      "decision": "change",
+      "target": "<ffx:wonder>قل لي، أين ستنامان على متن أورورا؟ <ffx:disgust>فوق صناديق الفحم؟ نحن <ffx:sadness_light>الإسبرطيون نستطيع تحمّل ذلك...",
+      "reason": "تصحيح رفع الإسبرطيون ومثنى المرأتين."
+    },
+    "2298": {
+      "decision": "change",
+      "target": "<ffx:fear>سأعطيهما فراشي وأنام في مقصورة الوقّاد... <ffx:neutral>",
+      "reason": "bedroll فراش الرحلات وstokehold حجرة الموقد لا داخل الموقد."
+    },
+    "2299": {
+      "decision": "change",
+      "target": "<ffx:anger_light>بعد محاولتك النوم هناك، ستغلبك عيناك في نوبة حراستك التالية ويذبحونك!",
+      "reason": "إصلاح ترتيب السبب والنتيجة مع حفظ تهديد القتل الصريح."
+    },
+    "2300": {
+      "decision": "change",
+      "target": "<ffx:anger_light>ومع ذلك... أعرف أننا لا نستطيع تركهما! <ffx:neutral>",
+      "reason": "still استدراك لا ما زال، والضمير مثنى."
+    },
+    "2302": {
+      "decision": "change",
+      "target": "<ffx:smile_light>سيصل الرجال قريبًا، <ffx:smile>ومعهم المفقودة أيضًا! ها! <ffx:smile_light>",
+      "reason": "الرجال يصطحبون آنا المفقودة، لا يحضر ذكر منفرد."
+    },
+    "2303": {
+      "decision": "change",
+      "target": "<ffx:smile_light>أما هنا فعندنا مسلسل عاطفي. <ffx:wide_smile_light>يبدو أن ستيبان وقع في غرام سيدة، <ffx:wonder>ويحاول إقناع العقيد بأن يسمح لها <ffx:smile_light>ولابنتها بمرافقتنا على القطار! <ffx:neutral>",
+      "reason": "soap opera تورية عن التودد؛ تصحيح فاعل يحاول ووسيلة السفر القطار."
+    },
+    "2308": {
+      "decision": "change",
+      "target": "<ffx:smile_light>لا تشكرينا قبل أن نكون مستعدين للرحيل. <ffx:wonder>الأمر كله يتوقف على أرتيوم الآن، فتمني له التوفيق!<ffx:neutral>",
+      "reason": "المخاطبة كاتيا مؤنثة؛ wish أمر لها لا أمنية المتحدث."
+    },
+    "2311": {
+      "decision": "change",
+      "target": "<ffx:smile_light>لا داعي للشكر... <ffx:neutral>",
+      "reason": "عبارة الرد على الشكر بحسب معناها."
+    },
+    "2312": {
+      "decision": "change",
+      "target": "<ffx:smile_light>لا تقلقي يا كاتيا، سنأخذكما معنا على القطار! <ffx:smile>أليس كذلك يا ستيبان؟ <ffx:wonder_light>",
+      "reason": "تصحيح جهة الاصطحاب والقطار بدل الطائرة."
+    },
+    "2313": {
+      "decision": "change",
+      "target": "<ffx:smile>بالتأكيد! سنجد <ffx:wonder_light>لكما مكانًا للنوم فحسب... <ffx:neutral>",
+      "reason": "الرد على استقبال الأم وابنتها مثنى وصياغة sure thing الطبيعية."
+    }
+  }
+}

@@ -1,0 +1,2144 @@
+[
+  {
+    "id": "monsters\\humanimal\\humanimal_alert_search_02_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_05_winter\\win_099_radiostation_05_01_09",
+    "source": "<single_phrase_mode><time=0>And we are continuing with our program! <time=2220><time=2580>This is The First Radio, and your host is, as always, Max Golovnya... <time=7480><time=7740>I hope the song I just played reached the members of the expedition that set out to explore the Moscow Wasteland and went off the air just over a week ago.<time=16160><time=16780>I, for one, would like to believe there’s something wrong with their transmitter... <time=20880><time=21300>Look, we’re all worried, but...<time=22820><time=22820>In any case, hoping for the better is the most constructive thing we can do now, since panicking is definitely not going to help anyone. <time=30580><time=31120>We’re also not going to help anyone by setting out to rescue them, risking our lives in addition to theirs without proper preparation.<time=38540>",
+    "target": "<single_phrase_mode><time=0>ونواصل الآن برنامجنا!<time=2220><time=2580>أنتم تستمعون إلى الراديو الأول، ومعكم كالمعتاد ماكس غولوفنيا...<time=7480><time=7740>آمل أن تكون الأغنية قد وصلت إلى أفراد البعثة التي خرجت لاستكشاف قفار موسكو، وانقطع اتصالها منذ أكثر من أسبوع.<time=16160><time=16780>أفضّل أن أصدق أن العطل في جهاز إرسالهم...<time=20880><time=21300>نعم، نحن جميعًا قلقون، لكن...<time=22820><time=22820>الأفضل الآن أن نتمسك بالأمل؛ فالذعر لن يفيد أحدًا.<time=30580><time=31120>ولن يفيدهم أن ننطلق لإنقاذهم دون استعداد، فنعرّض حياتنا للخطر فوق الخطر الذي يواجهونه.<time=38540>",
+    "status": "reviewed",
+    "translation_origin": "reviewed"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_attack_05_deaf",
+    "source": "HUMANIMAL: ATTACKING<ds_priority:3> ",
+    "target": "الإنسان: مهاجمة<ds_priority:3>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_2\\uber_alert\\uber_alert_search_03",
+    "source": "Come out for a fight! You could at least die like a human!",
+    "target": "اخرج للقتال! يمكنك على الأقل أن تموت مثل الإنسان!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc_comments\\burunduk\\dlc_comments_rest_fort_bed_part_02",
+    "source": "During the classic exchange of \"How many fingers\" - \"Here's the middle one for you\" between Damir and rescued Duke,",
+    "target": "أثناء التبادل الكلاسيكي لـ \"كم عدد الأصابع\" - \"هذا هو الأوسط لك\" بين دامير وديوك الذي تم إنقاذه،",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_160_10_boatbase_sniperandfriends_01_11",
+    "source": "Ooh, I'm done for, guys! If I don't come back you all know who is to blame for my untimely death, hahaha!",
+    "target": "أوه، لقد انتهيت يا شباب! إذا لم أعود، فجميعكم تعلمون من هو المسؤول عن موتي المفاجئ، هاهاها!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_ending\\end_03_donations_01_28_badend",
+    "source": "You are a good guy... You even tried to save me... We don't get many people like you over here, can't wait to see you on the other side... Friend.",
+    "target": "أنت رجل جيد... حتى أنك حاولت إنقاذي... لا نستقبل الكثير من الأشخاص مثلك هنا، لا أستطيع الانتظار لرؤيتك على الجانب الآخر... يا صديقي.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_pain_2_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_12_valley\\val_032_01_woundedtalk_01_03",
+    "source": "<ffx:smile_light>Thanks... For saving us, stranger... <ffx:neutral>",
+    "target": "<ffx:smile_light>شكرًا... لإنقاذنا أيها الغريب...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_death_6_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_attack_08_deaf",
+    "source": "HUMANIMAL: ATTACKING<ds_priority:3> ",
+    "target": "الإنسان: مهاجمة<ds_priority:3>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_dlc02_general_hint_3",
+    "source": "The ruins of Vladivostok are full of jury-rigged mines and munitions washed away from the navy ammo dumps by the tidal wave - your Universal Detector can help you avoid the explosive surprises.",
+    "target": "تنتشر في أنقاض فلاديفوستوك ألغام مرتجلة الصنع وذخائر جرفتها موجة المد العاتية من مستودعات البحرية. يساعدك الكاشف الشامل على تفادي هذه المفاجآت المتفجرة.",
+    "status": "reviewed",
+    "translation_origin": "reviewed"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_attack_03_deaf",
+    "source": "HUMANIMAL: ATTACKING<ds_priority:3> ",
+    "target": "الإنسان: مهاجمة<ds_priority:3>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_ending\\end_glukh_03_06",
+    "source": "<ffx:smile_light>I would say, we all go home... <ffx:wonder>But this home seems too large for just us. <ffx:sadness>You know... The Colonel once told me, <ffx:wonder_light>he created the Order to save <ffx:sadness>people. All of them.<br><ffx:smile>I say, it's time we perform this duty.",
+    "target": "<ffx:smile_light>أود أن أقول، سنعود جميعًا إلى المنزل...<ffx:wonder>لكن هذا المنزل يبدو كبيرًا جدًا بالنسبة لنا فقط.<ffx:sadness>كما تعلم... أخبرني العقيد ذات مرة، أن<ffx:wonder_light>قام بإنشاء أمر لإنقاذ الأشخاص<ffx:sadness>. كل منهم.<br><ffx:smile>أقول، لقد حان الوقت لأداء هذا الواجب.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_ending\\end_04_outcome_01_04_badend",
+    "source": "<ffx:anger>I can't let the kids donate any more, either, and <ffx:sadness>Alyosha is just skin and bones now! What kind of a medic would I <ffx:disgust_light>be if I sacrificed you all, even if it could save <ffx:sadness_strong>Artyom? I’m sorry, I just can’t!<ffx:sadness_light>",
+    "target": "<ffx:anger>لا أستطيع السماح للأطفال بالتبرع بعد الآن، و<ffx:sadness>أليوشا مجرد جلد وعظام الآن! أي نوع من المسعفين سأكون<ffx:disgust_light>إذا ضحيت بكم جميعًا، حتى لو كان بإمكاني إنقاذ<ffx:sadness_strong>أرتيوم؟ أنا آسف، لا أستطيع!<ffx:sadness_light>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_05_winter\\win_003_radiogameprogress_05",
+    "source": "<ffx:smile_light>I say, we solve our problems before moving on to <ffx:disgust_light>saving all Moscow, alright?!",
+    "target": "<ffx:smile_light>أقول، نحن نحل مشاكلنا قبل الانتقال إلى<ffx:disgust_light>لإنقاذ موسكو بأكملها، حسنًا؟!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_leader\\humanimal_leader_disturb_search_02_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_leader\\humanimal_leader_pain_8_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_loader_diary_valley_06",
+    "source": "<tab>At the base of the church, though, I was greeted by the Master of the Forest... Here this beast used to have no equals, but I taught it that man is, in fact, the apex predator. The bear ruled the forest, but we once ruled the whole world! It should have been thankful to me for not being in the mood for killing. I only wanted to get to the church, otherwise the bear would have been dead. <br><br>",
+    "target": "<tab>في قاعدة الكنيسة، استقبلني سيد الغابة... هنا لم يكن لهذا الوحش مثيل، لكنني علمته أن الإنسان، في الواقع، هو المفترس الأعلى. لقد حكم الدب الغابة، أما نحن فقد حكمنا العالم كله ذات يوم! كان ينبغي أن يكون شاكراً لي لأنني لم أكن في مزاج يسمح لي بالقتل. أردت فقط الوصول إلى الكنيسة، وإلا لكان الدب قد مات.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_throw_3_deaf",
+    "source": "HUMANIMAL: ATTACKING<ds_priority:3> ",
+    "target": "الإنسان: مهاجمة<ds_priority:3>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_death_1_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_leader\\humanimal_leader_disturb_reaction_02_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_silent_death_3_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_attack_2_deaf",
+    "source": "HUMANIMAL: ATTACKING<ds_priority:3> ",
+    "target": "الإنسان: مهاجمة<ds_priority:3>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_3\\knife\\uber_alert__seen_knife_reaction_01",
+    "source": "Oh, just like a heretic to be throwing knives! No real human would ever do that!",
+    "target": "أوه، تمامًا مثل الزنديق الذي يرمي السكاكين! لن يفعل أي إنسان حقيقي ذلك على الإطلاق!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_pain_01_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_attack_9_deaf",
+    "source": "HUMANIMAL: ATTACKING<ds_priority:3> ",
+    "target": "الإنسان: مهاجمة<ds_priority:3>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_death_5_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_leader\\humanimal_leader_disturb_search_04_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_silent_death_3_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc_comments\\burunduk\\dlc_comments_rest_place_0003_part_01",
+    "source": "Initially, the player would rescue a lone slave from a pack of dogs in this location. The premise seemed a bit underwhelming, though.",
+    "target": "في البداية، يقوم اللاعب بإنقاذ عبد وحيد من مجموعة من الكلاب في هذا الموقع. بدت الفرضية محبطة بعض الشيء.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_disturb_search_03_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\spartans\\sam\\combat\\combat_animalkilled_06",
+    "source": "Kill the mutant, save the Earth.",
+    "target": "قتل المتحولة، وإنقاذ الأرض.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_034_6_radiochatter_01_04",
+    "source": "And we're freezing our asses off here... Is it just me, or was the Metro warmer?",
+    "target": "ونحن نقوم بتجميد مؤخراتنا هنا... هل أنا فقط أم أن المترو كان أكثر دفئا؟",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_pain_9_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_040_bguards_idle_talk_01_09_bad_surrenders_accepted",
+    "source": "All right... <ffx:wonder>A heretic actually arrived right at the sermon! <ffx:fear_light>Our guys rushed over to save the Holy Father, <ffx:anger>and the heretic killed most of them... <ffx:wonder_light>They say, he wouldn't touch <ffx:sadness>you if you surrendered, though...",
+    "target": "حسنًا...<ffx:wonder>لقد وصل الزنديق بالفعل إلى الخطبة!<ffx:fear_light>هرع رجالنا لإنقاذ الأب الأقدس،<ffx:anger>وقتل الزنديق معظمهم..<ffx:wonder_light>يقولون أنه لن يلمس<ffx:sadness>أنت إذا استسلمت، رغم ذلك...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_pain_7_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_alert_search_01_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_leader\\humanimal_leader_silent_death_4_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_070_terminal_dogfight_01_02",
+    "source": "<ffx:anger>Bite! Eltiru bitch! Kill! Get it, fuck! <ffx:neutral>",
+    "target": "لدغة<ffx:anger>! إلتيرو الكلبة! قتل! احصل عليه، اللعنة!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_disturb_reaction_03_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_leader\\humanimal_leader_pain_2_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_disturb_search_02_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_080_twoneutrals_seastories_04_06",
+    "source": "You'd use it to get as far from here as humanly possible!",
+    "target": "ستستخدمه للوصول إلى أبعد مسافة ممكنة من هنا من الناحية الإنسانية!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_800_20_final_fight_02_00",
+    "source": "Surprise, motherfucker!",
+    "target": "المفاجأة يا عاهرة!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_dia_crew_miller_intro",
+    "source": "<tab>Miller... Colonel Sviatoslav Konstantinovich Melnikov... The founder and the permanent commander of the Order of Sparta. Miller picked and trained each Spartan individually. He was the only one to come to the rescue of my home station when we were under attack by the Dark Ones. He was the only one to stand between the Communists and the Nazis and prevent the conflict which could well spell the ultimate end of our civilization. It was Miller who accepted me into the Order - and blessed our union with Anna, his only daughter. I became his son-in-law, but could never amass the courage to call him dad - nothing but \"Colonel\", with a \"Sir\", of course... <br><br><tab>In the D6 defense, the Colonel lost his best fighters - and his old self. Something is forever broken is him, he became cold, completely intolerant of any dissent... Sometimes I feel he’s sorry he didn’t object his daughter marrying me. He would have probably preferred Hunter as his in-law... But Hunter is missing, and I dragged his daughter into a maelstrom none of us might ever emerge from... <br><br>",
+    "target": "<tab>ميلر... العقيد سفياتوسلاف كونستانتينوفيتش ميلنيكوف... المؤسس والقائد الدائم لأمر سبارتا. اختار ميلر ودرب كل سبارتان على حدة. لقد كان الشخص الوحيد الذي أتى لإنقاذ محطتي الرئيسية عندما تعرضنا لهجوم من قبل المظلمون. لقد كان الوحيد الذي وقف بين الشيوعيين والنازيين ومنع الصراع الذي يمكن أن يعني النهاية النهائية لحضارتنا. كان ميلر هو من قبلني في التنظيم - وبارك اتحادنا مع ابنته الوحيدة آنا. لقد أصبحت صهره، لكنني لم أتمكن أبدًا من جمع الشجاعة لأناديه بأبي - لا شيء سوى \"العقيد\" مع \"سيدي\" بالطبع...<br><br><tab>في دفاع D6، فقد العقيد أفضل مقاتليه - وشخصيته القديمة. هناك شيء مكسور إلى الأبد فيه، فقد أصبح باردًا وغير متسامح تمامًا مع أي معارضة... أحيانًا أشعر بالأسف لأنه لم يعترض على زواج ابنته مني. ربما كان يفضل أن يكون هانتر صهره... لكن هانتر مفقود، وقد قمت بسحب ابنته إلى دوامة قد لا يخرج منها أحد منا على الإطلاق...<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc1\\dlc1_81_general_conversation_02_smoking_04_01",
+    "source": "Well, we don't have a choice in this. Either we save who we can, or we descend into chaos and all die.",
+    "target": "حسنًا، ليس لدينا خيار في هذا. إما أن ننقذ من نستطيع إنقاذه، أو ننزلق إلى الفوضى ونموت جميعًا.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_pain_8_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_attack_10_deaf",
+    "source": "HUMANIMAL: ATTACKING<ds_priority:3> ",
+    "target": "الإنسان: مهاجمة<ds_priority:3>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_alert_search_04_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_leader\\humanimal_leader_pain_6_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_loader_diary_story_06_03_terminal_catfish_alive",
+    "source": "<tab>The enormous mutated catfish the locals were terrified of did not stop us. I found it funny, though, that they would address their prayers to that fish... Could man make a god out of anything? Can the degenerates we’ve been fighting be even called men, though...<br><br>",
+    "target": "<tab>سمك السلور المتحول الهائل الذي كان السكان المحليون يشعرون بالرعب منه لم يمنعنا. لكنني وجدت أنه من المضحك أن يوجهوا صلواتهم إلى تلك السمكة... هل يستطيع الإنسان أن يصنع من أي شيء إلهًا؟ هل يمكن للمنحطين الذين كنا نحاربهم أن يطلق عليهم حتى اسم الرجال، رغم ذلك...<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_005_silatiusranting_022",
+    "source": "<ffx:anger>And if the heretics come for our lives, we will still stand firm! <ffx:wonder_light>",
+    "target": "<ffx:anger>وإذا جاء الهراطقة لإنقاذ حياتنا، فسنظل صامدين!<ffx:wonder_light>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_001_intro_mocap_uk_01",
+    "source": "<ffx:wonder>Froze anything off yet, darling? Here, <ffx:smile>let's warm you up a little bit!",
+    "target": "<ffx:wonder>هل جمدت أي شيء حتى الآن، يا عزيزي؟ هنا،<ffx:smile>دعنا نقوم بتدفئتك قليلاً!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_pain_3_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_throw_short_4_deaf",
+    "source": "HUMANIMAL: ATTACKING<ds_priority:3> ",
+    "target": "الإنسان: مهاجمة<ds_priority:3>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_throw_2_deaf",
+    "source": "HUMANIMAL: ATTACKING<ds_priority:3> ",
+    "target": "الإنسان: مهاجمة<ds_priority:3>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_loader_diary_valley_06_02_wolfbanditagain_wentaway",
+    "source": "<tab>I had hoped to never meet the bandit I accidentally ended up saving from the wolves, but ran into him nevertheless. If I were in his shoes, I’d not spend an extra minute in that valley, but he, instead of high-tailing it back home, found some of his partners in crime and hit the bottle hard... I wouldn’t want to talk to him even if he wasn’t drunk, so I just moved on, as there seemed to have been enough delays on my way to the Church as it was.<br><br>",
+    "target": "<tab>كنت أتمنى ألا أقابل قاطع الطريق أبدًا وانتهى بي الأمر بإنقاذه من الذئاب عن طريق الخطأ، لكنني التقيت به رغم ذلك. لو كنت مكانه، لما قضيت دقيقة إضافية في ذلك الوادي، لكنه بدلاً من تتبع الأمر في المنزل، وجد بعض شركائه في الجريمة وضرب الزجاجة بقوة... لم أكن أرغب في التحدث معه حتى لو لم يكن ثملاً، لذلك واصلت المضي قدمًا، حيث بدا أنه كان هناك تأخير كافٍ في طريقي إلى الكنيسة كما كان.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_13_nvs_diary_6_dsc",
+    "source": "<tab>Yes, I did shut the gate! What else was I supposed to do? You’ve been sitting down there ever since the warning came in, and I spent all that time manning the gate! Crazy shit was going down here! Traffic jams you'll never believe, crashes all over, emergency teams stuck in traffic just like everybody else... Everyone went nuts! The crowd rushing for the gate with suitcases, bags and stuff, eyes white... I had five soldiers, there was no way we could have held! They started shooting into the air - the crowd rushed back, five people got crushed against the wall in the stampede... I couldn’t do anything! I just couldn’t! And I am certainly not going to stand being judged by you! And not by any other man, either! Farewell. See you on the other side, I guess...",
+    "target": "<tab>نعم، أغلقت البوابة! وماذا كان بوسعي أن أفعل؟ لقد بقيت أنت هناك في الأسفل منذ وصول التحذير، بينما أمضيت أنا كل ذلك الوقت في حراسة البوابة! كانت الفوضى تعم المكان! اختناقات مرورية لا تصدق، وحوادث في كل اتجاه، وفرق الطوارئ عالقة مثل الجميع... فقد الناس صوابهم! اندفع الحشد إلى البوابة بحقائب السفر والأكياس وكل ما يحملونه، والذعر يملأ أعينهم... لم يكن معي إلا خمسة جنود، ولم يكن بوسعنا الصمود! أطلقوا النار في الهواء، فتراجع الحشد مندفعا، وسحق خمسة أشخاص على الجدار في التدافع... لم أستطع فعل شيء! لم أستطع! ولن أقبل أن تحاكمني، لا أنت ولا أي إنسان آخر! وداعا. لعلنا نلتقي في العالم الآخر...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "$wpn_upt_radiator_dsc",
+    "source": "Fixes the bastard gun's main problem - its tendency to overheat - by siphoning waste heat off its barrel via thin longitudinal metal fins.",
+    "target": "يعمل على إصلاح المشكلة الرئيسية للبندقية غير الشرعية - ميلها إلى السخونة الزائدة - عن طريق سحب الحرارة المهدرة من ماسورةها عبر زعانف معدنية طولية رفيعة.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_silent_death_2_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_059_6_1_5_shipriggerstalk_01_18",
+    "source": "<ffx:fear_strong>Aaaah! Master! I can't! Not more, please!<ffx:neutral>",
+    "target": "<ffx:fear_strong>ااااه! يتقن! لا أستطبع! ليس أكثر من فضلك!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_attack_07_deaf",
+    "source": "HUMANIMAL: ATTACKING<ds_priority:3> ",
+    "target": "الإنسان: مهاجمة<ds_priority:3>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_12_val_main_task_note",
+    "source": "Who was that woman? I wish I knew her name so that I could thank her properly for saving me... Courtesy is rather low on my list of priorities at the moment, though. I lost all of my equipment in the river and the radio is broken, so I don't even have any means of contacting the Aurora. Getting to the Dam where Alyosha and I were supposed to go seems to be my best chance now. I should follow the old road...",
+    "target": "من كانت تلك المرأة؟ ليتني أعرف اسمها لأشكرها كما ينبغي على إنقاذي... لكن المجاملات ليست أولويتي الآن. فقدت جميع معداتي في النهر، وتعطل جهازي اللاسلكي، فلم تعد لدي وسيلة للاتصال بأورورا. يبدو أن أفضل فرصة لي هي الوصول إلى السد الذي كان يفترض أن نتجه إليه أنا وأليوشا. علي اتباع الطريق القديم...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_09_summer\\sum_015_yermakphase2_01_06",
+    "source": "<ffx:sadness_strong>You do understand that... <ffx:sadness_strong>Besides, I really hoped they’d be able to save her...<ffx:neutral>",
+    "target": "<ffx:sadness_strong>أنت تفهم ذلك...<ffx:sadness_strong>علاوة على ذلك، كنت آمل حقًا أن يتمكنوا من إنقاذها...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_13_dead_city\\nvs_000_narration_09",
+    "source": "<tab>I knew that Colonel would find that map and come for me, but I never expected him to give me his dose of radio-protector... I must hurry to the point of our rendezvous with the Aurora! Perhaps, it’s not too late...<br><br>",
+    "target": "<tab>كنت أعلم أن العقيد سيعثر على تلك الخريطة ويأتي لإنقاذي، لكنني لم أتوقع أن يعطيني جرعته من الدواء الواقي من الإشعاع... علي الإسراع إلى نقطة لقائنا مع أورورا! لعل الأوان لم يفت بعد...<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_2\\species\\confused_group_threat_subsided_question_02",
+    "source": "Waiting was a good idea...",
+    "target": "الإنتظار كان فكرة جيدة..",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_pain_05_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_1\\uber_alert\\uber_alert_group_search_waitforsearchcomplete_09",
+    "source": "Come out already! Enough hiding!",
+    "target": "اخرج بالفعل! كفى إختباء!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_general_hint_108",
+    "source": "Sam<br>An ex-US marine from the Embassy guard detail, Sam was saved from a lynching mob by Miller when the War started and now is his personal bodyguard.",
+    "target": "سام<br>، أحد جنود البحرية الأمريكية السابقين من حرس السفارة، تم إنقاذ سام من حشد من الغوغاء على يد ميلر عندما بدأت الحرب وهو الآن حارسه الشخصي.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_leader\\humanimal_leader_alert_reaction_04_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_2\\surrender\\surrendered_02",
+    "source": "Praise be to Tsar-Fish, the protector of the people! O, Fish, save the faithful from death and protect them from wrath of human and beast alike...",
+    "target": "الحمد لسمكة القيصر حامية الشعب! أيها السمك، أنقذ المؤمنين من الموت واحفظهم من غضب الإنسان والحيوان على حدٍ سواء.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_1\\surrender\\surrendered_02",
+    "source": "He does look almost human... Even though he's a heretic...",
+    "target": "إنه يبدو إنسانياً تقريباً... على الرغم من أنه مهرطق...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_13_dead_city\\nvs_003_rollouttalk_02",
+    "source": "<ffx:anger_light>We are! So, <ffx:anger>Artyom, here's your chance... <ffx:sadness>Our last chance to save Anna, <ffx:anger_light>we must make it count. <ffx:neutral>",
+    "target": "<ffx:anger_light>نحن كذلك! لذا،<ffx:anger>أرتيوم، ها هي فرصتك...<ffx:sadness>فرصتنا الأخيرة لإنقاذ آنا،<ffx:anger_light>يجب أن نستغلها.<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc1\\dlc1_60_52_younglovers_01_10",
+    "source": "Soon enough... After the celebration...",
+    "target": "بعد قليل..بعد الإحتفال..",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_loader_diary_valley_06_01_villagebandits_prisonerskilled",
+    "source": "<tab>On my way, there was a tiny abandoned village, an outpost of the \"children of the forest\" which the bandits had captured and used to rally their forces in preparation of a serious push towards the main camp. Leaving this potential source of trouble unmolested seemed dangerous so, using the element of surprise, I quickly dealt with the bandits. In one of the buildings I found the prisoners they took. The bandits would have killed them anyway, so I saved the poor bastards from hours of torture before unavoidable death... I couldn’t really wait for more \"children of the forest\" to arrive, so I left. Time was running short...<br><br>",
+    "target": "<tab>في طريقي، كانت هناك قرية صغيرة مهجورة، وهي نقطة استيطانية لـ \"أطفال الغابة\" استولى عليها قطاع الطرق واستخدموها لحشد قواتهم استعدادًا لهجوم جدي نحو المعسكر الرئيسي. إن ترك هذا المصدر المحتمل للمشاكل دون مضايقة بدا أمرًا خطيرًا، لذا، باستخدام عنصر المفاجأة، تعاملت بسرعة مع قطاع الطرق. وجدت في أحد المباني السجناء الذين أخذوهم. كان قطاع الطرق سيقتلونهم على أي حال، لذلك أنقذت الأوغاد المساكين من ساعات من التعذيب قبل الموت الذي لا مفر منه... لم أستطع انتظار وصول المزيد من \"أطفال الغابة\"، لذلك غادرت. كان الوقت ينفد...<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_leader\\humanimal_leader_alert_reaction_03_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_disturb_search_06_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_loader_diary_valley_06_02_wolfbanditagain_killed",
+    "source": "<tab>I had hoped to never meet the bandit I accidentally ended up saving from the wolves, but ran into him nevertheless. The first time we met, I let him live: he was alone, exhausted, and I expected him to leave the valley as soon as he regained ability to walk. Instead of cherishing his so luckily saved life though, he chose to hit the bottle hard, thus signing his own death warrant. I knew better than to wait till he called out to his pals to look at his savior, there had been enough delays on my way to the Church as it was.<br><br>",
+    "target": "<tab>كنت أتمنى ألا أقابل قاطع الطريق أبدًا وانتهى بي الأمر بإنقاذه من الذئاب عن طريق الخطأ، لكنني التقيت به رغم ذلك. في المرة الأولى التي التقينا فيها، تركته يعيش: كان وحيدًا، منهكًا، وتوقعت أن يغادر الوادي بمجرد أن يستعيد قدرته على المشي. وبدلاً من الاعتزاز بحياته التي أنقذها لحسن الحظ، اختار أن يضرب الزجاجة بقوة، وبالتالي يوقع مذكرة الإعدام الخاصة به. كنت أعلم أنه من الأفضل الانتظار حتى ينادي أصدقاءه لينظروا إلى منقذه، فقد كان هناك ما يكفي من التأخير في طريقي إلى الكنيسة.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_alert_search_02_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_alert_reaction_03_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "me_rp_gamepresence_017",
+    "source": "Church - Rescuing the prisoners",
+    "target": "الكنيسة - إنقاذ السجناء",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_death_6_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_alert_reaction_02_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_attack_09_deaf",
+    "source": "HUMANIMAL: ATTACKING<ds_priority:3> ",
+    "target": "الإنسان: مهاجمة<ds_priority:3>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_spring\\spr_008_artyomarrives_04",
+    "source": "<ffx:wonder_light>Surprising, really, <ffx:sadness_light>taking into account the number of priority targets there... <ffx:neutral>",
+    "target": "<ffx:wonder_light>من المفاجئ حقًا أن<ffx:sadness_light>مع الأخذ في الاعتبار عدد الأهداف ذات الأولوية هناك ...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_658_klimsmen_conversation_humanimals_08",
+    "source": "I guess we'll just have to ask around if we get any of Cat's men alive...",
+    "target": "أعتقد أنه علينا فقط أن نسأل إذا تمكنا من إنقاذ أي من رجال كات على قيد الحياة...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_3\\light_alert\\light_alert_group_alarmed_call_goingalert_morethanone_02",
+    "source": "Enough hiding! Come out, brethren!",
+    "target": "كفى إختباء! اخرجوا أيها الإخوة!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_dia_crew_sam_autumn",
+    "source": "<tab>No, Sam, the war is over. It was over the moment it started. You don’t have to choose your side; all the choices have been made for us. You, like all of us, need only to remain a human, and that is all. We are with you, your brothers in arms, the soldiers of the Order, with you against the whole wide world, and in the Order there are no nationalities. Without you, we would have forever stayed in the Yamantau bunker, eaten by our own ex-compatriots who had long since stopped being human beings. That’s just the way it goes, man. <br><br><tab>I think about you sometimes, Sam, now that our journey is nearing its end, be it happy or otherwise... What will you do? You dedicated your whole being to us. First, to the Order. Then, to saving your commander and, finally, to saving my Anna. But, what will you do once our train reaches the end of its line in the middle of nowhere? Will you stay with us when the journey is really over? Your old man might still be waiting for you back in California, keeping tackle ready to go fishing once you come back... Aren’t you going to visit him once the Aurora stops to never move again? Will you even hesitate to set out for home, even if that would mean walking to Vladivostok and swimming across the ocean?<br><br>",
+    "target": "<tab>لا يا سام، لقد انتهت الحرب. انتهت لحظة اندلاعها. لا داعي لأن تختار طرفا؛ فقد اتخذت جميع القرارات عنا. كل ما عليك، مثلنا جميعا، أن تحتفظ بإنسانيتك، لا أكثر. نحن معك، إخوتك في السلاح وجنود التنظيم، في مواجهة العالم أجمع، ولا مكان للجنسيات بيننا. لولاك لبقينا إلى الأبد في مخبأ يامانتاو، وليمة لمواطنينا السابقين الذين فقدوا إنسانيتهم منذ زمن. هكذا هي الحال يا صديقي. <br><br><tab>أفكر فيك أحيانا يا سام، وقد شارفت رحلتنا على نهايتها، سعيدة كانت أم غير ذلك... ماذا ستفعل؟ لقد كرست نفسك لنا: للتنظيم أولا، ثم لإنقاذ قائدك، وأخيرا لإنقاذ آنا. لكن ماذا ستفعل حين يصل قطارنا إلى نهاية خطه في مكان ناء؟ هل ستبقى معنا بعد انتهاء الرحلة حقا؟ لعل أباك ما زال ينتظرك في كاليفورنيا، وقد أعد أدوات الصيد ليخرج معك حين تعود... ألن تزوره بعدما تتوقف أورورا عن السير إلى الأبد؟ هل ستتردد في العودة إلى وطنك، حتى لو اضطررت إلى السير حتى فلاديفوستوك والسباحة عبر المحيط؟<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_220_07_sam_captain_partyallnight_01_04",
+    "source": "And that bastard wants to save the world? Bah!",
+    "target": "وهذا اللقيط يريد إنقاذ العالم؟ باه!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_leader\\humanimal_leader_silent_death_1_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_death_4_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc_comments\\titles_empty_files\\dlc_comments_rest_place_0003_title",
+    "source": "Saving Arsen Mustafin",
+    "target": "إنقاذ أرسين موستافين",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_171_barondouble_talk_05_giultalk_05",
+    "source": "<ffx:wonder>And when they, dying of hunger, <ffx:anger>with parched throats, start <ffx:wonder>praying for the Holy Flame to save them... <ffx:smile>I will rise from the dead, haha! <ffx:smile_light>And I will be their salvation... <ffx:neutral>",
+    "target": "<ffx:wonder>وعندما يموتون من الجوع، يبدأ<ffx:anger>بحناجر جافة،<ffx:wonder>بالصلاة من أجل الشعلة المقدسة لإنقاذهم...<ffx:smile>سأقوم من بين الأموات، هاها!<ffx:smile_light>وسأكون خلاصهم...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_220_07_sam_captain_partyallnight_05_02",
+    "source": "But you lack... Respect! Respect of your elders...",
+    "target": "لكن ينقصك... الإحترام! احترامك لكبار السن..",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_651_sam_calls_tom_02_01",
+    "source": "Sam, our surprised worked, the guests liked it so much it's a pity we only had one prepared!",
+    "target": "سام، لقد عملنا بشكل متفاجئ، لقد أعجب الضيوف كثيرًا ومن المؤسف أنه لم يكن لدينا سوى واحدة جاهزة!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_alert_reaction_04_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_12_autumn\\aut_000_narration_03",
+    "source": "<tab>Alyosha, who is still unable to walk after being shot in the back, is driving himself mad with worry - his Olga is there... Perhaps, he will be able to warn her via Radio and save the people there...<br><br>",
+    "target": "<tab>أليوشا، الذي لا يزال غير قادر على المشي بعد إصابته برصاصة في ظهره، يقود نفسه إلى الجنون من القلق - أولغا الخاصة به هناك... ربما سيكون قادرًا على تحذيرها عبر الراديو وإنقاذ الأشخاص هناك...<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_leader\\humanimal_leader_silent_death_2_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_041_bfanatics_rave_monologue_05_01",
+    "source": "<ffx:wonder>For the blessings that You bestow upon us, we, Your unworthy slaves, sing Your praise... And for Your tolerance of our sins, and for saving us from the fire brought forth by the unholy electricity... And for saving our souls from the temptation of devil worship via Your True Faith, bestowed upon us by Your messenger Father Silantius, we thank You, O Lord! Amen!",
+    "target": "<ffx:wonder>على النعم التي تنعم بها علينا، نحن عبيدك غير المستحقين، نسبحك... وعلى تسامحك مع خطايانا، وعلى خلاصك لنا من نار الكهرباء غير المقدسة... وعلى إنقاذ نفوسنا من إغراء عبادة الشيطان بواسطة إيمانك الحقيقي، الذي أنعم به علينا رسولك الأب سيلانتيوس، نشكرك يا رب! آمين!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_pain_4_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_attack_5_deaf",
+    "source": "HUMANIMAL: ATTACKING<ds_priority:3> ",
+    "target": "الإنسان: مهاجمة<ds_priority:3>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_throw_4_deaf",
+    "source": "HUMANIMAL: ATTACKING<ds_priority:3> ",
+    "target": "الإنسان: مهاجمة<ds_priority:3>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_040_bguards_idle_talk_01_09_bad_surrenders_not_accepted_civillians_spared_01",
+    "source": "<ffx:sadness>The only ones that survived were the regular folk there... <ffx:disgust>Even though he's an animal, some humanity <ffx:wonder_light>still remains in him...",
+    "target": "<ffx:sadness>الوحيدون الذين نجوا هم الأشخاص العاديون هناك...<ffx:disgust>على الرغم من أنه حيوان، إلا أن بعض الإنسانية<ffx:wonder_light>لا تزال بداخله...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_disturb_reaction_03_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_02_dead_moscow\\dmc_012_1_yermakhangar_03_09",
+    "source": "<ffx:wonder_strong>A human?!",
+    "target": "<ffx:wonder_strong>إنسان؟!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_alert_search_03_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_pain_1_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_leader\\humanimal_leader_death_2_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_1\\light_alert\\light_alert_oktogofree_03",
+    "source": "Nothing! A waste of time!",
+    "target": "لا شئ! مضيعة للوقت!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc1\\dlc1_000_narration_loadscreen_04_01_b",
+    "source": "<tab>Saving the Metro is not why I am going down this radioactive pit, though. Frankly, that’s the least of my concerns now. Today I am not Colonel Miller, the commander of the Order of Sparta. I'm just an old father ready to do anything to save his children, like any father is supposed to... Like Khlebnikov did before me.<br><br>",
+    "target": "<tab>إن إنقاذ المترو ليس السبب وراء نزولي إلى هذه الحفرة المشعة. بصراحة، هذا أقل ما يقلقني الآن. اليوم أنا لست العقيد ميلر، قائد وسام سبارتا. أنا مجرد أب عجوز مستعد لفعل أي شيء لإنقاذ أطفاله، كما يفترض بأي أب أن يفعل... كما فعل كليبنيكوف من قبلي.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_12_autumn\\aut_000_narration_bad",
+    "source": "<tab>We all remained silent while the Aurora was running along the poisoned sea held at bay by the dam... We believed we'd be back. Now, having seen the sword of Damocles hanging over the valley, we knew it was not meant to be. <br><br><tab>Alyosha, who is still unable to walk after being shot in the back, is driving himself mad with worry - his Olga is there... Perhaps, he will be able to warn her via Radio and save the people there...<br><br><tab>What happens next? I've no idea, I am ready for anything. Anything, but one thing. Anna... Please, hold on... Without you, I've nothing to live for, nothing to dream about... Doubly so, since if not for that dream of mine, you'd be all right now...<br><br>",
+    "target": "<tab>بقينا جميعًا صامتين بينما كانت سفينة أورورا تجري على طول البحر المسموم الذي يحاصره السد... كنا نعتقد أننا سنعود. الآن، بعد أن رأينا سيف ديموقليس معلقًا فوق الوادي، عرفنا أنه لم يكن من المفترض أن يكون كذلك.<br><br><tab>أليوشا، الذي لا يزال غير قادر على المشي بعد إصابته برصاصة في الظهر، يقود نفسه إلى الجنون من القلق - أولغا الخاصة به هناك... ربما، سيكون قادرًا على تحذيرها عبر الراديو وإنقاذ الأشخاص هناك...<br><br><tab>ماذا سيحدث بعد ذلك؟ ليس لدي أي فكرة، أنا مستعد لأي شيء. أي شيء، ولكن شيء واحد. آنا... أرجوك، انتظر... بدونك، ليس لدي ما أعيش من أجله، ولا شيء أحلم به... وهذا مضاعف، لأنه لولا حلمي هذا، لكنت بخير الآن...<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_1\\surrender\\surrender_02",
+    "source": "I surrender, there's nothing I can do anymore...",
+    "target": "أستسلمت، لم يعد هناك ما أستطيع فعله بعد الآن..",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_171_barondouble_reaction_21_yourenotwelcomehereanymore_03",
+    "source": "<ffx:anger>What are you looking at? Beat it!<ffx:neutral>",
+    "target": "<ffx:anger>إلى ماذا تنظر؟ أغلب هذا الشئ!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_025_desert_hermit_on_scrap_01_01",
+    "source": "<ffx:smile>Someone paid a visit to the Baron's metal salvage! His grunts are in an uproar, they say there was a whole gang... ",
+    "target": "<ffx:smile>قام شخص ما بزيارة منطقة إنقاذ البارون المعدنية! همهماته في ضجة، يقولون أنه كان هناك عصابة كاملة...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_044_dock_07_e_boat_repairmen_loop_01_01",
+    "source": "Hold this here...",
+    "target": "إحتفظ بهذا هنا...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_alert_reaction_01_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_05_chase\\cha_003_trooperstalk_01_10",
+    "source": "<ffx:smile_light>What, you think spies only come as handsome guys in tuxedos? <ffx:fear_light>These people can blend in, walk around without raising suspicion... <ffx:anger_light>And if they report back that we are still here, BOOM! <ffx:sadness>There's another ten megatons dropped on Moscow, and <ffx:disgust_light>no missile shield to save us this time!<ffx:neutral>",
+    "target": "<ffx:smile_light>ماذا، هل تعتقد أن الجواسيس يأتون فقط كأشخاص وسيمين يرتدون البدلات الرسمية؟<ffx:fear_light>يمكن لهؤلاء الأشخاص الاندماج والتجول دون إثارة الشكوك...<ffx:anger_light>وإذا أبلغوا بأننا ما زلنا هنا، بوم!<ffx:sadness>هناك عشرة ميغا طن أخرى سقطت على موسكو، و<ffx:disgust_light>لا يوجد درع صاروخي لإنقاذنا هذه المرة!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_pain_04_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_alert_reaction_05_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_007_02_03_briefing_1_5_reactartyom_03_03",
+    "source": "<ffx:fear_light>For I see, we shouldn't stay here for too long - <ffx:sadness>I'm used to heat, but the boys are much less so... <ffx:neutral>",
+    "target": "<ffx:fear_light>لأنني أرى أنه لا ينبغي لنا أن نبقى هنا لفترة طويلة -<ffx:sadness>أنا معتاد على التدفئة، لكن الأولاد أقل من ذلك بكثير...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_throw_short_04_deaf",
+    "source": "HUMANIMAL: ATTACKING<ds_priority:3> ",
+    "target": "الإنسان: مهاجمة<ds_priority:3>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_sub_deaf_sound_sourcename_humanimal",
+    "source": "HUMANIMAL",
+    "target": "إنساني",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_loader_diary_story_06_04_bandits_prologue",
+    "source": "<tab>Wading through mud amongst the rusty railroad carriages and dead husks of abandoned buildings, I had for some reason expected to have left the bandits, along with Moscow’s poisonous air, far, far back. Now I do, of course, understand, that it was rather silly of me. There’s no changing the human nature, and anarchy could only make the worst qualities of it present themselves. The beautiful is always unique, while the ugly is surprisingly uniform...<br><br><tab>These bandits, were they hardened criminals or just people left desperate and robbed of most of their humanity by the war that had blown over them, differed from their Metro counterparts by clothes and names at most. Their actions - robbing, murdering and capturing innocent people to sell into slavery, were exactly the same...<br><br>",
+    "target": "<tab>أثناء الخوض في الوحل بين عربات السكك الحديدية الصدئة والقشور الميتة للمباني المهجورة، كنت أتوقع لسبب ما أن أترك قطاع الطرق، جنبًا إلى جنب مع هواء موسكو السام، بعيدًا جدًا. الآن أفهم بالطبع أن ذلك كان سخيفًا مني. لا يوجد تغيير في الطبيعة البشرية، والفوضى لا يمكنها إلا أن تجعل أسوأ صفاتها تظهر نفسها. الجميل دائمًا فريد من نوعه، في حين أن القبيح موحد بشكل مدهش...<br><br><tab>هؤلاء قطاع الطرق، سواء كانوا مجرمين متشددين أم مجرد أشخاص تركوا يائسين وسلبوا معظم إنسانيتهم ​​بسبب الحرب التي هبت عليهم، يختلفون عن نظرائهم في المترو بالملابس والأسماء على الأكثر. كانت أفعالهم - سرقة وقتل وأسر الأبرياء لبيعهم كعبيد - هي نفسها تمامًا...<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_disturb_reaction_04_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_leader\\humanimal_leader_disturb_reaction_01_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_attack_04_deaf",
+    "source": "HUMANIMAL: ATTACKING<ds_priority:3> ",
+    "target": "الإنسان: مهاجمة<ds_priority:3>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_12_valley\\val_32_bandits_pirates_01_16",
+    "source": "<ffx:wonder>Just kill them? <ffx:anger>Ever tried hanging on one of their posts, with wolves nibbling at your feet? <ffx:disgust>They have a lot to answer for! <ffx:neutral>",
+    "target": "<ffx:wonder>فقط أقتلهم؟<ffx:anger>هل سبق لك أن حاولت التعليق على أحد أعمدةهم، حيث كانت الذئاب تقضم قدميك؟<ffx:disgust>لديهم الكثير ليجيبوا عليه!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_leader\\humanimal_leader_alert_search_02_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_attack_10_deaf",
+    "source": "HUMANIMAL: ATTACKING<ds_priority:3> ",
+    "target": "الإنسان: مهاجمة<ds_priority:3>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_1\\danger\\attacking_enemy_flamer_03",
+    "source": "This should warm you up!",
+    "target": "هذا يجب أن يدفئك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_attack_02_deaf",
+    "source": "HUMANIMAL: ATTACKING<ds_priority:3> ",
+    "target": "الإنسان: مهاجمة<ds_priority:3>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_death_3_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_dia_weapon_kalash_intro",
+    "source": "<tab>Despite the venerable age of this weapon which before the Judgment Day had played a considerable part in hundreds of conflicts all over the world, its unparalleled reliability and considerable firepower make it a prized possession in the tunnels of the Metro and, of course, on the surface... <br><br><tab>A standard Kalash is simply a solid assault rifle with all its characteristic pros and cons, but thanks to the talent of Sparta’s gunsmiths (and Tokarev personally), the model our Order fields can accommodate a huge variety of upgrades, from extended magazine to various sights. <br><br><tab>Not only that, with a few simple operations (and spare parts) it can be turned into a weapon of a different class - from a short machine pistol that excels at close range, to a light machine gun. This does not mean that the underlying concept’s simplicity and reliability have been sacrificed, either - even though my Kalash is many years my senior, it saved my bacon on many an occasion, and would shoot like nothing happened even after taking a dip in the marsh... <br><br><tab>Weapons are something we people are definitely good at making. They will probably be ready to kill years after there remains nobody on the face of the planet capable of pulling the trigger...<br><br>",
+    "target": "<tab>رغم قدم هذا السلاح، الذي شارك قبل يوم القيامة في مئات النزاعات حول العالم، فإن اعتماديته التي لا تضاهى وقوته النارية الكبيرة تجعلان منه مقتنى ثمينا في أنفاق المترو، وعلى السطح بالطبع... <br><br><tab>كلش العادي بندقية هجومية متينة لها مزايا هذه الفئة وعيوبها المعروفة. لكن بفضل موهبة صناع الأسلحة في سبارتا، وتوكاريف خصوصا، يقبل الطراز الذي يستخدمه تنظيمنا مجموعة واسعة من التعديلات، من المخازن الموسعة إلى أدوات التصويب المختلفة. <br><br><tab>بل يمكن ببعض التعديلات البسيطة وقطع الغيار تحويله إلى سلاح من فئة أخرى، من مسدس رشاش قصير فعال في القتال القريب إلى رشاش خفيف. ولا يعني هذا التضحية ببساطة تصميمه أو اعتماديته؛ فرغم أن بندقيتي كلش أقدم مني بسنوات كثيرة، فقد أنقذت حياتي مرارا، وكانت تطلق النار كأن شيئا لم يحدث حتى بعد غمرها في المستنقع... <br><br><tab>إننا نجيد صنع الأسلحة حقا. ولعلها ستظل قادرة على القتل بعد سنوات من اختفاء آخر إنسان يستطيع ضغط الزناد عن وجه الأرض...<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_leader\\humanimal_leader_pain_5_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_2\\surrender\\surrendered_01",
+    "source": "Teacher... I am about to face the final exam...",
+    "target": "أستاذ...أنا على وشك الإمتحان النهائي...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_010_briefing_01_miller_task_01_01",
+    "source": "<ffx:smile>Great job saving them, Artyom! <ffx:wonder>Katya here has provided us with vital information... <ffx:neutral>",
+    "target": "<ffx:smile>عمل رائع في إنقاذهم، أرتيوم!<ffx:wonder>قدمت لنا كاتيا هنا معلومات حيوية...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_alert_reaction_02_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_death_7_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_alert_reaction_01_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_disturb_search_05_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_025_desert_hermit_unhappytoseeplayer_02_01",
+    "source": "<ffx:anger_strong>So, why are you standing there? Beat it!",
+    "target": "<ffx:anger_strong>إذن، لماذا تقف هناك؟ أغلب هذا الشئ!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_throw_short_3_deaf",
+    "source": "HUMANIMAL: ATTACKING<ds_priority:3> ",
+    "target": "الإنسان: مهاجمة<ds_priority:3>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc1\\dlc1_225_1_rioters_battleshouts_01_03",
+    "source": "Kill them, people!",
+    "target": "إقتلوهم أيها الناس!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_alert_reaction_03_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_170_10_kulturmultur_flowerbed_02_04",
+    "source": "Shh! Don't spoil the surprise!",
+    "target": "صه! لا تفسد المفاجأة!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_disturb_search_02_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_attack_4_deaf",
+    "source": "HUMANIMAL: ATTACKING<ds_priority:3> ",
+    "target": "الإنسان: مهاجمة<ds_priority:3>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_031_5_2_addatalk_01_01",
+    "source": "<ffx:wonder>Artyom, I haven't really thanked you properly for <ffx:sadness>saving me from that stupid <ffx:sadness_light>cellar yet...",
+    "target": "<ffx:wonder>أرتيوم، لم أشكرك بشكل صحيح على إنقاذ<ffx:sadness>لي من قبو<ffx:sadness_light>الغبي حتى الآن...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_attack_06_deaf",
+    "source": "HUMANIMAL: ATTACKING<ds_priority:3> ",
+    "target": "الإنسان: مهاجمة<ds_priority:3>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_leader\\humanimal_leader_death_4_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_3\\uber_alert\\uber_alert_single_takingcover_03",
+    "source": "This ain't good, taking cover!",
+    "target": "هذا ليس جيدًا، إحتمي!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_silent_death_2_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_throw_short_03_deaf",
+    "source": "HUMANIMAL: ATTACKING<ds_priority:3> ",
+    "target": "الإنسان: مهاجمة<ds_priority:3>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_leader\\humanimal_leader_silent_death_3_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_leader\\humanimal_leader_death_3_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_disturb_reaction_01_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_2\\uber_alert\\uber_alert_search_05",
+    "source": "Enough hiding! Come out, I'm going to find you anyway!",
+    "target": "كفى إختباء! اخرج، سأجدك على أي حال!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_leader\\humanimal_leader_pain_9_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_leader\\humanimal_leader_disturb_search_03_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_170_15_kulturmultur_furnitureburners_muchbetter_01_03",
+    "source": "Awesome, it's even warmer now...",
+    "target": "رائع، الجو أكثر دفئًا الآن...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_loader_diary_desert_05_add_canyon_helped",
+    "source": "<tab>I did my best to save the lonely defender of the fort, but my help came way too late. He'd already killed himself by the time the bandits were dealt with...<br><br><tab>It was naive of me to expect to just find the Promised Land somewhere on the Surface. If we want it, we better build it ourselves, by fighting injustice wherever we can.<br><br> ",
+    "target": "<tab>لقد بذلت قصارى جهدي لإنقاذ المدافع الوحيد عن الحصن، لكن مساعدتي جاءت متأخرة جدًا. لقد قتل نفسه بالفعل بحلول الوقت الذي تم فيه التعامل مع قطاع الطرق...<br><br><tab>لقد كان من السذاجة أن أتوقع العثور على الأرض الموعودة في مكان ما على السطح. إذا أردنا ذلك، فمن الأفضل أن نبنيه بأنفسنا، من خلال محاربة الظلم حيثما نستطيع.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_dia_crew_yermak_intro",
+    "source": "<tab>The Aurora’s permanent helmsman, Yermak knows her every detail down to the smallest bolt and feels every change in the work of any of her numerous (and, truth be told, quite worn out) mechanisms with his heart. Yermak fit into our group so easily and naturally, it seems he was with us since forever. And yet, Anna and I met him on a Hanseic base, where Yermak first helped me find my wife and then lead us in the hijacking of our beloved \"cruiser”!<br><br><tab>Still, with Yermak’s background it’s a small wonder he decided to leave Moscow with us. At the time of our meeting, we had only just learned of Hansa executing everyone trying to enter or leave Moscow, but Yermak had been living with this terrible knowledge for months. First out of fear for his daughter’s life, then, after she succumbed to her illness, out of sheer hopelessness...<br><br><tab>But now he is free, just like the rest of us and, if we ever come back to Moscow, we’ll settle our scores with Hanseic leadership together.<br><br><tab>Yermak says, that every man has a destination in life, a place where the fate leads him to. And, whenever life becomes hard, sometimes unbearably so, I always recall his words: \"This might be the end of the line, but it is still not your destination! Get up, walk on!\"<br><br><tab>Thank you, Yermak! <br><br>",
+    "target": "<tab>، قائد الدفة الدائم لـ أورورا، يرماك يعرف كل تفاصيلها وصولاً إلى أصغر صاعقة ويشعر بكل تغيير في عمل أي من آلياتها العديدة (والحقيقة أنها مهترئة تمامًا) بقلبه. يتناسب يرماك مع مجموعتنا بسهولة وبشكل طبيعي، ويبدو أنه كان معنا منذ الأبد. ومع ذلك، التقينا به أنا وآنا في قاعدة هانزية، حيث ساعدني يرماك أولاً في العثور على زوجتي ثم قادنا إلى عملية اختطاف \"الطراد\" المحبوب لدينا!<br><br><tab>مع ذلك، مع خلفية ييرماك، فلا عجب أنه قرر مغادرة موسكو معنا. في وقت لقائنا، كنا قد علمنا للتو بأن هانزا تعدم كل من يحاول الدخول إلى موسكو أو الخروج منها، لكن ييرماك كان يعيش مع هذه المعرفة الرهيبة منذ أشهر. أولاً بسبب الخوف على حياة ابنته، ثم بعد أن استسلمت لمرضها، بسبب اليأس المطلق...<br><br><tab>لكنه الآن حر، تمامًا مثل بقيتنا، وإذا عدنا إلى موسكو، فسنسوي حساباتنا مع القيادة الهانزية معًا.<br><br><tab>يقول ييرماك، أن كل إنسان لديه وجهة في الحياة، مكان يقوده إليه القدر. وكلما أصبحت الحياة صعبة، وأحيانًا بشكل لا يطاق، أتذكر دائمًا كلماته: \"قد تكون هذه نهاية الطريق، لكنها ليست وجهتك بعد! انهض، وامشِ!\"<br><br><tab>شكرًا لك يرماك!<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_008_idiot_alyosha_talk_01",
+    "source": "<ffx:smile>Hey Alyosha, you are off-duty, no?  Go get your ass warmed up! <ffx:neutral>",
+    "target": "<ffx:smile>مرحبًا أليوشا، أنت خارج الخدمة، أليس كذلك؟  اذهب لتدفئ مؤخرتك!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_attack_01_deaf",
+    "source": "HUMANIMAL: ATTACKING<ds_priority:3> ",
+    "target": "الإنسان: مهاجمة<ds_priority:3>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_13_nvs_diary_2_dsc",
+    "source": "<tab>To: OSKOM Rapid Response Group Commander<br><br><tab>Lieutenant-Colonel Khlebnikov<br><br><br><tab>In response to Your request No.132/17-A, I hereby report that:<br><br><br><tab>During the interrogation, the captured have stated that the main motivation behind their participation in the mass rioters was their general dissatisfaction with their economic and social situation. Quotes:<br><br><br><tab>«We work our asses off in the dirty tunnels and you fuckers have a classy living down there!»<br><br><tab>«I haven’t eaten a fill of meat in ten years, though I am raising them pigs at the farm.»<br><br><tab>«We only get one measly dose of green stuff a month, which is fucking nothing, while you fuckers pack bags full of stuff!»<br><br><tab>Still, the final push for them to join the rioters was, as the group leader puts it, an alleged conspiracy of the OSKOM leadership:<br><br><tab>«So you think that since we’re dismantling those cars here in the boonies, we don’t know shit? Boy, you are wrong about that!  We know it all! The Committee (the OSKOM leadership) bigwigs are setting up to flee the city like the rats that they are, so they are hogging up all the green stuff! Ain’t that so? You’re gonna leave us here to die! We knew it all since winter! Why did they have to take half of our guys? Topside, to clear out the tracks! Why the sudden order to bring the diesel online? It’s been parked here for ages, we were about to take it apart - and now you want us to fix it? Don’t think we’re dumber than rocks!»<br><br><tab>After the interrogation, the rioters due to them being undeniably guilty of sabotage, were handed off to the Disposal Unit as per standard procedure.<br><br><br><br><tab>OSKOM Special Department Investigator<br><br><tab>PEREPLETCHIK<br><br>",
+    "target": "<tab>إلى: قائد مجموعة الاستجابة السريعة أوسكوم<br><br><tab>المقدم كليبنيكوف<br><br><br><tab>ردًا على طلبك رقم 132/17-A، أبلغك بموجب هذا بما يلي:<br><br><br><tab>أثناء الاستجواب، ذكر الأسرى أن الدافع الرئيسي وراء مشاركتهم في أعمال الشغب الجماعية هو عدم رضاهم العام عن وضعهم الاقتصادي والاجتماعي. اقتباسات:<br><br><br><tab>«نحن نعمل بجد في الأنفاق القذرة وأنتم أيها الأوغاد تتمتعون بحياة راقية هناك!»<br><br><tab>\"لم أتناول شبعًا من اللحم منذ عشر سنوات، على الرغم من أنني أقوم بتربية الخنازير في المزرعة.\"<br><br><tab>«نحن نحصل فقط على جرعة واحدة تافهة من المادة الخضراء شهريًا، وهو لا شيء، بينما أنتم أيها الأوغاد تحزمون أكياسًا مليئة بالأشياء!»<br><br><tab>ومع ذلك، فإن الدفعة الأخيرة لهم للانضمام إلى مثيري الشغب كانت، على حد تعبير قائد المجموعة، مؤامرة مزعومة لقيادة أوسكوم:<br><br><tab>«لذلك تعتقد أنه بما أننا نقوم بتفكيك تلك السيارات هنا في الغنائم، فإننا لا نعرف شيئًا؟ يا فتى، أنت مخطئ في ذلك!  نحن نعرف كل شيء! يستعد كبار الشخصيات في اللجنة (قيادة أوسكوم) للفرار من المدينة مثل الفئران، لذا فهم يستحوذون على كل المادة الخضراء! أليس كذلك؟ سوف تتركنا هنا لنموت! لقد عرفنا كل ذلك منذ الشتاء! لماذا عليهم أن يأخذوا نصف رجالنا؟ الجانب العلوي، لمسح المسارات! لماذا الأمر المفاجئ بجلب الديزل عبر الإنترنت؟ لقد كانت متوقفة هنا منذ زمن طويل، وكنا على وشك تفكيكها - والآن تريد منا إصلاحها؟ لا تظنوا أننا أغبى من الصخور!»<br><br><tab>بعد الاستجواب، تم تسليم مثيري الشغب بسبب كونهم مذنبين بلا شك بالتخريب، إلى وحدة التخلص وفقًا للإجراءات القياسية.<br><br><br><br><tab>أوسكوم محقق القسم الخاص<br><br><tab>بيريبليتشيك<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_3\\light_alert\\light_alert_group_alarmed_call_others_03",
+    "source": "Let’s go save him, guys! He might still be alive!",
+    "target": "فلنذهب لإنقاذه يا شباب! ربما لا يزال على قيد الحياة!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_leader\\humanimal_leader_disturb_search_05_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_disturb_search_04_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_05_winter\\win_003_radiogameaftermath_08",
+    "source": "<ffx:smile>Everything will change! Everything! <ffx:wonder>Do you get it? <ffx:smile_light>A new life is starting, for all the survivors of the war!",
+    "target": "<ffx:smile>كل شيء سوف يتغير! كل شئ!<ffx:wonder>هل فهمت ذلك؟<ffx:smile_light>بدأت حياة جديدة لجميع الناجين من الحرب!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_09_summer\\sum_006_afterparty_childrentalk_02_05",
+    "source": "<ffx:wide_smile>And to having more women join it! <ffx:neutral>",
+    "target": "<ffx:wide_smile>ولإنضمام المزيد من النساء إليها!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_attack_3_deaf",
+    "source": "HUMANIMAL: ATTACKING<ds_priority:3> ",
+    "target": "الإنسان: مهاجمة<ds_priority:3>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_1\\uber_alert\\uber_alert_search_12",
+    "source": "I swear by the Fish I'm going to find you, heretic, and once I do, holy Silantuis himself couldn’t save you!",
+    "target": "أقسم بالسمكة أنني سأجدك أيها الزنديق، وبمجرد أن أفعل ذلك، لن يتمكن القديس سيلانتويس نفسه من إنقاذك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_disturb_reaction_04_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_1\\surrender\\surrender_01",
+    "source": "I won't ask to spare me... Just don't hurt the girls, drifter... If you're still human, that is!",
+    "target": "لن أطلب إعفائي... فقط لا تؤذي الفتيات، أيها التائه... إذا كنت لا تزال إنسانًا، فهذا هو الحال!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_loader_diary_desert_10_karmagood",
+    "source": "<tab>Then again, anywhere we went, we also met real people - selfless, brave, humane... People who could have led others to peace and freedom. People like Giul. People like us! And the common folk... It’s not their fault. They just lack the courage to fight the oppressors. Still, we did all we could to free the people of this sun-scorched desert, and Giul won’t let them forget this example. It is a pity we can’t stay, a shame that Damir’s couldn’t find any trace of his relatives - but his family, his real home, is here on the Aurora. <br><br>",
+    "target": "<tab>ومرة أخرى، في أي مكان ذهبنا إليه، التقينا أيضًا بأشخاص حقيقيين - غير أنانيين، شجعان، وإنسانيين... أشخاص كان بإمكانهم قيادة الآخرين إلى السلام والحرية. الناس مثل جيول. الناس مثلنا! والعامة... ليس ذنبهم. إنهم يفتقرون فقط إلى الشجاعة لمحاربة الظالمين. ومع ذلك، بذلنا كل ما في وسعنا لتحرير شعب هذه الصحراء الحارقة، ولن يسمح لهم جيول بنسيان هذا المثال. من المؤسف أننا لا نستطيع البقاء، ومن المؤسف أن دامير لم يتمكن من العثور على أي أثر لأقاربه - لكن عائلته، منزله الحقيقي، موجودة هنا على متن سفينة أورورا.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_2\\free\\free_safe_08",
+    "source": "Where are the guys? I’m tired of waiting...",
+    "target": "أين الرجال؟ لقد سئمت الإنتظار...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\forest_1\\neutral\\guard_weaponwarning_privatezone_03",
+    "source": "What are you doing here? Beat it!",
+    "target": "ما الذي تفعله هنا؟ أغلب هذا الشئ!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "dlc1_000_narration_text_loadscreen_04",
+    "source": "<tab>I am at my goal, and it feels like the weight of years of doubt is finally off my shoulders. Having seen the dead tunnels and heard Kirill’s story, I know something must be done to make sure Moscow does not end up like this.<br><br><tab>Saving the Metro is not why I am going down this radioactive pit, though. Frankly, that’s the least of my concerns now. Today I am not Colonel Miller, the commander of the Order of Sparta. I'm just an old father ready to do anything to save his children, like any father is supposed to... Like Khlebnikov did before me.<br><br>",
+    "target": "<tab>أنا وصلت إلى هدفي، ويبدو أن ثقل سنوات الشك قد أزيل عن كتفي أخيرًا. وبعد أن رأيت الأنفاق الميتة وسمعت قصة كيريل، أعلم أنه يجب القيام بشيء للتأكد من أن موسكو لن تنتهي إلى هذا الوضع.<br><br><tab>إن إنقاذ المترو ليس السبب وراء نزولي إلى هذه الحفرة المشعة. بصراحة، هذا أقل ما يقلقني الآن. اليوم أنا لست العقيد ميلر، قائد وسام سبارتا. أنا مجرد أب عجوز مستعد لفعل أي شيء لإنقاذ أطفاله، كما يفترض بأي أب أن يفعل... كما فعل كليبنيكوف من قبلي.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_157_baron_broadcast_08_07",
+    "source": "It partly is... But fear before man is not absolute... When your life is so shitty you've got nothing to lose, you start having rebellious thoughts even if you are the lowest of the tribals. And can we have that, gentlemen?",
+    "target": "إنه كذلك جزئيًا... لكن الخوف من الإنسان ليس مطلقًا... عندما تكون حياتك سيئة جدًا، ليس لديك ما تخسره، تبدأ في تراودك أفكار متمردة حتى لو كنت من أدنى أفراد القبائل. وهل يمكننا الحصول على ذلك أيها السادة؟",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_throw_4_deaf",
+    "source": "HUMANIMAL: ATTACKING<ds_priority:3> ",
+    "target": "الإنسان: مهاجمة<ds_priority:3>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_disturb_search_03_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_2\\uber_alert\\uber_alert_group_search_waitforsearchcomplete_05",
+    "source": "Are you trembling, heretic? You are, for you acknowledge your sin! Which means, there is still a chance to save your soul!",
+    "target": "هل ترتعش أيها الزنديق؟ أنت كذلك لأنك تعترف بذنبك! مما يعني أنه لا تزال هناك فرصة لإنقاذ روحك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_leader\\humanimal_leader_alert_search_04_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_170_kulturmultur_documentary_01_10",
+    "source": "If that comes to pass, damage to the residential areas of San Diego could be very heavy but not catastrophic, as humanitarian concerns as well as the nature and spread of the military targets in the area call for employing several moderate-yield ground-burst warheads rather that high-yield air-burst ones, most dangerous to the civilian population.",
+    "target": "وإذا حدث ذلك، فإن الأضرار التي تلحق بالمناطق السكنية في سان دييغو يمكن أن تكون جسيمة للغاية ولكنها ليست كارثية، حيث أن المخاوف الإنسانية فضلاً عن طبيعة وانتشار الأهداف العسكرية في المنطقة تستدعي استخدام العديد من الرؤوس الحربية ذات القوة المتوسطة التي تنفجر أرضاً بدلاً من تلك ذات القوة العالية التي تنفجر جواً، والتي تعتبر الأكثر خطورة على السكان المدنيين.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_disturb_search_01_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_death_1_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_death_7_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_pain_08_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_attack_1_deaf",
+    "source": "HUMANIMAL: ATTACKING<ds_priority:3> ",
+    "target": "الإنسان: مهاجمة<ds_priority:3>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_pain_03_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_02_dead_moscow\\dmc_004_02_spartanscene_01_08",
+    "source": "<ffx:sadness_light>You know how short we are on veteran fighters! <ffx:wonder_light>With your experience you two must teach the recruits, <ffx:smile_light>you could save lots of lives that way! <ffx:sadness_light>I’m so tired of explaining this to you...",
+    "target": "<ffx:sadness_light>أنت تعرف مدى نقصنا في المقاتلين المخضرمين!<ffx:wonder_light>بخبرتك، يجب عليك تعليم المجندين،<ffx:smile_light>يمكنك إنقاذ الكثير من الأرواح بهذه الطريقة!<ffx:sadness_light>لقد سئمت جدًا من شرح هذا لك...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_disturb_reaction_01_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_alert_search_04_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_1\\free\\free_unsafe_06",
+    "source": "It sure is spooky here... If they attack, neither the Fish, nor even Saint Silantius himself could save me...",
+    "target": "من المؤكد أن الأمر مخيف هنا... إذا هاجموني، فلن تتمكن السمكة ولا حتى القديس سيلانتيوس نفسه من إنقاذي...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_spring\\spr_007_level2_26",
+    "source": "<ffx:wonder>Wow! So, do you hope your guys would pick you up? <ffx:smile_light>I don't see them around! <ffx:neutral>",
+    "target": "<ffx:wonder>واو! لذا، هل تأمل أن يقوم رفاقك بإصطحابك؟<ffx:smile_light>لا أراهم في الجوار!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_leader\\humanimal_leader_death_5_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_disturb_reaction_05_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_leader\\humanimal_leader_disturb_search_01_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_3\\light_alert\\light_alert_group_alarmed_call_others_03",
+    "source": "He might have contacted the enemy! Time for rescue!",
+    "target": "ربما اتصل بالعدو! حان وقت الإنقاذ!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_disturb_search_05_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_death_5_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_051_monster_ambush_06",
+    "source": "<ffx:fear>It came out of thin air! <ffx:wonder>There was nothing. Nothing! <ffx:neutral>",
+    "target": "<ffx:fear>لقد خرج من فراغ!<ffx:wonder>لم يكن هناك شيء. لا شئ!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_throw_short_1_deaf",
+    "source": "HUMANIMAL: ATTACKING<ds_priority:3> ",
+    "target": "الإنسان: مهاجمة<ds_priority:3>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\slave_3\\disturb\\disturb_relax_uni_04",
+    "source": "Nothing! Always nothing, at all...",
+    "target": "لا شئ! دائماً لا شيء على الإطلاق..",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_02_dead_moscow\\dmc_007_guardstalk_02_05",
+    "source": "<ffx:wonder>There's a human out there... <ffx:disgust_light>I know those dogs.<ffx:neutral>",
+    "target": "<ffx:wonder>هناك إنسان هناك...<ffx:disgust_light>أعرف تلك الكلاب.<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_leader\\humanimal_leader_silent_death_5_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_alert_search_03_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_alert_reaction_04_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_059_6_1_4_shiptribalstalk_01_05",
+    "source": "<ffx:fear>Forgive, myrza, I stupid slave, know nothing, at all! Nothing! <ffx:neutral>",
+    "target": "<ffx:fear>سامحني يا ميرزا، أنا العبد الغبي الذي لا أعرف شيئًا على الإطلاق! لا شئ!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_006_rapunzel_new_02",
+    "source": "<ffx:smile>Mama, it's him! The man from the train! <ffx:wide_smile>He's here to save us! <ffx:smile_light>",
+    "target": "<ffx:smile>ماما، إنه هو! الرجل من القطار!<ffx:wide_smile>إنه هنا لإنقاذنا!<ffx:smile_light>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_loader_diary_valley_06_02_wolfbanditagain_talked",
+    "source": "<tab>I had hoped to never meet the bandit I accidentally ended up saving from the wolves, but ran into him nevertheless. If I were in his shoes, I’d not spend an extra minute in that valley, but he, instead of high-tailing it back home, found some of his partners in crime and hit the bottle hard... I wouldn’t want to talk to him even if he wasn’t drunk, but in hopes of finding out something new, I stayed to listen to his drunken ramblings... Completely in vain, of course. He was too drunk, and never knew anything in the first place. Knowing better than to wait for more bandits to arrive, I just moved on, as there seemed to have been enough delays on my way to the Church as it was.<br><br>",
+    "target": "<tab>كنت أتمنى ألا أقابل قاطع الطريق أبدًا وانتهى بي الأمر بإنقاذه من الذئاب عن طريق الخطأ، لكنني التقيت به رغم ذلك. لو كنت مكانه، لما قضيت دقيقة إضافية في ذلك الوادي، لكنه بدلاً من تتبع الأمر في المنزل، وجد بعض شركائه في الجريمة وضرب الزجاجة بقوة... لم أكن أرغب في التحدث معه حتى لو لم يكن مخموراً، لكن على أمل اكتشاف شيء جديد، بقيت أستمع إلى ثرثرته المخمور... عبثاً تماماً، بالطبع. لقد كان في حالة سكر للغاية، ولم يعرف أي شيء في المقام الأول. مع العلم أنه من الأفضل أن أنتظر وصول المزيد من قطاع الطرق، واصلت المضي قدمًا، حيث بدا أنه كان هناك تأخير كافٍ في طريقي إلى الكنيسة كما كان.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_leader\\humanimal_leader_death_1_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_disturb_search_04_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_attack_7_deaf",
+    "source": "HUMANIMAL: ATTACKING<ds_priority:3> ",
+    "target": "الإنسان: مهاجمة<ds_priority:3>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc_comments\\burunduk\\dlc_comments_rest_crashed_train_bed_0000_part_02",
+    "source": "Slowly evolving, the location became a bandit camp, and later the bandits got a hostage the player can save.",
+    "target": "تطور الموقع ببطء، وأصبح معسكرًا لقطاع الطرق، وبعد ذلك حصل قطاع الطرق على رهينة يمكن للاعب إنقاذها.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_dia_crew_miller_spring",
+    "source": "<tab>I dragged the Colonel into the worst adventure of his life: he had to commit high treason to save his daughter, with me in tow. He is convinced that the War is still going on, that Moscow had to fake death to prevent the final murderous strike from being launched against it...<br><br><tab>But Anna is still his daughter, and I am still one of his soldiers... So he, in his advanced age, risks everything he has - his reputation, his position in the Metro, the most of his Order... Everything to save us two and maybe somehow get himself out of this mess. We are going to the Yamantau mountain, where the Supreme Command HQ is located. Only the true government of our destroyed country could now pardon the Colonel for treason - of course, if they agree to even listen to him at all...<br><br><tab>There’s one problem, though - it’s been a few days since we left Moscow, but we have yet to find a trace of the occupying forces...<br><br>",
+    "target": "<tab>لقد قمت بجر العقيد إلى أسوأ مغامرة في حياته: كان عليه أن يرتكب الخيانة العظمى لإنقاذ ابنته، وأنا أرافقه. إنه مقتنع بأن الحرب لا تزال مستمرة، وأن موسكو اضطرت إلى تزييف الموت لمنع شن الضربة القاتلة الأخيرة ضدها...<br><br><tab>لكن آنا لا تزال ابنته، وأنا لا أزال أحد جنوده... لذا فهو، في سنه المتقدمة، يخاطر بكل ما لديه - سمعته، ومنصبه في المترو، ومعظم أمره... كل شيء لإنقاذنا وربما يخرج نفسه بطريقة ما من هذه الفوضى. نحن ذاهبون إلى جبل يامانتاو، حيث يقع مقر القيادة العليا. فقط الحكومة الحقيقية لبلدنا المدمر يمكنها الآن العفو عن العقيد بتهمة الخيانة - بالطبع، إذا وافقوا حتى على الاستماع إليه على الإطلاق...<br><br><tab>هناك مشكلة واحدة، رغم ذلك - لقد مرت بضعة أيام منذ مغادرتنا موسكو، لكننا لم نجد بعد أي أثر لقوات الاحتلال...<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_pain_09_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_leader\\humanimal_leader_disturb_reaction_03_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_disturb_reaction_06_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_2\\free\\free_safe_07",
+    "source": "Where are those heathens... I can't wait any longer doing nothing, God forgive me...",
+    "target": "أين هؤلاء الوثنيون... لم أعد أستطيع الإنتظار دون فعل أي شيء، سامحني الله...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_1\\light_alert\\light_alert_group_alarmed_call_goingalert_03",
+    "source": "Where the fuck are you? Hold on, man, I'm coming to save your ass!",
+    "target": "أين أنت؟ انتظر يا رجل، أنا قادم لإنقاذك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_1\\uber_alert\\uber_alert_group_search_waitforsearchcomplete_03",
+    "source": "Enough hiding! Come out and play!",
+    "target": "كفى إختباء! اخرج والعب!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_3\\light_alert\\light_alert_waiting_for_searchcomplete_05",
+    "source": "There's never anything, get used to that...",
+    "target": "لا يوجد شيء أبداً، إعتاد على ذلك...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_spring\\spr_006_level1_02",
+    "source": "<ffx:wonder_light>It is a well-known phenomenon, actually - <ffx:sadness_light>as soon as the hard times hit, people's ability to think rationally shuts down. <ffx:wonder>When there's danger, or lack of food,<ffx:sadness_light> an animal wakes up inside any homo sapiens... <ffx:fear_light>That animal, usually safely dormant, rears its head again.<ffx:neutral>",
+    "target": "<ffx:wonder_light>إنها ظاهرة معروفة، في الواقع -<ffx:sadness_light>بمجرد حدوث الأوقات الصعبة، تتوقف قدرة الناس على التفكير العقلاني.<ffx:wonder>عندما يكون هناك خطر، أو نقص في الطعام،<ffx:sadness_light>يستيقظ حيوان داخل أي إنسان عاقل...<ffx:fear_light>هذا الحيوان، الذي عادة ما يكون نائمًا بأمان، يرفع رأسه مرة أخرى.<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_3\\danger\\grenade_thrown_03",
+    "source": "Surprise, motherfucker!",
+    "target": "المفاجأة يا عاهرة!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_02_dead_moscow\\dmc_004_hospital_02_reactartyom_02_01",
+    "source": "<ffx:smile_light>Artyom, I understand how you feel, <ffx:smile_light>but you're not always going to save the Metro single-handedly. <ffx:wonder>Why keep looking for a solution alone? <ffx:neutral>",
+    "target": "<ffx:smile_light>أرتيوم، أنا أفهم ما تشعر به،<ffx:smile_light>ولكنك لن تتمكن دائمًا من إنقاذ المترو بمفردك.<ffx:wonder>لماذا نستمر في البحث عن حل بمفردنا؟<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_pain_02_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_160_40_boatbase_outpost_01_05",
+    "source": "Well, yeah... A dog is man's best friend, but keeping these as pets? Thank you very much!",
+    "target": "حسنًا، نعم... الكلب هو أفضل صديق للإنسان، لكن الاحتفاظ به كحيوانات أليفة؟ شكراً جزيلاً!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_040_fishermen_react_player_normal_01_01",
+    "source": "<ffx:smile_light>Well, I'll be! <ffx:wonder>He doesn't turn his Satanic light on us, his gun is holstered... <ffx:smile_light>He's a human after all, even though he is a heretic... <ffx:wonder>He has some sense even! <ffx:smile_light>His soul may not be completely lost...<ffx:neutral>",
+    "target": "<ffx:smile_light>حسنًا، سأكون كذلك!<ffx:wonder>إنه لا يسلط ضوءه الشيطاني علينا، بندقيته مقفلة...<ffx:smile_light>إنه إنسان بعد كل شيء، على الرغم من أنه مهرطق...<ffx:wonder>حتى أنه لديه بعض العقل!<ffx:smile_light>ربما لم تضيع روحه تمامًا...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_death_3_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_850_20_outro_good_narration_01_01",
+    "source": "I did what I had been doing for the last twenty years, saving the world... ",
+    "target": "لقد فعلت ما كنت أفعله طوال العشرين عامًا الماضية، وهو إنقاذ العالم...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_171_barondouble_talk_08_slavestalk_02",
+    "source": "<ffx:smile_light>A human is, essentially, a simple being with very basic needs - <ffx:wonder_light>some food and water, a modicum of protection from the <ffx:sadness_light>desert of reality that surrounds us, and, what is <ffx:sadness>most important, purpose...<ffx:neutral>",
+    "target": "<ffx:smile_light>الإنسان هو، في الأساس، كائن بسيط له احتياجات أساسية للغاية -<ffx:wonder_light>بعض الطعام والماء، وقدر ضئيل من الحماية من صحراء الواقع<ffx:sadness_light>التي تحيط بنا، وما هو الأكثر أهمية في<ffx:sadness>، الهدف...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_pain_06_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_02_dead_moscow\\dmc_055_spartansarrive_01_18",
+    "source": "<ffx:wonder>Talk about surprises!<ffx:neutral>",
+    "target": "<ffx:wonder>تحدث عن المفاجآت!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_throw_1_deaf",
+    "source": "HUMANIMAL: ATTACKING<ds_priority:3> ",
+    "target": "الإنسان: مهاجمة<ds_priority:3>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_010_refugeestaken_07",
+    "source": "<ffx:smile_light>Don't thank us before it's all ready to go. <ffx:wonder>It all hangs on Artyom now, so wish him luck!<ffx:neutral>",
+    "target": "<ffx:smile_light>لا تشكرنا قبل أن يصبح كل شيء جاهزًا للانطلاق.<ffx:wonder>كل شيء معلق على أرتيوم الآن، لذا أتمنى له التوفيق!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_09_summer\\sum_007_tokarevworkshoptalk_01_12_artyomgotacoolgun_01",
+    "source": "<ffx:wonder>Though, their gunsmiths are definitely good - that <ffx:wonder_light>gun you brought back is definitely custom-made... <ffx:smile>A fine job! And it’s been <ffx:wonder_light>well maintained, <ffx:smile>too, this just warms my heart! <ffx:neutral>",
+    "target": "<ffx:wonder>بالرغم من ذلك، فإن صانعي الأسلحة لديهم جيدون بالتأكيد - إن مسدس<ffx:wonder_light>الذي أحضرته معك هو بالتأكيد مصنوع خصيصًا...<ffx:smile>عمل جيد! وقد تمت صيانة<ffx:wonder_light>جيدًا، و<ffx:smile>أيضًا، وهذا يدفئ قلبي!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_1\\uber_alert\\uber_alert_group_search_waitforsearchcomplete_02",
+    "source": "Consider the salvation of your soul, you Satan's lackey! Enough hiding!",
+    "target": "فكر في خلاص نفسك يا خادم الشيطان! كفى إختباء!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_080_twoneutrals_sam_leaves_01_03",
+    "source": "Yeah, right! Beat it! If we see you again, we're not gonna warn you anymore!",
+    "target": "نعم صحيح! أغلب هذا الشئ! إذا رأيناك مرة أخرى، فلن نحذرك بعد الآن!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_disturb_search_06_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_death_4_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_disturb_reaction_05_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_leader\\humanimal_leader_alert_search_01_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_alert_reaction_05_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_dia_crew_miller_autumn",
+    "source": "<tab>It was Anna’s illness that finally reconciled us. He used to blame me for everything. After all, if not for my dogged search for other survivors, none of this would have ever happened. I used to blame him, too. If not for his conviction that there were occupying forces all over the place, Anna would never have fallen into that silo... <br><br><tab>He considered me to be delusional and egotistic, I hated his close-mindedness and stubbornness... But now I can feel the pain his inability to help the situation in any way causes him. He lost everything, all because of me... His only daughter, my beloved wife Anna, is all he has left to live for now. Thus we must forget everything that stands between us to save her, or at least give our best trying.<br><br>",
+    "target": "<tab>لقد كان مرض آنا هو الذي صالحنا أخيرًا. كان يلومني على كل شيء. ففي النهاية، لولا بحثي الدؤوب عن ناجين آخرين، لما حدث أي من هذا على الإطلاق. اعتدت أن ألومه أيضًا. لولا اقتناعه بوجود قوات احتلال في كل مكان، لما وقعت آنا في تلك الصومعة أبدًا...<br><br><tab>لقد اعتبرني متوهمًا ومغرورًا، لقد كرهت انغلاق تفكيره وعناده... لكن الآن أستطيع أن أشعر بالألم الذي يسببه له عدم قدرته على مساعدة الموقف بأي شكل من الأشكال. لقد فقد كل شيء، كل ذلك بسببي... ابنته الوحيدة، زوجتي الحبيبة آنا، هي كل ما تبقى له ليعيشه الآن. وبالتالي يجب علينا أن ننسى كل ما يقف بيننا لإنقاذها، أو على الأقل بذل قصارى جهدنا.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_159_baron_broadcast_09_09",
+    "source": "But I see you're not a complete idiot... So you do understand, deep down... You do understand! There is no other way! Man is a beast! A beeeast!",
+    "target": "لكنني أرى أنك لست أحمقًا تمامًا... إذن أنت تفهم، في أعماقك... أنت تفهم! ليس هناك طريقة أخرى! الإنسان وحش! نحلة!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_leader\\humanimal_leader_alert_search_03_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_ending\\end_glukh_02_21",
+    "source": "<ffx:wonder>And, the most important thing... <ffx:smile_light>My time's up, Artyom. It's your turn now, step up. <ffx:wonder>Lead them... <ffx:sadness_light>Just remember, that I created <ffx:smile_light>the Order to save people... <ffx:anger_light>All people, Artyom. Don’t <ffx:sadness>forget that, because I somehow did...",
+    "target": "<ffx:wonder>والأهم من ذلك...<ffx:smile_light>انتهى وقتي يا أرتيوم. حان دورك الآن، صعد.<ffx:wonder>قدهم...<ffx:sadness_light>فقط تذكر أنني أنشأت أمر<ffx:smile_light>لإنقاذ الناس...<ffx:anger_light>كل الناس، أرتيوم. لا تنسَ ذلك<ffx:sadness>، لأنني بطريقة ما فعلت ذلك...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc_comments\\burunduk\\dlc_comments_rest_term_in_bed_part_02",
+    "source": "Here, the player had to deal with the only poisoned zone of the Volga level, dozens of humanimals at once, jumping over instable geometry and, naturally, the raging insta-killing Tzar Fish!",
+    "target": "هنا، كان على اللاعب التعامل مع المنطقة المسمومة الوحيدة على مستوى نهر الفولغا، وعشرات من الحيوانات البشرية في وقت واحد، والقفز فوق هندسة غير مستقرة، وبطبيعة الحال، سمكة القيصر الهائجة التي تقتل إنستا!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_intro\\gamestart_narration_01_part1_2",
+    "source": "<tab>I remember that we used to be different, used to live up there, on the surface. We used to be the masters of the whole world. We built gigantic cities of glass and steel, we crossed the oceans at will, and we also conquered the skies.<br><br>",
+    "target": "<tab>أتذكر أننا كنا مختلفين، اعتدنا أن نعيش هناك، على السطح. لقد اعتدنا أن نكون أسياد العالم كله. لقد بنينا مدنًا عملاقة من الزجاج والفولاذ، وعبرنا المحيطات متى شئنا، واحتلنا السماء أيضًا.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_leader\\humanimal_leader_pain_4_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_1\\dog\\dog_interaction_02",
+    "source": "What are you looking at, huh? Nothing? I figured as much...",
+    "target": "ما الذي تنظر إليه، هاه؟ لا شئ؟ لقد ظننت ذلك القدر...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_disturb_reaction_06_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_leader\\humanimal_leader_pain_7_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_leader\\humanimal_leader_alert_reaction_01_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_025_desert_hermit_unhappytoseeplayer_01_01",
+    "source": "<ffx:anger_strong>You know what?!.. Just piss off. For real. Beat it!",
+    "target": "<ffx:anger_strong>أتعرف ماذا؟!.. فقط أغضب. لريال مدريد. أغلب هذا الشئ!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc_comments\\burunduk\\dlc_comments_rest_fort_bed_part_01",
+    "source": "Originally, this bunker was supposed to be just a secondary location, where some pre-war weapons were stored. There Artyom, Damir and Sam would be rescuing Duke.",
+    "target": "في الأصل، كان من المفترض أن يكون هذا المخبأ مجرد موقع ثانوي، حيث تم تخزين بعض أسلحة ما قبل الحرب. هناك سيقوم أرتيوم ودامير وسام بإنقاذ ديوك.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_170_1_saultalk_02_21",
+    "source": "<ffx:sadness_light>If you don't, I'll step in <ffx:smile_light>to save him from the evil gang out to get him, <ffx:wide_smile_light>and he'll crown me by his own hand... <ffx:neutral>",
+    "target": "<ffx:sadness_light>إذا لم تفعل ذلك، فسوف أتدخل في<ffx:smile_light>لإنقاذه من العصابة الشريرة التي تحاول القضاء عليه،<ffx:wide_smile_light>وسيتوجني بيده...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_leader\\humanimal_leader_pain_3_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_throw_2_deaf",
+    "source": "HUMANIMAL: ATTACKING<ds_priority:3> ",
+    "target": "الإنسان: مهاجمة<ds_priority:3>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_pain_07_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_1\\neutral\\guard_weaponwarning_privatezone_03",
+    "source": "What are you doing here? Beat it!",
+    "target": "ما الذي تفعله هنا؟ أغلب هذا الشئ!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc1\\dlc1_210_ambush_conversation_02_04",
+    "source": "Attention! Covering fire for the Colonel, no saving ammo!",
+    "target": "انتبه! تغطية النيران للعقيد، لا ذخيرة إنقاذ!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_pain_6_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_disturb_reaction_02_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_leader\\humanimal_leader_pain_1_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_silent_death_1_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_09_summer\\sum_002_annatalk_01_19",
+    "source": "<ffx:wonder>Saving people? What would the saved <ffx:sadness>do next, sit underground? I never understood him... <ffx:wonder>What does he hope for in life? What makes him happy? <ffx:neutral>",
+    "target": "<ffx:wonder>إنقاذ الناس؟ ما الذي ستفعله<ffx:sadness>المحفوظة بعد ذلك، هل ستجلس تحت الأرض؟ لم أفهمه أبدًا...<ffx:wonder>ماذا يأمل في الحياة؟ ما الذي يجعله سعيدا؟<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_dia_crew_krest_intro",
+    "source": "<tab>An avid storyteller, a talented mechanic and a natural-born adventurer, who’d travelled all across the vast expanses of this threatening world of the Surface, so alien to us, who’d been through hundreds of scuffles and struck thousands of deals (quite a few of which could well be of the less scrupulous sort)... I don’t know if Krest will be journeying with us for long, but I am not surprised he had such an easy time fitting in. <br><br><tab>Right from the start he gave us the hand with fixing the Aurora, gave us the railcar he’d been using in his adventures, and then went with us on a mission to capture the tugboat, giving Duke and me the cover we needed to infiltrate the bridge... It’s no wonder that even our usually cautions Colonel had no second thoughts about welcoming Krest into the Crew. <br><br>",
+    "target": "<tab>راوي قصص متعطش، وميكانيكي موهوب ومغامر بالفطرة، سافر عبر المساحات الشاسعة من هذا العالم السطحي المهدد، والغريب جدًا بالنسبة لنا، والذي خاض مئات المشاجرات وأبرم آلاف الصفقات (قد يكون عدد قليل منها من النوع الأقل دقة)... لا أعرف ما إذا كان كريست سيسافر معنا لفترة طويلة، لكنني لست متفاجئًا أنه حظي بمثل هذا الوقت السهل.<br><br><tab>منذ البداية ساعدنا في إصلاح أورورا، وأعطانا عربة السكة الحديد التي كان يستخدمها في مغامراته، ثم ذهب معنا في مهمة للاستيلاء على زورق القطر، مما منحني أنا وديوك الغطاء الذي نحتاجه للتسلل إلى الجسر... فلا عجب أنه حتى الكولونيل الذي عادة ما يحذرنا لم يكن لديه أي تردد بشأن الترحيب بكريست في الطاقم.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_040_lightningfighters_player_lightoff_01_01",
+    "source": "<ffx:wonder>Turned it off? Good... <ffx:smile_light>Now, if you were to hide your gun, you'd start resembling a human... <ffx:neutral>",
+    "target": "<ffx:wonder>أطفئته؟ جيد...<ffx:smile_light>الآن، إذا قمت بإخفاء بندقيتك، فسوف تبدأ في التشبه بالإنسان...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_throw_1_deaf",
+    "source": "HUMANIMAL: ATTACKING<ds_priority:3> ",
+    "target": "الإنسان: مهاجمة<ds_priority:3>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_1\\boat\\boatattack_03",
+    "source": "You think you can get away from me on that boat? Not a chance!",
+    "target": "هل تعتقد أنك تستطيع الإبتعاد عني على ذلك القارب؟ ليست فرصة!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_attack_8_deaf",
+    "source": "HUMANIMAL: ATTACKING<ds_priority:3> ",
+    "target": "الإنسان: مهاجمة<ds_priority:3>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_dia_crew_kirill_intro",
+    "source": "<tab>The last survivor of once bustling Novosibirsk Metro, the last private of OSKOM Special Forces, Kirill Khlebnikov... A common ten-year-old boy, too mature for his age and exhausted by solitude, but undefeated. <br><br><tab>For weeks he kept hauling a heavy radio to a far ventilation shaft in futile attempts to contact his father who went missing during his last mission... For weeks he fought a guerilla war against the mutants in the dark tunnels. I shudder to think about the time he had to spend alone, but Kirill tells us about it like it was nothing special. How fragile is a human - and, at the same time, how strong... <br><br><tab>Kirill gave us his most prized possession, the last syringes with radio-protector. He also gave us something even more precious, a real hope to find a place where we could live. Now we simply must come back to the Aurora and bring him with us, how else could we ever repay him?",
+    "target": "<tab>آخر ناجٍ من مترو نوفوسيبيرسك الذي كان صاخبًا ذات يوم، آخر جندي من قوات أوسكوم الخاصة، كيريل كليبنيكوف... صبي عادي يبلغ من العمر عشر سنوات، ناضج جدًا بالنسبة لعمره ومرهق من العزلة، لكنه لم يهزم.<br><br><tab>استمر لأسابيع في سحب جهاز راديو ثقيل إلى عمود تهوية بعيد في محاولات غير مجدية للاتصال بوالده الذي اختفى خلال مهمته الأخيرة... خاض لأسابيع حرب عصابات ضد المتحولين في الأنفاق المظلمة. أرتعد عندما أفكر في الوقت الذي كان عليه أن يقضيه بمفرده، لكن كيريل يخبرنا عنه وكأنه لم يكن شيئًا مميزًا. ما مدى هشاشة الإنسان - وفي الوقت نفسه، ما مدى قوته...<br><br><tab>أعطانا كيريل أغلى ما يملكه، وهو آخر المحاقن المزودة بواقي لاسلكي. لقد أعطانا أيضًا شيئًا أكثر قيمة، وهو أمل حقيقي في العثور على مكان يمكننا العيش فيه. الآن يجب علينا ببساطة العودة إلى أورورا وإحضاره معنا، وإلا كيف يمكننا أن نرد له الجميل؟",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_040_bguards_idle_talk_01_09_bad_surrenders_accepted_civillians_spared_01",
+    "source": "<ffx:wonder_light>He also didn't harm the unarmed folk that just happened to be there... <ffx:wonder>He hasn't lost the last of his humanity, <ffx:disgust>that heretic... <ffx:neutral>",
+    "target": "<ffx:wonder_light>كما أنه لم يؤذي الأشخاص العزل الذين تصادف وجودهم هناك...<ffx:wonder>لم يفقد آخر إنسانيته،<ffx:disgust>ذلك الزنديق...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_12_autumn\\aut_000_narration_02",
+    "source": "<tab>Alyosha is especially worried - his Olga is there... Perhaps, he will be able to warn her via Radio and save the people there...<br><br>",
+    "target": "<tab>يشعر أليوشا بالقلق بشكل خاص - أولجا الخاصة به هناك... ربما سيكون قادرًا على تحذيرها عبر الراديو وإنقاذ الأشخاص هناك...<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_12_valley\\val_000_narration_02_02",
+    "source": "<tab>Who was that woman? Not hallucination, that's for sure. Without her help, I would have become fish fodder... I wish I knew her name so that I could thank her properly for saving me. I also wish I could ask her some questions...<br><br>",
+    "target": "<tab>من كانت تلك المرأة؟ ليست هلوسة، هذا أمر مؤكد. لولا مساعدتها لكنت أصبحت علفًا للأسماك... أتمنى لو كنت أعرف اسمها حتى أستطيع أن أشكرها بشكل صحيح على إنقاذي. وأتمنى أيضًا أن أطرح عليها بعض الأسئلة...<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\slave_2\\uber_alert\\uber_alert_cover_02",
+    "source": "So scared... Enemy come to kill me, and can’t run, can’t save me... Oh, help me, someone...",
+    "target": "خائفة جدًا... يأتي العدو ليقتلني، ولا يستطيع الهرب، ولا يستطيع إنقاذي... أوه، ساعدني، يا شخص ما...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_05_chase\\cha_003_battle_bosstalk_06",
+    "source": "I tried to treat you humanely...",
+    "target": "حاولت أن أعاملك بإنسانية..",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_2\\uber_alert\\uber_alert_group_search_waitforsearchcomplete_04",
+    "source": "Hey! Come out and fight, you rat! Don't you want to at least die like a human being?",
+    "target": "يا! اخرج وقاتل أيها الجرذ! ألا تريد أن تموت على الأقل كإنسان؟",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_pain_5_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc1\\dlc1_101_search_at_stalls_01_02",
+    "source": "Look, officer, think about it, where am I supposed to get so much?!",
+    "target": "بص يا ظابط فكر في الموضوع أنا المفروض جيب كل هذا منين؟!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_death_2_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_leader\\humanimal_leader_pain_11_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_leader\\humanimal_leader_alert_reaction_02_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_disturb_search_01_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_attack_6_deaf",
+    "source": "HUMANIMAL: ATTACKING<ds_priority:3> ",
+    "target": "الإنسان: مهاجمة<ds_priority:3>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_death_2_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc_comments\\burunduk\\dlc_comments_summer_start_part_03",
+    "source": "Artyom and Stepan would arrive in time to save Nastya but, if the player had accumulated enough bad karma by that moment, the girl had no choice but shout the cannibal to protect her stepfather.",
+    "target": "سيصل أرتيوم وستيبان في الوقت المناسب لإنقاذ ناستيا، ولكن إذا كان اللاعب قد جمع ما يكفي من الكارما السيئة بحلول تلك اللحظة، فلن يكون أمام الفتاة خيار سوى الصراخ على آكل لحوم البشر لحماية زوج والدتها.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_12_autumn\\aut_000_narration_good",
+    "source": "<tab>We all remained silent while the Aurora was running along the poisoned sea held at bay by the dam... We believed we'd be back. Now, having seen the sword of Damocles hanging over the valley, we knew it was not meant to be. <br><br><tab>Alyosha is especially worried - his Olga is there... Perhaps, he will be able to warn her via Radio and save the people there...<br><br><tab>What happens next? I've no idea, I am ready for anything. Anything, but one thing. Anna... Please, hold on... Without you, I've nothing to live for, nothing to dream about... Doubly so, since if not for that dream of mine, you'd be all right now...<br><br>",
+    "target": "<tab>بقينا جميعًا صامتين بينما كانت سفينة أورورا تجري على طول البحر المسموم الذي يحاصره السد... كنا نعتقد أننا سنعود. الآن، بعد أن رأينا سيف ديموقليس معلقًا فوق الوادي، عرفنا أنه لم يكن من المفترض أن يكون كذلك.<br><br><tab>يشعر أليوشا بالقلق بشكل خاص - أولجا الخاصة به هناك... ربما سيكون قادرًا على تحذيرها عبر الراديو وإنقاذ الأشخاص هناك...<br><br><tab>ماذا سيحدث بعد ذلك؟ ليس لدي أي فكرة، أنا مستعد لأي شيء. أي شيء، ولكن شيء واحد. آنا... أرجوك، انتظر... بدونك، ليس لدي ما أعيش من أجله، ولا شيء أحلم به... وهذا مضاعف، لأنه لولا حلمي هذا، لكنت بخير الآن...<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_throw_short_02_deaf",
+    "source": "HUMANIMAL: ATTACKING<ds_priority:3> ",
+    "target": "الإنسان: مهاجمة<ds_priority:3>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_dia_crew_anna_summer",
+    "source": "<tab>I’ve always been telling Anna that her father is holding on to a stupid fabrication and completely disregarding reality, but she loves him too much to fully admit that! There was no trace of government in the bunker complex under Yamantau mountain which the Colonel was so eager to reach - just deranged cannibals, who were once workers and soldiers, but lost their humanity completely... Anna was captured by them, and I barely managed to rescue here in the nick of time. She was furious, shouting at her father who could not believe that the war was long since over, but already seems to have forgiven him. <br><br><tab>I sincerely hope that, with the maps we recovered in the Caspian desert, she will finally manage to persuade her father that we can forget about the war and finally settle somewhere... It’s time we found a new home, where Anna and I could finally live like a proper family is supposed to.<br><br>",
+    "target": "<tab>كنت دائمًا أخبر آنا أن والدها يتمسك بتلفيق غبي ويتجاهل الواقع تمامًا، لكنها تحبه كثيرًا لدرجة أنها لا تعترف بذلك تمامًا! لم يكن هناك أي أثر للحكومة في مجمع المخبأ تحت جبل يامانتاو الذي كان العقيد حريصًا جدًا على الوصول إليه - فقط أكلة لحوم البشر المختلين، الذين كانوا في السابق عمالًا وجنودًا، لكنهم فقدوا إنسانيتهم ​​تمامًا... تم القبض على آنا من قبلهم، وبالكاد تمكنت من إنقاذها هنا في الوقت المناسب. كانت غاضبة، وصرخت في وجه والدها الذي لم يصدق أن الحرب قد انتهت منذ فترة طويلة، ولكن يبدو أنه قد سامحه بالفعل.<br><br><tab>آمل بصدق أنه بفضل الخرائط التي استعدناها في صحراء قزوين، ستتمكن أخيرًا من إقناع والدها بأنه يمكننا نسيان الحرب والاستقرار أخيرًا في مكان ما... لقد حان الوقت للعثور على منزل جديد، حيث يمكننا أنا وآنا العيش أخيرًا كما يفترض أن تعيش عائلة مناسبة.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_leader\\humanimal_leader_pain_10_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_040_bguards_idle_talk_01_09_bad",
+    "source": "All right... <ffx:wonder>A heretic actually arrived right at the sermon! <ffx:fear_light>Our guys rushed over to save the Holy Father, <ffx:anger>and the heretic killed them all! <ffx:sadness_light>",
+    "target": "حسنًا...<ffx:wonder>لقد وصل مهرطق بالفعل إلى الخطبة!<ffx:fear_light>هرع رجالنا لإنقاذ الأب الأقدس،<ffx:anger>والمهرطق قتلهم جميعًا!<ffx:sadness_light>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_disturb_reaction_02_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_throw_3_deaf",
+    "source": "HUMANIMAL: ATTACKING<ds_priority:3> ",
+    "target": "الإنسان: مهاجمة<ds_priority:3>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_2\\scared\\scared_now_05",
+    "source": "Holy shit! Man could get eaten out here...",
+    "target": "القرف المقدس! يمكن للإنسان أن يأكل هنا...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_silent_death_1_deaf",
+    "source": "HUMANIMAL: SCREAMS<ds_priority:1>",
+    "target": "الإنسان: الصراخ<ds_priority:1>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bandit_3\\light_alert\\light_alert_oktogofree_01",
+    "source": "Nothing! Shouldn't have even gone!",
+    "target": "لا شئ! لا ينبغي أن يكون حتى ذهب!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_alert_search_01_deaf",
+    "source": "HUMANIMAL: SEARCHING<ds_priority:2>",
+    "target": "الإنسان: البحث عن<ds_priority:2>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_040_bguards_idle_talk_01_09_bad_surrenders_not_accepted_01",
+    "source": "All right... <ffx:wonder>A heretic actually arrived right at the sermon! <ffx:fear_light>Our guys rushed over to save the Holy Father, <ffx:anger>and the heretic killed all of them... <ffx:disgust>Even begging for your life is useless before that murderer... <ffx:disgust_light>",
+    "target": "حسنًا...<ffx:wonder>لقد وصل مهرطق بالفعل إلى الخطبة!<ffx:fear_light>هرع رجالنا لإنقاذ الأب الأقدس،<ffx:anger>وقتلهم الزنديق جميعًا...<ffx:disgust>حتى التسول لحياتك لا فائدة منه أمام ذلك القاتل...<ffx:disgust_light>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_13_dead_city\\nvs_002_nastyakatyatalk_01",
+    "source": "<ffx:wonder>Are you going out on a mission? To save aunt Anna? <ffx:neutral>",
+    "target": "<ffx:wonder>هل ستخرج في مهمة؟ لإنقاذ العمة آنا؟<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_v2\\humanimal_v2_throw_short_2_deaf",
+    "source": "HUMANIMAL: ATTACKING<ds_priority:3> ",
+    "target": "الإنسان: مهاجمة<ds_priority:3>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_000_narration_03_01",
+    "source": "<tab>On my way to the lighthouse I got a message from the Colonel: a lady named Giul got in contact with us and offered to show the way into the Communications Center if we help her fight off the local bandits besieging her home. Looks like we won't be able to stay out of local conflicts, after all. We're too close to our goal to miss such a chance, so I'm on my way to save that damsel in distress.<br><br>",
+    "target": "<tab>في طريقي إلى المنارة تلقيت رسالة من العقيد: اتصلت بنا سيدة تدعى غيول وعرضت علينا أن نرشدها إلى مركز الاتصالات إذا ساعدناها في محاربة قطاع الطرق المحليين الذين يحاصرون منزلها. يبدو أننا لن نكون قادرين على الابتعاد عن الصراعات المحلية، بعد كل شيء. نحن قريبون جدًا من هدفنا بحيث لا يمكننا تفويت مثل هذه الفرصة، لذلك أنا في طريقي لإنقاذ تلك الفتاة في محنتها.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "monsters\\humanimal\\humanimal_throw_short_01_deaf",
+    "source": "HUMANIMAL: ATTACKING<ds_priority:3> ",
+    "target": "الإنسان: مهاجمة<ds_priority:3>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  }
+]

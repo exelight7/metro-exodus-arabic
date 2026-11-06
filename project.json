@@ -162,13 +162,66 @@
   },
   "publication": {
     "repository": "https://github.com/exelight7/metro-exodus-arabic",
-    "tag": "v0.2.0-beta.2",
-    "release_url": "https://github.com/exelight7/metro-exodus-arabic/releases/tag/v0.2.0-beta.2",
+    "tag": "v1.0.0",
+    "release_url": "https://github.com/exelight7/metro-exodus-arabic/releases/tag/v1.0.0",
     "status": "source_release_prepared",
     "asset_count": null,
+    "source_manifest_files": 455,
     "publicly_verified": true,
+    "full_project_download_verified": true,
     "user_authorized": true,
-    "date": "2026-11-04"
+    "date": "2026-11-04",
+    "receipt": "00_admin/github_release_receipt_v0.2.0-beta.2.json"
+  },
+  "publication_history": [
+    {
+      "repository": "https://github.com/exelight7/metro-exodus-arabic",
+      "tag": "v0.1.0-beta.1",
+      "release_url": "https://github.com/exelight7/metro-exodus-arabic/releases/tag/v0.1.0-beta.1",
+      "source_commit": "cd505aae10b24a504e750e7c998633fcf9df10b4",
+      "status": "published_prerelease",
+      "asset_count": 7,
+      "publicly_verified": true,
+      "user_authorized": true,
+      "date": "2026-11-04"
+    }
+  ],
+  "foura_dialogue": {
+    "version": "0.2.0",
+    "entrypoint": "tools/foura_dialogue.py",
+    "skill": "skills/foura-dialogue/SKILL.md",
+    "synthetic_tests": 22,
+    "real_localization_files_verified": 15,
+    "real_tested_game": "Metro Exodus Steam Windows",
+    "vfx_versions_implemented": [
+      1,
+      2,
+      3
+    ],
+    "vfx_v1_v2_real_game_verified": false,
+    "quicklz_supported": false,
+    "vfi_upk_supported": false,
+    "game_launched": false,
+    "live_game_written": false,
+    "recovery_payload_bit_identical": true
+  },
+  "authoring_revision": "story_context_r4",
+  "pending_patch": {
+    "revision": "story_context_r4",
+    "path": "07_patch/phases/100_story_context_r4_verified",
+    "manual_context_corrections": 62,
+    "previous_reviews_preserved": true,
+    "verified": true,
+    "installed": false,
+    "published": false
+  },
+  "language_review": {
+    "revision": "full_language_r1",
+    "reviewed_rows": 23500,
+    "changed_rows": 12618,
+    "unreviewed_rows": 14721,
+    "needs_context": 4,
+    "complete": false
   },
   "portable_recovery": "python tools/recover_project.py --game GAME_PATH --out NEW_WORKSPACE"
 }

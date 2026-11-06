@@ -1,0 +1,14 @@
+{
+  "rows_checked": 38221,
+  "runtime_entries_checked": 38223,
+  "confirmed_corrections": 42,
+  "other_runtime_entries_unchanged": 38181,
+  "nontext_assets_preserved": 11,
+  "ids_sources_statuses_and_placeholders_preserved": true,
+  "normalization_idempotent": true,
+  "font_character_table_preserved": true,
+  "full_manual_prose_review": false,
+  "game_launched": false,
+  "live_game_written": false,
+  "installed": false
+}

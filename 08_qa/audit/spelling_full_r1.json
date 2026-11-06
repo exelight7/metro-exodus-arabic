@@ -1,0 +1,308 @@
+{
+  "revision": "spelling_full_r1",
+  "rows_scanned": 38221,
+  "changed_rows": 42,
+  "original_sha256": "1cfc053871ee62c46e023aaef762ee414757e4e9b6f9e70e19d3b1693dfd4f7b",
+  "target_sha256": "6ef0de78179c750285bd9d55b4d822967b223bf1477937c794a7104e1de2349b",
+  "protected_formats_preserved": true,
+  "translation_statuses_preserved": true,
+  "manual_full_prose_review": false,
+  "game_launched": false,
+  "live_game_written": false,
+  "changes": [
+    {
+      "id": "m3_13_nvs_diary_4_dsc",
+      "source": "<tab>12 Feb<br><br><tab>Second team has confirmed that the main warehouse is empty... Containers at the cargo yard are full of empty boxes. We have a 1 month reserve of radioprotector. Time to cut down the supply. Send a team to investigate the main building.<br><br><br><tab>20 Feb<br><br><tab>The team is back from the main building. 70% losses, acceptable. Ground floor storage has around half a year worth of radioprotector at present consumption level. Pu the \"Tactics” plan up for discussion at the next Committee meeting.<br><br><br><tab>2 Mar<br><br><tab>\"Tactics” plan has been approved by the Committee, Maintenance dept. - in charge of transportation, Special dept. will handle the track clearing operation. All Surface Operations reserves are to be transferred to the Special dept., losses to be replaced by penitentiary contingent<br><br><br><tab>18 Mar<br><br><tab>Track clearing operation commencing, Maint. dept. reports work a week behind the schedule due to insufficient supply of filters and losses above expected levels. Extra attention to Maint.<br><br><br><tab>27 Mar<br><br><tab>Spec. dept. to allocate two companies for guarding the Clearance teams - reserves depleted, work is only 30% complete.<br><br><tab>11 Apr<br><br><br><tab>Riot quelled. Track 35% cleared, additional security paying off, losses stabilizing at replenishable levels.<br><br><br><tab>17 Apr<br><br><tab>Mass riots on multiple stations - Spec. dept. unable to respond in sufficient force, with track clearing security occupying too many of their assets. 50% done, progressing as per schedule now, Maint. dept. head up for commendation.<br><br><br><tab>2 May<br><br><tab>Riots on dirty stations - tunnels in lockdown, barricades at key intersections, situation stable. Clean station population under 50 to be conscripted into the Spec. dept.<br><br><br><tab>19 May<br><br><tab>Breakthrough in the center, armored railcars lost. Situation critical.<br><br><br><tab>20 May<br><br><tab>Lieut.-col. Khlebnikov’s team has localized the breakthrough, tunnel demolished, rioters stopped before Sibirskaya st., track clearing resumed, 70% complete. All available Spec. dept. units assigned to operation’s security.<br><br><br><tab>5 Jun<br><br><tab>Sibirskaya station lost, Lieut.-col. Khlebnikov ordered bring the situation under control at any cost.<br><br><br><tab>7 Jun<br><br><tab>Khlebikov’s operation a resounding success, rioters on Sibirskaya wiped out, Khlebnikov promoted to the rank of Colonel. Track clearing 90% complete. Ahead of schedule, all reserves topside.<br><br><br><tab>20 Jun<br><br><tab>Track clearing 100% complete. Transportation 90% operational, supply department quotes a range of 1400 km, basing on the available satellite recon data, this should be enough to get to Baikal through clean areas with 300 km to spare.<br><br><br><tab>28 Jun<br><br><tab>The engine burnt by the rioters, plan - ?<br><br><br><tab>17 Jul<br><br><tab>Spec. dept. forces on the Surface cut off, all reserves assembled at the HQ.<br><br><br><tab>2 Aug<br><br><tab>This is it... I think, this is only fair...<br><br>",
+      "before": "<tab>12 فبراير<br><br><tab>أكد الفريق الثاني أن المستودع الرئيسي فارغ... الحاويات الموجودة في ساحة الشحن مليئة بالصناديق الفارغة. لدينا احتياطي لمدة شهر واحد من الواقي الإشعاعي. الوقت لخفض العرض. أرسل فريقًا لتفقد المبنى الرئيسي.<br><br><br><tab>20 فبراير<br><br><tab>عاد الفريق من المبنى الرئيسي. 70% خسائر مقبولة. يحتوي مخزن الطابق الأرضي على ما يقرب من نصف عام من الحماية الإشعاعية عند مستوى الاستهلاك الحالي. بو خطة \"التكتيكات\" للمناقشة في الاجتماع المقبل للجنة.<br><br><br><tab>2 مارس<br><br><tab>تمت الموافقة على خطة \"التكتيكات\" من قبل اللجنة، قسم الصيانة. - مسئول النقل قسم خاص . سوف تتعامل مع عملية مسح المسار. سيتم تحويل جميع احتياطيات العمليات السطحية إلى القسم الخاص، وسيتم استبدال الخسائر بوحدة السجون<br><br><br><tab>18 مارس<br><br><tab>بدء عملية تطهير المسار، الصيانة. قسم. تعمل التقارير متأخرة عن الموعد المحدد بأسبوع بسبب عدم كفاية المعروض من المرشحات والخسائر فوق المستويات المتوقعة. اهتمام إضافي بالصيانة.<br><br><br><tab>27 مارس<br><br><tab>المواصفات. قسم. تخصيص سريتين لحراسة فرق التخليص - استنفاد الاحتياطيات واكتمل العمل بنسبة 30% فقط.<br><br><tab>11 أبريل<br><br><br><tab>قمع أعمال الشغب. تم تطهير المسار بنسبة 35%، وتأمين إضافي يؤتي ثماره، واستقرار الخسائر عند مستويات قابلة للتجديد.<br><br><br><tab>17 أبريل<br><br><tab>أعمال شغب جماعية في محطات متعددة - المواصفات. قسم. غير قادرين على الرد بقوة كافية، مع احتلال أمن المسار لعدد كبير جدًا من أصولهم. تم إنجاز 50%، ويجري التقدم وفقًا للجدول الزمني الآن، صيانة. قسم. ارفع رأسك للثناء.<br><br><br><tab>2 مايو<br><br><tab>أعمال شغب في المحطات القذرة - أنفاق مغلقة، حواجز عند التقاطعات الرئيسية، الوضع مستقر. سيتم تجنيد سكان المحطة النظيفة الذين تقل أعمارهم عن 50 عامًا في المواصفات. قسم.<br><br><br><tab>19 مايو<br><br><tab>اختراق في المركز، فقدت عربات السكك الحديدية المدرعة. الوضع حرج.<br><br><br><tab>20 مايو<br><br><tab>الملازم أول. حدد فريق كليبنيكوف مكان الاختراق، وتم هدم النفق، وتوقف المشاغبون قبل شارع سيبيرسكايا، وتم استئناف تطهير المسار، واكتمل 70٪. جميع المواصفات المتاحة. قسم. الوحدات المخصصة لأمن العملية.<br><br><br><tab>5 يونيو<br><br><tab>فقدت محطة سيبيرسكايا، الملازم أول. أمر خليبنيكوف بالسيطرة على الوضع بأي ثمن.<br><br><br><tab>7 يونيو<br><br><tab>حققت عملية كليبيكوف نجاحًا باهرًا، وتم القضاء على مثيري الشغب في سيبيرسكايا، وتمت ترقية كليبنيكوف إلى رتبة عقيد. اكتملت عملية تطهير المسار بنسبة 90%. قبل الموعد المحدد، جميع الاحتياطيات في الجانب العلوي.<br><br><br><tab>20 يونيو<br><br><tab>اكتملت عملية مسح المسار بنسبة 100%. النقل جاهز بنسبة 90%، ويقدر قسم الإمداد نطاقًا يصل إلى 1400 كيلومتر، استنادًا إلى بيانات الاستطلاع المتاحة عبر الأقمار الصناعية، وينبغي أن يكون هذا كافيًا للوصول إلى بايكال عبر المناطق النظيفة بمسافة 300 كيلومتر إضافية.<br><br><br><tab>28 يونيو<br><br><tab>المحرك الذي أحرقه مثيرو الشغب، الخطة -؟<br><br><br><tab>17 يوليو<br><br><tab>المواصفات. قسم. تم قطع القوات الموجودة على السطح، وتم تجميع جميع الاحتياطيات في المقر الرئيسي.<br><br><br><tab>2 أغسطس<br><br><tab>هذا هو... أعتقد أن هذا عادل فقط...<br><br>",
+      "after": "<tab>12 فبراير<br><br><tab>أكد الفريق الثاني أن المستودع الرئيسي فارغ... الحاويات الموجودة في ساحة الشحن مليئة بالصناديق الفارغة. لدينا احتياطي لمدة شهر واحد من الواقي الإشعاعي. الوقت لخفض العرض. أرسل فريقًا لتفقد المبنى الرئيسي.<br><br><br><tab>20 فبراير<br><br><tab>عاد الفريق من المبنى الرئيسي. 70% خسائر مقبولة. يحتوي مخزن الطابق الأرضي على ما يقرب من نصف عام من الحماية الإشعاعية عند مستوى الاستهلاك الحالي. بو خطة \"التكتيكات\" للمناقشة في الاجتماع المقبل للجنة.<br><br><br><tab>2 مارس<br><br><tab>تمت الموافقة على خطة \"التكتيكات\" من قبل اللجنة، قسم الصيانة. - مسؤول النقل قسم خاص . سوف تتعامل مع عملية مسح المسار. سيتم تحويل جميع احتياطيات العمليات السطحية إلى القسم الخاص، وسيتم استبدال الخسائر بوحدة السجون<br><br><br><tab>18 مارس<br><br><tab>بدء عملية تطهير المسار، الصيانة. قسم. تعمل التقارير متأخرة عن الموعد المحدد بأسبوع بسبب عدم كفاية المعروض من المرشحات والخسائر فوق المستويات المتوقعة. اهتمام إضافي بالصيانة.<br><br><br><tab>27 مارس<br><br><tab>المواصفات. قسم. تخصيص سريتين لحراسة فرق التخليص - استنفاد الاحتياطيات واكتمل العمل بنسبة 30% فقط.<br><br><tab>11 أبريل<br><br><br><tab>قمع أعمال الشغب. تم تطهير المسار بنسبة 35%، وتأمين إضافي يؤتي ثماره، واستقرار الخسائر عند مستويات قابلة للتجديد.<br><br><br><tab>17 أبريل<br><br><tab>أعمال شغب جماعية في محطات متعددة - المواصفات. قسم. غير قادرين على الرد بقوة كافية، مع احتلال أمن المسار لعدد كبير جدًا من أصولهم. تم إنجاز 50%، ويجري التقدم وفقًا للجدول الزمني الآن، صيانة. قسم. ارفع رأسك للثناء.<br><br><br><tab>2 مايو<br><br><tab>أعمال شغب في المحطات القذرة - أنفاق مغلقة، حواجز عند التقاطعات الرئيسية، الوضع مستقر. سيتم تجنيد سكان المحطة النظيفة الذين تقل أعمارهم عن 50 عامًا في المواصفات. قسم.<br><br><br><tab>19 مايو<br><br><tab>اختراق في المركز، فقدت عربات السكك الحديدية المدرعة. الوضع حرج.<br><br><br><tab>20 مايو<br><br><tab>الملازم أول. حدد فريق كليبنيكوف مكان الاختراق، وتم هدم النفق، وتوقف المشاغبون قبل شارع سيبيرسكايا، وتم استئناف تطهير المسار، واكتمل 70٪. جميع المواصفات المتاحة. قسم. الوحدات المخصصة لأمن العملية.<br><br><br><tab>5 يونيو<br><br><tab>فقدت محطة سيبيرسكايا، الملازم أول. أمر خليبنيكوف بالسيطرة على الوضع بأي ثمن.<br><br><br><tab>7 يونيو<br><br><tab>حققت عملية كليبيكوف نجاحًا باهرًا، وتم القضاء على مثيري الشغب في سيبيرسكايا، وتمت ترقية كليبنيكوف إلى رتبة عقيد. اكتملت عملية تطهير المسار بنسبة 90%. قبل الموعد المحدد، جميع الاحتياطيات في الجانب العلوي.<br><br><br><tab>20 يونيو<br><br><tab>اكتملت عملية مسح المسار بنسبة 100%. النقل جاهز بنسبة 90%، ويقدر قسم الإمداد نطاقًا يصل إلى 1400 كيلومتر، استنادًا إلى بيانات الاستطلاع المتاحة عبر الأقمار الصناعية، وينبغي أن يكون هذا كافيًا للوصول إلى بايكال عبر المناطق النظيفة بمسافة 300 كيلومتر إضافية.<br><br><br><tab>28 يونيو<br><br><tab>المحرك الذي أحرقه مثيرو الشغب، الخطة -؟<br><br><br><tab>17 يوليو<br><br><tab>المواصفات. قسم. تم قطع القوات الموجودة على السطح، وتم تجميع جميع الاحتياطيات في المقر الرئيسي.<br><br><br><tab>2 أغسطس<br><br><tab>هذا هو... أعتقد أن هذا عادل فقط...<br><br>",
+      "kind": "spelling_or_spacing"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bridger_1\\surrender\\surrender_03",
+      "source": "I have had it with fights... I give up, give up...",
+      "before": "لقد مررت بالمعارك...استسلمت،استسلمت...",
+      "after": "لقد مررت بالمعارك...استسلمت، استسلمت...",
+      "kind": "spelling_or_spacing"
+    },
+    {
+      "id": "$wpn_upt_radiator_dsc",
+      "source": "Fixes the bastard gun's main problem - its tendency to overheat - by siphoning waste heat off its barrel via thin longitudinal metal fins.",
+      "before": "يعمل على إصلاح المشكلة الرئيسية للبندقية غير الشرعية - ميلها إلى السخونة الزائدة - عن طريق سحب الحرارة المهدرة من ماسورةها عبر زعانف معدنية طولية رفيعة.",
+      "after": "يعالج مشكلة ارتفاع حرارة السلاح بسحب الحرارة الزائدة من سبطانته عبر زعانف معدنية طولية رفيعة.",
+      "kind": "context"
+    },
+    {
+      "id": "voices\\m3_08_desert\\des_059_6_1_5_shipriggerstalk_01_18",
+      "source": "<ffx:fear_strong>Aaaah! Master! I can't! Not more, please!<ffx:neutral>",
+      "before": "<ffx:fear_strong>ااااه! يتقن! لا أستطبع! ليس أكثر من فضلك!<ffx:neutral>",
+      "after": "<ffx:fear_strong>آآآه! سيدي! لا أستطيع! أرجوك، لا أحتمل المزيد!<ffx:neutral>",
+      "kind": "context"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\forest_2\\species\\confused_group_threat_subsided_question_02",
+      "source": "Waiting was a good idea...",
+      "before": "الإنتظار كان فكرة جيدة..",
+      "after": "الانتظار كان فكرة جيدة..",
+      "kind": "spelling_or_spacing"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\merc_1\\uber_alert\\uber_alert_group_search_waitforsearchcomplete_09",
+      "source": "Come out already! Enough hiding!",
+      "before": "اخرج بالفعل! كفى إختباء!",
+      "after": "اخرج بالفعل! كفى اختباء!",
+      "kind": "spelling_or_spacing"
+    },
+    {
+      "id": "voices\\m3_dlc1\\dlc1_60_52_younglovers_01_10",
+      "source": "Soon enough... After the celebration...",
+      "before": "بعد قليل..بعد الإحتفال..",
+      "after": "بعد قليل... بعد الاحتفال...",
+      "kind": "context"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bridger_3\\light_alert\\light_alert_group_alarmed_call_goingalert_morethanone_02",
+      "source": "Enough hiding! Come out, brethren!",
+      "before": "كفى إختباء! اخرجوا أيها الإخوة!",
+      "after": "كفى اختباء! اخرجوا أيها الإخوة!",
+      "kind": "spelling_or_spacing"
+    },
+    {
+      "id": "voices\\m3_dlc2\\dlc2_220_07_sam_captain_partyallnight_05_02",
+      "source": "But you lack... Respect! Respect of your elders...",
+      "before": "لكن ينقصك... الإحترام! احترامك لكبار السن..",
+      "after": "لكن ينقصك... الاحترام! احترامك لكبار السن..",
+      "kind": "spelling_or_spacing"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bridger_2\\uber_alert\\uber_alert_single_threat_notfound_01",
+      "source": "Oh! So, the scum ran away... I see, I see...",
+      "before": "أوه! لذا، هربت الحثالة بعيدًا...أرى،أرى...",
+      "after": "أوه! لذا، هربت الحثالة بعيدًا...أرى، أرى...",
+      "kind": "spelling_or_spacing"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bridger_1\\light_alert\\light_alert_oktogofree_03",
+      "source": "Nothing! A waste of time!",
+      "before": "لا شئ! مضيعة للوقت!",
+      "after": "لا شيء! مضيعة للوقت!",
+      "kind": "spelling_or_spacing"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\merc_1\\surrender\\surrender_02",
+      "source": "I surrender, there's nothing I can do anymore...",
+      "before": "أستسلمت، لم يعد هناك ما أستطيع فعله بعد الآن..",
+      "after": "أستسلم، لم يعد بوسعي فعل شيء...",
+      "kind": "context"
+    },
+    {
+      "id": "voices\\m3_08_desert\\des_171_barondouble_reaction_21_yourenotwelcomehereanymore_03",
+      "source": "<ffx:anger>What are you looking at? Beat it!<ffx:neutral>",
+      "before": "<ffx:anger>إلى ماذا تنظر؟ أغلب هذا الشئ!<ffx:neutral>",
+      "after": "<ffx:anger>إلى ماذا تنظر؟ اغرب عن وجهي!<ffx:neutral>",
+      "kind": "context"
+    },
+    {
+      "id": "voices\\m3_dlc2\\dlc2_044_dock_07_e_boat_repairmen_loop_01_01",
+      "source": "Hold this here...",
+      "before": "إحتفظ بهذا هنا...",
+      "after": "احتفظ بهذا هنا...",
+      "kind": "spelling_or_spacing"
+    },
+    {
+      "id": "voices\\m3_12_valley\\val_32_bandits_pirates_01_16",
+      "source": "<ffx:wonder>Just kill them? <ffx:anger>Ever tried hanging on one of their posts, with wolves nibbling at your feet? <ffx:disgust>They have a lot to answer for! <ffx:neutral>",
+      "before": "<ffx:wonder>فقط أقتلهم؟<ffx:anger>هل سبق لك أن حاولت التعليق على أحد أعمدةهم، حيث كانت الذئاب تقضم قدميك؟<ffx:disgust>لديهم الكثير ليجيبوا عليه!<ffx:neutral>",
+      "after": "<ffx:wonder>فقط أقتلهم؟<ffx:anger>هل سبق لك أن حاولت التعليق على أحد أعمدتهم، حيث كانت الذئاب تقضم قدميك؟<ffx:disgust>لديهم الكثير ليجيبوا عليه!<ffx:neutral>",
+      "kind": "spelling_or_spacing"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\forest_2\\surrender\\surrendered_01",
+      "source": "Teacher... I am about to face the final exam...",
+      "before": "أستاذ...أنا على وشك الإمتحان النهائي...",
+      "after": "أستاذ...أنا على وشك الامتحان النهائي...",
+      "kind": "spelling_or_spacing"
+    },
+    {
+      "id": "voices\\m3_08_desert\\des_025_desert_hermit_unhappytoseeplayer_02_01",
+      "source": "<ffx:anger_strong>So, why are you standing there? Beat it!",
+      "before": "<ffx:anger_strong>إذن، لماذا تقف هناك؟ أغلب هذا الشئ!",
+      "after": "<ffx:anger_strong>إذن، لماذا تقف هناك؟ اغرب عن وجهي!",
+      "kind": "context"
+    },
+    {
+      "id": "voices\\m3_dlc1\\dlc1_225_1_rioters_battleshouts_01_03",
+      "source": "Kill them, people!",
+      "before": "إقتلوهم أيها الناس!",
+      "after": "اقتلوهم أيها الناس!",
+      "kind": "spelling_or_spacing"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\forest_3\\danger\\losses_to_humans_foreveralone_01",
+      "source": "Hold on!... Damn... Damn, damn!....",
+      "before": "انتظر!...اللعنة...اللعنة،اللعنة!....",
+      "after": "انتظر!...اللعنة...اللعنة، اللعنة!....",
+      "kind": "spelling_or_spacing"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\merc_3\\uber_alert\\uber_alert_single_takingcover_03",
+      "source": "This ain't good, taking cover!",
+      "before": "هذا ليس جيدًا، إحتمي!",
+      "after": "هذا ليس جيدًا، سأحتمي!",
+      "kind": "context"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\merc_2\\uber_alert\\uber_alert_search_05",
+      "source": "Enough hiding! Come out, I'm going to find you anyway!",
+      "before": "كفى إختباء! اخرج، سأجدك على أي حال!",
+      "after": "كفى اختباء! اخرج، سأجدك على أي حال!",
+      "kind": "spelling_or_spacing"
+    },
+    {
+      "id": "voices\\m3_05_winter\\win_003_radiogameaftermath_08",
+      "source": "<ffx:smile>Everything will change! Everything! <ffx:wonder>Do you get it? <ffx:smile_light>A new life is starting, for all the survivors of the war!",
+      "before": "<ffx:smile>كل شيء سوف يتغير! كل شئ!<ffx:wonder>هل فهمت ذلك؟<ffx:smile_light>بدأت حياة جديدة لجميع الناجين من الحرب!",
+      "after": "<ffx:smile>كل شيء سوف يتغير! كل شيء!<ffx:wonder>هل فهمت ذلك؟<ffx:smile_light>بدأت حياة جديدة لجميع الناجين من الحرب!",
+      "kind": "spelling_or_spacing"
+    },
+    {
+      "id": "voices\\m3_09_summer\\sum_006_afterparty_childrentalk_02_05",
+      "source": "<ffx:wide_smile>And to having more women join it! <ffx:neutral>",
+      "before": "<ffx:wide_smile>ولإنضمام المزيد من النساء إليها!<ffx:neutral>",
+      "after": "<ffx:wide_smile>ولانضمام المزيد من النساء إليها!<ffx:neutral>",
+      "kind": "spelling_or_spacing"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\forest_2\\free\\free_safe_08",
+      "source": "Where are the guys? I’m tired of waiting...",
+      "before": "أين الرجال؟ لقد سئمت الإنتظار...",
+      "after": "أين الرجال؟ لقد سئمت الانتظار...",
+      "kind": "spelling_or_spacing"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\forest_1\\neutral\\guard_weaponwarning_privatezone_03",
+      "source": "What are you doing here? Beat it!",
+      "before": "ما الذي تفعله هنا؟ أغلب هذا الشئ!",
+      "after": "ما الذي تفعله هنا؟ اغرب عن وجهي!",
+      "kind": "context"
+    },
+    {
+      "id": "voices\\m3_06_spring\\spr_007_level2_26",
+      "source": "<ffx:wonder>Wow! So, do you hope your guys would pick you up? <ffx:smile_light>I don't see them around! <ffx:neutral>",
+      "before": "<ffx:wonder>واو! لذا، هل تأمل أن يقوم رفاقك بإصطحابك؟<ffx:smile_light>لا أراهم في الجوار!<ffx:neutral>",
+      "after": "<ffx:wonder>واو! لذا، هل تأمل أن يقوم رفاقك باصطحابك؟<ffx:smile_light>لا أراهم في الجوار!<ffx:neutral>",
+      "kind": "spelling_or_spacing"
+    },
+    {
+      "id": "voices\\m3_08_desert\\des_051_monster_ambush_06",
+      "source": "<ffx:fear>It came out of thin air! <ffx:wonder>There was nothing. Nothing! <ffx:neutral>",
+      "before": "<ffx:fear>لقد خرج من فراغ!<ffx:wonder>لم يكن هناك شيء. لا شئ!<ffx:neutral>",
+      "after": "<ffx:fear>لقد خرج من فراغ!<ffx:wonder>لم يكن هناك شيء. لا شيء!<ffx:neutral>",
+      "kind": "spelling_or_spacing"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\slave_3\\disturb\\disturb_relax_uni_04",
+      "source": "Nothing! Always nothing, at all...",
+      "before": "لا شئ! دائماً لا شيء على الإطلاق..",
+      "after": "لا شيء! دائماً لا شيء على الإطلاق..",
+      "kind": "spelling_or_spacing"
+    },
+    {
+      "id": "voices\\m3_08_desert\\des_059_6_1_4_shiptribalstalk_01_05",
+      "source": "<ffx:fear>Forgive, myrza, I stupid slave, know nothing, at all! Nothing! <ffx:neutral>",
+      "before": "<ffx:fear>سامحني يا ميرزا، أنا العبد الغبي الذي لا أعرف شيئًا على الإطلاق! لا شئ!<ffx:neutral>",
+      "after": "<ffx:fear>سامحني يا ميرزا، أنا العبد الغبي الذي لا أعرف شيئًا على الإطلاق! لا شيء!<ffx:neutral>",
+      "kind": "spelling_or_spacing"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bridger_2\\free\\free_safe_07",
+      "source": "Where are those heathens... I can't wait any longer doing nothing, God forgive me...",
+      "before": "أين هؤلاء الوثنيون... لم أعد أستطيع الإنتظار دون فعل أي شيء، سامحني الله...",
+      "after": "أين هؤلاء الوثنيون... لم أعد أستطيع الانتظار دون فعل أي شيء، سامحني الله...",
+      "kind": "spelling_or_spacing"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\merc_1\\uber_alert\\uber_alert_group_search_waitforsearchcomplete_03",
+      "source": "Enough hiding! Come out and play!",
+      "before": "كفى إختباء! اخرج والعب!",
+      "after": "كفى اختباء! اخرج والعب!",
+      "kind": "spelling_or_spacing"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\merc_3\\light_alert\\light_alert_waiting_for_searchcomplete_05",
+      "source": "There's never anything, get used to that...",
+      "before": "لا يوجد شيء أبداً، إعتاد على ذلك...",
+      "after": "لا يوجد شيء أبدًا، اعتد على ذلك...",
+      "kind": "context"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bridger_1\\uber_alert\\uber_alert_group_search_waitforsearchcomplete_02",
+      "source": "Consider the salvation of your soul, you Satan's lackey! Enough hiding!",
+      "before": "فكر في خلاص نفسك يا خادم الشيطان! كفى إختباء!",
+      "after": "فكر في خلاص نفسك يا خادم الشيطان! كفى اختباء!",
+      "kind": "spelling_or_spacing"
+    },
+    {
+      "id": "voices\\m3_dlc2\\dlc2_080_twoneutrals_sam_leaves_01_03",
+      "source": "Yeah, right! Beat it! If we see you again, we're not gonna warn you anymore!",
+      "before": "نعم صحيح! أغلب هذا الشئ! إذا رأيناك مرة أخرى، فلن نحذرك بعد الآن!",
+      "after": "نعم صحيح! اغرب عن وجهي! إذا رأيناك مرة أخرى، فلن نحذرك بعد الآن!",
+      "kind": "context"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\merc_1\\dog\\dog_interaction_02",
+      "source": "What are you looking at, huh? Nothing? I figured as much...",
+      "before": "ما الذي تنظر إليه، هاه؟ لا شئ؟ لقد ظننت ذلك القدر...",
+      "after": "ما الذي تنظر إليه، هاه؟ لا شيء؟ لقد ظننت ذلك القدر...",
+      "kind": "spelling_or_spacing"
+    },
+    {
+      "id": "voices\\m3_08_desert\\des_025_desert_hermit_unhappytoseeplayer_01_01",
+      "source": "<ffx:anger_strong>You know what?!.. Just piss off. For real. Beat it!",
+      "before": "<ffx:anger_strong>أتعرف ماذا؟!.. فقط أغضب. لريال مدريد. أغلب هذا الشئ!",
+      "after": "<ffx:anger_strong>أتعرف ماذا؟! انصرف، أنا جاد. اغرب عن وجهي!",
+      "kind": "context"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\merc_1\\neutral\\guard_weaponwarning_privatezone_03",
+      "source": "What are you doing here? Beat it!",
+      "before": "ما الذي تفعله هنا؟ أغلب هذا الشئ!",
+      "after": "ما الذي تفعله هنا؟ اغرب عن وجهي!",
+      "kind": "context"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bridger_3\\wounded\\wounded_gravely_01",
+      "source": "Aaaah... Fish, steel my resolve...",
+      "before": "آآآه...سمك،صلب عزيمتي...",
+      "after": "آآآه...سمك، صلب عزيمتي...",
+      "kind": "spelling_or_spacing"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_1\\boat\\boatattack_03",
+      "source": "You think you can get away from me on that boat? Not a chance!",
+      "before": "هل تعتقد أنك تستطيع الإبتعاد عني على ذلك القارب؟ ليست فرصة!",
+      "after": "هل تعتقد أنك تستطيع الابتعاد عني على ذلك القارب؟ ليست فرصة!",
+      "kind": "spelling_or_spacing"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\cannibal_1\\free\\free_safe_02",
+      "source": "(grinds teeth) I hate sstanding here... While all the meat is there, all there...",
+      "before": "(يصر بأسنانه) أنا أكره الوقوف هنا...بينما كل اللحم هناك،كله هناك...",
+      "after": "(يصر بأسنانه) أنا أكره الوقوف هنا...بينما كل اللحم هناك، كله هناك...",
+      "kind": "spelling_or_spacing"
+    },
+    {
+      "id": "voices\\m3_dlc1\\dlc1_101_search_at_stalls_01_02",
+      "source": "Look, officer, think about it, where am I supposed to get so much?!",
+      "before": "بص يا ظابط فكر في الموضوع أنا المفروض جيب كل هذا منين؟!",
+      "after": "اسمع أيها الضابط، فكّر في الأمر، من أين لي بكل هذا؟!",
+      "kind": "context"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_3\\light_alert\\light_alert_oktogofree_01",
+      "source": "Nothing! Shouldn't have even gone!",
+      "before": "لا شئ! لا ينبغي أن يكون حتى ذهب!",
+      "after": "لا شيء! لا ينبغي أن يكون حتى ذهب!",
+      "kind": "spelling_or_spacing"
+    }
+  ]
+}

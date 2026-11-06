@@ -1,0 +1,261 @@
+{
+  "start": 1960,
+  "end": 2045,
+  "decisions": {
+    "1960": {
+      "decision": "change",
+      "target": "<ffx:smile_light>إلى اليمين أكثر... <ffx:wonder>أترى المبنى قرب تلك العربات الكثيرة؟ كان مستودعًا للقطارات. <ffx:disgust_light>يحتلّه بعض قطاع الطرق الآن، لكن المكان نفسه لا بأس به. <ffx:wonder_light>",
+      "reason": "تصحيح further وused to be دون أقصى اليمين أو كان يستخدم ليكون."
+    },
+    "1961": {
+      "decision": "change",
+      "target": "<ffx:smile>هناك، إلى اليمين... ذلك المبنى الضخم... <ffx:sadness_light>إنه مبنى المحطة. <ffx:smile_light>يعدّه أتباع الطائفة مكانًا مقدسًا، وقد ملؤوه بالكتابات. فالسمكة القيصر التي يعبدونها تعيش هناك. <ffx:disgust>أوغاد حمقى... <ffx:sadness_light>",
+      "reason": "تصحيح مفرد السمكة القيصر ومرجع المبنى بدل حظيرة وصياغة تقديسه."
+    },
+    "1962": {
+      "decision": "change",
+      "target": "<ffx:wonder>والمنطقة القريبة لا بأس بها أيضًا. <ffx:smile_light>الصيد فيها وفير وما إلى ذلك... أقمت عدة مخيمات آمنة هناك. <ffx:smile>إن عثرت عليها، أمكنك أن تستريح وتصلح معداتك... <ffx:wide_smile>إلا إن كنت تفضل المبيت في العراء قرب نار مخيم، ها ها! <ffx:smile_light>",
+      "reason": "تصحيح ضمير المخيمات والمبيت قرب النار لا داخلها."
+    },
+    "1963": {
+      "decision": "change",
+      "target": "<ffx:disgust_light>انظر إلى الجسر أولًا. <ffx:wonder>أترى ذلك الجزء المرتفع؟ يفترض أن ينخفض إن كانت آلية الطوارئ لا تزال تعمل... <ffx:sadness_light>لعل كاتيا التي في الكنيسة أدرى بهذا، <ffx:smile_light>فأنا لم أذهب إلى الجسر قط. <ffx:neutral>",
+      "reason": "should know better ترجيح معرفتها الآلية، لا إلزامها بالمعرفة."
+    },
+    "1966": {
+      "decision": "change",
+      "target": "<ffx:wonder_light>صنعت طاولة عمل لأصلح عليها الأشياء. <ffx:wonder>إن احتجت إلى ذخيرة أو قنابل يدوية، فهنا بعض المواد الخام، <ffx:smile>خذ منها ما شئت... كل ما هنا تحت أمرك! <ffx:smile_light>لن أستطيع حمل هذه الأغراض كلها على أي حال. <ffx:neutral>",
+      "reason": "إصلاح مرجع الطاولة وhelp yourself وcarry بمعنى الحمل."
+    },
+    "1968": {
+      "decision": "change",
+      "target": "<ffx:wonder_light>على أي حال، دعني أخبرك، <ffx:smile>أنا لست مجرد وجه جميل. ففي رأسي <ffx:wonder_light>معرفة كثيرة مختزنة.",
+      "reason": "تصحيح التباهي بمعرفة الميكانيكي وإزالة العبارة الناقصة حول."
+    },
+    "1969": {
+      "decision": "change",
+      "target": "<ffx:smile>وانظر إلى هاتين اليدين! إنهما بارعتان في الإصلاح! <ffx:smile_light>لن تندم على اصطحابي!",
+      "reason": "تصحيح المثنى ومعنى second thoughts المعكوس في الهدف."
+    },
+    "1973": {
+      "decision": "change",
+      "target": "<ffx:fear>يا للعجب، قائدك صارم حقًا! <ffx:fear_light>أسمع توبيخه لك <ffx:wonder>من هنا! أذناك <ffx:smile>بخير؟ هاها! اسمع، أخبره <ffx:wonder>عني فحسب، وسآتي لاحقًا. أما <ffx:smile>الآن فأخشى أن أصير من ضحايا غضبه! هاها!",
+      "reason": "tell off توبيخ؛ collateral damage استعارة خفيفة عن الوقوع ضحية غضب القائد."
+    },
+    "1975": {
+      "decision": "change",
+      "target": "<ffx:wonder>اسمع، ألا تريد سماع ما أقول؟ <ffx:anger_light>لا بأس عندي، فقط أخبرني!",
+      "reason": "استعادة Fine by me بدل موافقة مبهمة."
+    },
+    "1976": {
+      "decision": "change",
+      "target": "<ffx:smile_light>هذا كهفي.",
+      "reason": "إزالة التركيب الحرفي الخاص بي في جملة التعريف."
+    },
+    "1977": {
+      "decision": "change",
+      "target": "<ffx:wonder_light>يمكنك النزول عبر حبل الانزلاق هذا... <ffx:smile_light>علّق خطافك به وانطلق!",
+      "reason": "hook up تثبيت خطاف العبور على الحبل، لا مجرد التعلق."
+    },
+    "1978": {
+      "decision": "change",
+      "target": "<ffx:smile_light>تمكنت من شراء بعض السجائر من القرويين... <ffx:disgust_light>قبل أن يطردني أولئك الأوغاد...",
+      "reason": "chased away طرد، وassholes سباب لا وصف التشرد."
+    },
+    "1979": {
+      "decision": "change",
+      "target": "<ffx:disgust>لم يعجب أولئك الحمقى مصباحي! <ffx:sadness>ومنذ ذلك الحين مُنعت من دخول القرية والجسر...",
+      "reason": "light المصباح المحرّم عند الطائفة، لا نوري المجرد."
+    },
+    "1980": {
+      "decision": "change",
+      "target": "<ffx:wonder_light>لكنني أرى ألّا تبادر إلى قتالهم. <ffx:disgust>إنهم حمقى غُسلت أدمغتهم، ولعل <ffx:disgust_light>وصولكم أرعبهم حتى الموت! <ffx:smile_light>أراهن أنهم ظنوا أن يوم القيامة حلّ، <ffx:smile>وفي موعده تمامًا أيضًا! هاها...",
+      "reason": "إصلاح جمع الخبر وإبقاء سخرية كريست من خوفهم."
+    },
+    "1983": {
+      "decision": "change",
+      "target": "<ffx:anger>أولئك الأوغاد أذكياء! يرشقونك بالحجارة... <ffx:smile_light>ووقعها مؤلم كاللعنة!",
+      "reason": "إصلاح الفعل throwing rocks بدل مصدر معلق."
+    },
+    "1985": {
+      "decision": "change",
+      "target": "<ffx:anger_light>لا أدري ماذا يريدون. لم يقتربوا من الجسر أو القرية ولو مرة، <ffx:fear_light>بل يلازمون مكانهم كأنهم ينتظرون شيئًا... <ffx:sadness>لكنني أعرف أنهم نذير سوء.",
+      "reason": "bad news وصف الرجال بالخطر، لا خبر صحفي."
+    },
+    "1987": {
+      "decision": "change",
+      "target": "<ffx:wonder>حسنًا، يمكنني أن أظل أتحدث هكذا طويلًا، <ffx:smile_light>لكن قائدك كلّفك بمهمة...",
+      "reason": "for ages مدة الكلام وwanted something done أمر بالمهمة."
+    },
+    "1989": {
+      "decision": "change",
+      "target": "<ffx:smile>حظًا موفقًا يا أخي! <ffx:smile_light>",
+      "reason": "ترجمة النداء الروسي الأخوي بدل نقله صوتيًا."
+    },
+    "1991": {
+      "decision": "change",
+      "target": "يا أنت، هناك في الأسفل!",
+      "reason": "نداء لا تحية عامة."
+    },
+    "1992": {
+      "decision": "change",
+      "target": "هيه!",
+      "reason": "صياغة النداء الطبيعي."
+    },
+    "1993": {
+      "decision": "change",
+      "target": "اصعد إلى هنا!",
+      "reason": "استعادة اتجاه الحركة إلى الأعلى."
+    },
+    "1994": {
+      "decision": "change",
+      "target": "اصعد إلى هنا يا رجل!",
+      "reason": "استعادة اتجاه الحركة إلى الأعلى."
+    },
+    "1995": {
+      "decision": "change",
+      "target": "هيا، تعال إلى هنا!",
+      "reason": "إصلاح فعل الحركة الناقص."
+    },
+    "1996": {
+      "decision": "change",
+      "target": "مهلًا! جد طريقًا إلى سطح المبنى، وسأنزل الرافعة لك!",
+      "reason": "صياغة النداء وتعليمات الصعود."
+    },
+    "1997": {
+      "decision": "change",
+      "target": "أرتيوم، هنا ميلر. لدي مهمة جديدة لك. تقول كاتيا، المرأة التي أنقذتها من الكنيسة، إن ميكانيكيًا يختبئ في الميناء. اسمه كريست. اعثر عليه وادعه إلى قاعدتنا. انتهى الاتصال...",
+      "reason": "تصحيح over and out ومقدمة اللاسلكي وإن وصيغة ادعه المجزومة."
+    },
+    "2000": {
+      "decision": "change",
+      "target": "<ffx:wonder_strong>ما ذاك بحق الجحيم؟ أحوت؟ <ffx:wonder_light>",
+      "reason": "استعادة نبرة الفزع والسباب دون تغيير الكائن المشبّه به."
+    },
+    "2002": {
+      "decision": "change",
+      "target": "<ffx:wonder>ألاحظت ما يحدث؟ <ffx:disgust>القريدس أولًا، ثم السمكة الضخمة! <ffx:wonder>أظن أن الضجيج يجذبها... <ffx:wonder_light>",
+      "reason": "توحيد القريدس وصياغة نمط الهجوم."
+    },
+    "2005": {
+      "decision": "change",
+      "target": "<ffx:smile>وتبًا، لم تخيّب ظني!",
+      "reason": "ليس شتمًا لأرتيوم، وضمير disappoint يعود إلى المشاهد."
+    },
+    "2006": {
+      "decision": "change",
+      "target": "<ffx:smile>ورأيتك تُخضع قوات الاحتلال سلميًا، بصليب مقدس وصلاة! هاها!",
+      "reason": "تصحيح المتكلم والمخاطب والفعل مع حفظ السخرية."
+    },
+    "2007": {
+      "decision": "change",
+      "target": "<ffx:wonder>آنا أبلغتنا بالفعل <ffx:disgust>عن الطائفة... <ffx:neutral>",
+      "reason": "إزالة التكرار والبنية المكسورة."
+    },
+    "2008": {
+      "decision": "change",
+      "target": "<ffx:sadness>لكن هذا ظلم، أقول لك! جُررت خارج موسكو، من أجل ماذا؟ <ffx:disgust>لأغذي الموقد وأقبع في مستنقع مع منظار سخيف؟ <ffx:sadness_light>",
+      "reason": "تصحيح stoking تغذية الموقد والحوار الساخط الطبيعي."
+    },
+    "2009": {
+      "decision": "change",
+      "target": "<ffx:sadness>لماذا ينال الآخرون المهام الممتعة؟ <ffx:fear_light>صحيح أن العقيد ينتقدك وما إلى ذلك، <ffx:anger_light>لكنه يكلّفك بأفضل المغامرات! <ffx:wonder>أهذه طريقته في إظهار مودته، أم يحاول التسبب في مقتلك؟",
+      "reason": "and all تعبير عام لا جميعكم؛ action المهام المثيرة لا أحداث مقدمة."
+    },
+    "2010": {
+      "decision": "change",
+      "target": "<ffx:smile>ما رأيك أن نتبادل الأدوار؟ <ffx:anger_light>لا أريد العودة إلى موسكو دون أن أطلق رصاصة واحدة! <ffx:sadness_light>كنت أحاول الفوز بقلب فتاة على حساب تاجر... <ffx:sadness>لكن لم يحالفني الحظ... <ffx:sadness_light>",
+      "reason": "استعادة المنافسة العاطفية مع تاجر، لا الفوز بفتاة بوصفها سلعة أو متداول مالي."
+    },
+    "2011": {
+      "decision": "change",
+      "target": "<ffx:smile>أما هنا فلدينا فرصة للعثور على غنائم! <ffx:wonder>ثمة طائرة هناك... <ffx:smile_light>اترك لي شيئًا فحسب، <ffx:sadness>فأظن أنني سأبقى هنا مدة أطول... <ffx:neutral>",
+      "reason": "إزالة التكرار والإشارة المكسورة إلى الطائرة."
+    },
+    "2012": {
+      "decision": "change",
+      "target": "<ffx:sadness_light>لكن القريدس يسبب لي المتاعب... <ffx:neutral>",
+      "reason": "توحيد اسم المتحول المائي."
+    },
+    "2014": {
+      "decision": "change",
+      "target": "<ffx:smile_light>ليتني أستطيع إقناع سمكة السلور تلك بالتهام كل هذه الحشرات المائية... <ffx:wonder>كيف كان ماوكلي يكلم الحيوانات يا ترى؟ <ffx:neutral>",
+      "reason": "الحديث عن سمكة محددة ضخمة؛ chomping التهام لا قضم عام."
+    },
+    "2016": {
+      "decision": "change",
+      "target": "<ffx:sadness_light>حسنًا، أظن أن عليك الذهاب الآن يا أرتيوم... <ffx:smile>أشعر بوالد زوجتك يصوّب منظاره نحونا ليحوّلنا إلى أعمدة من الملح! هاها! <ffx:neutral>",
+      "reason": "father-in-law والد زوجته آنا، لا والد زوج ذكر."
+    },
+    "2018": {
+      "decision": "change",
+      "target": "<ffx:wonder>أعدت بهذه السرعة يا أرتيوم؟ <ffx:smile_light>أنت سريع! <ffx:neutral>",
+      "reason": "already استغراب سرعة العودة."
+    },
+    "2020": {
+      "decision": "change",
+      "target": "<ffx:smile>مرحبًا أرتيوم! أعثرت على قوات الاحتلال؟ <ffx:wide_smile_light>أمسكهم من ذيولهم حين تجدهم! هاها! <ffx:smile_light>",
+      "reason": "صياغة الاستفهام والفعل الإحالي في المزاح عن المسوخ."
+    },
+    "2022": {
+      "decision": "change",
+      "target": "<ffx:wonder>في الواقع، لا أظن أن رجلًا واحدًا من الناتو قد يأتي إلى هنا... <ffx:smile>باستثنائي أنا بالطبع! هاها! <ffx:neutral>",
+      "reason": "Save for استثناء سام الأمريكي، لا فعل الحفظ."
+    },
+    "2024": {
+      "decision": "change",
+      "target": "<ffx:wonder_strong>ما حاجتهم إلى إقامة قاعدة هنا؟ <ffx:wonder_light>سيتمركزون في مدينة، لا في هذا المكان البائس...",
+      "reason": "hellhole سباب عن المكان لا حفرة حرفية."
+    },
+    "2025": {
+      "decision": "change",
+      "target": "<ffx:sadness>هذا إن أرادوا المجيء أصلًا... <ffx:sadness_light>",
+      "reason": "تعليق احتمالي متصل بالجملة السابقة."
+    },
+    "2027": {
+      "decision": "change",
+      "target": "<ffx:sadness_light>اتجه الرجال شمالًا، وعلى حد علمي، <ffx:wonder>لم يفتش أحد الجنوب الشرقي، لعلّك تبحث هناك... <ffx:neutral>",
+      "reason": "المخاطب أرتيوم المأمور بالبحث، لا غائب مجهول."
+    },
+    "2028": {
+      "decision": "change",
+      "target": "<ffx:wonder>إذن، هل فتشت المنطقة جنوبنا؟ <ffx:sadness_light>فهمت...",
+      "reason": "تصحيح I see وسلاسة اتجاه البحث."
+    },
+    "2032": {
+      "decision": "change",
+      "target": "<ffx:wonder>لكن لماذا؟! لا يعقل أن <ffx:anger_light>الأرض ابتلعتها! <ffx:neutral>",
+      "reason": "استفهام عن الاختفاء بعبارة مجازية عربية طبيعية."
+    },
+    "2035": {
+      "decision": "change",
+      "target": "<ffx:wonder>لا تقلقي يا كاتيا... <ffx:smile_light>سيجدها رجالنا قريبًا! <ffx:wonder_light>",
+      "reason": "our people رفاق الفريق، لا شعب سياسي."
+    },
+    "2038": {
+      "decision": "change",
+      "target": "<ffx:sadness_light>مع ذلك... لا أستطيع أن أهدأ... أتعلم... <ffx:sadness>لقد فعلت الكثير من أجلنا... <ffx:sadness_light>",
+      "reason": "كاتيا متحدثة مؤنثة؛ إصلاح still وجملة هادئًا."
+    },
+    "2039": {
+      "decision": "change",
+      "target": "<ffx:sadness_light>سيكون كل شيء على ما يرام...",
+      "reason": "تصحيح نقاط الحذف."
+    },
+    "2041": {
+      "decision": "change",
+      "target": "<ffx:wonder>أرأيت الآن؟ <ffx:smile>أرتيوم يتولى الأمر، لذا سيكون كل شيء بخير بالتأكيد! <ffx:smile_light>",
+      "reason": "المخاطبة كاتيا؛ on the case يتولى البحث لا موجود في قضية."
+    },
+    "2043": {
+      "decision": "change",
+      "target": "<ffx:sadness_light>لذهبت أبحث عنها لو كان الخيار بيدي، <ffx:sadness>لكن العقيد أمرني بالبقاء هنا لحراسة أورورا... <ffx:fear_light>فقد تكون هذه حيلة لتشتيت انتباهنا، كما تعلمين... <ffx:wonder_light>",
+      "reason": "الشرط الممتنع وdiversion خدعة إلهاء، والمخاطبة كاتيا مؤنثة."
+    },
+    "2044": {
+      "decision": "change",
+      "target": "<ffx:sadness>كل شيء وارد... كان هناك مستودع للأسلحة الكيميائية قرب هذه المنطقة... <ffx:disgust_light>ولهذا تكثر المسوخ هنا والتربة سيئة جدًا... <ffx:sadness_light>على الأقل نستطيع التنفس، على ما أظن... <ffx:neutral>",
+      "reason": "صياغة السببية الطبيعية بدل شطر لماذا غير الاستفهامي."
+    }
+  }
+}

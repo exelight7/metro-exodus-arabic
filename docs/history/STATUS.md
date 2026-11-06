@@ -1,7 +1,7 @@
 # Metro Exodus — حالة التعريب
 
 <!-- NEXT -->
-- 2026-11-04 12:06 (S1-codex-release): Published https://github.com/exelight7/metro-exodus-arabic/releases/tag/v0.1.0-beta.1 with7 verified public assets;source commit cd505aae10b24a504e750e7c998633fcf9df10b4. Preserve published tag/assets;future changes need new version. Keep final_review_r1/loading_complete_r1 and prior translation sources. Never launch game;manual prose/orange speaker/in-game QA remain open. See github_release_receipt.json and github_publication_verified.json.
+- 2026-11-04 19:37 (S1-story-review4): D-034 story_context_r4:62 corrections verified,prior213 preserved. Candidate100_story_context_r4_verified and09_release/story_context_r4;not installed/published. CSV newer than public/installed final_review_r1;preserve all contexts and no game launch.
 <!-- /NEXT -->
 
 ## الحالة الحالية
@@ -151,3 +151,10 @@ comprehensive_r1 installed:265 additional source-reviewed corrections across dia
 - المسرد: 16 مصطلح · المشاكل: fixed_pending_visual_verification 2، fixed_file_verified 1، fixed_packaged_glyphs_verified 1، timelines_file_verified 1 · القرارات: 8 (آخرها D-008 — Deploy all extracted LNG text; white dialogue and unchanged orange right-side names use complementary native subtitle controls.)
 - اللقطات: 0 (آخرها `-`) · آخر بناء: 2026-11-02T15:59:38 — OK
 <!-- /AUTO:PROGRESS -->
+
+- 2026-11-04 / D-029: Full project, foura-dialogue Skill/toolkit and unchanged installers published as v0.2.0-beta.2. 455 source hashes match Git and downloaded source ZIP; 9 server asset digests match. Recovery and current-table rebuild reproduced the final payload exactly without touching the game. See publication receipts and foura_real_validation/full_project_recovery reports.
+
+
+## D-035 — full_language_r1 / 2026-11-06
+
+طلب المستخدم إنهاء خفيف ونشر المشروع كاملًا بدل انتظار المراجعة الشاملة. ثُبتت التغطية عند 23,500 سجل، مع 12,618 تعديلًا و14,721 خارج تغطية الجولة و4 مواضع ملتبسة. راجع القرارات المحفوظة ولا تفترض اكتمال التدقيق. تحفظ full_language_r1_context.json النتائج آخر correct_spelling حتى لا تعيدها طبقات المسودات. الحزمة الجديدة مستقلة، بلا تشغيل أو تثبيت على اللعبة الحية. يتضمن v1.0.0 مثبتين جديدين ونشرًا مستقرًا مصرحًا به؛ لا يعني ذلك حل اللون البرتقالي أو حركة الكتابة RTL.

@@ -1,0 +1,18 @@
+{
+  "revision": "story_context_r1",
+  "rows_checked": 38221,
+  "runtime_entries": 38223,
+  "individually_reviewed_context_corrections": 74,
+  "unchanged_runtime_entries": 38149,
+  "previous_spelling_fixes_preserved": true,
+  "nontext_assets_preserved": 11,
+  "ids_sources_placeholders_and_timings_preserved": true,
+  "normalization_idempotent": true,
+  "invitation_vs_radio_distinction_checked": true,
+  "branch_specific_notes_kept_separate": true,
+  "full_manual_game_review": false,
+  "installed": false,
+  "published": false,
+  "game_launched": false,
+  "live_game_written": false
+}

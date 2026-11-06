@@ -1,0 +1,271 @@
+{
+  "start": 1620,
+  "end": 1710,
+  "decisions": {
+    "1620": {
+      "decision": "change",
+      "target": "<ffx:wonder>تفقدت المنطقة وأنت في الداخل...<ffx:neutral>",
+      "reason": "look around تفقد ما حول المتكلمة لا حول أرتيوم المخاطب."
+    },
+    "1628": {
+      "decision": "change",
+      "target": "<ffx:wide_smile>حظًا موفقًا!<ffx:neutral>",
+      "reason": "Break a leg تمني التوفيق لا إصابة ساق."
+    },
+    "1630": {
+      "decision": "change",
+      "target": "<ffx:anger>الكنيسة هناك!<ffx:disgust_light> التفت نحوها واركض، أسرع!<ffx:neutral>",
+      "reason": "Face that way التوجه نحو الكنيسة لا واجه بهذه الطريقة."
+    },
+    "1631": {
+      "decision": "change",
+      "target": "<ffx:smile_light>لا أصدق أن ابنتي تزوجت هذا الرجل...<ffx:smile> جنون!<ffx:neutral>",
+      "reason": "To think تعجب مما وقع فعلًا لا تخمين حصول الزواج."
+    },
+    "1633": {
+      "decision": "change",
+      "target": "كفى! لن تحصل على شيء هذا الأسبوع!",
+      "reason": "Thats it سخط آنا، مع حفظ التلميح دون تحويله إلى معنى صريح مضاف."
+    },
+    "1634": {
+      "decision": "change",
+      "target": "الآن غضبت حقًا يا أرتيوم! أطالب بالطلاق!",
+      "reason": "تصحيح تأنيث آنا وإزالة رسميًا الحرفية في مزاح الزوجة."
+    },
+    "1637": {
+      "decision": "change",
+      "target": "لقد سئمت يا أرتيوم. سأنتظر عند برج الكهرباء. عد حين تكتفي من التجول، واستعد لتوبيخ أبي!",
+      "reason": "I have had it سئمت لا لقد كان، وتصحيح أمر العودة وchewed out توبيخ لا مضغ."
+    },
+    "1640": {
+      "decision": "change",
+      "target": "أرى أناسًا في الكنيسة، ولا يبدو أن أحدًا مسلح. الأفضل أن نتقدم إليهم علانية.",
+      "reason": "open approach اقتراب علني لا النهج المفتوح المجرد."
+    },
+    "1644": {
+      "decision": "change",
+      "target": "<ffx:wonder>بدأ أبونا المقدس سيلانتيوس موعظته،<ffx:smile> فادخل الهيكل لتبصر نور الحق...<ffx:smile_light>",
+      "reason": "تصحيح فعل إبصار نور الحق ولقب الأب المقدس دون إضافة قداسة رسمية كاسم."
+    },
+    "1645": {
+      "decision": "change",
+      "target": "<ffx:wonder>نحن قوم مسالمون،<ffx:smile_light> فلا تشهر سلاحك، من فضلك.",
+      "reason": "weapons sheathed عدم إشهار السلاح لا تغليف أسلحة بأغلفة."
+    },
+    "1647": {
+      "decision": "change",
+      "target": "<ffx:wonder_strong>اصعد إلى هنا!<ffx:wonder_light>",
+      "reason": "استعادة اتجاه الصعود."
+    },
+    "1651": {
+      "decision": "change",
+      "target": "<ffx:anger>سيصل إخوتنا المقاتلون قريبًا،<ffx:smile> ويقام عدل الرب!<ffx:neutral>",
+      "reason": "brothers militant مقاتلو الطائفة لا مناضلون سياسيون."
+    },
+    "1652": {
+      "decision": "change",
+      "target": "<ffx:anger>فليطردوا كاتيا ونسلها أيضًا!<ffx:neutral>",
+      "reason": "spawn نسل على سبيل الازدراء لا فعل تفرخ."
+    },
+    "1655": {
+      "decision": "change",
+      "target": "<ffx:smile>نعم! إنها أملنا الوحيد!<ffx:neutral>",
+      "reason": "الضمير عائد إلى عدالة الرب المؤنثة في السياق."
+    },
+    "1656": {
+      "decision": "change",
+      "target": "<ffx:smile>حكم سريع وعادل! أقيموا عدل الرب!<ffx:neutral>",
+      "reason": "sentence حكم قضائي لا جملة لغوية، وإصلاح أمر إقامة العدل."
+    },
+    "1657": {
+      "decision": "change",
+      "target": "<ffx:smile>فلا نخش الزنادقة ولا ظل الموت!<ffx:wonder_strong> فنحن جميعًا في يد ربنا!<ffx:neutral>",
+      "reason": "توحيد heretics إلى الزنادقة وصياغة الوعظ دون حرفية دعونا."
+    },
+    "1658": {
+      "decision": "change",
+      "target": "<ffx:wonder_strong>وإن أفلت بعض الزنادقة من حراستنا اليقظة،<ffx:smile_light> فستلتهمهم سمكة القيصر!<ffx:wonder_light>",
+      "reason": "vigil حراسة يقظة لا وقفة احتجاجية، مع حفظ الوعيد."
+    },
+    "1659": {
+      "decision": "change",
+      "target": "<ffx:wonder_strong>فلنناديها الآن!<ffx:wonder_light>",
+      "reason": "call for استدعاء سمكة القيصر لا الدعاء لها بحاجات، وإحالة مؤنثة للاسم."
+    },
+    "1660": {
+      "decision": "change",
+      "target": "<ffx:fear>تعالي يا سمكة القيصر!<ffx:fear_light>",
+      "reason": "تصحيح أمر المؤنث العائد إلى الاسم المعتمد سمكة القيصر."
+    },
+    "1661": {
+      "decision": "change",
+      "target": "<ffx:fear>تعالي يا سمكة القيصر!<ffx:fear_light>",
+      "reason": "تصحيح أمر المؤنث العائد إلى الاسم المعتمد سمكة القيصر."
+    },
+    "1662": {
+      "decision": "change",
+      "target": "<ffx:fear>تعالي يا سمكة القيصر!<ffx:fear_light>",
+      "reason": "تصحيح أمر المؤنث العائد إلى الاسم المعتمد سمكة القيصر."
+    },
+    "1663": {
+      "decision": "change",
+      "target": "<ffx:fear>تعالي يا سمكة القيصر!<ffx:fear_light>",
+      "reason": "تصحيح أمر المؤنث العائد إلى الاسم المعتمد سمكة القيصر."
+    },
+    "1664": {
+      "decision": "change",
+      "target": "<ffx:fear>تعالي يا سمكة القيصر!<ffx:fear_light>",
+      "reason": "تصحيح أمر المؤنث العائد إلى الاسم المعتمد سمكة القيصر."
+    },
+    "1665": {
+      "decision": "change",
+      "target": "<ffx:wonder_strong>فلنتوسل إليها أن تحمينا!<ffx:wonder_light>",
+      "reason": "توسل طلب حماية لا حماية السمكة نفسها، وتأنيث الإحالة العربية."
+    },
+    "1666": {
+      "decision": "change",
+      "target": "<ffx:fear>احمينا يا سمكة القيصر!<ffx:fear_light>",
+      "reason": "تصحيح أمر الحماية المؤنث مع إبقاء اسم سمكة القيصر."
+    },
+    "1667": {
+      "decision": "change",
+      "target": "<ffx:fear>احمينا يا سمكة القيصر!<ffx:fear_light>",
+      "reason": "تصحيح أمر الحماية المؤنث مع إبقاء اسم سمكة القيصر."
+    },
+    "1668": {
+      "decision": "change",
+      "target": "<ffx:fear>احمينا يا سمكة القيصر!<ffx:fear_light>",
+      "reason": "تصحيح أمر الحماية المؤنث مع إبقاء اسم سمكة القيصر."
+    },
+    "1669": {
+      "decision": "change",
+      "target": "<ffx:fear>احمينا يا سمكة القيصر!<ffx:fear_light>",
+      "reason": "تصحيح أمر الحماية المؤنث مع إبقاء اسم سمكة القيصر."
+    },
+    "1670": {
+      "decision": "change",
+      "target": "<ffx:fear>احمينا يا سمكة القيصر!<ffx:fear_light>",
+      "reason": "تصحيح أمر الحماية المؤنث مع إبقاء اسم سمكة القيصر."
+    },
+    "1671": {
+      "decision": "change",
+      "target": "<ffx:disgust_strong>وبتحريض من الشيطان ابتكرت البشرية التقنية سعيًا إلى التجديف والدمار،<ffx:fear_strong> تعمل كلها بالكهرباء، أنفاس الشيطان السامة!<ffx:fear_light>",
+      "reason": "توحيد التقنية وصقل النبرة الوعظية وحفظ ادعاء الطائفة لا تقرير حقيقة خارجه."
+    },
+    "1672": {
+      "decision": "change",
+      "target": "<ffx:wonder_strong>ورأيت رؤيا ألهمني إياها الرب،<ffx:fear> رؤيا عقاب إلهي على خطايا الكهرباء والتقنية الآثمة!<ffx:fear_light>",
+      "reason": "الرؤيا الدينية لا رؤية عادية، وتوحيد التقنية وصياغة الإلهام."
+    },
+    "1673": {
+      "decision": "change",
+      "target": "<ffx:smile_strong>وحدث ما رأيته في الرؤيا!<ffx:fear> ولقي الخطاة مصيرًا جهنميًا بسبب ما ابتكروه!<ffx:fear_light>",
+      "reason": "الرؤيا للمتكلم لا لما تصوره غائب، واستعادة سبب العقاب من صنع البشر."
+    },
+    "1674": {
+      "decision": "change",
+      "target": "<ffx:wonder_strong>ثم رأيت رؤيا جديدة! هكذا يقول الرب!<ffx:wonder_light>",
+      "reason": "توحيد رؤيا وصياغة الإعلان النبوي."
+    },
+    "1681": {
+      "decision": "change",
+      "target": "<ffx:wonder_strong>التقنية خطيئة!<ffx:wonder_light>",
+      "reason": "توحيد Technology إلى التقنية وإعادة الوسم إلى بداية القول."
+    },
+    "1682": {
+      "decision": "change",
+      "target": "<ffx:fear>التقنية خطيئة!<ffx:fear_light>",
+      "reason": "توحيد Technology إلى التقنية وإعادة الوسم إلى بداية القول."
+    },
+    "1683": {
+      "decision": "change",
+      "target": "<ffx:fear>التقنية خطيئة!<ffx:fear_light>",
+      "reason": "توحيد Technology إلى التقنية وإعادة الوسم إلى بداية القول."
+    },
+    "1684": {
+      "decision": "change",
+      "target": "<ffx:fear>التقنية خطيئة!<ffx:fear_light>",
+      "reason": "توحيد Technology إلى التقنية وإعادة الوسم إلى بداية القول."
+    },
+    "1685": {
+      "decision": "change",
+      "target": "<ffx:fear>التقنية خطيئة!<ffx:fear_light>",
+      "reason": "توحيد Technology إلى التقنية وإعادة الوسم إلى بداية القول."
+    },
+    "1686": {
+      "decision": "change",
+      "target": "<ffx:fear>التقنية خطيئة!<ffx:fear_light>",
+      "reason": "توحيد Technology إلى التقنية وإعادة الوسم إلى بداية القول."
+    },
+    "1687": {
+      "decision": "change",
+      "target": "<ffx:smile>ونحن الأبرار، أحباء الرب،<ffx:wonder_strong> نجونا بمشيئته في ديرنا،<ffx:smile_light> لأننا قاومنا<ffx:anger> إغواء الشيطان وصددناه!<ffx:wonder_light>",
+      "reason": "تصحيح محبوبِي الرب المجرورة في خبر نحن وصقل ادعاء النجاة بالمقاومة."
+    },
+    "1688": {
+      "decision": "change",
+      "target": "<ffx:wonder_strong>ورأيت رؤيا أخرى عن شياطين العدو التي<ffx:fear_strong> تقتل وتشوه بكهربائها، وعن أعوانه القادمين على صهوة جواد من حديد<ffx:disgust> ليفسدوا الأبرار بأكاذيبهم! وعن حارس للمياه،<ffx:wonder_strong> سمكة القيصر، يرسل إلينا ليذكرنا بواجبنا!<ffx:wonder_light>",
+      "reason": "الشياطين تقتل البشر لا العكس؛ إصلاح انقلاب الفاعل والمفعول والفاصلة المكررة مع حفظ صور الوعظ."
+    },
+    "1689": {
+      "decision": "change",
+      "target": "<ffx:fear>وامتلأت الغابات بشياطين الكهرباء، وهلك كثير من ضعفاء الإيمان!<ffx:sadness> والتهمت سمكة القيصر مرتدين كثيرين،<ffx:wonder> فرسخ الإيمان في قلوبنا!",
+      "reason": "their faith إيمان أصحاب القلوب لا إيمان طرف آخر؛ حفظ دعوى الرسوخ لا القسوة."
+    },
+    "1690": {
+      "decision": "change",
+      "target": "فلنصد الإغواء أيها الإخوة،<ffx:smile> ولنقبل بنفوسنا على الصلاة!<ffx:fear_strong> ولينزل غضب الرب على الخطاة والشياطين كما كان دائمًا،<ffx:wonder_strong> وليرث الأبرار النعيم الأبدي إلى أبد الآبدين، آمين!<ffx:wonder_light>",
+      "reason": "تصحيح فعل الإقبال على الصلاة بدل مصدر تحويل المنفصل."
+    },
+    "1691": {
+      "decision": "change",
+      "target": "<ffx:anger>وإن جاء الزنادقة ليقتلونا، فسنظل صامدين!<ffx:wonder_light>",
+      "reason": "come for our lives يقصد سلب الحياة لا إنقاذها؛ توحيد الزنادقة."
+    },
+    "1693": {
+      "decision": "change",
+      "target": "<ffx:fear_strong>وسينتقم ربنا لهؤلاء الشهداء،<ffx:disgust> فمن يقتل أحد المؤمنين ملعون إلى الأبد!<ffx:wonder_light>",
+      "reason": "حفظ تعليل اللعنة الأبدية دون إضافة خالدًا فيه ذات المرجع غير المذكور."
+    },
+    "1696": {
+      "decision": "change",
+      "target": "<ffx:disgust>أكاذيب كادت تبيد البشرية!<ffx:fear_light>",
+      "reason": "all but eradicated كادت تبيد لا أبيدت البشرية بالكامل."
+    },
+    "1698": {
+      "decision": "change",
+      "target": "<ffx:disgust>كلكم أشرار!<ffx:anger> لا تنقذون أحدًا!<ffx:anger_light>",
+      "reason": "تصحيح مخاطب الجمع في الشطر الثاني."
+    },
+    "1700": {
+      "decision": "change",
+      "target": "<ffx:disgust>نسل الشيطان...<ffx:fear_light>",
+      "reason": "spawn نسل لا فعل تفرخ."
+    },
+    "1703": {
+      "decision": "change",
+      "target": "<ffx:disgust_strong>تلك الساحرة الملعونة...<ffx:anger> وأمها الكلبة أيضًا!<ffx:fear_light>",
+      "reason": "dog of a mother إهانة الأم لا كلب تملكه."
+    },
+    "1704": {
+      "decision": "change",
+      "target": "<ffx:disgust>أنجاس، موسومون بالكهرباء...<ffx:fear_light>",
+      "reason": "marked وصمة في اعتقادهم لا تميز إيجابي بالكهرباء."
+    },
+    "1706": {
+      "decision": "change",
+      "target": "<ffx:anger>انفها، ليكون ذلك درسًا لهم!<ffx:fear_light>",
+      "reason": "Banish نفي وسيرى الباقون العقوبة درسًا لا مجرد فعل تعليم مبهم."
+    },
+    "1707": {
+      "decision": "change",
+      "target": "<ffx:anger>نعم! إنهم لا يستحقون حماية سمكة القيصر!<ffx:fear_light>",
+      "reason": "توحيد اسم وحش الحماية المفرد لا أسماك متعددة."
+    },
+    "1709": {
+      "decision": "change",
+      "target": "<ffx:disgust>انفوهم! احملوهم على التوبة!<ffx:fear_light>",
+      "reason": "إصلاح المصدر نفيهم إلى فعل أمر وطبيعة الإكراه الوعظي."
+    }
+  }
+}

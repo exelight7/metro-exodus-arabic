@@ -1,0 +1,83 @@
+{
+  "revision": "full_language_r1",
+  "table_rows": 38221,
+  "reviewed_rows": 23500,
+  "changed_rows": 12618,
+  "unreviewed_rows": 14721,
+  "full_manual_game_review": false,
+  "coverage": {
+    "root": {
+      "reviewed": 4240,
+      "assigned": 6362,
+      "counts": {
+        "keep": 2607,
+        "nontranslatable": 826,
+        "change": 804,
+        "needs_context": 3
+      }
+    },
+    "early": {
+      "reviewed": 3280,
+      "assigned": 7189,
+      "counts": {
+        "keep": 1497,
+        "change": 1749,
+        "nontranslatable": 34
+      }
+    },
+    "late": {
+      "reviewed": 4860,
+      "assigned": 6480,
+      "counts": {
+        "change": 2318,
+        "keep": 2483,
+        "nontranslatable": 58,
+        "needs_context": 1
+      }
+    },
+    "combat": {
+      "reviewed": 11120,
+      "assigned": 18190,
+      "counts": {
+        "change": 7747,
+        "keep": 3314,
+        "nontranslatable": 59
+      }
+    }
+  },
+  "needs_context": [
+    {
+      "id": "$credits.0954.d_center_name",
+      "row": 26956,
+      "decision": "needs_context",
+      "reason": "Rigger Woman تسمية دور محتملة لعاملات منصة النفط؛ لا يكفي هذا السطر لتثبيت ترجمتها مع الفئة داخل العالم."
+    },
+    {
+      "id": "$credits.0977.d_center_name",
+      "row": 7372,
+      "decision": "needs_context",
+      "reason": "الترجمة ريجر نقل صوتي؛ يحتاج اسم الدور Rigger Woman إلى تثبيت من سياق الفئة داخل اللعبة."
+    },
+    {
+      "id": "$credits.0989.d_center_name",
+      "row": 21422,
+      "decision": "needs_context",
+      "reason": "Robid Hood تهجئة ملتبسة لدور في الأصل؛ يلزم ربطه بخريطة الشخصيات قبل تغيير الاسم المعتمد حاليًا."
+    },
+    {
+      "id": "voices\\m3_13_dead_city\\nvs_003_sam_artyomgoodbye_01_02",
+      "row": 23885,
+      "decision": "needs_context",
+      "reason": "Crash and burn عبارة سام الوداعية مع ضحكة بعد تمنيه التوفيق ضمنيًا؛ يلزم سماع الأداء أو معرفة المقابل الروسي لتحديد هل هي دعاء ساخر بالفشل أم صيغة تمنٍّ عكسية. لا أستبدلها بتمنٍّ ناجح اعتمادًا على تخمين."
+    }
+  ],
+  "protected_tokens_preserved": true,
+  "sources_ids_order_preserved": true,
+  "scope_change": "User requested light finishing and publishing all project files on 2026-11-06; stopped at persisted checkpoints.",
+  "game_started": false,
+  "live_game_written": false,
+  "normalization_idempotent": true,
+  "nontext_assets_preserved": 11,
+  "runtime_entries": 38223,
+  "changed_runtime_entries": 12615
+}

@@ -1,0 +1,13 @@
+{
+  "partition": "late",
+  "assigned": 6480,
+  "reviewed": 4860,
+  "next_index": 4860,
+  "complete": false,
+  "counts": {
+    "change": 2316,
+    "keep": 2483,
+    "nontranslatable": 58,
+    "needs_context": 3
+  }
+}

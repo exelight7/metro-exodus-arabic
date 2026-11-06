@@ -1,0 +1,241 @@
+{
+  "start": 2315,
+  "end": 2405,
+  "decisions": {
+    "2317": {
+      "decision": "change",
+      "target": "<ffx:sadness>حسنًا، إنه قائدنا، لذا <ffx:smile_light>لا بد له من الصراخ! <ffx:smile>لا تقلقي، كل شيء بخير! <ffx:wonder_light>",
+      "reason": "المخاطبة ناستيا مؤنثة."
+    },
+    "2318": {
+      "decision": "change",
+      "target": "<ffx:smile_light>آه... مرحبًا... لماذا لا <ffx:wonder>يسمحون لنا بالصعود؟... <ffx:anger_light>العم كريست على القطار فعلًا! <ffx:neutral>",
+      "reason": "إصلاح العبارة المبتورة وwon’t منع حاضر، لا ماض."
+    },
+    "2320": {
+      "decision": "change",
+      "target": "<ffx:smile>مرحبًا أرتيوم... انطلق وأحسن البلاء! <ffx:smile_light>",
+      "reason": "Go get them تشجيع للمهمة لا أمر بجلب أشخاص مبهمين."
+    },
+    "2321": {
+      "decision": "change",
+      "target": "<ffx:wonder>أرتيوم، اصعد إلينا! <ffx:sadness>لدينا مشكلة هنا! <ffx:neutral>",
+      "reason": "استعادة اتجاه الحركة come up."
+    },
+    "2324": {
+      "decision": "change",
+      "target": "<ffx:smile>صار لدي مساعد الآن. قد ننجز <ffx:wide_smile_light>الإصلاحات في وقت مناسب فعلًا! <ffx:neutral>",
+      "reason": "إصلاح الاسم الناقص والتعبير عن سرعة الإنجاز."
+    },
+    "2326": {
+      "decision": "change",
+      "target": "<ffx:smile>مرحبًا أرتيوم! أرأيت كيف انتهى كل شيء على خير؟! <ffx:smile_light>",
+      "reason": "worked out نجاح الترتيب لا مجرد تمامه."
+    },
+    "2329": {
+      "decision": "change",
+      "target": "<ffx:disgust_light>هيا يا أرتيوم! <ffx:anger_light>اجلس أخيرًا!... <ffx:neutral>",
+      "reason": "already هنا نفاد صبر لا بالفعل الخبرية."
+    },
+    "2331": {
+      "decision": "change",
+      "target": "<ffx:wonder_light>اسمع، لدينا فرصة لعبور الجسر دون اقتحامه. <ffx:sadness_light>ثمة قوافل تجارية تصعد النهر، وسكان الجسر يتاجرون معها. <ffx:wonder>سنتنكر إذن في هيئة تجار مثلهم، <ffx:smile_light>ونتسلل إلى الجسر ونخفضه. <ffx:wonder_light>تقول كاتيا إنه ما زال يعمل. <ffx:smile_light>لن يستطيعوا إيقافنا إن تحركنا بسرعة.<ffx:wonder_light>",
+      "reason": "تصحيح assault العسكري والضمائر وتحديد عملية خفض الجسر."
+    },
+    "2333": {
+      "decision": "change",
+      "target": "<ffx:wonder>فلم لا نجلب العربة التي حدثتنا عنها كاتيا ريثما ننتظر؟! <ffx:anger_light>لا يمكننا ترك الطفلة هنا! <ffx:wonder>ثم إلى متى سنظل ننام بالتناوب؟",
+      "reason": "collect جلب العربة لا جمعها، وناستيا طفلة مؤنثة."
+    },
+    "2334": {
+      "decision": "change",
+      "target": "<ffx:anger>أعدت إلى هذا الكلام؟! <ffx:wonder>كيف؟ كيف سنجلب تلك العربة؟ <ffx:anger>لن آخذ أورورا إلى هناك! <ffx:neutral>",
+      "reason": "تصحيح الاعتراض وcollect العربة."
+    },
+    "2337": {
+      "decision": "change",
+      "target": "<ffx:disgust>حسنًا، حسنًا، كما تريدون. <ffx:smile_light>سئمت لعب دور الوحش هنا... <ffx:wonder_light>نجلب العربة ونأخذ المدنيين <ffx:anger_light>معنا. أرتيوم! <ffx:wonder>أتتولى الأمر؟",
+      "reason": "have it your way إذعان لاقتراح الرفاق لا أمر باتباع طريقتهم."
+    },
+    "2338": {
+      "decision": "change",
+      "target": "<ffx:sadness_light>اسمع يا أرتيوم... <ffx:wonder>إن رُصدت القافلة، فاترك ما بيدك وأسرع إلى الميناء. <ffx:anger_light>إنها أفضل فرصنا لعبور الجسر. <ffx:neutral>",
+      "reason": "drop everything قطع المهمة فورًا لا إسقاط المعدات."
+    },
+    "2340": {
+      "decision": "change",
+      "target": "<ffx:wonder>خذ يا أرتيوم. هذا <ffx:smile_light>قاطع تيار عربة السكة الحديد. لن تعمل من دونه. <ffx:neutral>",
+      "reason": "Here تقديم المعدة؛ تعيين breaker كهربائي بحسب الإنجليزية، والروسية تؤيد قطعة الأمان الكهربائية وإن تسميها منصهرًا."
+    },
+    "2341": {
+      "decision": "change",
+      "target": "<ffx:smile>إنها فاتنة حقًا، لا شك في ذلك.",
+      "reason": "no two ways about it لا شك، لا طريقتان."
+    },
+    "2342": {
+      "decision": "change",
+      "target": "<ffx:wonder>اجتزنا الجحيم وعدنا، أنا وهي... <ffx:wonder>كم حمّلناها من أغراض، وكم <ffx:smile_light>مأزقًا أنقذتني منه... <ffx:wonder_light>",
+      "reason": "tight spots مآزق لا أماكن ضيقة، واستعادة فاعل نقل الأغراض."
+    },
+    "2344": {
+      "decision": "change",
+      "target": "<ffx:anger_light>لكن الطريق لن يكون سهلًا، فالوحوش تخرج بأعداد أكبر، وهناك أيضًا <ffx:disgust_light>ظواهر كهربائية شاذة! <ffx:disgust>يسميها المتعصبون شياطين الكهرباء... لذا <ffx:fear_light>فكّر في خياراتك قبل الانطلاق... <ffx:wonder_light>",
+      "reason": "تصحيح الاسم الناقص للظواهر الشاذة وبنية التفسير."
+    },
+    "2345": {
+      "decision": "change",
+      "target": "<ffx:wonder>أرتيوم، ديوك في مهمة بتلك المنطقة يراقب الجسر. <ffx:sadness>الاستقبال سيئ هناك، ولا نسمع منه إلا التشويش غالبًا... <ffx:wonder>على أي حال، إن لقيته فسيطلعك على <ffx:smile_light>آخر المستجدات في المحطة.",
+      "reason": "static تشويش الإشارة لا الثبات، وإصلاح العبارة الناقصة."
+    },
+    "2346": {
+      "decision": "change",
+      "target": "<ffx:smile_light>أراهن أنك تآمرت مع آنا وستيبان... <ffx:fear_light>اسمع، أنا لا أقل عنك حرصًا على كاتيا وابنتها، لكن... <ffx:sadness>لا ندري إن كان ما ينتظرنا أفضل من المتعصبين! <ffx:wonder_light>آه، سنرى ما تخبئه الأيام...",
+      "reason": "those two المرأتان المراد إنقاذهما لا الشريكان في الإقناع؛ live and see انتظار النتيجة."
+    },
+    "2350": {
+      "decision": "change",
+      "target": "<ffx:wonder>سأتصل بك، فأبقِ جهازك اللاسلكي مشغّلًا. <ffx:smile>حظًا موفقًا! <ffx:neutral>",
+      "reason": "keep on تشغيل الجهاز وBreak a leg تمني التوفيق."
+    },
+    "2352": {
+      "decision": "change",
+      "target": "<ffx:wonder>أرتيوم، اصعد إلى هنا. أريد الحديث معك في أمر! <ffx:neutral>",
+      "reason": "استعادة اتجاه الحركة."
+    },
+    "2354": {
+      "decision": "change",
+      "target": "<ffx:wonder>هيا يا أرتيوم، اصعد إلى هنا! <ffx:neutral>",
+      "reason": "استعادة اتجاه الحركة."
+    },
+    "2355": {
+      "decision": "change",
+      "target": "<ffx:smile_light>هيا! <ffx:fear_light>الرجل العجوز ينتظر... <ffx:neutral>",
+      "reason": "تصحيح الفعل بدل المصدر المعلق."
+    },
+    "2356": {
+      "decision": "change",
+      "target": "أرتيوم، نراك! أحسنت! تعال إلى هنا الآن، فقد وصلت القافلة.",
+      "reason": "المخاطب أرتيوم المفرد."
+    },
+    "2359": {
+      "decision": "change",
+      "target": "<ffx:wonder>إذن، ما أخبار جلب تلك العربة يا أرتيوم؟ <ffx:neutral>",
+      "reason": "يسأل عن تقدم المهمة لا حال العربة المجسمة."
+    },
+    "2362": {
+      "decision": "change",
+      "target": "<ffx:smile>عرفت أنك ذو قدرات كبيرة منذ <ffx:wide_smile>أن التقينا عند جهاز التشويش!",
+      "reason": "at the jammer عنده لا داخله، وصياغة استعادة المعرفة السابقة."
+    },
+    "2364": {
+      "decision": "change",
+      "target": "<ffx:wonder>وكانت آنا أشدنا قلقًا، <ffx:smile_light>بالطبع...",
+      "reason": "الحوار بعد العودة، لا قلق حاضر لم ينته."
+    },
+    "2367": {
+      "decision": "change",
+      "target": "<ffx:wonder>لا أجد كلمات تصف ما يعنيه هذا لنا... <ffx:smile>شكرًا لك!",
+      "reason": "تعبير العجز عن وصف الامتنان طبيعي لا بدء شرح حرفي."
+    },
+    "2368": {
+      "decision": "change",
+      "target": "<ffx:smile_light>إنها، كما ترى، العربة التي عشنا فيها قبل عام...",
+      "reason": "المخاطب مفرد واستعادة علاقة العربة القديمة."
+    },
+    "2369": {
+      "decision": "change",
+      "target": "<ffx:wonder>كم من أشياء... <ffx:sadness_light>حدثت...",
+      "reason": "إصلاح موضع الوقفة مع حفظ الوسمين."
+    },
+    "2370": {
+      "decision": "change",
+      "target": "<ffx:smile>مرحى! ها هو بيتنا القديم! <ffx:neutral>",
+      "reason": "صيحة فرح عربية بدل النقل الصوتي yay."
+    },
+    "2371": {
+      "decision": "change",
+      "target": "<ffx:wonder>إذن، أمستعد للاندفاعة الأخيرة؟ <ffx:neutral>",
+      "reason": "final push المرحلة الحاسمة من المهمة لا دفعة مالية أو شيء مدفوع."
+    },
+    "2374": {
+      "decision": "change",
+      "target": "<ffx:smile>واضح أنها حظيت بالعناية اللازمة طوال هذا الوقت، <ffx:sadness>على عكس عجوزي المسكينة... <ffx:neutral>",
+      "reason": "إزالة الفاصلة المكررة؛ gal تحبب يرماك للقاطرة لا فتاة بشرية."
+    },
+    "2375": {
+      "decision": "change",
+      "target": "<ffx:wonder>أتساءل عن أقصى سرعتها على مسار مستقيم... <ffx:smile_light>عليّ أن أسأل كريست عن ذلك.",
+      "reason": "من يسأل يرماك لا عربة السكة الحديد."
+    },
+    "2376": {
+      "decision": "change",
+      "target": "<ffx:sadness>لكن، بعد كل هذا الدمار، هل بقي شيء اسمه «مسار مستقيم» أصلًا... <ffx:neutral>",
+      "reason": "straight line مسار سكة مستقيم في سياق السرعة."
+    },
+    "2378": {
+      "decision": "change",
+      "target": "<ffx:wonder>أتتخيل مقدار الشجاعة التي يتطلبها ذلك يا أرتيوم؟ <ffx:neutral>",
+      "reason": "الشجاعة المطلوبة للرحلة لا شجاعة يتحملها المخاطب."
+    },
+    "2379": {
+      "decision": "change",
+      "target": "<ffx:smile_light>ويداه ماهرتان... <ffx:wonder>ومعرفته واسعة... <ffx:smile>هذا الكريست مكسب كبير لنا في كل الأحوال! <ffx:smile_light>نعم، مكسب كبير بالتأكيد. <ffx:neutral>",
+      "reason": "صياغة الثناء على حرفية الميكانيكي ومكسبه للفريق الطبيعية."
+    },
+    "2380": {
+      "decision": "change",
+      "target": "<ffx:smile>يا أرتيوم، انظر إلى أورورا! عادت إلى العمل! <ffx:smile_light>لولا كريست لاستغرقت الإصلاحات مني دهرًا...",
+      "reason": "forever مبالغة مدة الإصلاح، لا أخذ المتكلم إلى الأبد."
+    },
+    "2382": {
+      "decision": "change",
+      "target": "<ffx:wonder>حسنًا يا أرتيوم... <ffx:smile>حظًا موفقًا! <ffx:neutral>",
+      "reason": "Break a leg تمني التوفيق."
+    },
+    "2383": {
+      "decision": "change",
+      "target": "<ffx:wonder>ما إن تبلغ سرعتها خمسين، حتى... أتعلم...",
+      "reason": "الروسية تحدد سرعة القاطرة؛ حفظ الرقم دون إضافة وحدة غير موجودة بالمرجع الإنجليزي."
+    },
+    "2384": {
+      "decision": "change",
+      "target": "<ffx:fear>حتى تبدأ بالهسيس من كل جانب! <ffx:neutral>",
+      "reason": "السياق تسرب ضغط القاطرة لا الأمر برمته المجرد."
+    },
+    "2388": {
+      "decision": "change",
+      "target": "<ffx:wide_smile>ها، الحشية هنا تالفة، انظر بنفسك!<ffx:neutral>",
+      "reason": "seal حشية ميكانيكية، وتؤكدها الروسية сальник لا ختم بريدي."
+    },
+    "2392": {
+      "decision": "change",
+      "target": "<ffx:smile_light>لم يبقَ سوى ثلاثين عطلًا كبيرًا الآن... <ffx:neutral>",
+      "reason": "تصحيح الفعل المجزوم؛ العدد منصوب على الاستثناء بسوى المضاف إليه وفيه ثلاثين بحسب الإعراب الجر."
+    },
+    "2395": {
+      "decision": "change",
+      "target": "<ffx:smile>آه، أرتيوم! كيف سارت الأمور <ffx:wonder>في الميناء؟ آه، <ffx:sadness_light>لم تذهب إليه بعد...",
+      "reason": "إصلاح الفاصلة المكررة ودلالة ذهاب المهمة."
+    },
+    "2396": {
+      "decision": "change",
+      "target": "<ffx:wonder_light>إذن، ما أخبار الميناء؟ <ffx:wonder>أفيه نساء؟ <ffx:smile>هلّا تحققت من أجلي، أرجوك؟ <ffx:smile_light>",
+      "reason": "port ميناء، وpretty please توسل مهذب لا وصف امرأة جميلة."
+    },
+    "2397": {
+      "decision": "change",
+      "target": "<ffx:smile>كيف الحال يا أرتيوم؟ <ffx:wonder>هل سارت مهمة الميناء بخير؟ <ffx:sadness_light>آه، لم تذهب إليه بعد...",
+      "reason": "port الميناء لا منفذ."
+    },
+    "2400": {
+      "decision": "change",
+      "target": "<ffx:wonder>تحتاج إلى الراحة؟ حسنًا، <ffx:anger_light>لكن لا تطل الغياب، <ffx:wonder_light>فهم بحاجة ماسة إليك في الميناء... <ffx:neutral>",
+      "reason": "الميناء يحتاج أرتيوم، لا أرتيوم يحتاج الراحة في الميناء."
+    },
+    "2402": {
+      "decision": "change",
+      "target": "<ffx:smile>مرحبًا أرتيوم! كيف تسير <ffx:wonder>الأمور في الميناء؟ لا تدري؟ <ffx:sadness_light>نحن أيضًا ليست لدينا معلومات...",
+      "reason": "إزالة حرف الجر المكرر وإصلاح السؤال عن المعرفة."
+    }
+  }
+}

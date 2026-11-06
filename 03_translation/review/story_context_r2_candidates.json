@@ -1,0 +1,1946 @@
+[
+  {
+    "kind": "idiom",
+    "id": "voices\\universal_m3\\factions\\bandit_2\\wounded\\wounded_lightly_05",
+    "source": "Motherfucker!",
+    "target": "يا ابن العاهرة!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_dlc1\\dlc1_130_khlebnikov_kirill_prebattle_conversation_01_15",
+    "source": "All right, time to go. You get home and don’t step out or let anyone in until I’m back. It’s an order.",
+    "target": "حسنًا، حان وقت الذهاب. تصل إلى المنزل ولا تخرج أو تسمح لأي شخص بالدخول حتى أعود. إنه أمر.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_000_narration_10_part2",
+    "source": "<tab>We must open the gate from the inside, so that our guys could hook the tank to the railcar and roll it out before any of the baron's men notice them. Giul and Damir are going to be waiting for me near the terminal.<br><br>",
+    "target": "<tab>يجب أن نفتح البوابة من الداخل، حتى يتمكن رجالنا من ربط الخزان بعربة السكة الحديد وإخراجها قبل أن يلاحظهم أي من رجال البارون. جيول ودامير سينتظرانني بالقرب من المحطة.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_000_narration_04_part2",
+    "source": "<tab>Once we had taken the bandits out, she promised to show me the way into the underground bunker of the Communications Center. Giul told me that her mother used to work there, and that the Center was still operational for some time after the war had finished, compiling the fallout maps. This is just what we need! Time for a dungeon crawl...<br><br>",
+    "target": "<tab>بمجرد أن أخرجنا قطاع الطرق، وعدتني بأن تريني الطريق إلى المخبأ تحت الأرض في مركز الاتصالات. أخبرتني جيول أن والدتها كانت تعمل هناك، وأن المركز كان لا يزال يعمل لبعض الوقت بعد انتهاء الحرب، حيث يقوم بتجميع خرائط التداعيات. هذا فقط ما نحتاجه! حان وقت الزحف إلى الزنزانة...<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_059_insideoilrig_tribaloppression_02_03",
+    "source": "<ffx:anger>If I fucking hear one more word abut that bitch Giul... <ffx:neutral>",
+    "target": "<ffx:anger>إذا سمعت كلمة أخرى حول تلك العاهرة جيول...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "ACH_d1_DESC_unlocked",
+    "source": "Duke survived.",
+    "target": "نجا دوق.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "literal",
+    "id": "voices\\m3_06_bridge\\bri_021_banter_04",
+    "source": "Hahaha, <ffx:disgust>you are so funny! Jackass... <ffx:neutral>",
+    "target": "هاهاها،<ffx:disgust>، أنت مضحك جدًا! حمار...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "radio",
+    "id": "voices\\m3_06_bridge\\bri_008_meetingkrest_22",
+    "source": "Alone? What the hell? And what did you all do? Artyom, get there on the double! Get your act together people! There may be no NATO troops walking around, but it still doesn't mean you can act like a bunch of tourists! Miller, over and out!",
+    "target": "وحيدا؟ بحق الجحيم؟ وماذا فعلتم جميعا؟ أرتيوم، اذهب إلى هناك بالمضاعفة! احصل على تصرفاتك معًا أيها الناس! قد لا تكون هناك قوات تابعة لحلف شمال الأطلسي تتجول، لكن هذا لا يعني أنه يمكنك التصرف مثل مجموعة من السياح! ميلر، مرارا وتكرارا!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_09_summer\\sum_000_narration_002_part2",
+    "source": "<tab>Will Damir, who stayed in the desert to help Giul lead their people to freedom, beat another monster, the inertia of thought, that had been keeping the subjugated locals in willing and ready servitude to tyrants? Frankly, I have doubts - that monster might prove stronger than all the others...<br><br>",
+    "target": "<tab>هل سيتغلب دامير، الذي بقي في الصحراء لمساعدة جيول في قيادة شعبه إلى الحرية، على وحش آخر، وهو جمود الفكر، الذي كان يبقي السكان المحليين المقهورين في عبودية راغبة وجاهزة للطغاة؟ بصراحة، لدي شكوك - قد يكون هذا الوحش أقوى من كل الوحش الآخر...<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "radio",
+    "id": "voices\\m3_08_desert\\des_007_02_04_briefing_1_5_millerradio_01_02",
+    "source": "<ffx:anger_light>Damir, do you read me? Over... <ffx:neutral>",
+    "target": "<ffx:anger_light>دامير، هل تقرأني؟ انتهى...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_021_barontalk_02_12",
+    "source": "Giul! You are weak, and you value the weak... But the world lives by different rules!",
+    "target": "جيول! أنت ضعيف، وتقدر الضعيف... لكن العالم يعيش بقواعد مختلفة!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_014_springattack_01_09",
+    "source": "<ffx:wonder>Giul says lots of people used <ffx:sadness>to live in these caves, <ffx:wonder>there was basically a real town...  <ffx:sadness_light>But when the geysers opened up, they all had to flee... <ffx:neutral>",
+    "target": "يقول<ffx:wonder>جيول إن الكثير من الناس استخدموا<ffx:sadness>للعيش في هذه الكهوف،<ffx:wonder>كانت هناك مدينة حقيقية في الأساس...<ffx:sadness_light>ولكن عندما فتحت الينابيع الساخنة، اضطروا جميعًا إلى الفرار...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_06_bridge\\bri_041_bfanatics_rave_monologue_04_02",
+    "source": "<ffx:anger>So give us strength to carry out the deeds Thy hath ordered, and forgive us our unknowing sins, and if we sin knowingly, punish us, but shield us from evil.",
+    "target": "<ffx:anger>فامنحنا القوة للقيام بالأعمال التي أمرتنا بها، واغفر لنا خطايانا التي لا نعلمها، وإذا أخطأنا عن علم فعاقبنا، لكن احفظنا من الشر.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_10_yamantau\\yam_050_loaderbriefing_00",
+    "source": "<ffx:sadness_strong>To think I believed those pricks from Hansa... <ffx:sadness>I believed that Moscow was controlled by the HQ, that we were under occupation, that we were still in war! That there were generals here giving orders... <ffx:disgust>What an idiot, suka!",
+    "target": "<ffx:sadness_strong>أعتقد أنني صدقت تلك الأوغاد من هانزا...<ffx:sadness>اعتقدت أن المقر الرئيسي يسيطر على موسكو، وأننا كنا تحت الاحتلال، وأننا لا نزال في حالة حرب! أنه كان هناك جنرالات هنا يصدرون الأوامر...<ffx:disgust>يا له من أحمق يا سوكا!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_010_inthebunker_01_05",
+    "source": "Giul, get those lights back on, the lift did its job!",
+    "target": "جيول، أعد تشغيل تلك الأضواء، المصعد قام بعمله!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_dlc2\\dlc2_150_audiolog_tomfan_vs_klimfan_01_04",
+    "source": "Tom, always Tom! Soon you won't know to wipe your ass unless he gives you the order to! He didn't put everything exactly!",
+    "target": "توم، دائما توم! قريبًا لن تعرف كيف تمسح مؤخرتك إلا إذا أعطاك الأمر بذلك! لم يضع كل شيء بالضبط!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_06_spring\\spr_006_level3_03",
+    "source": "<ffx:wonder>Giving people a hand, doing a <ffx:wonder_light>good deed is never bad... <ffx:disgust_light>But changing the world order in accordance to our subjective morality... <ffx:anger_light>Are we gods or what? <ffx:neutral>",
+    "target": "<ffx:wonder>إن تقديم المساعدة للناس، والقيام بعمل جيد<ffx:wonder_light>ليس أمرًا سيئًا أبدًا...<ffx:disgust_light>لكن تغيير النظام العالمي وفقًا لأخلاقنا الذاتية...<ffx:anger_light>هل نحن آلهة أم ماذا؟<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_06_spring\\spr_000_narration_bad",
+    "source": "<tab>We left Volga behind. The endless expanses of Russia stretch before us now. Regretfully, Duke was not destined to see them. Was his death a fault of mine? Was everything that happened on the Bridge? It could be... It’s a cruel world that we live in, and it’s not our responsibility to fix it. <br><br><tab>We only wanted to pass through, and it was not my fault they screamed for blood. Their zealousness reminded me of the Metro, where people are indoctrinated into a lie - that the world is dead and there’s nowhere to go...  Anyone who questions it gets fed a different lie that the \"war is still going on”... Here it's \"Electricity is a sin”... Same difference, really...<br><br>",
+    "target": "<tab>لقد تركنا نهر الفولجا خلفنا. تمتد أمامنا الآن مساحات روسيا التي لا نهاية لها. لسوء الحظ، لم يكن مقدرا لديوك رؤيتهم. هل كان موته خطأ مني؟ هل كان كل ما حدث على الجسر؟ من الممكن أن يكون... إنه عالم قاسٍ نعيش فيه، وليس من مسؤوليتنا إصلاحه.<br><br><tab>أردنا المرور فقط، ولم يكن خطأي أنهم صرخوا طلبًا للدماء. ذكّرتني حماستهم بالمترو، حيث يتم تلقين الناس كذبة مفادها أن العالم قد مات وليس هناك مكان للذهاب إليه... وأي شخص يشكك في ذلك يتغذى على كذبة مختلفة مفادها أن \"الحرب لا تزال مستمرة\"... وهنا \"الكهرباء خطيئة\"... نفس الفرق، حقًا...<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "m3_m08_des_lab_6_1_task_note",
+    "source": "Giul agreed to help. She will guide me to the communications bunker.",
+    "target": "وافقت جيول على مساعدتي. ستقودني إلى مخبأ الاتصالات.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_020_barontalk_01_19",
+    "source": "<ffx:anger>Surrender Giul to me! <ffx:neutral>",
+    "target": "<ffx:anger>استسلم جيول لي!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "radio",
+    "id": "voices\\m3_09_summer\\sum_110_radio_02_10",
+    "source": "Damir, over and out.",
+    "target": "دامير، مرارا وتكرارا.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "radio",
+    "id": "voices\\m3_dlc1\\dlc1_400_khlebnikov_kirill_radiofinal_11",
+    "source": "Roger that, Alder. Over and out.",
+    "target": "روجر ذلك ، ألدر. مرارا وتكرارا.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_025_desert_hermit_on_lighthouse_01_01",
+    "source": "<ffx:smile>You gave some bandit asses a kicking at the lighthouse, didn't you? Well-deserved, and timely! Giul was a menace for the Baron since forever, she spent years inciting the locals to rebel against him...",
+    "target": "<ffx:smile>لقد قمت بركل المنارة لبعض قطاع الطرق، أليس كذلك؟ بجدارة، وفي الوقت المناسب! كانت جيول تشكل تهديدًا للبارون منذ الأبد، فقد أمضت سنوات في تحريض السكان المحليين على التمرد ضده...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_170_saultalk_01_23_freedslaves",
+    "source": "<ffx:wonder_light>Besides, you’ve just helped that Giul out at the lighthouse, <ffx:disgust_light>and let the slaves from the ship dismantling operation... <ffx:smile_light>Don’t worry, we caught most of <ffx:smile>them by now, haha, but still <ffx:wonder_light>that was a good distraction. Now <ffx:smile>the Baron is sure you’re targeting his business, too!<ffx:neutral>",
+    "target": "<ffx:wonder_light>بالإضافة إلى ذلك، لقد ساعدت جيول للتو في الخروج من المنارة،<ffx:disgust_light>ودع العبيد من عملية تفكيك السفينة...<ffx:smile_light>لا تقلق، لقد قبضنا على معظم<ffx:smile>الآن، هاها، ولكن لا يزال<ffx:wonder_light>بمثابة إلهاء جيد. الآن أصبح البارون<ffx:smile>متأكدًا من أنك تستهدف أعماله أيضًا!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "m3_loader_diary_desert_09_terminalnokills",
+    "source": "<tab>Getting to the tank proved tricky, as the oil terminal was teeming with slaves and their overseers. Still, I managed to carry the first part of the plan out without bloodshed. <br><br>",
+    "target": "<tab>كان الوصول إلى الخزان أمرًا صعبًا، حيث كانت محطة النفط تعج بالعبيد والمشرفين عليهم. ومع ذلك، تمكنت من تنفيذ الجزء الأول من الخطة دون إراقة دماء.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "radio",
+    "id": "voices\\m3_05_winter\\win_099_radiostation_03_04_13",
+    "source": "Good! One-six, over and out!",
+    "target": "جيد! واحد ستة، مرارا وتكرارا!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "literal",
+    "id": "voices\\m3_08_desert\\des_059_0_1_1_insideoilrig_stripclubattendee_01_04",
+    "source": "<ffx:smile>Shake that ass! <ffx:neutral>",
+    "target": "<ffx:smile>هز هذا الحمار!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "m3_m06_bri_boat_wait_note",
+    "source": "The tugboat is ours. Time for the final stage of the plan - taking control of the Bridge. At dawn, we’re tajking the boat to the bridge. Duke and I will infiltrate the shantytown while Krest under the guise of a trader distracts the guards. Now I need to think if there’s anything I’m forgetting: once the Aurora crosses the river there will be no return.<br>Krest is waiting for the order to cast off...",
+    "target": "أصبحت القاطرة البحرية لنا. حان وقت المرحلة الأخيرة من الخطة: السيطرة على الجسر. سنبحر إليه عند الفجر، ونتسلل أنا وديوك إلى مدينة الصفيح، بينما يتنكر كريست في هيئة تاجر ليشغل الحراس. علي الآن التأكد من أنني لم أنس شيئا؛ فبمجرد عبور أورورا النهر، لن تكون هناك عودة.<br>ينتظر كريست الأمر بالإبحار...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_170_1_saultalk_02_13",
+    "source": "<ffx:wonder>In the mean time, I was courting the locals, and almost put that <ffx:anger_light>crazy broad Giul to whack the Baron... She would have done him in, <ffx:wonder_light>then Saul would have capped her, and we would <ffx:smile_light>own this fucking desert, <ffx:wonder_light>splitting the profits two-ways, you see?<ffx:neutral>",
+    "target": "<ffx:wonder>في هذه الأثناء، كنت أغازل السكان المحليين، وكادت أن أضع جيول العريضة المجنونة<ffx:anger_light>لتضرب البارون... كانت ستقضي عليه،<ffx:wonder_light>ثم كان شاول سيغطيها، وسنملك<ffx:smile_light>هذه الصحراء اللعينة، وتقسيم<ffx:wonder_light>الأرباح في اتجاهين، كما ترى؟<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_009_triptocommscenter_19",
+    "source": "Artyom! One, two... Testing! It's me, Damir. I hope you can hear me! I'm here, too! Giul nearly shot me, thought I was an enemy! Haha!",
+    "target": "أرتيوم! واحد، اثنان... اختبار! إنه أنا، دامير. أتمنى أن تسمعني! أنا هنا أيضا! كاد جيول أن يطلق النار علي، معتقدًا أنني عدو! هاها!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "literal",
+    "id": "voices\\m3_dlc1\\dlc1_420_computer_announcement_01_01",
+    "source": "Reserve power failure, switching to main power source.",
+    "target": "انقطاع التيار الكهربائي الاحتياطي، والتحول إلى مصدر الطاقة الرئيسي.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "literal",
+    "id": "voices\\universal_m3\\factions\\bandit_2\\neutral\\guard_weaponwarninglast_03",
+    "source": "I'll fucking drop you right here if you don't cut that shit out!",
+    "target": "سوف أسقطك هنا إذا لم تقطع هذا الهراء!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_010_inthebunker_01_02",
+    "source": "Hurry up, Artyom! The generator's almost out of juice, Giul and I won't last here without the lights!",
+    "target": "أسرع يا أرتيوم! المولد على وشك النفاد، أنا وجيول لن نستمر هنا بدون الأضواء!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_008_meeting_giul_13",
+    "source": "Abandoned... Giul! We helped you, so could you help us in return by leading our man inside?",
+    "target": "مهجور... جيول! لقد ساعدناك، فهل يمكنك مساعدتنا في المقابل من خلال قيادة رجلنا إلى الداخل؟",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_000_narration_04",
+    "source": "<tab>That \"damsel in distress” turned out to be more than able to stand up for herself. It turns out, Giul is one of the last locals still taking the fight to the bandits, and that’s why they came for her.<br><br><tab>Once we had taken the bandits out, she promised to show me the way into the underground bunker of the Communications Center. Giul told me that her mother used to work there, and that the Center was still operational for some time after the war had finished, compiling the fallout maps. This is just what we need! Time for a dungeon crawl...<br><br>",
+    "target": "<tab>تبين أن تلك \"الفتاة التي تعاني من محنة\" أكثر من قادرة على الدفاع عن نفسها. اتضح أن جيول هي واحدة من آخر السكان المحليين الذين ما زالوا ينقلون القتال إلى قطاع الطرق، ولهذا السبب جاؤوا من أجلها.<br><br><tab>بمجرد أن أخرجنا قطاع الطرق، وعدتني بأن تريني الطريق إلى المخبأ تحت الأرض في مركز الاتصالات. أخبرتني جيول أن والدتها كانت تعمل هناك، وأن المركز كان لا يزال يعمل لبعض الوقت بعد انتهاء الحرب، حيث يقوم بتجميع خرائط التداعيات. هذا فقط ما نحتاجه! حان وقت الزحف إلى الزنزانة...<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\universal_m3\\factions\\forest_3\\light_alert\\light_alert_waiting_for_searchcomplete_04",
+    "source": "What kind of an idiot would hide there?",
+    "target": "أي نوع من الأحمق سيختبئ هناك؟",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_dlc2\\dlc2_062_firedepot_bandits_talk_grave_07",
+    "source": "So, the boss ordered the Four-Eyes' dog into the cage as an appetizer... ",
+    "target": "لذا، أمر الرئيس بإدخال كلب العيون الأربع إلى القفص كفاتح شهية...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "literal",
+    "id": "voices\\m3_dlc2\\dlc2_064_firedepot_bandit_talk_humanimal_01_08",
+    "source": "Why so sad, Stoop-Ass? Don't be so negative! Next time we catch some asshole sneaking around, we'll feed him to you, don't you worry, haha!",
+    "target": "لماذا حزين جدا، ستوب الحمار؟ لا تكن سلبيا جدا! في المرة القادمة التي نمسك فيها بأحمق يتسلل، سنطعمه لك، لا تقلق، هاها!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "m3_dia_crew_damir_summer_karmabad",
+    "source": "<tab>Yet, having discovered the state that people sharing half of his blood were in on the shores of the dried-up sea, Damir changed... He denied it as best as he could, but in the end the call of his blood proved undeniable. Damir fell in love with Giul and decided to share her cause. We did a lot to set his people free, but Damir’s heart was captured in return. He stayed there, in the desert, because he found his true home there, while we continued on our way like homeless nomads. Good luck, brother!<br><br>",
+    "target": "<tab>ومع ذلك، بعد أن اكتشف الحالة التي يعيشها الأشخاص الذين يشتركون في نصف دمه على شواطئ البحر الجاف، تغير دمير... لقد أنكر ذلك قدر استطاعته، ولكن في النهاية ثبت أن نداء دمه لا يمكن إنكاره. وقع دامير في حب جيول وقرر أن يشاركها قضيتها. لقد فعلنا الكثير لتحرير شعبه، ولكن في المقابل تم أسر قلب دمير. بقي هناك، في الصحراء، لأنه وجد موطنه الحقيقي هناك، بينما واصلنا طريقنا مثل البدو المشردين. حظا سعيدا يا أخي!<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "literal",
+    "id": "voices\\m3_12_valley\\val_099_01_radio_01_03",
+    "source": "Don’t worry so much, Anna! They’ve been off the grid for a couple of hours...",
+    "target": "لا تقلق كثيرًا يا آنا! لقد كانوا خارج الشبكة لبضع ساعات ...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_000_narration_11_part2",
+    "source": "<tab>He has some kind of an offer... I really have no choice, but would still like to know what kind of a trap am I walking into. I’d ask Giul, but she just vanished... I guess, I'll have to improvise.<br><br>",
+    "target": "<tab>لديه عرض من نوع ما... ليس لدي أي خيار حقًا، ولكني ما زلت أرغب في معرفة نوع الفخ الذي سأقع فيه. كنت سأسأل جيول، لكنها اختفت للتو... أعتقد أنني سأضطر إلى الارتجال.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "radio",
+    "id": "voices\\m3_06_bridge\\bri_034_6_radiochatter_01_09",
+    "source": "As if one could sleep with you people on the radio! Duke, Artyom, carry on. In the meantime, the jokers will be collecting firewood, to put the energy this fresh air gave you all to good use! Miller, over and out.",
+    "target": "كما لو كان بإمكان المرء أن ينام معكم أيها الناس على الراديو! ديوك، أرتيوم، استمر. في هذه الأثناء، سيقوم المزاحون بجمع الحطب لاستخدام الطاقة التي منحها لكم هذا الهواء النقي بشكل جيد! ميلر، مرارًا وتكرارًا.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "literal",
+    "id": "voices\\m3_08_desert\\des_003_riggers_shiptalk_01_01",
+    "source": "<ffx:wonder>So, you seen this piece of shit? <ffx:neutral>",
+    "target": "<ffx:wonder>إذن، هل رأيت هذه القطعة من الهراء؟<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_06_spring\\spr_006_05_level4_02",
+    "source": "<ffx:wonder>Let’s assume the Government tells us: <ffx:smile_light>\"A fine job you did there, lads, thank you! The war is over\"... <ffx:sadness_light>Naturally, if it is, indeed, over, which it certainly does look like... <ffx:disgust_light>Ah, so, they say: \"Take this sealed and stamped certificate, it’s extremely official! <ffx:wonder>Take it, go back to Moscow, and relay our order: <ffx:anger_light>\"In the name of our Lord Emperor, forgive the bearers of this all their sins, turn off the jammers and evacuate the people\". <ffx:sadness_light>Then let’s assume we manage to get back... And let us even assume that before we are shot we give the paper to somebody... <ffx:wonder>So, what happens next? <ffx:neutral>",
+    "target": "<ffx:wonder>لنفترض أن الحكومة تقول لنا:<ffx:smile_light>\"لقد قمتم بعمل جيد هناك يا رفاق، شكرًا لكم! لقد انتهت الحرب\"...<ffx:sadness_light>وبطبيعة الحال، إذا كان الأمر قد انتهى بالفعل، فهو بالتأكيد يبدو كذلك...<ffx:disgust_light>آه، فيقولون: خذ هذه الشهادة المختومة والمختومة، إنها رسمية للغاية!<ffx:wonder>خذها، وارجع إلى موسكو، وأبلغنا بطلبنا:<ffx:anger_light>\"باسم سيدنا الإمبراطور، اغفر لحاملي هذا كل ذنوبهم، وأطفئ أجهزة التشويش وأخلِ الناس\".<ffx:sadness_light>ثم لنفترض أننا تمكنا من العودة... ولنفترض أنه قبل إطلاق النار علينا نعطي الورقة لشخص ما...<ffx:wonder>إذن، ماذا سيحدث بعد ذلك؟<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "radio",
+    "id": "voices\\m3_12_autumn\\aut_020_radio_01_08",
+    "source": "Pine, over and out.",
+    "target": "الصنوبر، مرارا وتكرارا.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "me_rp_gamepresence_046",
+    "source": "The Lighthouse - Meeting Giul",
+    "target": "المنارة - لقاء جيول",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_000_narration_11",
+    "source": "<tab>The plan went south. When the Baron learned of our presence, he blocked the gate, and now it can only be opened from atop the tower. Luckily, the Baron is not in a hurry to kill us: quite the opposite, he invited me to come up to his penthouse on the condition that I lower my gun.<br><br><tab>He has some kind of an offer... I really have no choice, but would still like to know what kind of a trap am I walking into. I’d ask Giul, but she just vanished... I guess, I'll have to improvise.<br><br>",
+    "target": "<tab>اتجهت الخطة جنوبًا. عندما علم البارون بوجودنا، أغلق البوابة، والآن لا يمكن فتحها إلا من أعلى البرج. لحسن الحظ، البارون ليس في عجلة من أمره لقتلنا: على العكس تمامًا، دعاني للصعود إلى السقيفة الخاصة به بشرط أن أخفض بندقيتي.<br><br><tab>لديه عرض من نوع ما... ليس لدي أي خيار حقًا، ولكني لا أزال أرغب في معرفة نوع الفخ الذي سأقع فيه. كنت سأسأل جيول، لكنها اختفت للتو... أعتقد أنني سأضطر إلى الارتجال.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_000_narration_10_part1",
+    "source": "<tab>Even having repelled the Baron's attack, we’re still stuck in this desert until we get enough fuel. So, while the others are preparing the Aurora for departure, me, Giul and Damir must sneak into the oil terminal, and steal a railway tank full of fuel.<br><br>",
+    "target": "<tab>حتى بعد صد هجوم البارون، ما زلنا عالقين في هذه الصحراء حتى نحصل على ما يكفي من الوقود. لذا، بينما يقوم الآخرون بإعداد أورورا للمغادرة، يجب علي أنا وجيول ودامير التسلل إلى محطة النفط وسرقة خزان سكة حديد مليء بالوقود.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "radio",
+    "id": "voices\\m3_12_valley\\val_099_06_radio_06_01",
+    "source": "Artyom, Alyosha... Miller here. Please, get to the Dam as soon as possible. We wont be able to wait for long. I repeat, get to the dam ASAP. Miller, over and out.",
+    "target": "أرتيوم، أليوشا... ميلر هنا. من فضلك، اذهب إلى السد في أقرب وقت ممكن. لن نتمكن من الانتظار لفترة طويلة. أكرر، الوصول إلى السد في أسرع وقت ممكن. ميلر، مرارًا وتكرارًا.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "radio",
+    "id": "voices\\m3_dlc1\\dlc1_220_battle_conversation_03_06",
+    "source": "Roger that! Over and out!",
+    "target": "استلمت هذا! مرارا وتكرارا!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "literal",
+    "id": "voices\\universal_m3\\factions\\bandit_2\\dog\\dog_attackorder_04",
+    "source": "Rip his ass off!",
+    "target": "مزق الحمار قبالة!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "radio",
+    "id": "voices\\m3_08_desert\\des_40_5_oasisfort_towerradiotalk_01_02",
+    "source": "Do you read me, Well? Over.",
+    "target": "هل تقرأني، حسنًا؟ حوّل.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "literal",
+    "id": "voices\\universal_m3\\factions\\merc_1\\knife\\free_alert_seen_knife_reaction_02",
+    "source": "Fuck! A knife! Someone's ass is mine now!",
+    "target": "اللعنة! سكين! الحمار شخص ما هو لي الآن!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_dlc1\\dlc1_103_guard_at_door_01_03",
+    "source": "The General ordered they are kept here for the moment, then we'll pass them on.",
+    "target": "لقد أمر الجنرال بإبقائهم هنا في الوقت الحالي، ثم سننقلهم.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_02_05_samalyosha_10",
+    "source": "<ffx:sadness_light>You know, Sam... <ffx:wonder_light>You have things to do there, but the Old Man - <ffx:sadness>he's only a Colonel in the Metro, really... <ffx:wonder_light>There he controlled the Order, <ffx:sadness_light>enjoyed universal respect, <ffx:wonder>but what would he do in America?<ffx:neutral>",
+    "target": "<ffx:sadness_light>أتعلم يا سام...<ffx:wonder_light>أنت لديك ما تفعله هناك، أما العجوز...<ffx:sadness>فهو عقيد في المترو فحسب، في الحقيقة...<ffx:wonder_light>هناك كان يقود التنظيم،<ffx:sadness_light>ويحظى باحترام الجميع،<ffx:wonder>لكن ماذا سيفعل في أمريكا؟<ffx:neutral>",
+    "status": "reviewed",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "radio",
+    "id": "voices\\m3_06_spring\\spr_099_radiostation_01_01_08",
+    "source": "You devil! Ha-ha... Over and out...",
+    "target": "أيها الشيطان! هاهاها...مرارا وتكرارا...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\universal_m3\\factions\\forest_2\\dog\\dog_interaction_02",
+    "source": "Are you bored? Me too, me too... I'd love to go hunting now... I wish Roman didn't order us all to stop hunting, don't you? Haha, I thought so... Well, he didn't order to stop chasing squirrels! Haha!",
+    "target": "هل تشعر بالملل؟ أنا أيضًا، أنا أيضًا... أود أن أذهب للصيد الآن... أتمنى ألا يأمرنا رومان جميعًا بالتوقف عن الصيد، أليس كذلك؟ هاها، اعتقدت ذلك... حسنًا، لم يأمر بالتوقف عن مطاردة السناجب! هاها!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_059_insideoilrig_tribaloppression_02_05",
+    "source": "<ffx:disgust>That bitch Giul... <ffx:anger>Is not to be talked about!! <ffx:neutral>",
+    "target": "<ffx:disgust>تلك العاهرة جيول...<ffx:anger>لا ينبغي الحديث عنها!!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "radio",
+    "id": "voices\\m3_05_winter\\win_099_radiostation_03_02_08",
+    "source": "Haha! One-six, over and out!",
+    "target": "هاها! واحد ستة، مرارا وتكرارا!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_022_barontalkfinal_01_10",
+    "source": "<ffx:wonder_strong>Whoah! Impressive... <ffx:smile_light>So, this is the plan Giul was talking about... <ffx:neutral>",
+    "target": "<ffx:wonder_strong>واه! مثير للإعجاب...<ffx:smile_light>إذن، هذه هي الخطة التي كان يتحدث عنها جيول...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_12_valley\\val_40_2_admiral_shouts_01_11",
+    "source": "So that's how you're talking, huh? Ignoring your Admiral's orders? All right, don't even ask for more tea, you're not getting it!",
+    "target": "إذن هذه هي الطريقة التي تتحدث بها، هاه؟ تجاهل أوامر الأدميرال الخاص بك؟ حسنًا، لا تطلب المزيد من الشاي، فأنت لن تحصل عليه!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_06_spring\\spr_002_level1_princedead_01",
+    "source": "<ffx:sadness>Alyosha keeps telling everyone Duke could have jumped off the bridge in time... <ffx:wonder>The others are also holding well, but I... <ffx:sadness_strong>I just unraveled... Of course, I had friends die before... <ffx:neutral>",
+    "target": "<ffx:sadness>يواصل أليوشا إخبار الجميع أنه كان من الممكن أن يقفز ديوك من الجسر في الوقت المناسب...<ffx:wonder>الآخرون أيضًا صامدون جيدًا، لكنني...<ffx:sadness_strong>لقد انكشف أمري للتو... بالطبع، كان لدي أصدقاء يموتون من قبل...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "m3_08_des_sign_giul_05",
+    "source": "Giul, we are with you!",
+    "target": "جيول، نحن معك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_015_springattack_02_02",
+    "source": "<ffx:wonder_light>Giul says the locals follow every word the oilmen say, so... <ffx:neutral>",
+    "target": "<ffx:wonder_light>يقول جيول إن السكان المحليين يتابعون كل كلمة يقولها رجال النفط، لذا...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_dlc1\\dlc1_225_3_oskom_battleshouts_02_04",
+    "source": "For OSKOM! For order!",
+    "target": "من أجل أوسكوم! للطلب!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_170_1_saultalk_02_18_missedslaves",
+    "source": "<ffx:wonder_light>Besides, you’ve just helped that Giul out at the lighthouse, so <ffx:smile>now Baron thinks you people are signing the locals up to finish attacking him... <ffx:neutral>",
+    "target": "<ffx:wonder_light>بالإضافة إلى ذلك، لقد ساعدت للتو ذلك جيول في المنارة، لذلك يعتقد<ffx:smile>الآن أنكم تقومون بالتعاقد مع السكان المحليين لإنهاء مهاجمته...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "radio",
+    "id": "voices\\m3_dlc2\\dlc2_026_tom_radio_call_01_01",
+    "source": "Sam, it's me, Tom. Do you read me?",
+    "target": "سام، هذا أنا، توم. هل تقرأني؟",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "literal",
+    "id": "voices\\m3_09_summer\\sum_001_7_2_tabletalk_02_27",
+    "source": "<ffx:wonder>Well, that old ass would have <ffx:smile>started preaching the holiness of electricity there! <ffx:disgust>He's a con man, <ffx:wonder>have you seen him? <ffx:neutral>",
+    "target": "<ffx:wonder>حسنًا، هذا الحمار العجوز كان سيبدأ<ffx:smile>بالتبشير بقداسة الكهرباء هناك!<ffx:disgust>إنه رجل محتال،<ffx:wonder>هل رأيته؟<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "m3_08_des_diary_10",
+    "source": "<tab>Rasp, I’m at the airport, that corporal didn’t bullshit us...My slaves just dug the hangar entrance up, and you must see it! It’s chock-full of pre-war shit. The old goat was right on the money, it really does look like the flyboys would just dump all the stuff they didn’t need there to avoid going through the proper procedure...<br><br><tab>They were fucking wasteful before the War, that’s for sure. Anyhow, not a word to anyone. Come night, take all your slaves and cars and quietly, with lights off, so that not even a demon could notice your asses, get over here! We must get all the best stuff out before the others catch wind of this - they’d just start fighting over it and then the Baron would claim it all for himself anyway.<br><br><tab>So, we take what we can while we can, hide it, and pretend we know nothing.<br><br><br><tab>Don’t worry about that corporal, I shot him and dumped his ass into a mutant lair. This drunk would have squealed on us for sure, it’s bad enough that I don’t know if he told anybody else before I got to him...<br><br><br><tab>Burn the note.",
+    "target": "<tab>راسب، أنا في المطار، ذلك العريف لم يقم بالهراء... عبيدي قاموا للتو بحفر مدخل الحظيرة، ويجب أن تراه! إنها مليئة بقرف ما قبل الحرب. كان الماعز العجوز على حق فيما يتعلق بالمال، ويبدو حقًا أن رجال الطيران سيتخلصون من كل الأشياء التي لم يحتاجوها هناك لتجنب اتباع الإجراء الصحيح...<br><br><tab>لقد كانوا مسرفين قبل الحرب، هذا أمر مؤكد. على أية حال، لا كلمة لأحد. تعال ليلاً، خذ كل عبيدك وسياراتك وبهدوء، مع إطفاء الأنوار، حتى لا يتمكن حتى الشيطان من ملاحظة مؤخرتك، تعال إلى هنا! يجب أن نخرج أفضل الأشياء قبل أن يسمع الآخرون هذا - سيبدأون للتو في القتال من أجله وبعد ذلك سيطالب البارون بكل شيء لنفسه على أي حال.<br><br><tab>لذلك، نأخذ ما في وسعنا بينما نستطيع، ونخفيه، ونتظاهر بأننا لا نعرف شيئًا.<br><br><br><tab>لا تقلق بشأن ذلك العريف، لقد أطلقت عليه النار وألقيت مؤخرته في مخبأ متحول. كان هذا السكير سيصرخ علينا بالتأكيد، إنه أمر سيء بما فيه الكفاية لدرجة أنني لا أعرف إذا كان قد أخبر أي شخص آخر قبل أن أصل إليه...<br><br><br><tab>احرق الملاحظة.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "m3_loader_diary_desert_09_towerpeaceful",
+    "source": "<tab>The second part of the plan went south, though. We ended up trapped, and the Baron decided to be magnanimous, offering that we become his vassals... His plan didn't work - while we were drawing his attention, Giul bombed his fortress, and Anna punctuated his career. <br><br>",
+    "target": "<tab>الجزء الثاني من الخطة ذهب جنوبًا. انتهى بنا الأمر محاصرين، وقرر البارون أن يكون شهمًا، وعرض علينا أن نصبح تابعين له... لم تنجح خطته - بينما كنا نلفت انتباهه، قصف جيول حصنه، وتخللت آنا مسيرته.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_010_inthebunker_01_08",
+    "source": "<ffx:anger>Shaitan! Artyom, Giul! <ffx:fear_light>Let's get out of here! They won't jump us with <ffx:anger>lights still on! Go, go, go! <ffx:neutral>",
+    "target": "<ffx:anger>الشيطان! أرتيوم، جيول!<ffx:fear_light>دعنا نخرج من هنا! لن يقفزوا علينا مع استمرار إضاءة مصابيح<ffx:anger>! إذهب! إذهب! إذهب!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "radio",
+    "id": "voices\\m3_05_winter\\win_099_radiostation_03_03_11",
+    "source": "And don't you forget it, haha! One-six, over and out!",
+    "target": "ولا تنسى ذلك، هاها! واحد ستة، مرارا وتكرارا!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "ACH_new_order",
+    "source": "New order",
+    "target": "طلب جديد",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_017_06_afterterminal_02_01",
+    "source": "Artyom, I can't see Giul anywhere, but it's all clear up here. Waiting for you.",
+    "target": "أرتيوم، لا أستطيع رؤية جيول في أي مكان، لكن كل شيء واضح هنا. في انتظاركم.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "literal",
+    "id": "voices\\m3_dlc1\\dlc1_400_khlebnikov_kirill_radiofinal_03",
+    "source": "Private, I'm at the bunker's door. I'll be off the grid while I'm down there, don't know how long. When is the next scheduled radio contact?",
+    "target": "أيها الجندي، أنا عند باب المخبأ. سأكون خارج الشبكة أثناء وجودي هناك، لا أعرف كم من الوقت. متى يتم الاتصال اللاسلكي المقرر التالي؟",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "m3_m08_des_fuel_13_task_note",
+    "source": "It's time to carry out our plan. Damir and Giul should already be waiting for me at the Baron's fortress...",
+    "target": "لقد حان الوقت لتنفيذ خطتنا. من المفترض أن دامير وجيول ينتظرانني بالفعل في قلعة البارون...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "literal",
+    "id": "voices\\universal_m3\\factions\\bandit_1\\alert\\alert_see_03",
+    "source": "Who could that ass be?",
+    "target": "من يمكن أن يكون هذا الحمار؟",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_06_bridge\\bri_000_narration_10_b",
+    "source": "<tab>It took some casualties among the caravaneers, but we were able to capture the tug boat. With it, Duke and I infiltrated the bridge town. If everything goes as planned, we'll soon leave this place. Our next target - the bridge mechanism control booth.<br><br>",
+    "target": "<tab>لقد تسبب الأمر في وقوع بعض الضحايا في صفوف القافلة، لكننا تمكنا من الاستيلاء على زورق القطر. وبهذا، تسللنا أنا وديوك إلى مدينة الجسر. إذا سار كل شيء كما هو مخطط له، فسنغادر هذا المكان قريبًا. هدفنا التالي - حجرة التحكم بآلية الجسر.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_014_springattack_01_12",
+    "source": "<ffx:wonder_light>Aha, so that's the entrance Giul told about... <ffx:neutral>",
+    "target": "<ffx:wonder_light>آها، هذا هو المدخل الذي تحدث عنه جيول...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "radio",
+    "id": "voices\\m3_05_winter\\win_099_radiostation_02_02_06",
+    "source": "Good... Station over and out!",
+    "target": "جيد... محطة مرارا وتكرارا!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_09_summer\\sum_001_7_2_tabletalk_02_65",
+    "source": "Thanks... <ffx:wonder>In any case, someone might have ignored the order, <ffx:sadness_light>instead, they moored quietly somewhere...<ffx:neutral>",
+    "target": "شكرًا...<ffx:wonder>على أية حال، ربما يكون شخص ما قد تجاهل الأمر، وبدلاً من ذلك، رست<ffx:sadness_light>بهدوء في مكان ما...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_007_newmission_02",
+    "source": "We've been contacted by a local lady, Giul. She's being besieged by bandits at the lighthouse. Should we help her, she'll help us find the communications center.",
+    "target": "لقد اتصلت بنا سيدة محلية تدعى جيول. إنها محاصرة من قبل قطاع الطرق في المنارة. إذا ساعدناها، فسوف تساعدنا في العثور على مركز الاتصالات.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_000_narration_07",
+    "source": "<tab>I met up with Damir at the entrance to the deserted cave town Giul told him about. Now we must pass through the caves and find the tunnel leading to the water spring itself. Damir dreamt of finding something about his parents and relatives, seeing how his people lived... I'm afraid that what we're about to see will only disappoint him.<br><br>",
+    "target": "<tab>التقيت مع دامير عند مدخل بلدة الكهف المهجورة التي أخبره عنها جيول. الآن يجب علينا المرور عبر الكهوف والعثور على النفق المؤدي إلى نبع الماء نفسه. كان دمير يحلم بالعثور على شيء ما عن والديه وأقاربه، ورؤية كيف يعيش شعبه... وأخشى أن ما نحن على وشك رؤيته لن يؤدي إلا إلى خيبة أمله.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_09_summer\\sum_020_damirtalk_01_02",
+    "source": "<ffx:disgust_light>But the Baron is dead. <ffx:wonder>Now Giul can lead the people, they <ffx:disgust>know those... animals can be beaten. <ffx:anger_strong>Can and must be beaten! <ffx:anger>And now they have to fight for their freedom, and take it, by their own hand! <ffx:sadness_light>So that not to give it up ever again, despite any odds!<ffx:neutral>",
+    "target": "<ffx:disgust_light>لكن البارون مات.<ffx:wonder>الآن يستطيع جيول قيادة الناس، وهم<ffx:disgust>يعرفون أن... الحيوانات يمكن ضربها.<ffx:anger_strong>يمكن ويجب التغلب عليه!<ffx:anger>والآن يتعين عليهم القتال من أجل حريتهم والاستيلاء عليها بأيديهم!<ffx:sadness_light>حتى لا تتخلى عنه مرة أخرى، رغم كل الصعاب!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_015_springattack_02_14",
+    "source": "<ffx:wonder_light>Giul says...",
+    "target": "يقول<ffx:wonder_light>جيول ...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "literal",
+    "id": "voices\\m3_08_desert\\des_203_snipertape_15",
+    "source": "The Baron somehow managed to assemble quite a force! The train guys are in for an ass kicking! Should tell the boys to pick me up when they go back to celebrate the victory...",
+    "target": "تمكن البارون بطريقة ما من تجميع قوة كبيرة! رجال القطار مستعدون لركل الحمار! يجب أن أقول للأولاد أن يصطحبوني عندما يعودون للاحتفال بالنصر...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "radio",
+    "id": "voices\\m3_05_winter\\win_099_radiostation_02_01_09",
+    "source": "Haha! I see... I'm gonna run then! Over and out!",
+    "target": "هاها! أرى... سأركض بعد ذلك! مرارا وتكرارا!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "literal",
+    "id": "voices\\m3_dlc1\\dlc1_390_miller_kirill_radiofinal_02",
+    "source": "Roger that, Colonel! You'll be off the grid inside, so... Please, be careful.",
+    "target": "روجر ذلك أيها العقيد! ستكون خارج الشبكة بالداخل، لذا... من فضلك، كن حذرًا.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_022_barontalkfinal_02_07",
+    "source": "<ffx:sadness>No, guys... Giul will handle it. <ffx:smile_light>My place is with you... <ffx:smile>After all, I'm more Spartan, than Kazakh... <ffx:neutral>",
+    "target": "<ffx:sadness>لا يا رفاق... جيول سوف يتعامل مع الأمر.<ffx:smile_light>مكاني معك...<ffx:smile>بعد كل شيء، أنا متقشف أكثر من الكازاخي...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "radio",
+    "id": "voices\\m3_dlc1\\dlc1_152_combatradio_01_10",
+    "source": "Green-One, do you read me, over?!",
+    "target": "جرين وان، هل تقرأني، انتهى؟!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_202_5_giulsmomreport_07",
+    "source": "Come, Giul... You can’t come in here, come, show me the picture outside...",
+    "target": "تعال يا جيول... لا يمكنك الدخول إلى هنا، تعال وأرني الصورة في الخارج...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_09_summer\\sum_010_rearcarriagekrest_01_10",
+    "source": "<ffx:wonder>Take Damir - <ffx:sadness_light>fancied himself the Che... I wonder, how is he now? <ffx:smile>Though, I guess, he'll be all right, fighting the good fight with that Giul... <ffx:neutral>",
+    "target": "<ffx:wonder>خذ دامير -<ffx:sadness_light>تخيل نفسه تشي... وأتساءل، كيف هو الآن؟<ffx:smile>على الرغم من ذلك، أعتقد أنه سيكون على ما يرام، وسيخوض معركة جيدة مع ذلك جيول...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_170_saultalk_01_23_missedslaves",
+    "source": "<ffx:wonder_light>Besides, you’ve just helped that Giul out at the lighthouse, so <ffx:smile>now Baron thinks you people are signing the locals up to finish to attack him... <ffx:neutral>",
+    "target": "<ffx:wonder_light>بالإضافة إلى ذلك، لقد ساعدت للتو ذلك جيول في المنارة، لذلك يعتقد<ffx:smile>الآن أنكم تقومون بالتعاقد مع السكان المحليين لإنهاء مهاجمته...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_12_autumn\\aut_022_radio_04",
+    "source": "Do not leave shelters without a specific order!",
+    "target": "لا تتركوا الملاجئ دون أمر محدد!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_intro\\gamestart_narration_01_part7",
+    "source": "<tab>But I remember we were born for a better life, and I can’t accept that I’m destined to grow old and die underground. I don’t care if I’m called an idiot, but if even a single shard of the old world still exists out there, I have to find it.<br><br>",
+    "target": "<tab>لكنني أتذكر أننا ولدنا من أجل حياة أفضل، ولا أستطيع أن أقبل أنني مقدر لي أن أكبر وأموت تحت الأرض. لا يهمني إذا تم وصفي بالأحمق، ولكن حتى لو كانت قطعة واحدة من العالم القديم لا تزال موجودة هناك، فيجب أن أجدها.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_171_barondouble_talk_01_idle_01",
+    "source": "<ffx:anger>Where the hell is Saul, that cretin... Driving around, I guess... <ffx:wonder>When did I even give him a car? Don't remember... <ffx:disgust>I shouldn't have - that man's an idiot, a complete cretin! <ffx:neutral>",
+    "target": "<ffx:anger>أين هو شاول، ذلك الأحمق بحق الجحيم... أعتقد أنه يتجول...<ffx:wonder>متى أعطيته سيارة؟ لا تتذكر...<ffx:disgust>لا ينبغي لي أن أفعل ذلك - هذا الرجل أحمق، بليد تمامًا!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_059_6_1_5_shipriggerstalk_01_19",
+    "source": "<ffx:fear>Wow! I only left for a minute! <ffx:wonder>What's the matter? Did the slave steal or what? <ffx:neutral>",
+    "target": "<ffx:fear>واو! لقد غادرت لمدة دقيقة فقط!<ffx:wonder>ما الأمر؟ هل سرق العبد أم ماذا؟<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_09_summer\\sum_110_radio_02_06",
+    "source": "We don't have many fighters yet, but luckily, both of the bosses want to become kingpin, and they both disregard me completely, so we'll just use that against them. Giul is a real genius in power play. ",
+    "target": "ليس لدينا العديد من المقاتلين حتى الآن، لكن لحسن الحظ، يريد كلا الزعيمين أن يصبحا زعيمًا، وكلاهما يتجاهلني تمامًا، لذلك سنستخدم ذلك ضدهم. جيول عبقري حقيقي في لعب القوة.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_018_tower_01_16_03",
+    "source": "<ffx:wonder>Giul? Where did you go? <ffx:neutral>",
+    "target": "<ffx:wonder>جيول؟ أين ذهبت؟<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "m3_dia_crew_duke_summer_alive",
+    "source": "<tab>Having had a fair share of bruises and killed more than that of enemies, Duke seems to be calming down finally. We had a talk, and I seem to finally understand the reason that pushed him to try so hard. Back in the Metro, there’s this girl, Svetlana, whom he wants to come back to a new and better man, bearing wisdom and scars of a thousand battles...  But now that none of us knows when, if ever, we are coming back to Metro, Duke doesn't seem to be so eager for battle anymore. Either he’s had enough or just grew out of it... He spends most of his free time in Tokarev’s workshop now. On one hand, we don’t have to worry about him so much now, on the other... It’s a bit of a shame.<br><br>",
+    "target": "<tab>بعد أن حصل على نصيب عادل من الكدمات وقتل أكثر من الأعداء، يبدو أن ديوك قد هدأ أخيرًا. لقد تحدثنا، ويبدو أنني فهمت أخيرًا السبب الذي دفعه إلى المحاولة بجد. بالعودة إلى المترو، هناك تلك الفتاة، سفيتلانا، التي يريد أن تعود إلى رجل جديد وأفضل، يحمل حكمة وندوب آلاف المعارك... ولكن الآن بعد أن لا أحد منا يعرف متى سنعود إلى مترو، إذا حدث ذلك، لا يبدو أن ديوك متحمس للمعركة بعد الآن. إما أنه اكتفى أو أنه خرج منه للتو... يقضي الآن معظم وقت فراغه في ورشة توكاريف. من ناحية، لا داعي للقلق عليه كثيرًا الآن، ومن ناحية أخرى... إنه أمر مؤسف بعض الشيء.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "radio",
+    "id": "voices\\m3_05_winter\\win_099_radiostation_02_01_10",
+    "source": "Good luck with your marathon! Over and out!",
+    "target": "حظا سعيدا مع الماراثون الخاص بك! مرارا وتكرارا!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "m3_08_des_sign_giul_04",
+    "source": "He is a liar! Resist! - Giul",
+    "target": "إنه كاذب! يقاوم! - جيول",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\universal_m3\\factions\\merc_1\\free\\free_safe_06",
+    "source": "Some food would be in order right about now, that's for sure...",
+    "target": "سيكون بعض الطعام جاهزًا الآن، هذا أمر مؤكد...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_016_9_3_breakingcamp_artyomreact_02_01",
+    "source": "<ffx:wonder_light>Artyom, I think you should get going, <ffx:sadness_light>Damir and Giul are waiting. <ffx:neutral>",
+    "target": "<ffx:wonder_light>أرتيوم، أعتقد أنه يجب عليك المضي قدمًا،<ffx:sadness_light>دامير وجيول ينتظران.<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "m3_m08_des_water_11_task_note_1",
+    "source": "I’m going to an oasis to replenish our fresh water reserves, but first I’ve got to meet Damir at the rendezvous point marked by Giul.",
+    "target": "سأتجه إلى واحة لتجديد مخزوننا من المياه العذبة، لكن علي أولا لقاء دامير عند النقطة التي حددتها جيول.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_000_narration_10",
+    "source": "<tab>Even having repelled the Baron's attack, we’re still stuck in this desert until we get enough fuel. So, while the others are preparing the Aurora for departure, me, Giul and Damir must sneak into the oil terminal, and steal a railway tank full of fuel.<br><br><tab>We must open the gate from the inside, so that our guys could hook the tank to the railcar and roll it out before any of the baron's men notice them. Giul and Damir are going to be waiting for me near the terminal.<br><br>",
+    "target": "<tab>حتى بعد صد هجوم البارون، ما زلنا عالقين في هذه الصحراء حتى نحصل على ما يكفي من الوقود. لذا، بينما يقوم الآخرون بإعداد أورورا للمغادرة، يجب علي أنا وجيول ودامير التسلل إلى محطة النفط وسرقة خزان سكة حديد مليء بالوقود.<br><br><tab>يجب أن نفتح البوابة من الداخل، حتى يتمكن رجالنا من ربط الخزان بعربة السكة الحديد وإخراجها قبل أن يلاحظهم أي من رجال البارون. جيول ودامير سينتظرانني بالقرب من المحطة.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_06_bridge\\bri_099_audiolog_bandits_01_03",
+    "source": "Do you think I'm a fucking idiot or what? These fucktards just went and messed with the fucking thing...",
+    "target": "هل تعتقد أنني أحمق سخيف أم ماذا؟ هؤلاء الأوغاد ذهبوا وعبثوا بالأمر اللعين",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "radio",
+    "id": "voices\\m3_06_bridge\\bri_012_prince_observationpost_miller_01",
+    "source": "Artyom, Miller here... Transmitting Duke's coordinates... He's keeping tabs on the Bridge from there. Meet up with him, he'll fill you in on the latest developments in the Terminal. Miller, over and out.",
+    "target": "أرتيوم، ميلر هنا... ينقل إحداثيات ديوك... إنه يراقب الجسر من هناك. التقِ به وسيطلعك على آخر التطورات في المحطة. ميلر، مرارًا وتكرارًا.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "m3_m06_bri_inside_note",
+    "source": "The bridge shantytown has always been a local center of power. Its strategic location on the river and total control over the only crossing for klicks around has let the bridge dwellers survive in relative safety through all these years. Today we’re going to disturb their peace... The Aurora has to continue moving forward.<br>Duke and I are climbing to the very top, into their temple, which used to be the bridge control room. As soon as we disengage the lock mechanism and the rising section falls into place, the Aurora will cross. ",
+    "target": "لقد كانت مدينة الصفيح الجسرية دائمًا مركزًا محليًا للسلطة. إن موقعه الاستراتيجي على النهر وسيطرته الكاملة على المعبر الوحيد الذي يمكن الوصول إليه قد سمح لسكان الجسر بالبقاء على قيد الحياة في أمان نسبي طوال هذه السنوات. اليوم سنقوم بإزعاج سلامهم... يجب على أورورا أن تستمر في المضي قدمًا.<br>أنا ودوق نتسلق إلى القمة، إلى معبدهم، الذي كان في السابق غرفة التحكم بالجسر. بمجرد أن نفك آلية القفل ويستقر الجزء الصاعد في مكانه، سوف يعبر أورورا.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_dlc2\\dlc2_062_firedepot_bandits_talk_03_15",
+    "source": "Yeah, them fuckers! They, like, swarm around the big one, and it totally orders them around!",
+    "target": "نعم، هؤلاء الملاعين! إنهم، مثلًا، يتجمعون حول الشيء الكبير، وهو يأمرهم تمامًا!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "radio",
+    "id": "voices\\m3_06_bridge\\bri_008_miller_krest_task_01",
+    "source": "Artyom, Miller here. I have a new task for you. Katya, the woman you saved from the church, says there's a mechanic hiding in the port. His name is Krest. Find him and invite him to our base. Over and out...",
+    "target": "أرتيوم، ميلر هنا. لدي مهمة جديدة بالنسبة لك. كاتيا، المرأة التي أنقذتها من الكنيسة، تقول أن هناك ميكانيكيًا مختبئًا في الميناء. اسمه كريست. ابحث عنه وادعوه إلى قاعدتنا. مرارا وتكرارا ...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "radio",
+    "id": "voices\\m3_dlc1\\dlc1_120_miller_kirill_radio_02_01",
+    "source": "Kirill, Miller here. Do you read? Over...",
+    "target": "كيريل، ميلر هنا. هل تقرأ؟ انتهى...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_000_narration_02_part1",
+    "source": "<tab>Passing through the desert, we noticed a car tailing the Aurora. The Colonel gave the order to stop and sent me and Damir to recon the area. On my way to the goal, I had to hide from a sandstorm in the ruins of a restaurant, where I was attacked by one of the local bandits.<br><br>",
+    "target": "<tab>أثناء مرورنا عبر الصحراء، لاحظنا سيارة تتخلف عن أورورا. أصدر العقيد الأمر بالتوقف وأرسلني أنا ودامير لاستطلاع المنطقة. وفي طريقي إلى الهدف، اضطررت للاختباء من عاصفة رملية في أنقاض أحد المطاعم، حيث هاجمني أحد قطاع الطرق المحليين.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_000_narration_02_stun",
+    "source": "<tab>Passing through the desert, we noticed a car tailing the Aurora. The Colonel gave the order to stop and sent me and Damir to recon the area. On my way to the goal, I had to hide from a sandstorm in the ruins of a restaurant, where I was attacked by one of the local bandits.<br><br><tab>In the ensuing fight, I had to knock him out. The poor bastard will have a hell of a headache when he wakes up. I also took his car, so we can't really expect a warm welcome from his buddies, whoever they might be. My next goal is a lighthouse in the desert, near which Damir spotted some antennas. I hope, that’s where the satellite communications center is, with the maps we’re looking for.<br><br>",
+    "target": "<tab>أثناء مرورنا عبر الصحراء، لاحظنا سيارة تتخلف عن أورورا. أصدر العقيد الأمر بالتوقف وأرسلني أنا ودامير لاستطلاع المنطقة. وفي طريقي إلى الهدف، اضطررت للاختباء من عاصفة رملية في أنقاض أحد المطاعم، حيث هاجمني أحد قطاع الطرق المحليين.<br><br><tab>في المعركة التي تلت ذلك، كان علي أن أطرده. سيعاني اللقيط المسكين من صداع شديد عندما يستيقظ. لقد أخذت سيارته أيضًا، لذلك لا يمكننا أن نتوقع ترحيبًا حارًا من رفاقه، أيًا كانوا. هدفي التالي هو منارة في الصحراء، والتي رصد دمير بالقرب منها بعض الهوائيات. آمل أن يكون هذا هو المكان الذي يوجد فيه مركز الاتصالات عبر الأقمار الصناعية، مع الخرائط التي نبحث عنها.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_06_spring\\spr_002_level1_princedead_00",
+    "source": "<ffx:sadness>I'm so sorry about Duke... <ffx:sadness_light>He was just a boy, really. He kept asking me <ffx:smile_light>for advice of how to become more attractive to a girl he knew, what to say to her... <ffx:sadness>He couldn't wait to come back to her, proudly wearing scars and medals...<ffx:neutral>",
+    "target": "<ffx:sadness>أنا آسف جدًا بشأن ديوك...<ffx:sadness_light>لقد كان مجرد صبي حقًا. لقد ظل يطلب مني نصيحة<ffx:smile_light>حول كيفية أن يصبح أكثر جاذبية لفتاة يعرفها، وماذا يقول لها...<ffx:sadness>لم يستطع الانتظار حتى يعود إليها، وهو يرتدي الندبات والميداليات بكل فخر...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_06_bridge\\bri_008_spartanmission_reminder_katya_stepan_10",
+    "source": "<ffx:sadness_light>I'd go look for her if I had a choice, <ffx:sadness>but the Colonel has ordered me to stay here to guard the Aurora... <ffx:fear_light>This could be a diversion, you know... <ffx:wonder_light>",
+    "target": "<ffx:sadness_light>سأذهب للبحث عنها إذا كان لدي خيار،<ffx:sadness>لكن العقيد أمرني بالبقاء هنا لحراسة أورورا...<ffx:fear_light>قد يكون هذا تحويلًا، كما تعلم...<ffx:wonder_light>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_008_meeting_giul_11",
+    "source": "Giul, what do you know of the antennas near your lighthouse?",
+    "target": "جيول، ماذا تعرف عن الهوائيات القريبة من منارتك؟",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_011_05_giuldamirbanter_01_01",
+    "source": "<ffx:wonder>Tell me, Giul... <ffx:sadness>How did this... Baron come to power here? <ffx:neutral>",
+    "target": "<ffx:wonder>أخبرني يا جيول...<ffx:sadness>كيف حدث هذا... وصل البارون إلى السلطة هنا؟<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "literal",
+    "id": "voices\\universal_m3\\factions\\cannibal_3\\stunned\\stunned_found_03",
+    "source": "Heeey! Here! Everyone, here! He just knocked this ass out!",
+    "target": "هيي! هنا! الجميع، هنا! لقد قام للتو بطرد هذا الحمار!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_dlc_comments\\burunduk\\dlc_comments_rest_place_0006_part_03",
+    "source": "Giul would initially treat Artyom him with suspicion, as she didn’t expect his arrival and took him for an agent of Baron’s.",
+    "target": "كانت جيول تعامله في البداية بعين الشك، لأنها لم تتوقع وصوله واعتبرته وكيلًا لبارون.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "radio",
+    "id": "voices\\m3_06_spring\\spr_007_05_millertalk_01_23",
+    "source": "<ffx:smile_light>I serve the people... Over and out...<ffx:neutral>",
+    "target": "<ffx:smile_light>أنا أخدم الشعب... مرارًا وتكرارًا...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "m3_loader_diary_desert_03",
+    "source": "<tab>Not like there was any chance of staying on their good side, anyway. Quite soon after obtaining the car, I got a message from the Colonel: he wanted me to help a local lady named Giul fight off some bandits in exchange for information... Why do we keep encountering conflict wherever we go?<br><br>",
+    "target": "<tab>ليس هناك أي فرصة للبقاء في جانبهم الجيد، على أي حال. بعد فترة وجيزة من حصولي على السيارة، تلقيت رسالة من العقيد: يريد مني أن أساعد سيدة محلية تدعى جيول في محاربة بعض قطاع الطرق مقابل الحصول على معلومات... لماذا نستمر في مواجهة الصراع أينما ذهبنا؟<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_dlc2\\dlc2_650_02_assault_group_02_afterexplosion_01_03",
+    "source": "Everyone, hold it! Find cover and wait for orders!",
+    "target": "الجميع، امسكوا! ابحث عن غطاء وانتظر الطلبات!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "radio",
+    "id": "voices\\m3_06_bridge\\bri_012_saving_private_teddy_radio_09",
+    "source": "I'm just too nice to you all! Alright, as you were. Over and out.",
+    "target": "أنا لطيف جدًا معكم جميعًا! حسنا، كما كنت. مرارا وتكرارا.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "m3_dia_crew_duke_spring_alive",
+    "source": "<tab>Igor likes being called the Duke of Darkness, but you can hardly find a lighter-hearted guy. He is but a brat taking crazy risks all the time, but Lady Luck smiles to the brave! If not for the trick he played on Silantius, that old obscurant, our whole operation could have failed. Duke, my friend, your star is undoubtedly on the rise, and soon you will outshine us all! We be of one blood, ye and I, and I’m proud of it!<br><br>",
+    "target": "<tab>يحب إيغور أن يطلق عليه لقب دوق الظلام، ولكن من الصعب أن تجد رجلاً أفتح قلبًا. إنه مجرد شقي يخوض مخاطرات جنونية طوال الوقت، لكن سيدة الحظ تبتسم للشجعان! لولا الخدعة التي لعبها على سيلانتيوس، ذلك الغامض القديم، لكانت عمليتنا بأكملها قد فشلت. ديوك، يا صديقي، نجمك في صعود بلا شك، وقريبًا سوف تتفوق علينا جميعًا! نحن من دم واحد، أنا وأنت، وأنا فخور بذلك!<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_dlc_comments\\burunduk\\dlc_comments_canyon_rest_place_part_03",
+    "source": "The level was also a stage for tumultuous drama. Lots of events would play out here: Pavel from Last Light was looking for his grandfather's grave, Giul went tracking the cannibal who had kidnapped Nastya, ",
+    "target": "وكان المستوى أيضًا مسرحًا للدراما الصاخبة. ستدور أحداث كثيرة هنا: كان بافيل من فيلم لاست لايت يبحث عن قبر جده، وذهب جيول لتعقب آكل لحوم البشر الذي اختطف ناستيا،",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "m3_loader_diary_story_06_06_bri_combat_good",
+    "source": "<tab>No wonder they weren’t exactly keen on letting just anyone through. That said, they proved powerless to enforce that conviction. Duke and I were able to slice right to the heart of their cult, which had definitely impressed Silantius. His savages had no chance of besting Sparta in open combat, and he had the brain capacity to understand that.<br><br>",
+    "target": "<tab>لا عجب أنهم لم يكونوا حريصين تمامًا على السماح لأي شخص بالمرور. ومع ذلك، فقد أثبتوا عجزهم عن فرض هذه الإدانة. تمكنت أنا ودوق من الوصول إلى قلب طائفتهم، الأمر الذي أثار إعجاب سيلانتيوس بالتأكيد. لم يكن لدى متوحشيه أي فرصة للتفوق على سبارتا في القتال المفتوح، وكان لديه القدرة العقلية على فهم ذلك.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_011_outofthebunker_01_04",
+    "source": "<ffx:disgust>He ended up building a feudal system here... The locals, my people, are <ffx:sadness>slaves and canon-fodder now. <ffx:wonder_light>Still, everything is wrapped up in this <ffx:disgust_light>Cult of Fire, they brainwash the young using <ffx:sadness_light>tricks with oil and drugs, and it works - the <ffx:sadness>poor guys cant even read...<ffx:neutral>",
+    "target": "<ffx:disgust>انتهى به الأمر إلى بناء نظام إقطاعي هنا... السكان المحليون، شعبي، هم عبيد<ffx:sadness>ومدافع الكنسي الآن.<ffx:wonder_light>ومع ذلك، كل شيء متضمن في عبادة النار<ffx:disgust_light>، فهم يغسلون أدمغة الشباب باستخدام حيل<ffx:sadness_light>بالزيت والمخدرات، وقد نجح الأمر - فقراء<ffx:sadness>لا يستطيعون حتى القراءة...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_170_saultalk_01_21",
+    "source": "<ffx:anger_light>And all my planning goes to the shitter! <ffx:disgust_light>Lock all the doors, triple the guards, the whole shebang. <ffx:sadness>That Giul lost any chance of getting close enough to him! <ffx:neutral>",
+    "target": "<ffx:anger_light>وكل تخطيطاتي تذهب إلى الحضيض!<ffx:disgust_light>أغلق جميع الأبواب، ضاعف الحراس ثلاث مرات، كل الشيبانج.<ffx:sadness>أن جيول فقد أي فرصة للاقتراب منه بدرجة كافية!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_171_barondouble_talk_05_giultalk_02",
+    "source": "<ffx:smile>Everything must look natural, after all! <ffx:sadness_light>Giul will kill the accursed Baron, <ffx:smile_light>the oppressed people will rebel, <ffx:sadness>they will be headed by the new leaders of the resistance...<ffx:neutral>",
+    "target": "<ffx:smile>كل شيء يجب أن يبدو طبيعيًا، بعد كل شيء!<ffx:sadness_light>سيقتل جيول البارون الملعون،<ffx:smile_light>سيتمرد الشعب المضطهد،<ffx:sadness>سيكون على رأسهم قادة المقاومة الجدد...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_dlc1\\dlc1_225_3_oskom_battleshouts_02_06",
+    "source": "For OSKOM! For order!",
+    "target": "من أجل أوسكوم! للطلب!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_171_barondouble_talk_05_giultalk_04",
+    "source": "<ffx:smile_light>At that moment she will discover that, in <ffx:disgust>addition to their \"freedom\", the slaves will have <ffx:smile>gained hunger and thirst! <ffx:disgust>Giul knows nothing of the effort it takes to <ffx:sadness>supply all of my subjects with the barest of necessities...<ffx:neutral>",
+    "target": "<ffx:smile_light>وفي تلك اللحظة سوف تكتشف ذلك، في<ffx:disgust>بالإضافة إلى \"حريتهم\"، سيحصل العبيد على<ffx:smile>اكتسبت الجوع والعطش!<ffx:disgust>لا يعرف جيول شيئًا عن الجهد الذي يتطلبه الأمر<ffx:sadness>تزويد جميع رعاياي بأقل الضروريات...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "m3_loader_diary_desert_10_karmagood",
+    "source": "<tab>Then again, anywhere we went, we also met real people - selfless, brave, humane... People who could have led others to peace and freedom. People like Giul. People like us! And the common folk... It’s not their fault. They just lack the courage to fight the oppressors. Still, we did all we could to free the people of this sun-scorched desert, and Giul won’t let them forget this example. It is a pity we can’t stay, a shame that Damir’s couldn’t find any trace of his relatives - but his family, his real home, is here on the Aurora. <br><br>",
+    "target": "<tab>ومرة أخرى، في أي مكان ذهبنا إليه، التقينا أيضًا بأشخاص حقيقيين - غير أنانيين، شجعان، وإنسانيين... أشخاص كان بإمكانهم قيادة الآخرين إلى السلام والحرية. الناس مثل جيول. الناس مثلنا! والعامة... ليس ذنبهم. إنهم يفتقرون فقط إلى الشجاعة لمحاربة الظالمين. ومع ذلك، بذلنا كل ما في وسعنا لتحرير شعب هذه الصحراء الحارقة، ولن يسمح لهم جيول بنسيان هذا المثال. من المؤسف أننا لا نستطيع البقاء، ومن المؤسف أن دامير لم يتمكن من العثور على أي أثر لأقاربه - لكن عائلته، منزله الحقيقي، موجودة هنا على متن سفينة أورورا.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "radio",
+    "id": "voices\\m3_08_desert\\des_007_newmission_04",
+    "source": "Get to it! Miller, over and out.",
+    "target": "احصل عليه! ميلر، مرارًا وتكرارًا.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "radio",
+    "id": "voices\\m3_dlc1\\dlc1_70_miller_kirill_radio_01_01",
+    "source": "Kirill, Miller here. Comms check, do you read me? Over!",
+    "target": "كيريل، ميلر هنا. التحقق من الاتصالات، هل تقرأني؟ حوّل!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_000_narration_02_kill",
+    "source": "<tab>Passing through the desert, we noticed a car tailing the Aurora. The Colonel gave the order to stop and sent me and Damir to recon the area. On my way to the goal, I had to hide from a sandstorm in the ruins of a restaurant, where I was attacked by one of the local bandits.<br><br><tab>I had to kill him in self-defense, and now we can't really expect a warm welcome from his buddies, whoever they might be. At least, I acquired a car, which should help me reach my next goal, a lighthouse in the desert. Damir reported spotting some antennas nearby. I hope, that’s where the satellite communications center is, with the maps we’re looking for.<br><br>",
+    "target": "<tab>أثناء مرورنا عبر الصحراء، لاحظنا سيارة تتخلف عن أورورا. أصدر العقيد الأمر بالتوقف وأرسلني أنا ودامير لاستطلاع المنطقة. وفي طريقي إلى الهدف، اضطررت للاختباء من عاصفة رملية في أنقاض أحد المطاعم، حيث هاجمني أحد قطاع الطرق المحليين.<br><br><tab>اضطررت لقتله دفاعًا عن النفس، والآن لا يمكننا أن نتوقع ترحيبًا حارًا من رفاقه، أيًا كانوا. على الأقل، اشتريت سيارة، والتي من شأنها أن تساعدني في الوصول إلى هدفي التالي، وهو منارة في الصحراء. أفاد دامير أنه رصد بعض الهوائيات القريبة. آمل أن يكون هذا هو المكان الذي يوجد فيه مركز الاتصالات عبر الأقمار الصناعية، مع الخرائط التي نبحث عنها.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_dlc1\\dlc1_310_kirill_final_01_02",
+    "source": "I'm sorry I broke your order! There was shooting at the station. Then it all went quiet, and you didn't come... I was worried, and went looking for you...",
+    "target": "أنا آسف لأنني كسرت طلبك! كان هناك إطلاق نار في المحطة. ثم هدأ كل شيء، ولم تأتي... كنت قلقة، وذهبت للبحث عنك...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "radio",
+    "id": "voices\\m3_13_dead_city\\nvs_103_carmovingoutcomm_01",
+    "source": "Kirill, Miller here... Do you read? (static)",
+    "target": "كيريل، ميلر هنا... هل تقرأ؟ (ثابت)",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_013_briefing_02_19",
+    "source": "<ffx:wonder_light>Giul told us where they get the water, but, naturally, <ffx:sadness_light>the well is guarded. <ffx:wonder_light>Damir reconed the place, and says we could <ffx:sadness_light>infiltrate it stealthily. <ffx:neutral>",
+    "target": "أخبرنا<ffx:wonder_light>جيول من أين يحصلون على المياه، لكن بطبيعة الحال،<ffx:sadness_light>البئر تحت الحراسة.  استعاد<ffx:wonder_light>دامير المكان، وقال إن بإمكاننا التسلل إلى<ffx:sadness_light>خلسة.<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "idiom",
+    "id": "voices\\universal_m3\\factions\\merc_3\\danger\\attacking_human_02",
+    "source": "Die, you motherfucker!",
+    "target": "مت يا ابن العاهرة!",
+    "status": "reviewed",
+    "translation_origin": "reviewed"
+  },
+  {
+    "kind": "literal",
+    "id": "voices\\universal_m3\\factions\\forest_2\\decoy\\decoy_hit_reaction_04",
+    "source": "What ass is throwing these?",
+    "target": "ما الحمار هو رمي هذه؟",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_171_barondouble_talk_05_giultalk_03",
+    "source": "<ffx:sadness>Giul will by right take the tyrant's place, <ffx:wonder_light>many of his old flunkies will swear allegiance to her...<ffx:neutral>",
+    "target": "<ffx:sadness>سوف يأخذ جيول مكان الطاغية،<ffx:wonder_light>العديد من أتباعه القدامى سيقسمون الولاء لها...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_035_oasisfort_oppressedtribals_01_03",
+    "source": "<ffx:anger>They are fucking tired of waiting for the damned water on the rig! <ffx:disgust>Myrza ordered, you get that? If the boss asks me about that, <ffx:anger>I'll have you fucking carry it there by the bucket! <ffx:disgust>Myrza said - you do, no questions! Do you get this?<ffx:neutral>",
+    "target": "<ffx:anger>لقد سئموا من انتظار الماء اللعين على المنصة!  أمرت<ffx:disgust>ميرزا، هل فهمت ذلك؟ إذا سألني الرئيس عن ذلك،<ffx:anger>سأجعلك تحمله هناك بجانب الدلو!  قال<ffx:disgust>ميرزا ​​- أنت تفعل ذلك، لا توجد أسئلة! هل فهمت هذا؟<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_021_barontalk_02_01",
+    "source": "<ffx:anger>Giul herself has come for you! <ffx:neutral>",
+    "target": "<ffx:anger>لقد أتت جيول بنفسها من أجلك!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "radio",
+    "id": "voices\\m3_09_summer\\sum_120_radio_03_19",
+    "source": "Rakmet, my friend. Over and out!",
+    "target": "ركمت يا صديقي مرارا وتكرارا!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "radio",
+    "id": "voices\\m3_09_summer\\sum_120_radio_03_18",
+    "source": "Deal. See you there, Abbas! Over and out!",
+    "target": "صفقة. نراكم هناك يا عباس! مرارا وتكرارا!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_dlc2\\dlc2_215_05_movingon_01_13",
+    "source": "The whole city is divided between them. It took a lot of fighting to define those borders, so now they open fire at anyone approaching without proper insignia.",
+    "target": "المدينة كلها مقسمة بينهما. لقد تطلب الأمر الكثير من القتال لتحديد تلك الحدود، لذا فهم الآن يطلقون النار على أي شخص يقترب دون شارة مناسبة.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "literal",
+    "id": "voices\\m3_dlc2\\dlc2_282_loading_electricspider_reminder_01_07",
+    "source": "Power's down again! Kill that spider, Sam!",
+    "target": "انقطاع التيار الكهربائي مرة أخرى! اقتل هذا العنكبوت يا سام!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_021_barontalk_02_04_03",
+    "source": "You didn't want a deal, now you will all die! Starting with you, Giul!",
+    "target": "لم تكن تريد صفقة، والآن سوف تموت جميعًا! سأبدأ معك يا جيول!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_06_bridge\\bri_006_sectantsadvance_16",
+    "source": "<ffx:wonder_strong>That was his order, too! <ffx:disgust>So call him over and wait! <ffx:neutral>",
+    "target": "<ffx:wonder_strong>كان هذا هو أمره أيضًا!<ffx:disgust>لذا اتصل به وانتظر!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_099_tape_1",
+    "source": "Just finished moving into the old lighthouse. Staying with Giul in that hole any longer is out of question... New gas geysers keep sprouting daily, the whole bunker could collapse any moment now... There's nothing to hope for - nobody knows why are we even here anymore, we certainly can't do any work... I only go down there for the pittance that passes for rations nowadays. I'd like to believe that it's safer on the Surface, but who am I trying to fool... The people are famished, every day brings news of new attacks and murders, ever more violent... All my thoughts are with Giul now. I can't believe this nightmare is the world she's going to live in from now on...",
+    "target": "انتهيت للتو من الانتقال إلى المنارة القديمة. البقاء مع جيول في تلك الحفرة لفترة أطول أمر غير وارد... تستمر ينابيع الغاز الجديدة في الظهور يوميًا، وقد ينهار المخبأ بأكمله في أي لحظة الآن... ليس هناك ما نأمله - لا أحد يعرف سبب وجودنا هنا بعد الآن، نحن بالتأكيد لا نستطيع القيام بأي عمل... أنا أذهب إلى هناك فقط مقابل أجر زهيد ينفق على حصص الإعاشة هذه الأيام. أود أن أصدق أن الأمر أكثر أمانًا على السطح، لكن من الذي أحاول خداعه... الناس جائعون، كل يوم يأتي بأخبار عن هجمات جديدة وجرائم قتل، أكثر عنفًا من أي وقت مضى... كل أفكاري مع جيول الآن. لا أستطيع أن أصدق أن هذا الكابوس هو العالم الذي ستعيش فيه من الآن فصاعدا ...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "idiom",
+    "id": "m3_loader_diary_valley_06_02_wolfbanditagain_talked",
+    "source": "<tab>I had hoped to never meet the bandit I accidentally ended up saving from the wolves, but ran into him nevertheless. If I were in his shoes, I’d not spend an extra minute in that valley, but he, instead of high-tailing it back home, found some of his partners in crime and hit the bottle hard... I wouldn’t want to talk to him even if he wasn’t drunk, but in hopes of finding out something new, I stayed to listen to his drunken ramblings... Completely in vain, of course. He was too drunk, and never knew anything in the first place. Knowing better than to wait for more bandits to arrive, I just moved on, as there seemed to have been enough delays on my way to the Church as it was.<br><br>",
+    "target": "<tab>كنت أتمنى ألا أقابل قاطع الطريق أبدًا وانتهى بي الأمر بإنقاذه من الذئاب عن طريق الخطأ، لكنني التقيت به رغم ذلك. لو كنت مكانه، لما قضيت دقيقة إضافية في ذلك الوادي، لكنه بدلاً من تتبع الأمر في المنزل، وجد بعض شركائه في الجريمة وضرب الزجاجة بقوة... لم أكن أرغب في التحدث معه حتى لو لم يكن مخموراً، لكن على أمل اكتشاف شيء جديد، بقيت أستمع إلى ثرثرته المخمور... عبثاً تماماً، بالطبع. لقد كان في حالة سكر للغاية، ولم يعرف أي شيء في المقام الأول. مع العلم أنه من الأفضل أن أنتظر وصول المزيد من قطاع الطرق، واصلت المضي قدمًا، حيث بدا أنه كان هناك تأخير كافٍ في طريقي إلى الكنيسة كما كان.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_06_bridge\\bri_019_portupdate_03_01",
+    "source": "<ffx:anger_light>So, here's the plan... <ffx:wonder_light>Your group captures the tugboat, then you, Duke and Krest take it to the bridge. <ffx:smile_light>While Krest distracts the guards, you and Duke infiltrate the control room at the top and lower the bridge. <ffx:anger_light>On your mark we’ll ram the gate, pick you up and... and... <ffx:anger_light>I pray to God it works out.",
+    "target": "<ffx:anger_light>إذن، هذه هي الخطة...<ffx:wonder_light>مجموعتك تلتقط زورق القطر، ثم تأخذه أنت وديوك وكريست إلى الجسر.<ffx:smile_light>بينما يقوم كريست بتشتيت انتباه الحراس، تتسلل أنت وديوك إلى غرفة التحكم في الجزء العلوي وأسفل الجسر.<ffx:anger_light>عند إشارتك، سنقتحم البوابة، ونلتقطك و... و...<ffx:anger_light>أدعو الله أن ينجح الأمر.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_011_outofthebunker_01_03",
+    "source": "<ffx:smile_light>While we were messing with the cables, <ffx:sadness_light>Giul told me a little bit about that Baron. <ffx:wonder_light>He's an ex-oil driller, worked here before the War. <ffx:disgust_light>When the shit hit the fan, he started amassing power.<ffx:neutral>",
+    "target": "<ffx:smile_light>بينما كنا نعبث بالكابلات، أخبرني<ffx:sadness_light>جيول قليلًا عن ذلك البارون.<ffx:wonder_light>إنه حفار نفط سابق، عمل هنا قبل الحرب.<ffx:disgust_light>عندما ضربت المروحة، بدأ في تجميع القوة.<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "literal",
+    "id": "voices\\m3_06_bridge\\bri_024_tower_bandits_talk_01_01",
+    "source": "<ffx:disgust>I'm so fucking tired of sitting here with this piece of shit! <ffx:anger>It's been three days! <ffx:disgust_light>",
+    "target": "<ffx:disgust>لقد سئمت جدًا من الجلوس هنا مع هذه القطعة من الهراء!<ffx:anger>لقد مرت ثلاثة أيام!<ffx:disgust_light>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_09_summer\\sum_001_7_2_tabletalk_02_63",
+    "source": "Not that hard... <ffx:wonder>There were lots of those subs when the War broke out, <ffx:wonder_strong>and most of them were out in the sea! <ffx:sadness_light>Most of those carried their orders, since America is silent... <ffx:sadness>Sorry about that, Sam... <ffx:neutral>",
+    "target": "ليس بهذه الصعوبة...<ffx:wonder>كان هناك الكثير من تلك الغواصات عندما اندلعت الحرب،<ffx:wonder_strong>وكان معظمها في البحر!<ffx:sadness_light>معظم هؤلاء حملوا أوامرهم، لأن أمريكا صامتة...<ffx:sadness>آسف لذلك يا سام...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "radio",
+    "id": "voices\\m3_08_desert\\des_007_02_04_briefing_1_5_millerradio_01_04",
+    "source": "<ffx:wonder_light>Yes... OK... I see. <ffx:smile_light>Carry on! Miller, over and out. <ffx:neutral>",
+    "target": "<ffx:wonder_light>نعم... حسنًا... فهمت.<ffx:smile_light>استمر! ميلر، مرارًا وتكرارًا.<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_02_dead_moscow\\dmc_030_5_goingtotheaurora_guardstalk_03_02",
+    "source": "<ffx:sadness_light>There's nobody out there, that's for sure! <ffx:fear_light>It's the outside gate, so it could only be Watchmen...<ffx:neutral>",
+    "target": "<ffx:sadness_light>لا يوجد أحد هناك، هذا أمر مؤكد!<ffx:fear_light>إنها البوابة الخارجية، لذا لا يمكن أن يكون هناك سوى الحراس...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_09_summer\\sum_002_partystarts_01_16",
+    "source": "<ffx:wonder_strong>Yet, this is not our last order of business for <ffx:smile>today... Stepan, Katya! <ffx:neutral>",
+    "target": "<ffx:wonder_strong>ومع ذلك، هذا ليس طلبنا الأخير من أعمال<ffx:smile>اليوم... ستيبان، كاتيا!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "radio",
+    "id": "voices\\m3_13_dead_city\\nvs_008_shelter_radio_01_01",
+    "source": "<ffx:anger_light>Do you read me, Aurora? Miller here! <ffx:neutral>",
+    "target": "<ffx:anger_light>هل تقرأني يا أورورا؟ ميلر هنا!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "literal",
+    "id": "voices\\universal_m3\\factions\\bandit_3\\danger\\attacking_enemy_02",
+    "source": "Take this you fucking ass!",
+    "target": "خذ هذا أيها الحمار اللعين!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "m3_dia_crew_duke_spring_dead",
+    "source": "<tab>Ah, Duke... The youngest, the bravest, the craziest... You didn’t hold anything back, and so we lost you... Now you’re on the bottom of Volga, under a million tons of iron - I don’t think anything less could ever keep you down... You liked being called the Duke of Darkness as a joke, but that darkness heard you and came to claim you in the end... Please, forgive us for not keeping you alive, Duke. Fare thee well.<br><br>",
+    "target": "<tab>آه، ديوك... الأصغر، الأشجع، الأكثر جنونًا... لم تمنع أي شيء، ولذلك فقدناك... أنت الآن في قاع نهر الفولغا، تحت مليون طن من الحديد - لا أعتقد أن أي شيء أقل من ذلك يمكن أن يحبطك على الإطلاق... لقد أحببت أن تُلقب بدوق الظلام على سبيل المزاح، لكن الظلام سمعك وجاء ليطالبك في النهاية... من فضلك، سامحنا لأننا لم نبقيك على قيد الحياة، دوك. أجرة جيدة لك.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "radio",
+    "id": "voices\\universal_m3\\factions\\merc_1\\uber_alert\\uber_alert_group_alert_triggered_by_ally_01",
+    "source": "Hey! Sitrep, now!",
+    "target": "مهلا! سيتريب، الآن!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "m3_m08_des_save_10_task_note",
+    "source": "Giul asks the I help some of the enslaved locals out. They were chased into a nearby gorge by a pack of beats. I’d better act fast.",
+    "target": "تطلب مني جيول مساعدة بعض السكان المحليين المستعبدين. فقد طاردهم قطيع من الوحوش حتى حاصرهم في مضيق قريب. علي الإسراع.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\universal_m3\\factions\\merc_3\\decoy\\decoy_hit_reaction_03",
+    "source": "Bite me, you idiot!",
+    "target": "عضني أيها الأحمق!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "ACH_d1_DESC",
+    "source": "Duke survives.",
+    "target": "نجا دوق.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "m3_08_des_sign_giul_08",
+    "source": "Giul is with us!",
+    "target": "جيول معنا!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "radio",
+    "id": "voices\\m3_dlc1\\dlc1_20_depot_general_radio_07",
+    "source": "Roger that, over and out!",
+    "target": "روجر ذلك، مرارا وتكرارا!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_044_97_snipertalk_01_05",
+    "source": "<ffx:wonder>Some sniper he is, can't even discipline his own slave! <ffx:anger>That asshole told mine yesterday that his master has a good position set up in the Port, <ffx:wonder_light>somewhere high up, where he could stay hidden and see everything around...<ffx:neutral>",
+    "target": "<ffx:wonder>إنه قناص، لا يمكنه حتى تأديب عبده!<ffx:anger>أخبرني ذلك الأحمق بالأمس أن سيده لديه موقع جيد في الميناء،<ffx:wonder_light>في مكان مرتفع، حيث يمكنه البقاء مختبئًا ورؤية كل شيء حوله...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_020_barontalk_01_05",
+    "source": "<ffx:wonder>I'm just doing my best to introduce a <ffx:smile_light>little order into it, without which <ffx:sadness_light>there is no hope for something better in the future, <ffx:sadness_light>and with no hope you can't live! <ffx:neutral>",
+    "target": "<ffx:wonder>أنا أبذل قصارى جهدي لتقديم طلب صغير<ffx:smile_light>إليه، والذي بدونه<ffx:sadness_light>لا يوجد أمل في شيء أفضل في المستقبل،<ffx:sadness_light>وبدون أمل لا يمكنك العيش!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "radio",
+    "id": "voices\\m3_06_spring\\spr_099_radiostation_01_01_07",
+    "source": "You’re right... That’s the important part... Well, give my regards to Menshikov! Over and out, ha-ha!",
+    "target": "أنت على حق... هذا هو الجزء المهم... حسنًا، أبلغ تحياتي إلى مينشيكوف! مرارا وتكرارا، ها ها!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_dlc2\\dlc2_600_stealthattack_01_02",
+    "source": "Shh, you idiot! You'll blow our cover!",
+    "target": "صه، أنت أحمق! سوف تفجر غطاءنا!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "literal",
+    "id": "voices\\m3_12_valley\\val_34_bandits_totem_01_05",
+    "source": "<ffx:anger>Should start cutting heads off, not fingers! Those fuckers are hardcore, total fanatics! <ffx:disgust>They don’t talk when you flay them alive,  just keep blaring their bullshit about exams and teachers... <ffx:wonder>What the hell is up with that shit, I wonder?<ffx:neutral>",
+    "target": "<ffx:anger>يجب أن يبدأ بقطع الرؤوس، وليس الأصابع! هؤلاء الأوغاد متشددون ومتعصبون تمامًا!<ffx:disgust>إنهم لا يتحدثون عندما تسلخهم أحياء، فقط استمروا في إطلاق هراءهم حول الامتحانات والمدرسين...<ffx:wonder>أتساءل ما الأمر بحق الجحيم مع هذا الهراء؟<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "radio",
+    "id": "voices\\m3_12_valley\\val_000_trolleyride_09_01",
+    "source": "Haha! Glad to hear that! Carry on. Aurora, over and out!",
+    "target": "هاها! سعيد لسماع ذلك! حمل. أورورا، مرارا وتكرارا!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_dlc1\\dlc1_39_general_behinddoors_01_03",
+    "source": "With all due respect, Sir, I can't order them! They are civilians, and...",
+    "target": "مع كامل احترامي سيدي، لا أستطيع أن أطلب منهم! وهم مدنيون...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "radio",
+    "id": "voices\\m3_13_dead_city\\nvs_102_carmovingoutcomm_01",
+    "source": "Kirill, Miller here... Do you read me? Over...",
+    "target": "كيريل، ميلر هنا... هل تقرأني؟ انتهى...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "radio",
+    "id": "voices\\m3_05_winter\\win_099_radiostation_01_02_17",
+    "source": "Good. Two-one, over and out!",
+    "target": "جيد. اثنين واحد، مرارا وتكرارا!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "literal",
+    "id": "voices\\universal_m3\\factions\\bandit_2\\alert\\alert_uni_01",
+    "source": "Well, there definitely is some ass there!",
+    "target": "حسنا، هناك بالتأكيد بعض الحمار هناك!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_06_bridge\\bri_006_sectantsadvance_15",
+    "source": "We are doing this by his order... Open up, damn it!",
+    "target": "نحن نفعل هذا بأمره... افتح، اللعنة!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "m3_06_diary_3_dsc",
+    "source": "<tab>Daria, you were right! They really do grow at an anomalously fast rate, I just identified two of the new-born litter we ringed last year, and they are adolescent now! This is amazing. Pack the recorder and the batteries, we’re setting up shop here, it’s a perfect observation spot.<br><br><tab>BTW, while you’re at it, give Mikhail a rabies shot, he got bitten by one. Insists that it’s nothing serious, but just in case... Lucky I persuaded him to go fetch the equipment and bring you. I’ll be waiting here!",
+    "target": "<tab>داريا، لقد كنت على حق! إنهم حقًا ينموون بمعدل سريع غير طبيعي، لقد حددت للتو اثنين من الأطفال حديثي الولادة الذين اتصلنا بهم العام الماضي، وهم مراهقون الآن! هذا مذهل. احزموا المسجل والبطاريات، نحن ننشئ متجرًا هنا، إنه مكان مراقبة مثالي.<br><br><tab>راجع للشغل، بينما كنت في ذلك، أعط ميخائيل حقنة داء الكلب، لقد تعرض للعض من واحدة. يصر على أن الأمر ليس خطيرًا، ولكن فقط في حالة... من حسن الحظ أنني أقنعته بالذهاب لإحضار المعدات وإحضارك. سأنتظر هنا!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "m3_m08_des_lab_6_1_task",
+    "source": "GIUL",
+    "target": "جيول",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "literal",
+    "id": "voices\\universal_m3\\factions\\bandit_3\\danger\\attacking_enemy_flamer_03",
+    "source": "Someone's ass is getting roasted tonight!",
+    "target": "الحمار شخص ما يتم تحميص هذه الليلة!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "literal",
+    "id": "voices\\m3_08_desert\\des_020_canyon_riggers_01_05",
+    "source": "<ffx:anger>Hey, cut that shit, man! Did you forget how she did Tosha and Snuffer in? <ffx:neutral>",
+    "target": "<ffx:anger>مهلا، اقطع هذا الهراء يا رجل! هل نسيت كيف فعلت توشا وسنوفر؟<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_05_chase\\cha_003_battle_bosstalk_04",
+    "source": "Scratch the order to \"take alive\"!",
+    "target": "خدش أمر \"خذ على قيد الحياة\"!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "m3_loader_diary_desert_09",
+    "source": "<tab>While Damir and I were busy with the water bowser, the Baron's forces attacked the Aurora. Even having repelled the Baron's attack, we were still stuck in the desert without fuel. So, while the others were preparing the Aurora for departure, Giul, Damir and I were to sneak into the oil terminal and steal a railway tank full of fuel.<br><br><tab>We were intending to open the gate from the inside, hook the tank up to the railcar and roll it out before any of the Baron's men noticed anything.<br><br>",
+    "target": "<tab>بينما كنت أنا ودامير مشغولين بعربة الماء، هاجمت قوات البارون أورورا. وحتى بعد صد هجوم البارون، بقينا عالقين في الصحراء دون وقود. لذلك، بينما كان الآخرون يجهزون أورورا للمغادرة، كان من المقرر أن نتسلل أنا وجيول ودامير إلى محطة النفط ونسرق خزانًا للسكك الحديدية مليئًا بالوقود.<br><br><tab>كنا نعتزم فتح البوابة من الداخل، وربط الخزان بعربة السكة الحديد وإخراجها قبل أن يلاحظ أي من رجال البارون أي شيء.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_171_barondouble_reaction_19_wounded_03",
+    "source": "<ffx:fear>I work for Saul, I was <ffx:disgust>supposed to stand in for the Baron when Giul came for him! <ffx:neutral>",
+    "target": "<ffx:fear>أنا أعمل لدى شاول، لقد كنت كذلك<ffx:disgust>من المفترض أن يحل محل البارون عندما جاء جيول من أجله!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "m3_loader_diary_desert_09_towercombat",
+    "source": "<tab>The second part of the plan went south completely, though. When the Baron learned of our presence, he decided to make us an offer he thought we couldn’t refuse... Bad idea! The gate had to be opened, and neither the common bandits, which his fortress was chock full of, nor the Baron’s elite guards could stop me. Still, it wasn’t me who put a stop to his tyranny... I drew the enemy fire, and Giul used the distraction to bomb the oil rig. The Baron was able to see his whole kingdom crumble to dust before catching a bullet from Anna’s rifle. <br><br>",
+    "target": "<tab>الجزء الثاني من الخطة ذهب للجنوب تمامًا. عندما علم البارون بوجودنا، قرر أن يقدم لنا عرضًا اعتقد أننا لا نستطيع رفضه... فكرة سيئة! كان لا بد من فتح البوابة، ولم يستطع قطاع الطرق العاديين، الذين كانت قلعته مكتظة بهم، ولا حراس البارون النخبة أن يمنعوني. ومع ذلك، لم أكن أنا من وضع حدًا لطغيانه... لقد وجهت نيران العدو، واستخدم جيول الإلهاء لقصف منصة النفط. تمكن البارون من رؤية مملكته بأكملها تنهار وتتحول إلى غبار قبل أن يصاب برصاصة من بندقية آنا.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_016_briefing_03_20_01",
+    "source": "<ffx:wonder_light>Damir, you and Giul go check the route. <ffx:sadness_light>Call Artyom once you've learned everything. <ffx:neutral>",
+    "target": "<ffx:wonder_light>دامير، أنت وجيول اذهبوا للتحقق من الطريق.<ffx:sadness_light>اتصل بـ أرتيوم بمجرد أن تتعلم كل شيء.<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\universal_m3\\factions\\bandit_3\\dog\\dog_smellcomment_03",
+    "source": "What is it? Some sucking idiot hiding nearby? Haha!",
+    "target": "ما هذا؟ هل هناك أحمق ماص يختبئ في مكان قريب؟ هاها!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "radio",
+    "id": "voices\\m3_08_desert\\des_013_briefing_02_04_01_01",
+    "source": "<ffx:smile_light>All right. Miller, over and out. <ffx:neutral>",
+    "target": "<ffx:smile_light>حسنًا. ميلر، مرارًا وتكرارًا.<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "radio",
+    "id": "voices\\m3_dlc2\\dlc2_250_sam_captain_radio_01_02",
+    "source": "Great, Sam. Let's meet at the HQ building, do you read?",
+    "target": "عظيم يا سام. دعونا نجتمع في مبنى المقر الرئيسي، هل تقرأ؟",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "literal",
+    "id": "voices\\m3_06_bridge\\bri_040_bguards_idle_talk_03_15",
+    "source": "<ffx:anger_light>You are an ass, Romanych, <ffx:fear_light>God bless you... <ffx:neutral>",
+    "target": "<ffx:anger_light>أنت حمار، رومانيتش،<ffx:fear_light>بارك الله فيك...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_dlc1\\dlc1_225_3_oskom_battleshouts_02_11",
+    "source": "For OSKOM! For order!",
+    "target": "من أجل أوسكوم! للطلب!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "literal",
+    "id": "voices\\universal_m3\\factions\\bandit_2\\light_alert\\light_alert_uni_01",
+    "source": "Huh? Is there some ass over there? Let's check...",
+    "target": "هاه؟ هل هناك بعض الحمار هناك؟ دعونا نتحقق...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "radio",
+    "id": "voices\\m3_06_spring\\spr_007_05_millertalk_01_22",
+    "source": "Colonel, Sir, you do understand this is classified information!.. But... I do understand you... We are doing fine, do not worry. Well... See you in the Ark!... Over and out!..",
+    "target": "حضرة العقيد، سيدي، أنت تفهم أن هذه معلومات سرية!.. لكن... أنا أفهمك... نحن بخير، لا تقلق. حسنًا... أراك في السفينة!... مرارًا وتكرارًا!..",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "m3_loader_diary_story_06_04_bandits_bad",
+    "source": "<tab>In this case, though, their victims were not any better than the bandits themselves. Just like in the Metro, people here on the Surface rip each other’s throats out for no discernible reason. Could it be that the darkness and overpopulation of the Metro, that I had always held responsible for this aggression, have nothing to do with it, the actual reason being simply human nature? How could we ever rebuild the Civilization, who would we do it with? Bandits? These pathetic and twisted fanatics? As if that would ever amount to anything...<br><br><tab>Yes, we didn’t break out of Metro to kill left and right on the Surface, but did I really have a choice? Had I let the prisoners go, they’d just bring a horde of fanatics to attack me, and I’d end up crushed between them and the bandits... At least, instead of being sold off as slaves (if one was to believe their \"holy\" Silantius) they went straight to heaven...<br><br>",
+    "target": "<tab>في هذه الحالة، ضحاياهم لم يكونوا أفضل من قطاع الطرق أنفسهم. تمامًا كما هو الحال في المترو، يقوم الأشخاص هنا على السطح بتمزيق حناجر بعضهم البعض دون سبب واضح. هل من الممكن أن الظلام والاكتظاظ السكاني في المترو، الذي كنت أعتبره دائمًا مسؤولاً عن هذا العدوان، لا علاقة له به، والسبب الحقيقي هو الطبيعة البشرية ببساطة؟ كيف يمكننا إعادة بناء الحضارة، ومع من سنفعل ذلك؟ قطاع الطرق؟ هؤلاء المتعصبين المثيرين للشفقة والملتويين؟ كما لو أن ذلك سيصل إلى أي شيء على الإطلاق...<br><br><tab>نعم، لم نخرج من المترو لنقتل يمينًا ويسارًا على السطح، لكن هل كان لدي خيار حقًا؟ لو تركت السجناء يرحلون، لكانوا قد جلبوا حشدًا من المتعصبين لمهاجمتي، وسينتهي بي الأمر محطمًا بينهم وبين قطاع الطرق... على الأقل، بدلاً من أن يتم بيعي كعبيد (إذا كان للمرء أن يصدق سيلانتيوس \"المقدس\" الخاص بهم) ذهبوا مباشرة إلى الجنة...<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_159_baron_broadcast_09_09",
+    "source": "But I see you're not a complete idiot... So you do understand, deep down... You do understand! There is no other way! Man is a beast! A beeeast!",
+    "target": "لكنني أرى أنك لست أحمقًا تمامًا... إذن أنت تفهم، في أعماقك... أنت تفهم! ليس هناك طريقة أخرى! الإنسان وحش! نحلة!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_017_waytoterminal_01_06",
+    "source": "Yes. <ffx:wonder_light>In any case, the plan is this: <ffx:anger_light>Giul and I will try to take their guards down quietly and get in through the gate. <ffx:sadness_light>If quiet does not work out, <ffx:smile_light>we will at least distract them... <ffx:wonder_light>While you get in through the underground. <ffx:neutral>",
+    "target": "نعم. <ffx:wonder_light>على أي حال، هذه هي الخطة: <ffx:anger_light>سنحاول أنا وجيول تحييد حراسهم بصمت والدخول من البوابة. <ffx:sadness_light>وإن لم ننجح في التسلل، <ffx:smile_light>فسنشتت انتباههم على الأقل... <ffx:wonder_light>بينما تدخل أنت عبر الممر تحت الأرض. <ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_020_barontalk_01_20",
+    "source": "<ffx:wonder>Bring her to me, and we all win. <ffx:smile>I have Giul, you will have your fuel. <ffx:neutral>",
+    "target": "<ffx:wonder>أحضرها إليّ، وسنفوز جميعًا.<ffx:smile>لدي جيول، سيكون لديك الوقود الخاص بك.<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "m3_dlc2_diary_07_dsc",
+    "source": "<tab>So the fuckers got rid of Seryi, after all... Nose raised shit about Seryi \"stealing\" a crate of ammo, and the Boss seemed to be waiting for the news, as he ordered the man chased out into the swamp at once. And then I see that crate under Nose's bunk! The setup couldn't be more obvious! Seryi was right, we should have hit the road back in Summer!<br><br><tab>No matter, I punched Nose's ticket. That fucker was tough, took some effort, he even managed to stab me with his shiv – not to deep, but I still gotta stitch the wound up. I'll take a breather here, and then go join Seryi in the swamp hideout. He saved my ass plenty a time, and now it's my turn. We'll make it, if the fucking Seraph don't munch on us. But even if he does... I'd rather be eaten than stay another day with these dirty fuckers! <br><br>",
+    "target": "<tab>لذلك تخلص الأشرار من سيري، بعد كل شيء... لقد أثار الأنف غضبًا بشأن \"سرقة\" سيري لصندوق ذخيرة، وبدا أن الرئيس ينتظر الأخبار، حيث أمر بمطاردة الرجل إلى المستنقع في الحال. وبعد ذلك أرى ذلك الصندوق تحت سرير الأنف! الإعداد لا يمكن أن يكون أكثر وضوحا! كان سيري على حق، كان ينبغي لنا أن نعود إلى طريق العودة في الصيف!<br><br><tab>لا يهم، لقد لكمت تذكرة الأنف. كان ذلك اللعين قاسيًا، واستغرق بعض الجهد، حتى أنه تمكن من طعني بسكينه - ليس بعمق، لكن لا يزال يتعين علي خياطة الجرح. سأأخذ استراحة هنا، ثم أذهب للانضمام إلى سيري في مخبأ المستنقع. لقد أنقذني كثيرًا من الوقت، والآن حان دوري. سوف ننجح، إذا لم يأكلنا ساراف اللعين. لكن حتى لو فعل... أفضل أن أؤكل بدلاً من البقاء يومًا آخر مع هؤلاء الأوغاد القذرين!<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "radio",
+    "id": "voices\\m3_06_spring\\spr_099_radiostation_02_02_05",
+    "source": "Ufa-Central, Morholt here, do you read me? Over...",
+    "target": "أوفا المركزية، مورهولت هنا، هل تقرأني؟ انتهى...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_021_barontalk_02_09",
+    "source": "Is that Giul there!?",
+    "target": "هل هذا جيول هناك!؟",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "radio",
+    "id": "voices\\m3_08_desert\\des_007_02_04_briefing_1_5_millerradio_02_02",
+    "source": "<ffx:anger_light>Do you read me, Anna? Over... <ffx:neutral>",
+    "target": "<ffx:anger_light>هل تقرأينني يا آنا؟ انتهى...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_ending\\end_glukh_03_05",
+    "source": "<ffx:smile_light>So... What would your <ffx:wonder>orders be, Sir?",
+    "target": "<ffx:smile_light>إذًا... ماذا ستكون طلبات<ffx:wonder>يا سيدي؟",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_06_bridge\\bri_004_damir_whatareyoudoinghere_02",
+    "source": "<ffx:wonder>Did something happen? No? Then you'd better get it over with, <ffx:sadness_light>you know how the Colonel likes his orders carried out promptly... <ffx:neutral>",
+    "target": "<ffx:wonder>هل حدث شيء ما؟ لا؟ إذًا من الأفضل أن تنتهي من الأمر،<ffx:sadness_light>فأنت تعرف كيف يحب العقيد تنفيذ أوامره على الفور...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "m3_dia_crew_duke_intro",
+    "source": "<tab>Duke of Darkness, Igor Dukov... The youngest, the bravest, and the craziest of us. Some joined the Order out of desperation, others - to protect people from dangers... But Duke is just desperately in love with adventure. Whenever the Colonel asks for volunteers, Duke is always first to shout \"Me!\" no matter how hard and dangerous the mission ahead may be.<br><br><tab>A shame we don’t have any medals in the Order, otherwise Duke would be plastered with them. He keeps looking up to the more experienced fighters, competing with them for the most kills, missions and wounds. Fort some reason, he pays particular attention to comparing his achievements with mine. Perhaps, it’s because I’m closest to his age... Anna once said about him: \"Quit your whining, Artyom! There are people here who dream of becoming like you!\" about Duke. Was she right? <br><br>",
+    "target": "<tab>ديوك الظلام، إيجور دوكوف... أصغرنا سنًا، وأشجعنا، وأكثرنا تهورًا. انضم بعضنا إلى التنظيم بدافع اليأس، وآخرون لحماية الناس من الأخطار... أما ديوك فيعشق المغامرة بجنون. كلما طلب العقيد متطوعين، كان ديوك أول من يهتف: «أنا!» مهما بلغت صعوبة المهمة وخطورتها.<br><br><tab>من المؤسف أننا لا نمنح الأوسمة في التنظيم، وإلا لامتلأ صدر ديوك بها. إنه يقتدي بالمقاتلين الأكثر خبرة، وينافسهم في عدد الأعداء الذين قضوا عليهم، والمهمات التي أنجزوها، والجروح التي أصيبوا بها. ولسبب ما، يهتم خصوصًا بمقارنة إنجازاته بإنجازاتي. ربما لأنني أقربهم إليه سنًا... قالت لي آنا عنه ذات مرة: «كف عن التذمر يا أرتيوم! هناك من يحلم بأن يصبح مثلك!» أكانت محقة؟<br><br>",
+    "status": "reviewed",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_dlc1\\dlc1_74_1_pa_address_01_03",
+    "source": "The OSKOM soldiers act within the framework of law and according to orders of the Command! Do not obstruct their duties! Comply with all their requirements!",
+    "target": "يتصرف جنود أوسكوم في إطار القانون ووفقًا لأوامر القيادة! لا تعيق واجباتهم! الامتثال لجميع متطلباتهم!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "radio",
+    "id": "voices\\m3_06_spring\\spr_099_radiostation_02_03_12",
+    "source": "Give the old Sabertooth my regards! Over and out!",
+    "target": "أبلغ سابر توث القديم تحياتي! مرارا وتكرارا!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_09_summer\\sum_110_radio_02_04",
+    "source": "But what's done is done, and now that Giul's plan is in motion, we'll finally free my people once and for all.",
+    "target": "لكن ما حدث قد حدث، والآن بما أن خطة جيول قيد التنفيذ، فسنقوم أخيرًا بتحرير شعبي مرة واحدة وإلى الأبد.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_13_dead_city\\nvs_106_tanktraffic_01_04",
+    "source": "This is an order! Clear the way! Got it?",
+    "target": "هذا أمر! امسح الطريق! فهمتها؟",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_070_terminal_patroltalk_01_02",
+    "source": "<ffx:smile_light>Better go hunt, find some fool, make slave! <ffx:disgust>More use that way! <ffx:neutral>",
+    "target": "<ffx:smile_light>من الأفضل أن تذهب للصيد، وتجد بعض الأحمق، وتجعله عبدًا!<ffx:disgust>استخدم المزيد بهذه الطريقة!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_016_9_3_breakingcamp_artyomreact_02_06",
+    "source": "<ffx:wonder>Artyom, weren't Damir and Giul waiting for you? <ffx:sadness_light>Shouldn't you go? <ffx:neutral>",
+    "target": "<ffx:wonder>أرتيوم، ألم يكن دامير وجيول في انتظارك؟<ffx:sadness_light>ألا يجب أن تذهب؟<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_013_1_briefing_02_kresttalk_06",
+    "source": "<ffx:sadness_light>The Colonel ordered that water is to be only given to the sick and those on patrol, <ffx:sadness>and does not drink at all himself. <ffx:neutral>",
+    "target": "<ffx:sadness_light>أمر العقيد بأن يُعطى الماء فقط للمرضى وأولئك الذين يقومون بالدورية،<ffx:sadness>ولا يشرب هو نفسه على الإطلاق.<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "literal",
+    "id": "voices\\universal_m3\\factions\\bandit_3\\uber_alert\\uber_alert_calmdown_04",
+    "source": "Well, that piece of shit sure is gone by now, so there's no point looking for him anymore!",
+    "target": "حسنًا، من المؤكد أن تلك القطعة من الهراء قد اختفت الآن، لذا لا داعي للبحث عنه بعد الآن!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_06_bridge\\bri_006_sectantsearchtaunt_03",
+    "source": "<ffx:anger>Come out you heretic, I order you by the <ffx:fear>name of holy Silantius himself! <ffx:disgust>Come out and let the true faith purify your soul of sin! <ffx:neutral>",
+    "target": "<ffx:anger>اخرج أيها الزنديق، أنا أطلب منك اسم<ffx:fear>للقديس سيلانتيوس نفسه!<ffx:disgust>اخرج ودع الإيمان الحقيقي يطهر روحك من الخطية!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_dlc2\\dlc2_040_dock_03_guards_03_04",
+    "source": "Look, American, there's a man waiting for you at the range. Boss' orders.",
+    "target": "انظر أيها الأمريكي، هناك رجل ينتظرك في الميدان. أوامر رئيسه.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_016_10_onapproach_04",
+    "source": "Artyom, Damir and Giul are waiting for you. There are just a few guards. Infiltrate the base quietly and open the gate. We will wait for your signal outside, and when the gate is open, tow the fuel tank to the Aurora using the railcar.",
+    "target": "أرتيوم ودامير وجيول في انتظارك. لا يوجد سوى عدد قليل من الحراس. تسلل إلى القاعدة بهدوء وافتح البوابة. سننتظر إشارتك بالخارج، وعندما تكون البوابة مفتوحة، اسحب خزان الوقود إلى أورورا باستخدام عربة السكة الحديد.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "literal",
+    "id": "voices\\universal_m3\\factions\\bandit_3\\uber_alert\\uber_alert_toomuchnoise_03",
+    "source": "Guys, this ass is noisier than a pack of muties in heat, ha-ha-ha!",
+    "target": "يا رفاق، هذا الحمار أكثر ضجيجًا من مجموعة من المتحولين جنسيًا في الحرارة، هاهاها!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_09_summer\\sum_001_7_2_tabletalk_02_66",
+    "source": "<ffx:smile>Aah, that reminds me! I also <ffx:wonder>heard about an old guy, he was a sub captain, and right after the War he just <ffx:wonder_light>ordered to park that sub in a small harbor near <ffx:smile>Vladivostok and started a settlement! They had a nuclear reactor on the sub, enough power for a century, after all!<ffx:neutral>",
+    "target": "<ffx:smile>آآه، هذا يذكرني! سمعت أيضًا<ffx:wonder>عن رجل عجوز، كان قائدًا للغواصة، وبعد الحرب مباشرة أمر<ffx:wonder_light>بإيقاف تلك الغواصة في ميناء صغير بالقرب من<ffx:smile>فلاديفوستوك وبدأ الاستيطان! كان لديهم مفاعل نووي في الغواصة، طاقة كافية لقرن من الزمان، بعد كل شيء!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "literal",
+    "id": "voices\\universal_m3\\factions\\bandit_3\\danger\\enemy_dead_animal_01",
+    "source": "Well, this piece of shit is just that - shit now...",
+    "target": "حسنًا، هذه القطعة من الهراء هي مجرد شيء - اللعنة الآن...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\universal_m3\\factions\\forest_3\\free\\free_unsafe_05",
+    "source": "The instructor sure has it easy... He can order me around and be on his way, and I get to stay here feeding the mosquitoes... Still, better than wolves, I guess...",
+    "target": "من المؤكد أن الأمر سهل على المدرب... يمكنه أن يأمرني وأن أكون في طريقه، وسأبقى هنا لإطعام البعوض... ومع ذلك، أعتقد أنه أفضل من الذئاب...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_000_narration_04_part1",
+    "source": "<tab>That \"damsel in distress” turned out to be more than able to stand up for herself. It turns out, Giul is one of the last locals still taking the fight to the bandits, and that’s why they came for her.<br><br>",
+    "target": "<tab>تبين أن تلك \"الفتاة التي تعاني من محنة\" أكثر من قادرة على الدفاع عن نفسها. اتضح أن جيول هي واحدة من آخر السكان المحليين الذين ما زالوا ينقلون القتال إلى قطاع الطرق، ولهذا السبب جاؤوا من أجلها.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\universal_m3\\factions\\merc_2\\danger\\attacking_enemy_flamer_02",
+    "source": "Did someone order a barbie?!",
+    "target": "هل طلب أحد باربي؟!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "m3_loader_diary_story_06_05_port_combat_good",
+    "source": "<tab>Luckily, the traders’ captain proved to be no fool and ordered his crew to surrender after a short engagement with no casualties from our side.<br><br>",
+    "target": "<tab>لحسن الحظ، أثبت كابتن التجار أنه ليس أحمقًا وأمر طاقمه بالاستسلام بعد اشتباك قصير دون وقوع إصابات من جانبنا.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "m3_dlc2_sign_008",
+    "source": "IDIOT",
+    "target": "أحمق",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\universal_m3\\factions\\slave_2\\free\\free_safe_05",
+    "source": "Giul say we must obey master for now... She has plan, good plan, when she say, we rise, kill all myrza! Must work now, but it so hard... Argh...",
+    "target": "يقول جيول أننا يجب أن نطيع السيد في الوقت الحالي... لديها خطة، خطة جيدة، عندما تقول، نهضنا، اقتل كل الميرزا! يجب أن تعمل الآن، ولكن الأمر صعب للغاية...أرجو...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "idiom",
+    "id": "voices\\universal_m3\\factions\\bandit_3\\danger\\attacking_enemy_flamer_01",
+    "source": "I'm gonna burn this son of a bitch!",
+    "target": "سأحرق هذا ابن العاهرة!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "radio",
+    "id": "voices\\m3_dlc1\\dlc1_390_miller_kirill_radiofinal_03",
+    "source": "I will, Kirill. Miller, over and out!",
+    "target": "سأفعل يا كيريل. ميلر، مرارا وتكرارا!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "m3_loader_diary_desert_04",
+    "source": "<tab>Giul turned out to be an informal leader of the local resistance movement or, rather, the whole movement. Despite lack of active support from the enslaved locals, she had been fighting against their subjugators for years, having become somewhat of a legend amongst the slaves and their masters alike. The slaves would all but pray to her, the slavers hated and feared her like the Devil. No wonder that once they’d finally found her last refuge in an old lighthouse, they besieged it at once. <br><br><tab>We would, of course, gladly help Giul in her struggle for the freedom of her people, but first we had to find the Satellite Communications Center, and that’s where meeting the lady proved really fortunate, as she knew the location of the bunker. Her mother used to work there before the War, and Giul told us that the Center kept functioning for several years after the nuclear strike exchange, compiling the fallout maps, so going down there to get them was definitely going to be worth it.<br><br>",
+    "target": "تبين أن<tab>جيول هو زعيم غير رسمي لحركة المقاومة المحلية، أو بالأحرى، الحركة بأكملها. على الرغم من عدم وجود دعم نشط من السكان المحليين المستعبدين، فقد كانت تقاتل ضد مخضعيهم لسنوات، بعد أن أصبحت إلى حد ما أسطورة بين العبيد وأسيادهم على حد سواء. كان العبيد يصلون لها، وكان العبيد يكرهونها ويخافونها مثل الشيطان. لا عجب أنه بمجرد أن وجدوا أخيرًا ملجأها الأخير في منارة قديمة، حاصروها على الفور.<br><br><tab>بالطبع، سنساعد جيول بكل سرور في نضالها من أجل حرية شعبها، ولكن كان علينا أولاً العثور على مركز اتصالات الأقمار الصناعية، وهنا كان لقاء السيدة محظوظًا حقًا، لأنها كانت تعرف موقع المخبأ. كانت والدتها تعمل هناك قبل الحرب، وأخبرتنا جيول أن المركز استمر في العمل لعدة سنوات بعد تبادل الضربات النووية، حيث قام بتجميع خرائط التداعيات، لذا فإن الذهاب إلى هناك للحصول عليها كان بالتأكيد يستحق كل هذا العناء.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "radio",
+    "id": "voices\\m3_12_valley\\val_099_01_radio_01_10",
+    "source": "Over and out.",
+    "target": "مرارا وتكرارا.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "idiom",
+    "id": "voices\\m3_12_valley\\val_003_punished_01_03",
+    "source": "<ffx:disgust_light>She just had to talk, and talk... <ffx:smile_light>Of course, I wouldn't mind going for a swim with her, but... <ffx:anger_light>Anyhow, now I get to sit here over his escape! I hope he breaks his legs in that church! <ffx:sadness_light>Olga's none too good, either - it was all her fault <ffx:anger_light>and they didn't even punish her!<ffx:neutral>",
+    "target": "<ffx:disgust_light>كان عليها فقط أن تتحدث وتتحدث...<ffx:smile_light>بالطبع، لا أمانع في الذهاب للسباحة معها، لكن...<ffx:anger_light>على أي حال، الآن يمكنني الجلوس هنا أثناء هروبه! أتمنى أن يكسر ساقيه في تلك الكنيسة!<ffx:sadness_light>أولغا ليست جيدة جدًا أيضًا - لقد كان كل خطأها<ffx:anger_light>ولم يعاقبوها حتى!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "radio",
+    "id": "voices\\m3_06_spring\\spr_099_radiostation_02_03_11",
+    "source": "That’s my man, ha-ha! We’ll be expecting you soon then! Over and out!",
+    "target": "هذا هو رجلي، ها ها! سنكون في انتظاركم قريبا بعد ذلك! مرارا وتكرارا!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_dlc2\\dlc2_062_firedepot_bandits_talk_grave_05",
+    "source": "So one day the boss had some guests over, so he ordered a fight... ",
+    "target": "لذا، في أحد الأيام، استقبل الرئيس بعض الضيوف، فأمر بالقتال...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_044_90_kosh_shiptalk_01_09",
+    "source": "<ffx:anger_strong>Fuuuck...! So, you are a fucking moron! \"She’s not ready!” Give the broad a black eye, bend her over, and she’s fucking ready! <ffx:disgust>Wake up! Just look at what we are doing here! This place is the lynchpin of the Baron’s whole operation! <ffx:anger>We are here to break them! They only buy the trained ones in the South, they want them to obey their every word! And if you keep that shit up, you’ll <ffx:disgust>end up having the slaves ordering you around!<ffx:neutral>",
+    "target": "<ffx:anger_strong>فووك...! إذن، أنت أحمق سخيف! \"إنها ليست جاهزة!\" أعطِ العين السوداء العريضة، واثنِها، وهي جاهزة تمامًا!<ffx:disgust>استيقظ! مجرد إلقاء نظرة على ما نقوم به هنا! هذا المكان هو العمود الفقري لعملية البارون بأكملها!<ffx:anger>نحن هنا لكسرهم! إنهم يشترون فقط المدربين في الجنوب، ويريدون منهم أن يطيعوا كل كلمة يقولونها! وإذا واصلت هذا الهراء، فسوف ينتهي بك الأمر إلى<ffx:disgust>حيث يأمرك العبيد بالتجول!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_170_1_saultalk_02_17_freedslaves",
+    "source": "<ffx:smile_light>Besides, you’ve just helped that Giul out at the lighthouse, <ffx:disgust_light>and let the slaves from the ship dismantling operation... <ffx:smile>We caught most of them by now, haha, but <ffx:wonder_light>you still made a splash. Now the Baron <ffx:smile>is sure you’re targeting his slave operation, too!<ffx:neutral>",
+    "target": "<ffx:smile_light>بالإضافة إلى ذلك، لقد ساعدت جيول للتو في الخروج من المنارة،<ffx:disgust_light>ودع العبيد من عملية تفكيك السفينة...<ffx:smile>لقد قبضنا على معظمهم حتى الآن، هاها، لكن<ffx:wonder_light>مازلت تثير الإعجاب. الآن أصبح البارون<ffx:smile>متأكدًا من أنك تستهدف عملية العبيد الخاصة به أيضًا!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "radio",
+    "id": "voices\\m3_dlc1\\dlc1_400_khlebnikov_kirill_radiofinal_18",
+    "source": "And I want you to eat that liver! Without fail! Over and out!",
+    "target": "وأريدك أن تأكل تلك الكبدة! دون فشل! مرارا وتكرارا!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "idiom",
+    "id": "voices\\universal_m3\\factions\\bandit_2\\uber_alert\\uber_alert_enemynear_02",
+    "source": "Motherfucker!",
+    "target": "يا ابن العاهرة!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "m3_dia_crew_idiot_intro",
+    "source": "<tab>Idiot chose his nickname out of natural humility, or, perhaps simply in honor of one of Dostoyevsky’s characters. In fact, he’s anything but, being the most educated and well-read soldier in the Order, landing the position of Miler’s right-hand man back in the Metro. The question is, what does he really know about the reasons for people being held in the tunnels, the War that could be still going on, as well as who is really in control of the Metro... <br><br><tab>Idiot likes talking a lot, but he never actually says much even if you push him, save for his usual \"on one hand, this could be true, while on the other”... If you feel that the truth is close enough to touch, talk to Idiot, he’ll confuse you completely in no time. One thing about him that I don’t understand at all, is what could he even be looking for fighting in the Order’s ranks?<br><br>",
+    "target": "اختار \"الأبله\"<tab>لقبه بدافع التواضع الطبيعي، أو ربما ببساطة تكريمًا لإحدى شخصيات دوستويفسكي. في الواقع، إنه ليس سوى جندي أكثر تعليمًا وقراءة جيدًا في التنظيم، حيث حصل على منصب اليد اليمنى لميلر في المترو. السؤال هو، ما الذي يعرفه حقًا عن أسباب احتجاز الأشخاص في الأنفاق، والحرب التي يمكن أن لا تزال مستمرة، وكذلك من الذي يسيطر حقًا على المترو...<br><br><tab>الأحمق يحب التحدث كثيرًا، لكنه لا يقول الكثير أبدًا حتى لو دفعته، باستثناء كلامه المعتاد \"من ناحية، قد يكون هذا صحيحًا، بينما من ناحية أخرى\"... إذا شعرت أن الحقيقة قريبة بما يكفي للمس، تحدث إلى إيديوت، سوف يربكك تمامًا في أي وقت من الأوقات. شيء واحد عنه لا أفهمه على الإطلاق، هو ما الذي يمكن أن يبحث عنه للقتال في صفوف التنظيم؟<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_09_summer\\sum_010_rearcarriagekrest_01_11_damiraboard",
+    "source": "<ffx:anger_light>Would be nice to wipe out all of his lieutenants, <ffx:wonder>but I’m sure, Giul will handle them just fine, <ffx:smile>she’s not a girl who’d leave a job half done, haha! <ffx:neutral>",
+    "target": "<ffx:anger_light>سيكون من اللطيف القضاء على جميع مساعديه،<ffx:wonder>لكنني متأكد من أن جيول سيتعامل معهم بشكل جيد،<ffx:smile>إنها ليست فتاة تترك عملها نصف مكتمل، هاها!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_021_barontalk_02_15",
+    "source": "But you, Giul... You are leading our flock astray. They see you as something of an icon, there's this aura of rebellion about you, the attraction of forbidden... ",
+    "target": "لكن أنت يا جيول... أنت تقود قطيعنا إلى الضلال. إنهم ينظرون إليك كنوع من الأيقونة، هناك هالة من التمرد تحيط بك، جاذبية الممنوع...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_08_desert\\des_159_baron_broadcast_09_08",
+    "source": "You prolly think we're tyrants... Beasts even. And you are some kind of hero, are you? Liberating the oppressed with that Giul, the witch...",
+    "target": "أنت تعتقد أننا طغاة... حتى الوحوش. وأنت نوع من البطل، أليس كذلك؟ تحرير المظلومين مع تلك الساحرة جيول...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "voices\\m3_06_bridge\\bri_011_seeing_hero_off_03",
+    "source": "Artyom, <ffx:wonder>are you going to the terminal? You might meet Duke there, he’s got an <ffx:sadness_light>observation post set up in a carriage near the bridge. <ffx:wonder>Ask him for a sit rep before going in... <ffx:neutral>",
+    "target": "أرتيوم،<ffx:wonder>هل ستذهب إلى المحطة؟ قد تقابل ديوك هناك، فهو لديه نقطة مراقبة<ffx:sadness_light>مثبتة في عربة بالقرب من الجسر.<ffx:wonder>اطلب منه الجلوس قبل الدخول...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "kind": "world",
+    "id": "m3_loader_diary_story_06_06_bri_good",
+    "source": "<tab>No wonder they weren’t exactly keen on letting just anyone through. That said, their guards were sure less than competent, lulled into complacency by the safety of their home ground. So much so, that Duke and I managed to sneak into the very heart of their cult completely undetected. All that stealth and special operation training Miller had us go through definitely paid off, and we got a drop on Silantius, who was left with no option but surrender.<br><br>",
+    "target": "<tab>لا عجب أنهم لم يكونوا حريصين تمامًا على السماح لأي شخص بالمرور. ومع ذلك، كان من المؤكد أن حراسهم كانوا أقل كفاءة، وشعروا بالرضا عن النفس بسبب سلامة أرضهم. لقد تمكنا أنا ودوق من التسلل إلى قلب طائفتهم دون أن يتم اكتشافنا تمامًا. كل هذا التدريب على العمليات الخفية والعمليات الخاصة الذي جعلنا ميلر نخوضه قد أتى بثماره بالتأكيد، وتمكنا من التغلب على سيلانتيوس، الذي لم يكن أمامه أي خيار سوى الاستسلام.<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  }
+]

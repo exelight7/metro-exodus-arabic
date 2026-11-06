@@ -133,7 +133,7 @@ QLabel {background:transparent;} QMessageBox {background:#182321;} QToolTip {bac
         self.verify_btn=QPushButton('فحص الملفات');self.verify_btn.clicked.connect(lambda:self.request('verify'));row.addWidget(self.verify_btn);layout.addLayout(row)
         lower=QHBoxLayout();lower.setDirection(QBoxLayout.LeftToRight)
         self.restore_btn=QPushButton('استرجاع الأصل');self.restore_btn.setObjectName('text');self.restore_btn.clicked.connect(lambda:self.request('restore'));lower.addWidget(self.restore_btn);lower.addStretch()
-        release=label('تعريب غير رسمي · إصدار تجريبي',11,'#788d7a');release.setWordWrap(False);lower.addWidget(release);layout.addLayout(lower)
+        release=label('تعريب غير رسمي · إصدار مستقر',11,'#788d7a');release.setWordWrap(False);lower.addWidget(release);layout.addLayout(lower)
         line=QFrame();line.setFrameShape(QFrame.HLine);line.setStyleSheet('color:#354334;');layout.addWidget(line)
         layout.addWidget(label('نسخة AppImage مخصصة للعبة Windows عبر Proton فقط. نسخة Linux الأصلية غير مدعومة.',12,'#a4b093'))
         for b in [self.install_btn,self.verify_btn,self.restore_btn]:b.setEnabled(False)
@@ -185,7 +185,7 @@ QLabel {background:transparent;} QMessageBox {background:#182321;} QToolTip {bac
             if box.clickedButton()!=yes:return
         self.start(action)
     def about(self):
-        QMessageBox.information(self,'معلومات الإصدار','Metro Exodus — التعريب العربي\nالمثبت: 0.1.0 للمراجعة · الحزمة: final_review_r1\n\nWindows: إصدار Steam المطابق لملفات التعريب.\nLinux وSteam Deck: نسخة Windows عبر Proton فقط.\nنسخة Linux الأصلية غير مدعومة.\n\nالنصوص قيد المراجعة. اسم المتحدث أبيض مؤقتا.\nالتعريب غير رسمي، ولا يشغل التطبيق اللعبة.\nالخط: Noto Sans Arabic — OFL 1.1.\nالواجهة: Qt / PySide6 — LGPL v3. التراخيص مرفقة.')
+        QMessageBox.information(self,'معلومات الإصدار','Metro Exodus — التعريب العربي\nالمثبت: 1.0.0 · الحزمة: full_language_r1\n\nWindows: إصدار Steam المطابق لملفات التعريب.\nLinux وSteam Deck: نسخة Windows عبر Proton فقط.\nنسخة Linux الأصلية غير مدعومة.\n\nرُوجع 23,500 سطر، وعُدّل 12,618 منها. المراجعة الشاملة غير مكتملة.\nاسم المتحدث أبيض مؤقتًا.\nالتعريب غير رسمي، ولا يشغل التطبيق اللعبة.\nالخط: Noto Sans Arabic — OFL 1.1.\nالواجهة: Qt / PySide6 — LGPL v3. التراخيص مرفقة.')
     def closeEvent(self,event):
         if self.busy:self.progress_text.setText('انتظر اكتمال العملية قبل إغلاق التطبيق.');event.ignore()
         else:event.accept()

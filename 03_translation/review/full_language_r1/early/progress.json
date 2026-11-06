@@ -1,0 +1,14 @@
+{
+  "partition": "early",
+  "assigned": 7189,
+  "reviewed": 3280,
+  "next_index": 3280,
+  "complete": false,
+  "counts": {
+    "keep": 1497,
+    "change": 1749,
+    "nontranslatable": 34
+  },
+  "last_batch": "batch_3180.json",
+  "glossary_synced_at": 1710
+}

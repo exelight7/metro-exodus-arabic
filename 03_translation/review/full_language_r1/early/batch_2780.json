@@ -1,0 +1,276 @@
+{
+  "start": 2780,
+  "end": 2880,
+  "decisions": {
+    "2783": {
+      "decision": "change",
+      "target": "<ffx:smile>أحب البرق اللعين! مع أن هذا النوع يسمونه... <ffx:wonder>كرات نارية، أظن؟ على أي حال، حين يحاول المتعصبون الإمساك بها <ffx:wide_smile>فالمشهد مضحك جدًا، أفضل عرض في هذه المدينة اللعينة! <ffx:neutral>",
+      "reason": "إصلاح مرجع الكرات والسباب التعجبي لا وصف العرض بالسخافة."
+    },
+    "2785": {
+      "decision": "change",
+      "target": "<ffx:disgust>لا، تبًا لهذه الفكرة... <ffx:wonder_light>ذهب رجال كثيرون إلى هناك، <ffx:sadness_light>ولم يعد واحد منهم...",
+      "reason": "fuck that noise رفض الفكرة لا صوت فعلي؛ إزالة النقل الصوتي Nah."
+    },
+    "2786": {
+      "decision": "change",
+      "target": "<ffx:wonder>وماذا في ذلك؟ لعلهم <ffx:smile_light>ينعمون بعيش رغيد هناك! <ffx:neutral>",
+      "reason": "have it made عيش مريح بعد النجاح، لا صنع مفعول ناقص."
+    },
+    "2787": {
+      "decision": "change",
+      "target": "<ffx:wonder>حسنًا، لعلّ عليك الذهاب إلى <ffx:smile_light>رجال القطار وسؤالهم! <ffx:neutral>",
+      "reason": "إصلاح الإضافة الناقصة والتوافق بين المصدرين."
+    },
+    "2788": {
+      "decision": "change",
+      "target": "<ffx:fear_light>آه... لا... يبدو أنهم <ffx:wonder_light>مجهزون جيدًا جدًا، فلندع الزعيم <ffx:sadness_light>يفكر في الأمر ويتحدث معهم أو ما شابه...",
+      "reason": "too very مجهزون جيدًا إلى حد مخيف لا أيضًا؛ boss زعيم العصابة."
+    },
+    "2791": {
+      "decision": "change",
+      "target": "<ffx:smile>آه، فهمت! علينا اختيار أفضل مكان للمشاهدة حين يبدؤون التحرك! <ffx:wonder_light>فزعيم المتعصبين لن يسمح لهم بالعبور ببساطة، بالتأكيد! <ffx:neutral>",
+      "reason": "move in بدء تحرك القطار نحو الجسر لا انتقال الرجال إلى مقاعد المشاهدة."
+    },
+    "2792": {
+      "decision": "change",
+      "target": "<ffx:smile>أصبت! والأفضل <ffx:wonder_light>أن ننتظر حتى يقتل بعضهم بعضًا ويقل عددهم، ثم نبيد من بقي في اللحظة المناسبة... <ffx:smile_light>تخيّل ذلك!",
+      "reason": "thin each other out إضعاف العدد بالقتال لا إنهاء الفريقين بالكامل، ثم تدخل العصابة."
+    },
+    "2793": {
+      "decision": "change",
+      "target": "<ffx:smile>واو، يا لها من خطة! <ffx:wonder_light>قد نستولي على الجسر فعلًا بهذه الطريقة! <ffx:neutral>",
+      "reason": "some plan إعجاب بالخطة والسيطرة على المعبر لا خطة ما."
+    },
+    "2794": {
+      "decision": "change",
+      "target": "<ffx:smile>بالتأكيد! وحينها نضمن عيشنا مدى الحياة، يدفع لنا الأوغاد لنعبرهم الجسر! <ffx:neutral>",
+      "reason": "made for life ضمان الثراء الدائم لا الخلق مدى الحياة."
+    },
+    "2795": {
+      "decision": "change",
+      "target": "<ffx:smile_light>نعم، صفقة مغرية... <ffx:wonder>مهلًا، فلماذا لا يفعل حمقى الجسر ذلك؟ <ffx:smile>لكانوا يغرقون في النقود الآن! <ffx:neutral>",
+      "reason": "dough مال وswimming استعارة الوفرة."
+    },
+    "2796": {
+      "decision": "change",
+      "target": "<ffx:wonder>كانوا يفعلون ذلك قبل سيطرة المتعصبين، كما تعلم... <ffx:smile_light>وصلت عصابتنا قبل عامين لأننا سمعنا أن المكان ثري، <ffx:smile_light>بفضل القوافل وما شابه! فوصلنا لنجد هذا... <ffx:neutral>",
+      "reason": "what with تفسير سبب الثراء بالقوافل لا سؤال عنها."
+    },
+    "2797": {
+      "decision": "change",
+      "target": "<ffx:wonder>آه، ألهذا يظل الزعيم يمزّق أولئك الحمقى؟ <ffx:wonder_light>",
+      "reason": "تصحيح اسم الإشارة وتحديد زعيم العصابة."
+    },
+    "2799": {
+      "decision": "change",
+      "target": "<ffx:smile>رائع، تبًا! <ffx:neutral>",
+      "reason": "swell إعجاب لا تضخم طبي."
+    },
+    "2800": {
+      "decision": "change",
+      "target": "<ffx:smile>بالتأكيد، هيهي! <ffx:neutral>",
+      "reason": "إزالة الكلمة الدخيلة الخاطئة الكالينجيون وإعادة الضحك."
+    },
+    "2801": {
+      "decision": "change",
+      "target": "<ffx:fear_strong>النجدة! ساعدني! أتوسل إليك باسم السمكة القيصر! <ffx:sadness_strong>فكّ قيودي! أرجوك! <ffx:sadness_light>",
+      "reason": "إصلاح النداء وتوحيد اللقب والمخاطب المفرد."
+    },
+    "2803": {
+      "decision": "change",
+      "target": "<ffx:smile_light>شكرًا لك، شكرًا! <ffx:disgust_light>آه... هؤلاء... الشياطين أسروني وأنا في طريقي إلى بيت السمكة... <ffx:fear_light>فرض عليّ الأب سيلانتيوس كفارة، و... <ffx:sadness>قطعت نحو نصف الطريق، ثم أسرني هؤلاء... <ffx:sadness_light>",
+      "reason": "House of Fish معبد السمكة المفردة وpenance تكليف لا حصول على غرض."
+    },
+    "2804": {
+      "decision": "change",
+      "target": "<ffx:wonder>آه... أنا... أرى أنك من... الزنادقة... <ffx:sadness_light>لكنني سأخبرك على أي حال... <ffx:wonder>ثمة مخبأ هنا، في هذه الجزيرة الصغيرة... فيه جهاز... <ffx:disgust_light>لا يمكننا استخدامه، فذلك خطيئة... <ffx:wonder_light>لكن يمكنك أنت...",
+      "reason": "cache مخبأ معدات لا ذاكرة حاسوب مؤقتة."
+    },
+    "2805": {
+      "decision": "change",
+      "target": "<ffx:sadness_light>سأستريح هنا قليلًا قبل العودة... <ffx:smile_light>سأظل أدعو لك السمكة القيصر طوال حياتي! <ffx:sadness>فلعلها تخلّص روحك... <ffx:sadness_light>",
+      "reason": "توحيد اسم السمكة وتأنيثها وصياغة رجاء الخلاص."
+    },
+    "2808": {
+      "decision": "change",
+      "target": "<ffx:wonder>ننتظر القافلة؟ <ffx:wonder_light>",
+      "reason": "اقتراح جماعي ردًا على سؤال ماذا نفعل، لا أمر مفرد."
+    },
+    "2809": {
+      "decision": "change",
+      "target": "<ffx:wonder>أرأيت؟ إنه مبتدئ، <ffx:smile_light>لكنه محق.",
+      "reason": "greenhorn مبتدئ قليل الخبرة لا صاحب قرن أخضر."
+    },
+    "2810": {
+      "decision": "change",
+      "target": "<ffx:wonder>حسنًا، غليبا ورجاله هم من ينتظرون القافلة، <ffx:sadness_light>أما نحن فقوة احتياط...",
+      "reason": "غليبا رجل وزعيم؛ تصحيح الفاعل ومصطلح الاحتياط."
+    },
+    "2811": {
+      "decision": "change",
+      "target": "<ffx:anger_light>لا يهم! كان يمكن لهؤلاء الأوغاد أن يفشوا أمرنا فتفشل الخطة كلها... <ffx:wonder>أتفهم ما يعنيه ذلك؟",
+      "reason": "squeal وشاية وgo tits up فشل، عكس الهدف السابق يقول على ما يرام."
+    },
+    "2812": {
+      "decision": "change",
+      "target": "<ffx:fear_light>نعم، لقطّعونا إربًا...",
+      "reason": "cut up قتل بالتقطيع لا افتراق."
+    },
+    "2814": {
+      "decision": "change",
+      "target": "فهمت... <ffx:wonder>فلماذا لم نطلق النار عليهم في مكانهم إذن؟",
+      "reason": "I see إقرار وon spot مكان الأسر/فورًا لا رؤية."
+    },
+    "2815": {
+      "decision": "change",
+      "target": "<ffx:wonder>أتتوقع أن يجدّف غليبا بنفسه بعد استيلائه على القافلة؟ <ffx:wonder_light>",
+      "reason": "gets caravan أسر القافلة بحسب خطة العصابة لا مجرد وصولها."
+    },
+    "2817": {
+      "decision": "change",
+      "target": "<ffx:wonder_light>لكن القافلة معها زورق قطر، <ffx:wonder>فما حاجتهم إلى التجديف؟ <ffx:neutral>",
+      "reason": "إزالة الفاصلة المكررة."
+    },
+    "2818": {
+      "decision": "change",
+      "target": "<ffx:anger_light>لكي تسأل طبعًا! <ffx:wonder_light>نحتاج الزورق للخطة الكبرى، أما مراكب الشحن والعبيد فأمر ثانوي. <ffx:neutral>",
+      "reason": "small change استعارة للأمور الثانوية لا فكة عملة، وتحديد barge نهري."
+    },
+    "2820": {
+      "decision": "change",
+      "target": "<ffx:smile_light>الاستيلاء على الجسر! نقضي على أهل الجسر، ومعنا حصن كهذا وسفينة، <ffx:smile>فنحكم النهر! سنصبح أثرياء إلى حد فاحش، ويصطف زعماء العصابات لخدمتنا، <ffx:wonder>أفهمت الآن؟ <ffx:neutral>",
+      "reason": "bridgeheads أهل الجسر في السباب لا رؤوس جغرافية؛ stinking rich ثراء فاحش وcatch drift فهم المعنى."
+    },
+    "2821": {
+      "decision": "change",
+      "target": "<ffx:smile>تبًا، هذه هي الخطة الحقيقية! غليبا يعرف ما يفعل! <ffx:neutral>",
+      "reason": "knows what’s up مديح تدبير الزعيم لا معرفة الأمر المجردة."
+    },
+    "2823": {
+      "decision": "change",
+      "target": "<ffx:smile_light>تحلم! كانوا <ffx:smile>ذاهبين لمحاربة الكرات النارية! <ffx:neutral>",
+      "reason": "You wish رد ساخر على توقعه بحث المتعصبين عن العصابة."
+    },
+    "2824": {
+      "decision": "change",
+      "target": "<ffx:disgust>لا، لا بد أنك تمزح معي! <ffx:neutral>",
+      "reason": "shitting me مزاح/خداع لا تغوط."
+    },
+    "2825": {
+      "decision": "change",
+      "target": "<ffx:anger_light>إنها الحقيقة يا رجل، <ffx:disgust>أتباع الطائفة كلهم مجانين ملاعين، يحسبون الكهرباء هي الشيطان. <ffx:smile_light>أمضيت هنا عامًا كاملًا وسمعت العجائب... <ffx:neutral>",
+      "reason": "real deal تأكيد الرواية لا الرجل الحقيقي؛ heard shit سمع قصصًا لا مجرد هراء."
+    },
+    "2829": {
+      "decision": "change",
+      "target": "<ffx:wonder>لكن هؤلاء لم يقصدوا البرق، فقد أسرهم الرجال عند محطة الوقود. <ffx:smile>كان الحمقى ذاهبين إلى المحطة لعبادة سمكتهم اللعينة! <ffx:neutral>",
+      "reason": "المقصود الأسرى الذكور لا أشياء؛ توحيد السمكة المفردة وتفريق قافلتي الزيارة."
+    },
+    "2830": {
+      "decision": "change",
+      "target": "<ffx:wonder>أحقًا تعيش هناك؟ <ffx:neutral>",
+      "reason": "مرجع السمكة مؤنث."
+    },
+    "2831": {
+      "decision": "change",
+      "target": "<ffx:anger>وكيف لي أن أعرف بحق الجحيم؟ <ffx:wonder>أذهب لأتفقد المكان؟ تبًا لذلك، فيه من المسوخ أكثر مما في <ffx:disgust>شعر الكاهن المجنون من قمل! <ffx:wonder>لكن أليكس عند محطة الوقود يقول إن الحمقى الذين يأسرونهم هناك <ffx:smile>لا يكفّون عن الوعظ عن «بيت الله» و«العقاب الإلهي»! <ffx:neutral>",
+      "reason": "mutants مسوخ لا طفرات مجردة وإصلاح المقارنة والقول."
+    },
+    "2835": {
+      "decision": "change",
+      "target": "<ffx:smile_strong>هاهاها! تبًا، ستقتلني ضحكًا يا رجل! <ffx:smile_light>",
+      "reason": "killing me ضحك شديد لا تهديد قتل حقيقي."
+    },
+    "2836": {
+      "decision": "change",
+      "target": "<ffx:smile>نعم، إنهم يضحكونني دائمًا أيضًا، أولئك المهرجون! <ffx:smile_light>",
+      "reason": "crack up إضحاك لا إزعاج، والمهرجون غائبون لا المخاطب."
+    },
+    "2838": {
+      "decision": "change",
+      "target": "<ffx:smile_strong>ها ها! صحيح، الموت خير لهم... <ffx:smile_light>",
+      "reason": "better off dead الموت أفضل لهم، عكس أفضل حالًا من الموت."
+    },
+    "2843": {
+      "decision": "change",
+      "target": "<ffx:disgust>مع أنك زنديق، <ffx:smile_light>فسنصلي لخلاص روحك ما حيينا. <ffx:wonder>بارك الله فيك! <ffx:wonder_light>",
+      "reason": "توحيد زنديق وصياغة وعد الدعاء الطبيعية."
+    },
+    "2844": {
+      "decision": "change",
+      "target": "<ffx:wonder_light>الصلاة خير، لكن... <ffx:smile_light>أود أن أشكرك بشيء ملموس أكثر. <ffx:neutral>",
+      "reason": "substantial شكر بمكافأة ملموسة لا جوهر فلسفي."
+    },
+    "2845": {
+      "decision": "change",
+      "target": "<ffx:fear_light>أصغِ جيدًا... ثمة غرفة في المحطة... <ffx:disgust_light>ننقل إليها كل الأشياء المدَنّسة لتطهّرها السمكة. <ffx:fear_light>خذ هذا المفتاح. <ffx:smile_light>أنت من الخطاة على أي حال، وقد تجد فيها ما ينفعك. <ffx:neutral>",
+      "reason": "sinful محرمة/مدنسة في عقيدة الجماعة لا خاطئة بمعنى غير صحيحة؛ here تقديم المفتاح."
+    },
+    "2846": {
+      "decision": "change",
+      "target": "<ffx:fear>سيمون، لا تفعل! سيطردك سيلانتيوس من الجماعة بسبب هذا! <ffx:fear_light>",
+      "reason": "صياغة التحذير من الحرمان الديني وفق اعتماد الموضع السابق."
+    },
+    "2847": {
+      "decision": "change",
+      "target": "<ffx:anger_light>لن يفعل إن لم تخبره. <ffx:wonder>أم أنك تفضل الموت هنا؟ بنصل أحد الوثنيين؟ <ffx:neutral>",
+      "reason": "blade يملكه وثني لا شفرة لها ديانة."
+    },
+    "2848": {
+      "decision": "change",
+      "target": "<ffx:fear>طـ... بالطبع لا! لن أخبره... <ffx:fear_light>",
+      "reason": "Of مقطع تلعثم of course لا أو حرف عطف."
+    },
+    "2849": {
+      "decision": "change",
+      "target": "<ffx:smile_light>هيا، خذه! <ffx:neutral>",
+      "reason": "مرجع المفتاح مذكر."
+    },
+    "2850": {
+      "decision": "change",
+      "target": "<ffx:sadness_light>نقلت إلى هناك منظار رؤية ليلية بنفسي. <ffx:disgust_light>سمّاه سيلانتيوس «عين الشر»...",
+      "reason": "night vision goggles قطعة منظار الرؤية الليلية وفق المعجم."
+    },
+    "2852": {
+      "decision": "change",
+      "target": "<ffx:wonder_light>نعم، لتكن مشيئته...",
+      "reason": "صيغة الدعاء الطقسي لا خبر المستقبل."
+    },
+    "2859": {
+      "decision": "change",
+      "target": "<ffx:smile>...أما حين يوجد القارب، فانتظر حتى يصعدوا إليه ثم أطبق الفخ، هاهاها! <ffx:wide_smile>يتغوطون في ثيابهم رعبًا كل مرة! <ffx:wonder>والغريب أنهم مستعدون لدخول تلك المحطة، <ffx:smile>ومع ذلك يخافوننا! هاها! <ffx:smile_light>",
+      "reason": "إصلاح الأمر spring trap مع حفظ قسوة سخرية قطاع الطرق وبذاءتها."
+    },
+    "2864": {
+      "decision": "change",
+      "target": "<ffx:fear>تبًا، هذا مروع حقًا! <ffx:wonder>ثم يسموننا شياطين لأننا نمزقهم! صحيح أنني أذبحهم، <ffx:disgust>لكنني أتركهم يتعفنون بسلام كالبشر! أما تقديمهم طعامًا للأسماك... <ffx:wonder>فهذا جنون بحق! <ffx:anger>تبًا لذلك! <ffx:neutral>",
+      "reason": "hardcore فظاعة وScrew that رفض لا برغي؛ حفظ نفاق القاتل بشأن معاملة الجثث."
+    },
+    "2866": {
+      "decision": "change",
+      "target": "<ffx:disgust_light>لا، ثمة مسوخ لعينة أيضًا... دخلت بالقارب إلى القاعة الرئيسية، فراح <ffx:disgust>الأوغاد يرشقونني بما لديهم ويصرخون! قلت لنفسي إن عليّ الرحيل، وإذا <ffx:fear>بسمكة السلور اللعينة تظهر! لم يعجبها الضجيج! قفزت من الماء بارتفاع 15 مترًا، وأسقطت الجسر الذي احتشد عليه أولئك الأوغاد، وبدأت تلتهمهم! <ffx:fear_light>تبًا، ما زلت أسمع ذلك الصوت اللعين، إنه يصيبني بالقشعريرة. <ffx:neutral>",
+      "reason": "إصلاح إسناد الرمي للمسوخ والسمكة المفردة وزمن الرواية وحفظ ارتفاع 15 مترًا."
+    },
+    "2873": {
+      "decision": "change",
+      "target": "<ffx:disgust>لا جديد منذ أبلغ سيفا وغوشا <ffx:wonder_light>أمس أن القافلة تتجه نحونا. لم تُرصد من الجزيرة بعد، <ffx:sadness_light>لذا يُفترض أن تصل بحلول الليلة.",
+      "reason": "أمس زمن البلاغ لا زمن سير القافلة، وإصلاح مرجع الجمع للقافلة المفردة."
+    },
+    "2875": {
+      "decision": "change",
+      "target": "<ffx:smile>هاها! بالتأكيد! <ffx:neutral>",
+      "reason": "Sure thing صيغة موافقة طبيعية."
+    },
+    "2876": {
+      "decision": "change",
+      "target": "<ffx:wonder>حسنًا، سأذهب الآن، لا أريد أن يراني الزعيم أتكاسل هنا. <ffx:sadness>أُمرنا بالبقاء يقظين...<ffx:neutral>",
+      "reason": "standing around تكاسل لا مجرد الوقوف؛ إصلاح تركيب وأنا واقفًا."
+    },
+    "2879": {
+      "decision": "change",
+      "target": "<ffx:disgust>أهل الجسر لا يملكون ما يستحق النهب، ولا يمكننا <ffx:sadness_light>بيعهم في أستراخان! <ffx:disgust>سيموت نصفهم قبل الوصول، ثم إن إتاوة عصابة كريفوي في الطريق ستجعلنا نخسر...<ffx:neutral>",
+      "reason": "bridgeheads أهل الجسر وin red خسارة مالية؛ إصلاح المفعول الناقص وحفظ تجارة العبيد في سياق الأشرار."
+    }
+  }
+}

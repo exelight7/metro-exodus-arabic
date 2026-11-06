@@ -1,0 +1,499 @@
+[
+  {
+    "id": "voices\\m3_13_dead_city\\nvs_102_carmovingoutcomm_04",
+    "source": "Copy that, Colonel! You have the map and are moving out to the institute, he has to hurry up! Over.",
+    "target": "انسخ ذلك أيها العقيد! لديك الخريطة وتنتقل إلى المعهد، عليه أن يسرع! حوّل.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_12_valley\\val_005_07_olgaextrachat_02_04",
+    "source": "<ffx:anger_light>They can’t deny that, and will have to stand down... <ffx:neutral>",
+    "target": "<ffx:anger_light>لا يمكنهم إنكار ذلك، وسيتعين عليهم التنحي...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_013_briefing_02_04",
+    "source": "<ffx:wonder_light>I see... A full tank... <ffx:sadness_light>Guards... Come again, line breaking up... <ffx:smile_light>Copy that... <ffx:neutral>",
+    "target": "<ffx:wonder_light>أرى... دبابة ممتلئة...<ffx:sadness_light>أيها الحراس... تعالوا مرة أخرى، قطع الخط...<ffx:smile_light>انسخ ذلك...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\bridger_1\\dog\\dog_missing_03",
+    "source": "Come here at once! Where are you, you Fish-forsaken flea-bitten bunch of fur?",
+    "target": "تعال هنا في وقت واحد! أين أنت يا مجموعة الفراء التي عضتها البراغيث والتي تركتها الأسماك؟",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_05_winter\\win_099_radiostation_03_01_07",
+    "source": "Copy, one-zero-two... Over and out!",
+    "target": "انسخ، واحد صفر اثنان... مرارًا وتكرارًا!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_spring\\spr_099_radiostation_02_03_10",
+    "source": "Copy that... I like the idea! We’ll start packing tonight and get back to you once we’re ready to move out. Is that OK? Over!",
+    "target": "انسخ ذلك... أعجبتني الفكرة! سنبدأ بحزم أمتعتنا الليلة ونعود إليك عندما نستعد للخروج. هل هذا جيد؟ حوّل!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_ending\\end_glukh_03_06",
+    "source": "<ffx:smile_light>I would say, we all go home... <ffx:wonder>But this home seems too large for just us. <ffx:sadness>You know... The Colonel once told me, <ffx:wonder_light>he created the Order to save <ffx:sadness>people. All of them.<br><ffx:smile>I say, it's time we perform this duty.",
+    "target": "<ffx:smile_light>أود أن أقول، سنعود جميعًا إلى المنزل...<ffx:wonder>لكن هذا المنزل يبدو كبيرًا جدًا بالنسبة لنا فقط.<ffx:sadness>كما تعلم... أخبرني العقيد ذات مرة، أن<ffx:wonder_light>قام بإنشاء أمر لإنقاذ الأشخاص<ffx:sadness>. كل منهم.<br><ffx:smile>أقول، لقد حان الوقت لأداء هذا الواجب.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_015_01_glukh_damirrant_01_07",
+    "source": "<ffx:anger>Am I just supposed to leave it all like this? <ffx:sadness>Was this why I joined the Order? <ffx:anger>Heck, no! <ffx:neutral>",
+    "target": "<ffx:anger>هل من المفترض أن أترك الأمر كله هكذا؟<ffx:sadness>هل هذا هو سبب انضمامي إلى التنظيم؟<ffx:anger>هيك، لا!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_13_dead_city\\nvs_102_carmovingoutcomm_05",
+    "source": "Copied fine, keep that up. Miller, over and out!",
+    "target": "نسخ جيد، استمر في ذلك. ميلر، مرارا وتكرارا!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_spring\\spr_099_radiostation_02_01_01",
+    "source": "Kinel! Kinel, come in! Do you read me, Kinel?",
+    "target": "كينيل! كينيل، تعال! هل تقرأني يا كينيل؟",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_020_portmissionoutcomegood_06",
+    "source": "Hey, listen up people! This is your skipper. Stand down and surrender at once!",
+    "target": "مهلا، استمع الناس! هذا هو قائد الخاص بك. التنحي والاستسلام في وقت واحد!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_12_valley\\val_000_trolleyride_06",
+    "source": "Aurora here, reading you loud and clear! Over!",
+    "target": "أورورا هنا، تقرأ لك بصوت عال وواضح! حوّل!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_spring\\spr_099_radiostation_02_01_04",
+    "source": "Kinel! Kinel, come in, Kinel! Over...",
+    "target": "كينيل! كينيل، تعال، كينيل! انتهى...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_020_portbriefing_06",
+    "source": "<ffx:anger_light>They have about fifteen guards. <ffx:disgust_light>Four at the tugboat ladder, sentries at the pier... <ffx:sadness_light>Sam will take the right flank. Come in, Sam...<ffx:neutral>",
+    "target": "<ffx:anger_light>لديهم حوالي خمسة عشر حارسًا.<ffx:disgust_light>أربعة عند سلم زورق القطر، وحراس عند الرصيف...<ffx:sadness_light>سام سيتخذ الجهة اليمنى. تعال يا سام...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_020_portmissionoutcomegood_02",
+    "source": "Order your people to stand down, and nobody gets hurt! At once!",
+    "target": "اطلب من شعبك التنحي ولن يتأذى أحد! مرة واحدة!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_10_yamantau\\yam_014_millerradio_03_03",
+    "source": "Copy that... Continue search!",
+    "target": "انسخ ذلك... أكمل البحث!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc1\\dlc1_152_combatradio_01_11",
+    "source": "Come in, Green-One! Please, reply!",
+    "target": "تعال يا جرين-وان! يرجى الرد!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_13_dead_city\\nvs_106_tanktraffic_01_01",
+    "source": "Come in Fifty-one, Fifty-three here! We can't get through here either, it's all jammed! What do we do now?",
+    "target": "تعال إلى واحد وخمسين، ثلاثة وخمسين هنا! لا يمكننا المرور من هنا أيضًا، كل شيء مزدحم! ماذا نفعل الآن؟",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_005_vilage_05",
+    "source": "<ffx:anger>Base, come in! <ffx:neutral>",
+    "target": "قاعدة<ffx:anger>، تعال!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_1\\uber_alert\\uber_alert_calmdown_02",
+    "source": "He got away! Stand down, everyone!",
+    "target": "لقد هرب! التنحي، الجميع!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_008_meeting_giul_05",
+    "source": "<ffx:wonder>Are you Artyom? Come in... <ffx:smile_light>Whoever kills the Munai-bailer is my friend. <ffx:neutral>",
+    "target": "<ffx:wonder>هل أنت أرتيوم؟ تعال...<ffx:smile_light>من يقتل حارس موناي فهو صديقي.<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_spring\\spr_099_radiostation_02_02_01",
+    "source": "Ufa-Central come in! Ufa-Central, Morholt here! Try raising Kinel! Over...",
+    "target": "أوفا المركزية تعال! أوفا الوسطى، مورهولت هنا! حاول رفع كينيل! انتهى...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_02_05_samalyosha_10",
+    "source": "<ffx:sadness_light>You know, Sam... <ffx:wonder_light>You have things to do there, but the Old Man - <ffx:sadness>he's only a Colonel in the Metro, really... <ffx:wonder_light>There he controlled the Order, <ffx:sadness_light>enjoyed universal respect, <ffx:wonder>but what would he do in America?<ffx:neutral>",
+    "target": "<ffx:sadness_light>كما تعلم يا سام...<ffx:wonder_light>لديك أشياء للقيام بها هناك، لكن الرجل العجوز -<ffx:sadness>إنه مجرد عقيد في المترو، حقًا...<ffx:wonder_light>هناك كان يتحكم في التنظيم،<ffx:sadness_light>يتمتع باحترام عالمي،<ffx:wonder>ولكن ماذا سيفعل في أمريكا؟<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_500_30_diversion_01_01",
+    "source": "Attention all rebels! You are now to stand down and surrender! Your coup has failed, we control the sub and we will use all the measures in our disposal to restore order!",
+    "target": "انتباه لجميع المتمردين! عليك الآن التنحي والاستسلام! لقد فشل انقلابكم، نحن نسيطر على الغواصة وسنستخدم كل التدابير المتاحة لنا لاستعادة النظام!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_018_tower_01_05",
+    "source": "Copy that. We're going with plan B then. Act accordingly.",
+    "target": "انسخ ذلك. نحن نسير مع الخطة \"ب\" إذن. التصرف وفقا لذلك.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_dia_world_vdnh_intro",
+    "source": "<tab>Exhibition (VDNKh) - My home station, now a part of VDNKh Commonwealth together with Alexeyevskaya and Rizhskaya... Living there has been an uneven ride, but I still have fond memories of the time, even though Anna, my wife, would disagree. She positively hated it there, having traded the position of the Order’s best sniper for everyday chores of a regular mushroom farmer...<br><br>",
+    "target": "معرض<tab>(فيدينخا) - محطتي الرئيسية، التي أصبحت الآن جزءًا من الكومنولث فيدينخا جنبًا إلى جنب مع أليكسييفسكايا وريجسكايا... لقد كانت الحياة هناك غير متكافئة، لكن لا يزال لدي ذكريات جميلة عن ذلك الوقت، على الرغم من أن زوجتي آنا، لم توافق على ذلك. لقد كرهت الأمر هناك بشكل إيجابي، بعد أن استبدلت منصب أفضل قناص في التنظيم بالأعمال اليومية لمزارع الفطر العادي...<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_13_dead_city\\nvs_008_shelter_radio_01_04",
+    "source": "Copy that, Colonel!",
+    "target": "انسخ ذلك أيها العقيد!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_12_autumn\\aut_020_radio_01_02",
+    "source": "Come in, Alder... Do you read me? Over...",
+    "target": "ادخل يا ألدر... هل تقرأني؟ انتهى...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_008_meetingkrest_21",
+    "source": "Artyom, Sam, Damir, come in! Anna went off the grid... Any ideas? Anybody know anything?",
+    "target": "أرتيوم، سام، دامير، تعالوا! لقد خرجت آنا من الشبكة... هل لديك أية أفكار؟ هل يعرف أحد أي شيء؟",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_011_terminalradio_11",
+    "source": "Come in, Artyom! Artyom!",
+    "target": "تعال يا أرتيوم! أرتيوم!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_spring\\spr_099_radiostation_02_02_02",
+    "source": "Ufa-Central come in! Over!",
+    "target": "أوفا المركزية تعال! حوّل!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_13_dead_city\\nvs_002_katyartyomtalk_01_01",
+    "source": "<ffx:smile_light>Come in, Artyom... <ffx:neutral>",
+    "target": "<ffx:smile_light>تعال يا أرتيوم...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_202_5_giulsmomreport_07",
+    "source": "Come, Giul... You can’t come in here, come, show me the picture outside...",
+    "target": "تعال يا جيول... لا يمكنك الدخول إلى هنا، تعال وأرني الصورة في الخارج...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_1\\light_alert\\light_alert_oktogofree_05",
+    "source": "Nobody here! Stand down everyone!",
+    "target": "لا أحد هنا! التنحي عن الجميع!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_m10_ym_defence_note",
+    "source": "Looks like we're in a deep...bunker. Got to hold on, no matter the cost! For the Order!!!",
+    "target": "يبدو أننا في مخبأ عميق. عليك أن تصمد مهما كان الثمن! للطلب!!!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_1\\neutral\\guard_weaponwarning_03",
+    "source": "Finger off the trigger! At once!",
+    "target": "ارفع إصبعك عن الزناد! مرة واحدة!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_05_winter\\win_099_radiostation_02_02_05",
+    "source": "Copy that, Station! Thanks for the update!",
+    "target": "انسخ ذلك يا محطة! شكرا على التحديث!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_800_10_final_fight_01_10",
+    "source": "Order your people to stand down!",
+    "target": "أمر شعبك بالتنحي!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "menu_customize_barrel4_dsc",
+    "source": "Significantly increases the shotgun's firepower by firing two barrels of its four at once, which leads to correspondingly increased recoil.",
+    "target": "يزيد بشكل كبير من القوة النارية للبندقية من خلال إطلاق ماسورتين من أسلحتها الأربعة مرة واحدة، مما يؤدي إلى زيادة الارتداد بشكل مماثل.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_spring\\spr_099_radiostation_02_03_01",
+    "source": "Azamat, come in! Morholt here! Do you read me? Over!",
+    "target": "عزمات، ادخل! مورهولت هنا! هل تقرأني؟ حوّل!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_007_02_04_briefing_1_5_millerradio_02_04",
+    "source": "<ffx:anger_light>Ah, so you had to fall back?! Why did you approach them in the first place? <ffx:disgust_light>Cut it out... I forbid enemy contact, you are to act with utmost care. <ffx:anger_light>I repeat, your task is observation alone, <ffx:wonder_light>do you read me? <ffx:anger_light>Reports at half hour intervals. Over and out!<ffx:neutral>",
+    "target": "<ffx:anger_light>آه، إذًا كان عليك التراجع؟! لماذا اقتربت منهم في المقام الأول؟<ffx:disgust_light>اقطعها... أنا أمنع الاتصال بالعدو، عليك أن تتصرف بأقصى قدر من الحذر.<ffx:anger_light>أكرر، مهمتك هي المراقبة وحدها،<ffx:wonder_light>هل تقرأني؟  تقارير<ffx:anger_light>على فترات نصف ساعة. مرارا وتكرارا!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_10_yamantau\\yam_014_millerradio_04_02",
+    "source": "Copy that, Krest, sending help! Sam, sitrep?",
+    "target": "انسخ ذلك يا كريست، أرسل المساعدة! سام، سيتريب؟",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_070_10_postfiredepot_bandits_01_ambush_revenge_01_03",
+    "source": "Then don't just stand there! I can take you all at once, no problem! Let's dance!",
+    "target": "ثم لا تقف هناك فقط! يمكنني أن آخذكم جميعًا مرة واحدة، لا مشكلة! دعونا نرقص!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_2\\neutral\\guard_weaponwarning_03",
+    "source": "Stand down, I'm serious!",
+    "target": "التنحي، أنا جاد!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_05_winter\\win_099_radiostation_03_04_07",
+    "source": "Copy that. The Watchmen are starting their migration, two-zero-one says his observers have seen the first horde already.",
+    "target": "انسخ ذلك. بدأ الحراس هجرتهم، يقول 2-0-1 أن مراقبيه قد رأوا الحشد الأول بالفعل.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_05_winter\\win_099_radiostation_03_01_05",
+    "source": "Copy that, one-zero-two... Will you be ready to cut them off if they retreat along the same route?",
+    "target": "انسخ ذلك، واحد صفر اثنان... هل ستكون مستعدًا لقطع الطريق عليهم إذا تراجعوا على نفس الطريق؟",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_013_briefing_02_04a_01",
+    "source": "<ffx:anger_light>Copy that... <ffx:neutral>",
+    "target": "<ffx:anger_light>انسخ ذلك...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_044_70_lighthouseattack_playerarives_01_02",
+    "source": "<ffx:wonder>Are you Artyom? Come in. <ffx:neutral>",
+    "target": "<ffx:wonder>هل أنت أرتيوم؟ تعال.<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_017_waytoterminal_30",
+    "source": "Copy that. Miller, over and out.",
+    "target": "انسخ ذلك. ميلر، مرارًا وتكرارًا.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_02_dead_moscow\\dmc_013_5_stealthtutorial_06_17_01",
+    "source": "<ffx:anger_light>Come in, before they notice you!<ffx:neutral>",
+    "target": "<ffx:anger_light>تعال قبل أن يلاحظوك!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc1\\dlc1_220_battle_conversation_03_03_01",
+    "source": "Come in HQ, Khlebnikov here!",
+    "target": "تعال إلى المقر الرئيسي، خليبنيكوف هنا!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_05_winter\\win_099_radiostation_03_04_03",
+    "source": "Copy that...",
+    "target": "انسخ ذلك...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_dia_crew_miller_spring",
+    "source": "<tab>I dragged the Colonel into the worst adventure of his life: he had to commit high treason to save his daughter, with me in tow. He is convinced that the War is still going on, that Moscow had to fake death to prevent the final murderous strike from being launched against it...<br><br><tab>But Anna is still his daughter, and I am still one of his soldiers... So he, in his advanced age, risks everything he has - his reputation, his position in the Metro, the most of his Order... Everything to save us two and maybe somehow get himself out of this mess. We are going to the Yamantau mountain, where the Supreme Command HQ is located. Only the true government of our destroyed country could now pardon the Colonel for treason - of course, if they agree to even listen to him at all...<br><br><tab>There’s one problem, though - it’s been a few days since we left Moscow, but we have yet to find a trace of the occupying forces...<br><br>",
+    "target": "<tab>لقد قمت بجر العقيد إلى أسوأ مغامرة في حياته: كان عليه أن يرتكب الخيانة العظمى لإنقاذ ابنته، وأنا أرافقه. إنه مقتنع بأن الحرب لا تزال مستمرة، وأن موسكو اضطرت إلى تزييف الموت لمنع شن الضربة القاتلة الأخيرة ضدها...<br><br><tab>لكن آنا لا تزال ابنته، وأنا لا أزال أحد جنوده... لذا فهو، في سنه المتقدمة، يخاطر بكل ما لديه - سمعته، ومنصبه في المترو، ومعظم أمره... كل شيء لإنقاذنا وربما يخرج نفسه بطريقة ما من هذه الفوضى. نحن ذاهبون إلى جبل يامانتاو، حيث يقع مقر القيادة العليا. فقط الحكومة الحقيقية لبلدنا المدمر يمكنها الآن العفو عن العقيد بتهمة الخيانة - بالطبع، إذا وافقوا حتى على الاستماع إليه على الإطلاق...<br><br><tab>هناك مشكلة واحدة، رغم ذلك - لقد مرت بضعة أيام منذ مغادرتنا موسكو، لكننا لم نجد بعد أي أثر لقوات الاحتلال...<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_dia_weapon_tikhar_intro",
+    "source": "<tab>Frankly speaking, I didn’t recognize that Tikhar was a weapon when I saw it for the first time, and it took me some time to believe that it really could function. Even so, this remarkably ugly masterpiece of the Armory station’s designers they’d been driven into making by the eternal shortage of ammo, has proven to be indispensable for the Order’s operatives. Not only does Tikhar shoot the ubiquitous bearing balls, it is also practically noiseless, packs a wallop and is quite accurate (over short distances, naturally). All in all, it is an ideal special operations weapon for the conditions of Metro. <br><br> <tab>Of course, you have to mind not just the ammo in the magazine, but also the air reservoir pressure, though Tokarev has at least improved the valve so that the air does not escape unless you actually shoot the weapon... <br><br>",
+    "target": "<tab>بصراحة، لم أكن أدرك أن تيخار كان سلاحًا عندما رأيته لأول مرة، واستغرق الأمر بعض الوقت حتى أصدق أنه يمكن أن يعمل بالفعل. ومع ذلك، فقد أثبتت هذه التحفة الفنية القبيحة بشكل ملحوظ التي ابتكرها مصممو محطة مخزن الأسلحة، والتي دفعهم النقص الأبدي في الذخيرة إلى صنعها، أنها لا غنى عنها لعملاء التنظيم. لا يقوم تيخار بإطلاق الكرات المحملة في كل مكان فحسب، بل إنه أيضًا صامت عمليًا، ويحزم بقوة ودقيق جدًا (على مسافات قصيرة، بشكل طبيعي). بشكل عام، إنه سلاح العمليات الخاصة المثالي لظروف المترو.<br><br><tab>بالطبع، عليك ألا تهتم فقط بالذخيرة الموجودة في المخزن، ولكن أيضًا بضغط خزان الهواء، على الرغم من أن توكاريف قام على الأقل بتحسين الصمام بحيث لا يهرب الهواء إلا إذا قمت بالفعل بإطلاق النار على السلاح...<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_011_terminalradio_03",
+    "source": "Come in, Artyom! Can you hear me? Over.",
+    "target": "تعال يا أرتيوم! أيمكنك سماعي؟ حوّل.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_spring\\spr_008_level2_08",
+    "source": "<ffx:smile_light>And the Metro is chock-full of people! <ffx:anger_light>Put two and two together! <ffx:smile_light>We could repopulate the country! <ffx:sadness_light>Of course, not at once... First, we might have to take the country back... <ffx:wonder_light>But we'll be doing this under the direction of real government, people with all the necessary skills! <ffx:smile_light>And, in the end, we will break out of the underground dead-end we are in!<ffx:neutral>",
+    "target": "<ffx:smile_light>والمترو مكتظ بالناس!<ffx:anger_light>ضع اثنين واثنين معًا!<ffx:smile_light>يمكننا إعادة إعمار البلاد!<ffx:sadness_light>بالطبع، ليس مرة واحدة... أولاً، قد يتعين علينا استعادة البلاد...<ffx:wonder_light>لكننا سنفعل ذلك تحت إشراف حكومة حقيقية، أشخاص يتمتعون بجميع المهارات اللازمة!<ffx:smile_light>وفي النهاية، سنخرج من الطريق المسدود تحت الأرض الذي نحن فيه!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_011_terminalradio_01",
+    "source": "Artyom, Artyom, come in! Your signal is fading away...",
+    "target": "أرتيوم، أرتيوم، تعال! إشارتك تتلاشى..",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_12_autumn\\aut_008_torarevtalk_01_05",
+    "source": "<ffx:wonder>By the time the Order people arrived, I was half dead, <ffx:smile>thought they were angels... <ffx:neutral>",
+    "target": "<ffx:wonder>بحلول الوقت الذي وصل فيه الأمر، كنت نصف ميت،<ffx:smile>اعتقدت أنهم ملائكة...<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_12_autumn\\aut_020_radio_01_04",
+    "source": "Colonel Khlebnikov, do you read me? <sniff> Please come in!",
+    "target": "العقيد كليبنيكوف، هل تقرأني؟<sniff>يرجى الدخول!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_02_dead_moscow\\dmc_055_spartansarrive_01_06",
+    "source": "Copy that. Proceed as planned. Over!",
+    "target": "انسخ ذلك. المضي قدما كما هو مخطط له. حوّل!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_12_valley\\val_000_trolleyride_05",
+    "source": "<ffx:anger_light>Come in Aurora, this is forward recon! <ffx:wonder>Do you read? Over! <ffx:neutral>",
+    "target": "<ffx:anger_light>تعال إلى أورورا، هذا هو الاستطلاع الأمامي!<ffx:wonder>هل تقرأ؟ حوّل!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc1\\dlc1_39_2_general_entrance_02_01_01",
+    "source": "Come in, Colonel, we're done here.",
+    "target": "تعال أيها العقيد، لقد انتهينا هنا.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_ending\\end_glukh_02_21",
+    "source": "<ffx:wonder>And, the most important thing... <ffx:smile_light>My time's up, Artyom. It's your turn now, step up. <ffx:wonder>Lead them... <ffx:sadness_light>Just remember, that I created <ffx:smile_light>the Order to save people... <ffx:anger_light>All people, Artyom. Don’t <ffx:sadness>forget that, because I somehow did...",
+    "target": "<ffx:wonder>والأهم من ذلك...<ffx:smile_light>انتهى وقتي يا أرتيوم. حان دورك الآن، صعد.<ffx:wonder>قدهم...<ffx:sadness_light>فقط تذكر أنني أنشأت أمر<ffx:smile_light>لإنقاذ الناس...<ffx:anger_light>كل الناس، أرتيوم. لا تنسَ ذلك<ffx:sadness>، لأنني بطريقة ما فعلت ذلك...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_008_meeting_giul_08",
+    "source": "Lighthouse! Do you read me?! Lighthouse? Come in! Is our man there? Over.",
+    "target": "منارة! هل تقرأني؟! منارة؟ ادخل! هل رجلنا هناك؟ حوّل.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_bridge\\bri_011_terminalradio_04",
+    "source": "Artyom come in! Come in!",
+    "target": "أرتيوم تعال! ادخل!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "m3_dia_crew_duke_intro",
+    "source": "<tab>Duke of Darkness, Igor Dukov... The youngest, the bravest, and the craziest of us. Some joined the Order out of desperation, others - to protect people from dangers... But Duke is just desperately in love with adventure. Whenever the Colonel asks for volunteers, Duke is always first to shout \"Me!\" no matter how hard and dangerous the mission ahead may be.<br><br><tab>A shame we don’t have any medals in the Order, otherwise Duke would be plastered with them. He keeps looking up to the more experienced fighters, competing with them for the most kills, missions and wounds. Fort some reason, he pays particular attention to comparing his achievements with mine. Perhaps, it’s because I’m closest to his age... Anna once said about him: \"Quit your whining, Artyom! There are people here who dream of becoming like you!\" about Duke. Was she right? <br><br>",
+    "target": "<tab>دوق الظلام، إيجور دوكوف... الأصغر والأشجع والأكثر جنونًا بيننا. انضم البعض إلى التنظيم بدافع اليأس، والبعض الآخر - لحماية الناس من الأخطار... لكن ديوك يحب المغامرة بشدة. عندما يطلب العقيد متطوعين، يكون ديوك دائمًا أول من يصرخ \"أنا!\" بغض النظر عن مدى صعوبة وخطورة المهمة المقبلة.<br><br><tab>من العار أننا لا نملك أي ميداليات في الترتيب، وإلا فسيتم لصق دوق بها. إنه يتطلع دائمًا إلى المقاتلين الأكثر خبرة، ويتنافس معهم على أكبر عدد من عمليات القتل والمهمات والجروح. لسبب ما، فإنه يولي اهتمامًا خاصًا لمقارنة إنجازاته بإنجازاتي. ربما لأنني الأقرب إلى عمره... قالت عنه آنا ذات مرة: \"توقف عن التذمر يا أرتيوم! هناك أشخاص هنا يحلمون بأن يصبحوا مثلك!\" عن دوق. هل كانت على حق؟<br><br>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_06_spring\\spr_007_05_millertalk_01_07",
+    "source": "<ffx:wonder_light>Ark, come in! Come <ffx:anger_light>in, Ark! Over! <ffx:neutral>",
+    "target": "<ffx:wonder_light>ارك، تعال! تعال إلى<ffx:anger_light>يا آرك! حوّل!<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_dlc2\\dlc2_170_20_kulturmultur_moviereview_01_07",
+    "source": "The old kingpin got clipped almost at once and couldn't be in charge no more, so the sons had to take over, and then... Then guys got shot there and back, and... And...",
+    "target": "تم القضاء على الزعيم القديم تقريبًا مرة واحدة ولم يعد بإمكانه تولي المسؤولية بعد الآن، لذلك كان على الأبناء تولي المسؤولية، وبعد ذلك... ثم تم إطلاق النار على الرجال هناك وخلفهم، و... و...",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_08_desert\\des_012_roadtobase_02",
+    "source": "Copy that, Anna. Forwarding your coordinates to our scouts.",
+    "target": "انسخي ذلك يا آنا. إرسال الإحداثيات الخاصة بك إلى الكشافة لدينا.",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\m3_12_autumn\\aut_003_briefing_01_20",
+    "source": "<ffx:anger>Discussion is closed! <ffx:sadness>This is not an Order mission, it is a personal errand, <ffx:anger>mine and Artyom's! We <ffx:disgust_light>don't need any help. <ffx:neutral>",
+    "target": "<ffx:anger>المناقشة مغلقة!<ffx:sadness>هذه ليست مهمة طلبية، إنها مهمة شخصية، منجم<ffx:anger>وأرتيوم! نحن<ffx:disgust_light>لا نحتاج إلى أي مساعدة.<ffx:neutral>",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  },
+  {
+    "id": "voices\\universal_m3\\factions\\merc_1\\neutral\\guard_weaponwarningafar_02",
+    "source": "Hey, you! Stand down immediately!",
+    "target": "يا هذا! التنحي على الفور!",
+    "status": "draft",
+    "translation_origin": "machine_draft"
+  }
+]

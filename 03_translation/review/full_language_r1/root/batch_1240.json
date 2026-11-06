@@ -1,0 +1,172 @@
+{
+  "1240": {
+    "decision": "change",
+    "target": "التسويق في بلدان الشمال الأوروبي",
+    "reason": "Nordic نطاق جغرافي محدد، لا الشمال عمومًا."
+  },
+  "1281": {
+    "decision": "change",
+    "target": "وفاء بواري (العلاقات العامة)",
+    "reason": "ترجمة PR بمعناه الوظيفي."
+  },
+  "1282": {
+    "decision": "change",
+    "target": "فيري براندز (التسويق)",
+    "reason": "Ferry Brands اسم شخص، لا العلامات التجارية للعبارات."
+  },
+  "1290": {
+    "decision": "change",
+    "target": "إسبانيا",
+    "reason": "تصحيح همزة اسم البلد."
+  },
+  "1295": {
+    "decision": "change",
+    "target": "التسويق الإسباني",
+    "reason": "تصحيح همزة النسبة إلى إسبانيا."
+  },
+  "1299": {
+    "decision": "change",
+    "target": "إيلينا دياز",
+    "reason": "تصحيح همزة الاسم."
+  },
+  "1301": {
+    "decision": "change",
+    "target": "غوستافو فوسيس",
+    "reason": "Voces اسم عائلة لا كلمة أصوات."
+  },
+  "1308": {
+    "decision": "change",
+    "target": "لامارك روز - أحد استوديوهات Keywords",
+    "reason": "Keywords اسم المجموعة، لا الكلمات الرئيسية."
+  },
+  "1309": {
+    "decision": "change",
+    "target": "بيناري سونوري - أحد استوديوهات Keywords",
+    "reason": "حفظ اسم المجموعة التجارية Keywords."
+  },
+  "1311": {
+    "decision": "change",
+    "target": "4-Real",
+    "reason": "حفظ اسم الشركة."
+  },
+  "1312": {
+    "decision": "change",
+    "target": "Keywords Spain",
+    "reason": "حفظ اسم جهة التوطين بدل الكلمات المفتاحية."
+  },
+  "1322": {
+    "decision": "change",
+    "target": "رئيس فريق التوطين",
+    "reason": "المصدر مسمى شخص لا عملية قيادة."
+  },
+  "1325": {
+    "decision": "change",
+    "target": "مدير التوطين",
+    "reason": "توحيد localisation في أسماء الوظائف؛ التوطين أوسع من الترجمة."
+  },
+  "1333": {
+    "decision": "change",
+    "target": "رئيس فريق اختبارات ضمان الجودة",
+    "reason": "Lead هنا رئيس فريق لا رصاص."
+  },
+  "1345": {
+    "decision": "change",
+    "target": "مدير التوطين",
+    "reason": "توحيد مسمى localisation manager."
+  },
+  "1352": {
+    "decision": "change",
+    "target": "مدير ضمان الجودة اللغوية",
+    "reason": "ترجمة اختصار LQA الوظيفي بمعناه."
+  },
+  "1355": {
+    "decision": "change",
+    "target": "ضمان جودة لغوية إضافي",
+    "reason": "حفظ التخصيص اللغوي في اختصار LQA."
+  },
+  "1359": {
+    "decision": "change",
+    "target": "Pole to Win",
+    "reason": "اسم شركة وليس عبارة القطب للفوز."
+  },
+  "1372": {
+    "decision": "change",
+    "target": "أليكس لورينتي",
+    "reason": "تصحيح همزة الاسم."
+  },
+  "1411": {
+    "decision": "change",
+    "target": "توماسز ديك",
+    "reason": "Dec اسم عائلة وليس اختصار شهر ديسمبر."
+  },
+  "1418": {
+    "decision": "change",
+    "target": "مختبرو ضمان الجودة",
+    "reason": "Testers أشخاص يعملون بالاختبار لا الاختبار نفسه."
+  },
+  "1444": {
+    "decision": "change",
+    "target": "شكر خاص من Deep Silver",
+    "reason": "Deep Silver اسم الناشر لا الفضة العميقة، والعنوان لشكره الخاص."
+  },
+  "1455": {
+    "decision": "change",
+    "target": "Ruan Pearce-Authers",
+    "reason": "حفظ اسم العائلة المركب بدل ترجمة جزئه إلى المؤلفين."
+  },
+  "1457": {
+    "decision": "change",
+    "target": "ويل باورز",
+    "reason": "Will Powers اسم شخص لا قوى الإرادة."
+  },
+  "1463": {
+    "decision": "change",
+    "target": "ICHI Worldwide",
+    "reason": "حفظ اسم الشركة التجاري."
+  },
+  "1464": {
+    "decision": "change",
+    "target": "Fire Without Smoke",
+    "reason": "حفظ اسم الاستوديو التجاري."
+  },
+  "1465": {
+    "decision": "change",
+    "target": "Feel for Music",
+    "reason": "حفظ اسم الجهة وتوحيده مع الظهور السابق."
+  },
+  "1466": {
+    "decision": "change",
+    "target": "Platige Image",
+    "reason": "حفظ اسم شركة الإنتاج."
+  },
+  "1467": {
+    "decision": "change",
+    "target": "Elastic",
+    "reason": "اسم شركة لا صفة مرن."
+  },
+  "1468": {
+    "decision": "change",
+    "target": "Disruptive Publishers",
+    "reason": "اسم شركة لا وصف للناشرين بالمدمرين."
+  },
+  "1499": {
+    "decision": "change",
+    "target": "<br>يستخدم هذا البرنامج تقنية تعتمد على الشبكات العصبية ذات الدوال الطورية للتحكم في الشخصيات",
+    "reason": "Character هنا شخصيات اللعبة لا أحرف الكتابة؛ function دالة لا وظيفة مهنية."
+  },
+  "1493": {
+    "decision": "change",
+    "target": "© 2019 وتم نشره بواسطة Deep Silver، أحد أقسام شركة Koch Media GmbH، النمسا. تعد Deep Silver والشعارات الخاصة بها علامات تجارية مملوكة لشركة Koch Media GmbH. تم تطويره بواسطة 4A Games. تعد شركة 4A Games Limited والشعار الخاص بها علامات تجارية مملوكة لشركة 4A Games Limited. مستوحاة من الرواية الأكثر مبيعًا عالميًا METRO 2035 للكاتب دميتري جلوخوفسكي. الرسوم المتحركة للوجه مدعومة من FaceFX (C) 2002-2018، وOC3 Entertainment, Inc.‎ والجهات المانحة لها التراخيص. جميع الحقوق محفوظة. حركة الشخصيات مدعومة من PathEngine™ - www.pathengine.com. حقوق الطبع والنشر © 2002-2018 PathEngine. PhysX وNVAPI مقدمة من NVIDIA. تقدم NVIDIA تقنيات Hairworks وAnsel وShadowplay Highlights وOptix ضمن NVIDIA GameWorks. PhysX © 2002-2016 شركة NVIDIA. جميع الحقوق محفوظة. إن NVIDIA وشعار NVIDIA وPhysX وشعار PhysX هي علامات تجارية مسجلة و/أو علامات تجارية لشركة NVIDIA Corporation في الولايات المتحدة وبلدان أخرى ويتم استخدامها بموجب ترخيص. يحتوي هذا البرنامج على كود Autodesk® FBX® الذي طورته شركة Autodesk, Inc. حقوق الطبع والنشر لعام 2014 لشركة Autodesk, Inc. جميع الحقوق محفوظة. تستخدم أجزاء من هذا البرنامج تقنية SpeedTree® (© 2018 Interactive Data Visualization, Inc.). SpeedTree® هي علامة تجارية مسجلة لشركة Interactive Data Visualization, Inc. جميع الحقوق محفوظة. جميع العلامات التجارية والشعارات وحقوق التأليف والنشر الأخرى هي ملك لأصحابها. جميع الحقوق محفوظة.",
+    "reason": "Licensors جهات مانحة للتراخيص لا متلقية لها؛ agent الشخصيات البرمجية لا وكيل تجاري؛ حفظ سائر البيان والحقوق."
+  },
+  "1494": {
+    "decision": "change",
+    "target": "© 2019 ونشرتها شركة Koch Media GmbH، النمسا. Deep Silver هو قسم من شركة Koch Media. تعد Deep Silver والشعارات الخاصة بها علامات تجارية مملوكة لشركة Koch Media GmbH. تم تطويره بواسطة 4A Games. 4A Games Limited والشعارات الخاصة بها هي علامات تجارية مملوكة لشركة 4A Games Limited. مستوحاة من الرواية الأكثر مبيعًا عالميًا METRO 2035 للكاتب دميتري جلوخوفسكي. الرسوم المتحركة للوجه مدعومة من FaceFX (C) 2002-2018، وOC3 Entertainment, Inc.‎ والجهات المانحة لها التراخيص. جميع الحقوق محفوظة. حركة الشخصيات مدعومة من PathEngine™ - www.pathengine.com. حقوق الطبع والنشر © 2002-2018 PathEngine. يحتوي هذا البرنامج على كود Autodesk® FBX® الذي طورته شركة Autodesk, Inc. حقوق الطبع والنشر لعام 2014 لشركة Autodesk, Inc. جميع الحقوق محفوظة. تستخدم أجزاء من هذا البرنامج تقنية SpeedTree® (© 2018 Interactive Data Visualization, Inc.). SpeedTree® هي علامة تجارية مسجلة لشركة Interactive Data Visualization, Inc. جميع الحقوق محفوظة. جميع العلامات التجارية والشعارات وحقوق التأليف والنشر الأخرى هي ملك لأصحابها. جميع الحقوق محفوظة.",
+    "reason": "Licensors جهات مانحة للتراخيص لا متلقية لها؛ agent الشخصيات البرمجية لا وكيل تجاري؛ حفظ سائر البيان والحقوق."
+  },
+  "1495": {
+    "decision": "change",
+    "target": "© 2019 وتم نشره بواسطة Deep Silver، أحد أقسام شركة Koch Media GmbH، النمسا. تعد Deep Silver والشعارات الخاصة بها علامات تجارية مملوكة لشركة Koch Media GmbH. تم تطويره بواسطة 4A Games. تعد شركة 4A Games Limited والشعار الخاص بها علامات تجارية مملوكة لشركة 4A Games Limited. مستوحاة من الرواية الأكثر مبيعًا عالميًا METRO 2035 للكاتب دميتري جلوخوفسكي. الرسوم المتحركة للوجه مدعومة من FaceFX (C) 2002-2018، وOC3 Entertainment, Inc.‎ والجهات المانحة لها التراخيص. حركة الشخصيات مدعومة من PathEngine™ - www.pathengine.com. حقوق الطبع والنشر © 2002-2018 PathEngine. جميع الحقوق محفوظة. يحتوي هذا البرنامج على كود Autodesk® FBX® الذي طورته شركة Autodesk, Inc. حقوق الطبع والنشر لعام 2014 لشركة Autodesk, Inc. جميع الحقوق محفوظة. تستخدم أجزاء من هذا البرنامج تقنية SpeedTree® (© 2018 Interactive Data Visualization, Inc.). SpeedTree® هي علامة تجارية مسجلة لشركة Interactive Data Visualization, Inc. جميع الحقوق محفوظة. جميع العلامات التجارية والشعارات وحقوق التأليف والنشر الأخرى هي ملك لأصحابها. جميع الحقوق محفوظة.",
+    "reason": "Licensors جهات مانحة للتراخيص لا متلقية لها؛ agent الشخصيات البرمجية لا وكيل تجاري؛ حفظ سائر البيان والحقوق."
+  }
+}

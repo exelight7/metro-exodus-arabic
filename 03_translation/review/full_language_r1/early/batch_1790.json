@@ -1,0 +1,216 @@
+{
+  "start": 1790,
+  "end": 1875,
+  "decisions": {
+    "1792": {
+      "decision": "change",
+      "target": "<ffx:wonder>هل وجدتم الوثني أيها الإخوة؟<ffx:neutral>",
+      "reason": "heathen فرد واحد هو أرتيوم لا وثنيون جمع."
+    },
+    "1793": {
+      "decision": "change",
+      "target": "<ffx:anger_light>واصلوا البحث يا أبنائي، فهو في الجوار!<ffx:neutral>",
+      "reason": "is about موجود في المحيط لا على وشك، وأتباعه أبناء لا أطفال حرفيًا."
+    },
+    "1794": {
+      "decision": "change",
+      "target": "واصلوا البحث،<ffx:disgust> فالزنديق ما زال هنا!<ffx:neutral>",
+      "reason": "تصحيح مخاطب الجماعة وحذف فاصلة مكررة."
+    },
+    "1795": {
+      "decision": "change",
+      "target": "<ffx:anger_light>ابحثوا عنه، أشعر بوجوده!<ffx:neutral>",
+      "reason": "أمر لجماعة الباحثين."
+    },
+    "1796": {
+      "decision": "change",
+      "target": "<ffx:wonder>علينا العثور عليه يا أبنائي!<ffx:neutral>",
+      "reason": "توحيد مخاطبة الشيخ لأتباعه البالغين."
+    },
+    "1803": {
+      "decision": "change",
+      "target": "إنه<ffx:disgust> يختبئ، ذلك الزنديق الحقير...<ffx:neutral>",
+      "reason": "إصلاح تعارض تذكير ذلك مع الحثالة المؤنثة وصقل الشتيمة."
+    },
+    "1804": {
+      "decision": "change",
+      "target": "<ffx:anger>نسل الشيطان ما زال مختبئًا!<ffx:neutral>",
+      "reason": "spawn نسل لا ظهور، وحفظ الاسم الشتائمي للزنديق."
+    },
+    "1809": {
+      "decision": "change",
+      "target": "<ffx:disgust>لا... لم أجد إلا جرذًا ميتًا...<ffx:neutral>",
+      "reason": "Nah نفي لا ناه الصوتية، وتوحيد rat إلى الجرذ."
+    },
+    "1811": {
+      "decision": "change",
+      "target": "<ffx:fear>لا بد أن الشياطين نالوا منه...<ffx:neutral>",
+      "reason": "got him نالوا منه بمعنى يحتمل الأذى لا جزم باعتقاله."
+    },
+    "1812": {
+      "decision": "change",
+      "target": "<ffx:wonder>أظن أن الزنديق رحل منذ زمن...<ffx:neutral>",
+      "reason": "long gone رحل لا انتهى كشيء."
+    },
+    "1813": {
+      "decision": "change",
+      "target": "<ffx:anger>نعم، طبعًا، وكأنه سيختبئ في الكنيسة...<ffx:neutral>",
+      "reason": "إبراز سخرية نفي اختباء الزنديق في موضع يطاردونه منه."
+    },
+    "1815": {
+      "decision": "change",
+      "target": "<ffx:fear>ليس هنا أيها الأب المقدس!<ffx:neutral>",
+      "reason": "توحيد لقب الأب المقدس."
+    },
+    "1817": {
+      "decision": "change",
+      "target": "<ffx:disgust>شيطان ماكر، لا بد أنه مختبئ...<ffx:neutral>",
+      "reason": "Sneaky مكر وتخف لا مجرد متستر كحالة."
+    },
+    "1820": {
+      "decision": "change",
+      "target": "<ffx:fear>الشيطان يحمي نسله!<ffx:neutral>",
+      "reason": "looking out for حماية ورعاية لا البحث عن مفقود."
+    },
+    "1821": {
+      "decision": "change",
+      "target": "<ffx:anger>اخرج أيها النجس، يا ابن الشيطان! اخرج،<ffx:disgust> وكف عن إغواء هؤلاء الرجال!<ffx:neutral>",
+      "reason": "توحيد خطاب الشتيمة لفرد وإصلاح مواقع الوسم دون تصغير الإدانة."
+    },
+    "1822": {
+      "decision": "change",
+      "target": "<ffx:anger>اخرج يا وليد الجحيم وتب،<ffx:disgust> واعترف بخطاياك، ليحسب ذلك لك<ffx:wonder_strong> يوم القيامة!<ffx:neutral>",
+      "reason": "hellspawn وليد الجحيم لا الجحيم ذاته، وصياغة الحساب الديني."
+    },
+    "1823": {
+      "decision": "change",
+      "target": "<ffx:anger>اخرج أيها الزنديق، آمرك باسم<ffx:fear> سيلانتيوس المقدس نفسه!<ffx:disgust> اخرج ودع الإيمان الحق يطهر روحك من الخطيئة!<ffx:neutral>",
+      "reason": "الأمر باسمه لا طلب اسمه، وتوحيد الإيمان الحق والخطيئة."
+    },
+    "1825": {
+      "decision": "change",
+      "target": "<ffx:fear>أجدف بكل قوتي! قم بعملك اللعين فحسب!<ffx:neutral>",
+      "reason": "rowing the hell out بذل قوة كبيرة في التجديف لا الخروج منه."
+    },
+    "1826": {
+      "decision": "change",
+      "target": "<ffx:disgust>نعم، احترس منهم وإلا فسينالون منك!<ffx:neutral>",
+      "reason": "fucked up الأذى من الوحوش لا الخداع."
+    },
+    "1827": {
+      "decision": "change",
+      "target": "<ffx:anger>واخفض صوتك! أتريد<ffx:wonder> كل القريدس اللعين في أعقابنا؟<ffx:neutral>",
+      "reason": "keep it down خفض الصوت وon our asses المطاردة لا وجود روبيان داخل المؤخرة."
+    },
+    "1828": {
+      "decision": "change",
+      "target": "<ffx:fear_strong>خذ هذه أيها الحقير!<ffx:neutral>",
+      "reason": "Eat this صيحة إطلاق النار على العدو لا أكل قذارة."
+    },
+    "1829": {
+      "decision": "change",
+      "target": "<ffx:fear>تبًا! هيا، جدف أسرع!<ffx:neutral>",
+      "reason": "row تجديف لا اصطفاف في صف."
+    },
+    "1830": {
+      "decision": "change",
+      "target": "<ffx:anger>أحاول، تبًا! كل ما عليك<ffx:disgust> هو تغطيتي وإغلاق فمك!<ffx:neutral>",
+      "reason": "إكمال مفعول التغطية وإسناد الشتيمة إلى المتكلم بصيغة طبيعية."
+    },
+    "1833": {
+      "decision": "change",
+      "target": "<ffx:anger>حسنًا، اخرس، تبًا لك!<ffx:disgust> علينا جلب تلك البضائع اللعينة!<ffx:anger> إن تركتها لعصابة القطار، فسأبيع<ffx:fear> كليتيك لتعويض الخسارة!<ffx:neutral>",
+      "reason": "تصحيح مثنى الكليتين في التهديد لا كلية واحدة، وحفظ قسوة رئيس العصابة."
+    },
+    "1834": {
+      "decision": "change",
+      "target": "<ffx:fear>ومتى وافقت على أن أصبح وجبة<ffx:disgust> للقريدس اللعين؟ ولسمك السلور الملعون أيضًا؟<ffx:neutral>",
+      "reason": "feeding shrimps الخوف من أن تأكله الوحوش لا قبول إطعامها عمدًا، وbloody شتيمة لا وصف دموي."
+    },
+    "1835": {
+      "decision": "change",
+      "target": "<ffx:anger>نعم، تبًا لهذا الهراء!<ffx:fear_light> بالكاد نجونا في المرة الماضية، والقارب محطم من كل جانب!<ffx:neutral>",
+      "reason": "screw that noise رفض المهمة لا ضوضاء بعينها، وحفظ ضرر القارب."
+    },
+    "1836": {
+      "decision": "change",
+      "target": "<ffx:anger>كف عن الهراء؛ علينا الوصول إلى هناك! فلننطلق، تبًا!<ffx:neutral>",
+      "reason": "تصحيح أمر الانطلاق بدل نخرج اللعنة."
+    },
+    "1841": {
+      "decision": "change",
+      "target": "<ffx:wonder>كان هناك قبل قليل، ثم...<ffx:fear> اختفى على ما يبدو.<ffx:wonder_strong> كما قال الأب سيلانتيوس، أرسله الشيطان!<ffx:wonder_light>",
+      "reason": "kinda تردد في وصف اختفائه لا كيندا الصوتية."
+    },
+    "1842": {
+      "decision": "change",
+      "target": "<ffx:disgust>أعرف ما قاله الأب، أعرف...<ffx:wonder> لكن هل رأيت إلى أين ذهب؟<ffx:wonder_light>",
+      "reason": "إصلاح سؤال الحارس عن الاتجاه لا طلب إخبار مشروط مع علامة استفهام."
+    },
+    "1844": {
+      "decision": "change",
+      "target": "<ffx:sadness>فهمت... حسنًا، بارك الله فيك.<ffx:disgust> سأبحث في مكان آخر...<ffx:neutral>",
+      "reason": "I see تفهم لا رؤية."
+    },
+    "1845": {
+      "decision": "change",
+      "target": "<ffx:disgust>يا له من أبله! لم ير شيئًا،<ffx:anger> ومع ذلك لا يكف عن الثرثرة...<ffx:neutral>",
+      "reason": "run mouth ثرثرة مزعجة لا مجرد فتح الفم."
+    },
+    "1847": {
+      "decision": "change",
+      "target": "<ffx:disgust>بالطبع رأيته، ذلك الوثني! تُف! تُف! تُف!",
+      "reason": "إصلاح جواب الرؤية ونقل صوت البصق عربيًا بدل بتوي الصوتية."
+    },
+    "1849": {
+      "decision": "change",
+      "target": "<ffx:disgust>لا نستطيع حتى النظر إليهم، فقد حذرنا الأب سيلانتيوس!<ffx:fear> إن نظرت إليهم رأيت التقنية، وتلك لمسة من الشيطان لا يمحوها إلا<ffx:anger_light> مئة يوم من الصيام وثلاثمئة يوم من الصلاة!<ffx:neutral>",
+      "reason": "توحيد التقنية وصقل وصف محو الخطيئة مع حفظ العددين كما في الأصل."
+    },
+    "1851": {
+      "decision": "change",
+      "target": "<ffx:anger>كف عن إزعاجي! ما شأنك<ffx:wonder> إن كنت رأيته؟ دخل<ffx:disgust> زنديق إلى الكنيسة، يا للخطيئة! علينا أن نصلي لتمحى،<ffx:anger> وأنت تشتتنا!<ffx:neutral>",
+      "reason": "pray it away الصلاة لمحو الخطيئة لا الصلاة بعيدًا، وتوحيد الزنديق."
+    },
+    "1852": {
+      "decision": "change",
+      "target": "<ffx:fear>آسف، كنا نبحث عنه فحسب، و... نحن...<ffx:anger> آه، انسي الأمر!<ffx:neutral>",
+      "reason": "المخاطبة امرأة؛ تصحيح أمر النسيان."
+    },
+    "1853": {
+      "decision": "change",
+      "target": "<ffx:wonder_strong>اذهب إذن وأنجز هذا العمل الصالح! لم يكتف أبناء الشيطان بتدمير العالم القديم،<ffx:anger> فلا شك أنهم يريدون تدنيس ديرنا برجسهم!<ffx:disgust> فليسقطوا!<ffx:neutral>",
+      "reason": "spawn نسل لا ظهور، وإصلاح عدد الفاعلين وDown with them هتاف الإدانة."
+    },
+    "1858": {
+      "decision": "change",
+      "target": "<ffx:anger>لا، لو فعل لسمعناه. كانت<ffx:fear> السمكة القيصر ستنقض عليه...<ffx:neutral>",
+      "reason": "all over him هجوم السمكة على السابح لا فوقه في كل مكان، وتوحيد اللقب."
+    },
+    "1864": {
+      "decision": "change",
+      "target": "<ffx:smile_light>حسنًا، لنفترق وننطلق.<ffx:anger_light> وكلما أسرعنا كان أفضل.<ffx:neutral>",
+      "reason": "استعادة sooner المحذوفة من المقارنة."
+    },
+    "1867": {
+      "decision": "change",
+      "target": "<ffx:wonder>ماذا يريد الزنديق يا ترى؟<ffx:neutral>",
+      "reason": "be after يسعى إلى هدف لا ظرف بعد."
+    },
+    "1869": {
+      "decision": "change",
+      "target": "<ffx:smile_light>إذن نفكر بالطريقة نفسها...<ffx:wonder> وبما أن الوثني لم يهاجم مباشرة، فلعله سيحضر رجاله...<ffx:neutral>",
+      "reason": "his people رفاقه المقاتلون لا شعب دولة كامل."
+    },
+    "1871": {
+      "decision": "change",
+      "target": "<ffx:anger>نمسك به! استطعنا على الأقل<ffx:fear_light> نقل الأب سيلانتيوس إلى الجسر...<ffx:neutral>",
+      "reason": "جواب ما نفعل خطة مشتركة لا أمر مفرد مبهم، وإصلاح موضع الوسم."
+    },
+    "1874": {
+      "decision": "change",
+      "target": "<ffx:sadness>صحيح...<ffx:fear> لكن أتباع الشيطان لن يمسوا أبناء جلدتهم...<ffx:neutral>",
+      "reason": "their own أبناء جماعتهم لا أنفسهم حرفيًا."
+    }
+  }
+}

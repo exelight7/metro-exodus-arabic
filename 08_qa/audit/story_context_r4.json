@@ -1,0 +1,449 @@
+{
+  "revision": "story_context_r4",
+  "rows_scanned": 38221,
+  "contexts_manually_corrected": 62,
+  "previous_revision": "story_context_r3",
+  "all_other_rows_preserved": true,
+  "full_manual_game_review": false,
+  "original_sha256": "86b98c9722c3945464c63313591bd997035e98ab70d268f68c99ceef5fb0c76f",
+  "target_sha256": "29817b149846882ceccfb0f3924eb00d0feeaca764ef87bd5e7ecca2d414f0e2",
+  "game_launched": false,
+  "installed": false,
+  "published": false,
+  "changes": [
+    {
+      "id": "voices\\m3_dlc1\\dlc1_130_khlebnikov_kirill_prebattle_conversation_01_15",
+      "source": "All right, time to go. You get home and don’t step out or let anyone in until I’m back. It’s an order.",
+      "before": "حسنًا، حان وقت الذهاب. تصل إلى المنزل ولا تخرج أو تسمح لأي شخص بالدخول حتى أعود. إنه أمر.",
+      "after": "حسنًا، حان وقت الذهاب. عد إلى البيت، ولا تخرج أو تسمح لأحد بالدخول حتى أعود. هذا أمر.",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_dlc2\\dlc2_282_loading_electricspider_reminder_01_04",
+      "source": "The crane won't work until we take that Zap Spider out!",
+      "before": "الرافعة لن تعمل حتى نخرج (زاب سبايدر)!",
+      "after": "لن تعمل الرافعة حتى نقضي على ذلك العنكبوت الكهربائي!",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_06_bridge\\bri_011_carbriefing_millerreminder_02",
+      "source": "<ffx:wonder>What are you doing here, Artyom?! <ffx:anger_light>Get to the port, on the double! <ffx:neutral>",
+      "before": "<ffx:wonder>ماذا تفعل هنا يا أرتيوم؟!<ffx:anger_light>اذهب إلى الميناء، على المضاعفة!<ffx:neutral>",
+      "after": "<ffx:wonder>ماذا تفعل هنا يا أرتيوم؟!<ffx:anger_light>اذهب إلى الميناء فورًا!<ffx:neutral>",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\merc_1\\light_alert\\light_alert_group_alarmed_call_others_morethanone_02",
+      "source": "Heads up, people! We've got to find them!",
+      "before": "ارفعوا رؤوسكم أيها الناس! علينا العثور عليهم!",
+      "after": "انتبهوا يا رجال! علينا العثور عليهم!",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bridger_3\\danger\\losses_to_humans_foreveralone_01",
+      "source": "Hold on, brother! Oh... Rest in peace then...",
+      "before": "انتظر يا أخي! أوه...ارقد بسلام إذن...",
+      "after": "تماسك يا أخي! آه... لترقد بسلام إذن...",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\merc_3\\uber_alert\\uber_alert_calmdown_02",
+      "source": "We're not finding him, gentlemen! Get back to your stations and stay alert! He might come back!",
+      "before": "نحن لا نجده، أيها السادة! العودة إلى محطاتك والبقاء في حالة تأهب! ربما يعود!",
+      "after": "لم نعثر عليه يا سادة! عودوا إلى مواقعكم وابقوا متيقظين! قد يعود!",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_dlc1\\dlc1_72_6_civtroubles_06_05",
+      "source": "I can put it even harder! They shouldn't even let this rabble in here, much less give them handouts!",
+      "before": "يمكنني أن أضع الأمر أكثر صعوبة! لا ينبغي عليهم حتى السماح لهذا الرعاع بالدخول هنا، ناهيك عن إعطائهم الصدقات!",
+      "after": "بل سأقولها بصراحة أكبر! لا ينبغي السماح لهؤلاء الرعاع بالدخول أصلًا، فما بالك بتوزيع الإعانات عليهم!",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_3\\boat\\boatseen_01",
+      "source": "Heads up, everyone! A boat!",
+      "before": "ارفعوا رؤوسكم للجميع! قارب!",
+      "after": "انتبهوا جميعًا! قارب!",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_06_bridge\\bri_040_lightningfighters_start_conversation_01_11",
+      "source": "<ffx:anger_light>Cut it out, you two! <ffx:fear>Do you forget where we are? What we are? <ffx:disgust>Come on, start a fight now, so that the demons can take us out like nothing! <ffx:neutral>",
+      "before": "<ffx:anger_light>اقطعها، أنتما الاثنان!<ffx:fear>هل نسيت أين نحن؟ ما نحن؟<ffx:disgust>هيا، ابدأ القتال الآن، حتى يتمكن الشياطين من إخراجنا مثل لا شيء!<ffx:neutral>",
+      "after": "<ffx:anger_light>كفاكما، أنتما الاثنان!<ffx:fear>أنسيتما أين نحن؟ ومن نحن؟<ffx:disgust>هيا، تشاجرا الآن، ليقضي علينا الشياطين بكل سهولة!<ffx:neutral>",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_08_desert\\des_018_tower_01_23",
+      "source": "<ffx:wonder>Artyom? Are <ffx:anger>out of your mind? <ffx:neutral>",
+      "before": "<ffx:wonder>أرتيوم؟ هل<ffx:anger>خارج عقلك؟<ffx:neutral>",
+      "after": "<ffx:wonder>أرتيوم؟ هل<ffx:anger>فقدت عقلك؟<ffx:neutral>",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bridger_2\\danger\\losses_to_monsters_foreveralone_01",
+      "source": "Hold on, brother! Too late... They got him!",
+      "before": "انتظر يا أخي! فات الأوان... لقد قبضوا عليه!",
+      "after": "تماسك يا أخي! فات الأوان... لقد قتلوه!",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_dlc2\\dlc2_500_10_treason_samklim_radio_confrontation_01_07",
+      "source": "You're gonna keep all the world at the point of a nuclear gun and still come out all clean? Ain't happening!",
+      "before": "هل ستبقي العالم كله تحت تهديد السلاح النووي وتظل نظيفًا تمامًا؟ لا يحدث!",
+      "after": "أتظن أنك تستطيع تهديد العالم كله بسلاح نووي ثم تخرج من الأمر بريئًا؟ لن يحدث هذا!",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\merc_1\\context\\context_reaction_pass_01",
+      "source": "Heads up! That pass... Was that movement?",
+      "before": "انتبه! تلك التمريرة... هل كانت تلك الحركة؟",
+      "after": "انتبهوا! ذلك الممر... هل تحرك شيء هناك؟",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_08_desert\\des_014_springattack_01_26",
+      "source": "<ffx:wonder_light>Get ready, Artyom! <ffx:smile_light>Charge the torch, <ffx:wonder_light>check the filters and other gear... <ffx:neutral>",
+      "before": "<ffx:wonder_light>استعد يا أرتيوم!<ffx:smile_light>اشحن الشعلة،<ffx:wonder_light>افحص المرشحات والعتاد الآخر...<ffx:neutral>",
+      "after": "<ffx:wonder_light>استعد يا أرتيوم!<ffx:smile_light>اشحن المصباح اليدوي،<ffx:wonder_light>وافحص المرشحات وبقية العتاد...<ffx:neutral>",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\merc_3\\danger\\combat_flee_02",
+      "source": "Fall back! We're getting slaughtered!",
+      "before": "تراجع! نحن نذبح!",
+      "after": "تراجعوا! إنهم يفتكون بنا!",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_ending\\end_02_cont_01_09",
+      "source": "<ffx:smile_light>Hold on, hero... Now we will <ffx:smile>give you some fresh Spartan blood. <ffx:smile_light>",
+      "before": "<ffx:smile_light>انتظر أيها البطل... الآن سنمنحك<ffx:smile>بعض الدماء الإسبارطية الجديدة.<ffx:smile_light>",
+      "after": "<ffx:smile_light>تماسك أيها البطل... سنمدّك الآن<ffx:smile>بدم إسبرطي جديد.<ffx:smile_light>",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_dlc1\\dlc1_225_3_oskom_battleshouts_02_25",
+      "source": "Heads up! They got a machine-gun!",
+      "before": "انتباه! لقد حصلوا على مدفع رشاش!",
+      "after": "انتبهوا! لديهم رشاش!",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_05_winter\\win_099_radiostation_03_02_03",
+      "source": "Another car moving towards your position! Do we take it out?",
+      "before": "سيارة أخرى تتحرك نحو موقعك! هل نخرجه؟",
+      "after": "سيارة أخرى تتجه إلى موقعكم! هل ندمّرها؟",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_3\\uber_alert\\uber_alert_enemy_human_03",
+      "source": "Heads up guys! The bitches attack!",
+      "before": "انتبهوا يا شباب! الكلبات تهاجم!",
+      "after": "انتبهوا يا رجال! الأوغاد يهاجمون!",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\merc_3\\light_alert\\light_alert_group_alarmed_call_goingalert_02",
+      "source": "Hey! What's the matter with you? Hold on, I'm coming to help!",
+      "before": "يا! ما خطبك؟ انتظر، أنا قادم للمساعدة!",
+      "after": "مهلًا! ما بك؟ تماسك، أنا قادم لمساعدتك!",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_dlc2\\dlc2_088_copisland_alarm_02_01",
+      "source": "We got attacked! Heads up, people!",
+      "before": "لقد تعرضنا للهجوم! ارفعوا رؤوسكم أيها الناس!",
+      "after": "نتعرض لهجوم! انتبهوا يا رجال!",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\merc_1\\danger\\losses_to_humans_foreveralone_01",
+      "source": "Shit! Hold on, man!",
+      "before": "القرف! انتظر يا رجل!",
+      "after": "تبًا! تماسك يا رجل!",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\merc_1\\danger\\combat_flee_03",
+      "source": "Fall back, everyone!",
+      "before": "التراجع، الجميع!",
+      "after": "تراجعوا جميعًا!",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_08_desert\\des_051_monster_ambush_12",
+      "source": "<ffx:anger_light>Katya, grab Nastya and get to the HQ! <ffx:anger>On the double! <ffx:neutral>",
+      "before": "<ffx:anger_light>كاتيا، أمسك ناستيا واذهب إلى المقر الرئيسي!<ffx:anger>على المزدوج!<ffx:neutral>",
+      "after": "<ffx:anger_light>كاتيا، خذي ناستيا وتوجهي إلى المقر!<ffx:anger>بأقصى سرعة!<ffx:neutral>",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_dlc1\\dlc1_110_khlebnikov_kirill_postsearch_conversation_01_12_01",
+      "source": "Or else the rich would just sit on their stock, while the poor would all die. Could you call that fair?",
+      "before": "وإلا فإن الأغنياء سيجلسون على أسهمهم، بينما سيموت الفقراء جميعا. هل يمكن أن تسمي هذا عادلاً؟",
+      "after": "وإلا فسيحتفظ الأغنياء بمخزونهم، ويموت الفقراء جميعًا. أتسمّي ذلك عدلًا؟",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_dlc1\\dlc1_600_finale_01",
+      "source": "Artyom... Stay with me! Hold on... son...",
+      "before": "أرتيوم... ابق معي! انتظر .. يا بني ..",
+      "after": "أرتيوم... ابق معي! تماسك... يا بني...",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_2\\corpse\\corpse_found_04",
+      "source": "This one seems fresh... Boys, heads up! We got a corpse here!",
+      "before": "هذا يبدو جديدًا... أيها الأولاد، ارفعوا رؤوسكم! لدينا جثة هنا!",
+      "after": "يبدو أن موته حديث... انتبهوا يا رجال! هناك جثة!",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\forest_1\\light_alert\\light_alert_gonnalook_group_react_03",
+      "source": "Al right, go take a look - you’ve been standing around for so long you could sprout roots, haha!",
+      "before": "حسنًا، اذهب وألقِ نظرة - لقد كنت واقفًا هنا لفترة طويلة حتى تتمكن من إنبات الجذور، هاها!",
+      "after": "حسنًا، اذهب وألقِ نظرة. طال وقوفك هنا حتى كادت تنبت لك جذور، هاها!",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_3\\light_alert\\light_alert_group_alarmed_call_goingalert_02",
+      "source": "Where are you, bro? Hold on, I'll help you!",
+      "before": "أين أنت يا أخي؟ انتظر، سأساعدك!",
+      "after": "أين أنت يا أخي؟ تماسك، سأساعدك!",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_dlc1\\dlc1_74_1_pa_address_01_04",
+      "source": "The radioprotector confiscations are being carried out for the common good. Report the irresponsible elements attempting to hide their stock. Remember, they are hiding it from you and your children!",
+      "before": "يتم تنفيذ مصادرة أجهزة الحماية من الإشعاع من أجل الصالح العام. الإبلاغ عن العناصر غير المسؤولة التي تحاول إخفاء مخزونها. تذكر أنهم يخفون ذلك عنك وعن أطفالك!",
+      "after": "تُصادَر كميات العقار الواقي من الإشعاع من أجل الصالح العام. بلّغوا عن غير المسؤولين الذين يحاولون إخفاء مخزونهم. تذكّروا أنهم يخفونه عنكم وعن أطفالكم!",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_08_desert\\des_018_tower_01_03",
+      "source": "<ffx:sadness>There's also bad news... <ffx:anger_light>The gate is locked and we can't take it out. <ffx:neutral>",
+      "before": "<ffx:sadness>هناك أيضًا أخبار سيئة...<ffx:anger_light>البوابة مغلقة ولا يمكننا إخراجها.<ffx:neutral>",
+      "after": "<ffx:sadness>هناك أخبار سيئة أيضًا...<ffx:anger_light>البوابة مقفلة، ولا نستطيع تحطيمها.<ffx:neutral>",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bridger_3\\light_alert\\light_alert_group_alarmed_call_goingalert_02",
+      "source": "Hey, where are you? Hey! Hold on, help is on the way!",
+      "before": "مهلا، أين أنت؟ يا! انتظر، المساعدة في الطريق!",
+      "after": "أين أنت؟ أجب! تماسك، المساعدة في الطريق!",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_ending\\end_glukh_02_18",
+      "source": "<ffx:sadness_light>Yes, about Anna... You will <ffx:smile_light>have to look out for her now that I can't anymore... <ffx:sadness_light>I don't care if you go to that Ocean... <ffx:smile>Just stay with her.",
+      "before": "<ffx:sadness_light>نعم، بخصوص آنا... سيتعين عليك<ffx:smile_light>أن تبحث عنها الآن لأنني لم أعد أستطيع ذلك...<ffx:sadness_light>لا يهمني إذا ذهبت إلى ذلك المحيط...<ffx:smile>فقط ابق معها.",
+      "after": "<ffx:sadness_light>نعم، بخصوص آنا... عليك<ffx:smile_light>أن تعتني بها الآن، بعدما عجزت أنا عن ذلك...<ffx:sadness_light>لا يهمني إن قصدتما ذلك المحيط...<ffx:smile>المهم أن تبقى إلى جانبها.",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_06_spring\\spr_004_level1_10",
+      "source": "<ffx:smile_light>Of course, it might be interesting to take a look... <ffx:wonder_light>But throughout all of my rambling I only met two kinds of <ffx:disgust>ex-government people: dead ones, and gang leaders. <ffx:wonder_strong>And let me tell you, the <ffx:anger>latter are much worse than your typical bandit - <ffx:disgust>they just have to make a speech before doing something awful.",
+      "before": "<ffx:smile_light>بالطبع، قد يكون من المثير للاهتمام إلقاء نظرة...<ffx:wonder_light>لكن خلال كل تجوالي لم أقابل سوى نوعين من الأشخاص السابقين في الحكومة<ffx:disgust>: الموتى وزعماء العصابات.<ffx:wonder_strong>واسمحوا لي أن أخبركم،<ffx:anger>الأخير أسوأ بكثير من قطاع الطرق النموذجي -<ffx:disgust>عليهم فقط إلقاء خطاب قبل القيام بشيء فظيع.",
+      "after": "<ffx:smile_light>قد يكون الذهاب وإلقاء نظرة أمرًا مثيرًا للاهتمام بالطبع...<ffx:wonder_light>لكنني في كل تجوالي لم أصادف من رجال الحكومة السابقين<ffx:disgust>إلا موتى أو زعماء عصابات.<ffx:wonder_strong>وأقول لكم إن<ffx:anger>هؤلاء الزعماء أسوأ بكثير من قطاع الطرق العاديين؛<ffx:disgust>فهم لا يرتكبون فظائعهم إلا بعد إلقاء خطاب.",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_dlc1\\dlc1_74_2_quarrel_01_03",
+      "source": "And as soon as they get a hold of the new stock, we will be reimbursed fully and with interest, just as the paper says.",
+      "before": "وبمجرد حصولهم على المخزون الجديد، سيتم تعويضنا بالكامل مع الفائدة، تمامًا كما تقول الصحيفة.",
+      "after": "وبمجرد حصولهم على مخزون جديد، سيعوّضوننا كاملًا ومع الفائدة، كما تنص الوثيقة.",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_3\\dog\\dog_commands_03",
+      "source": "Stay here, look out for them motherfuckers!",
+      "before": "ابقوا هنا، ابحثوا عنهم أيها الأوغاد!",
+      "after": "ابق هنا وراقب أولئك الأوغاد!",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_08_desert\\des_202_5_giulsmomreport_06",
+      "source": "Senior researcher Khakimova, please, take the child outside, this is a briefing, after all!",
+      "before": "كبير الباحثين خاكيموفا، من فضلك، خذ الطفل إلى الخارج، فهذه إحاطة، بعد كل شيء!",
+      "after": "كبيرة الباحثين خاكيموفا، أخرجي الطفلة من فضلك، فهذا اجتماع للإحاطة بالموقف!",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_dlc2\\dlc2_100_taleoftwobrothers_brother1_ranting_01_09",
+      "source": "But I will get back at him... I will, I so will! He'll know he shouldn't have...",
+      "before": "لكنني سأعود إليه... سأفعل، سأفعل ذلك! سيعلم أنه لا ينبغي له...",
+      "after": "لكنني سأنتقم منه... سأفعل، أقسم أنني سأفعل! سيعرف أنه ما كان ينبغي له أن...",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_dlc2\\dlc2_625_10_smokethemout_01_03",
+      "source": "Stop the frontal attack! Take cover and prepare to smoke them out!",
+      "before": "أوقفوا الهجوم الأمامي! احتمي واستعد لتدخينهم!",
+      "after": "أوقفوا الهجوم المباشر! احتموا واستعدوا لإخراجهم بالدخان!",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_08_desert\\des_02_04_spartanscheckrooms_06",
+      "source": "<ffx:anger_light>OK! Set up the perimeter. <ffx:wonder_light>You, get to the back of the train. Idiot, you get the engine. <ffx:sadness_light>I'll clean the place up, then we'll bring Stepan, <ffx:wonder_light>it's cooler than in the train. <ffx:neutral>",
+      "before": "<ffx:anger_light>حسنًا! قم بإعداد المحيط.<ffx:wonder_light>أنت، اذهب إلى الجزء الخلفي من القطار. أيها إيديوت، يمكنك الحصول على المحرك.<ffx:sadness_light>سأنظف المكان، ثم سنحضر ستيبان،<ffx:wonder_light>إنه أكثر برودة مما هو عليه في القطار.<ffx:neutral>",
+      "after": "<ffx:anger_light>حسنًا! أمّنوا محيط المكان.<ffx:wonder_light>أنت، تولّ مؤخرة القطار. إيديوت، تولّ القاطرة.<ffx:sadness_light>سأنظف المكان، ثم نحضر ستيبان؛<ffx:wonder_light>فالجو هنا أبرد من داخل القطار.<ffx:neutral>",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_02_dead_moscow\\dmc_010_06_yermakdiscussion_01_02",
+      "source": "<ffx:wonder>Isn't he just drunk out of his mind? <ffx:smile_light>All the train drivers make moonshine, <ffx:wide_smile_light>they always have fire going there, after all! <ffx:neutral>",
+      "before": "<ffx:wonder>أليس هو في حالة سكر فقط من عقله؟<ffx:smile_light>جميع سائقي القطارات يصنعون لغوًا،<ffx:wide_smile_light>لديهم دائمًا نار مشتعلة هناك، بعد كل شيء!<ffx:neutral>",
+      "after": "<ffx:wonder>أليس ثملًا إلى حد فقدان وعيه فحسب؟<ffx:smile_light>كل سائقي القطارات يقطّرون الخمر سرًا،<ffx:wide_smile_light>فالنار مشتعلة عندهم دائمًا على أي حال!<ffx:neutral>",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_dlc2\\dlc2_120_taleoftwobrothers_brothes_reunion_01_12",
+      "source": "We shall see! You'll see what's written there, maybe that would clear up your sorry mind somewhat! Make you remember how you kicked your only brother out!",
+      "before": "سوف نرى! سترى ما هو مكتوب هناك، ربما من شأنه أن يصفي عقلك المؤسف إلى حد ما! تجعلك تتذكر كيف طردت أخيك الوحيد!",
+      "after": "سنرى! اقرأ ما كُتب هناك؛ لعل عقلك البائس يفهم شيئًا! ولعلك تتذكر كيف طردت أخاك الوحيد!",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_12_valley\\val_000_trolleyride_11",
+      "source": "<ffx:fear_strong>Artyom! HOLD ON! <ffx:neutral>",
+      "before": "<ffx:fear_strong>أرتيوم! يتمسك!<ffx:neutral>",
+      "after": "<ffx:fear_strong>أرتيوم! تشبّث!<ffx:neutral>",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_dlc1\\dlc1_13_1_tunnelburners_00_02",
+      "source": "You burn the slime in all the tunnels leading to the Depot, while I clear out the service areas and unclog the flood pumps. Rendezvous at the Depot.",
+      "before": "قم بحرق الوحل في جميع الأنفاق المؤدية إلى المستودع، بينما أقوم بإخلاء مناطق الخدمة وإزالة انسداد مضخات الفيضان. موعد في المستودع.",
+      "after": "أحرق الوحل في جميع الأنفاق المؤدية إلى المستودع، وسأتولى تنظيف مناطق الخدمة وتسليك مضخات تصريف المياه. نلتقي في المستودع.",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_10_yamantau\\yam_014_millerradio_04_04",
+      "source": "Copy. Get to Krest's position, on the double. Artyom, just your area left! Make haste!",
+      "before": "ينسخ. قم بالوصول إلى موقع كريست، في وضع مزدوج. أرتيوم، فقط منطقتك المتبقية! اسرع!",
+      "after": "مفهوم. توجّه إلى موقع كريست فورًا. أرتيوم، لم تبقَ إلا منطقتك! أسرع!",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_08_desert\\des_043_41_lighthouseattack_riggersontraps_reinforcements_01_01",
+      "source": "<ffx:anger>It's the enemy! Heads up, boys! <ffx:neutral>",
+      "before": "<ffx:anger>إنه العدو! ارفعوا رؤوسكم يا أولاد!<ffx:neutral>",
+      "after": "<ffx:anger>إنه العدو! انتبهوا يا رجال!<ffx:neutral>",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_08_desert\\des_025_desert_hermit_on_arrival_01_02",
+      "source": "<ffx:wonder_light>So, as soon as they noticed your train, the Baron got all his people running around in circles! He thinks you're here to take him out, hehe!",
+      "before": "<ffx:wonder_light>لذا، بمجرد أن لاحظوا قطارك، جعل البارون جميع أفراده يركضون في دوائر! إنه يعتقد أنك هنا لإخراجه، هيهي!",
+      "after": "<ffx:wonder_light>ما إن لاحظوا قطاركم حتى استنفر البارون جميع رجاله! إنه يظن أنكم جئتم لقتله، هيهي!",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_08_desert\\des_203_snipertape_11",
+      "source": "Shit! They’re onto me... One of them is coming my way... I’ll take him out and change position.",
+      "before": "القرف! إنهم يهاجمونني... أحدهم قادم في طريقي... سأخرجه وأغير موقعه.",
+      "after": "تبًا! لقد كشفوني... أحدهم يتجه نحوي... سأقضي عليه وأغيّر موقعي.",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_06_bridge\\bri_011_carbriefing_12",
+      "source": "<ffx:wonder>You don't need to! I have a railcar <ffx:smile_light>hidden in the terminal, it can tow <ffx:smile>a carriage like nobody's business! <ffx:smile_light>Artyom and I can go get it and bring the carriage back...",
+      "before": "<ffx:wonder>لا تحتاج إلى ذلك! لدي عربة قطار<ffx:smile_light>مخبأة في المحطة، يمكنها سحب عربة<ffx:smile>كما لا يفعل أحد!<ffx:smile_light>يمكنني أنا وأرتيوم الذهاب لإحضارها وإعادة العربة...",
+      "after": "<ffx:wonder>لا داعي لذلك! لدي عربة سكة حديد<ffx:smile_light>مخبأة في المحطة، تستطيع جرّ<ffx:smile>عربة ركاب بكل سهولة!<ffx:smile_light>يمكنني أنا وأرتيوم إحضارها والعودة بعربة الركاب...",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_dlc2\\dlc2_280_sam_captain_beforebunker_01_15",
+      "source": "Huge freaking spiders, they accumulate electric charge and hit you with it.",
+      "before": "العناكب الضخمة، تتراكم الشحنات الكهربائية وتضربك بها.",
+      "after": "عناكب ضخمة لعينة، تختزن شحنة كهربائية ثم تصعقك بها.",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_dlc1\\dlc1_100_search_at_petrovichs_01_03",
+      "source": "An anonymous tip on excess stock, we can't ignore those... But he won't open the door.",
+      "before": "نصيحة مجهولة المصدر بشأن المخزون الزائد، لا يمكننا تجاهلها... لكنه لن يفتح الباب.",
+      "after": "ورد بلاغ مجهول عن مخزون زائد، ولا يمكننا تجاهل هذه البلاغات... لكنه يرفض فتح الباب.",
+      "old_status": "draft"
+    },
+    {
+      "id": "m3_m06_bri_port_capture_note",
+      "source": "Our goal is not to take the traders out, but to capture their tugboat. I have to choose a tactic that will let us capture the boat's captain. Success is almost guaranteed, as these sailors are no match for the Order’s finest. The Spartans will support me and act according to my tactical choices. ",
+      "before": "هدفنا ليس إخراج التجار، بل الاستيلاء على زورق القطر الخاص بهم. يجب أن أختار تكتيكًا يسمح لنا بالقبض على قبطان القارب. يكاد يكون النجاح مضمونًا، لأن هؤلاء البحارة لا يضاهيون أفضل البحارة في التنظيم. سوف يدعمني الإسبرطيون ويتصرفون وفقًا لخياراتي التكتيكية.",
+      "after": "ليس هدفنا قتل التجار، بل الاستيلاء على زورق القطر. عليّ اختيار خطة تتيح لنا أسر الربان. النجاح شبه مضمون؛ فهؤلاء البحارة لا يضاهون خيرة مقاتلي التنظيم. سيدعمني الإسبرطيون ويتصرفون وفق الخطة التي أختارها.",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\merc_1\\corpse\\corpse_found_04",
+      "source": "Heads up! We're taking losses!",
+      "before": "انتباه! نحن نتحمل الخسائر!",
+      "after": "انتبهوا! رجالنا يسقطون!",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_2\\light_alert\\light_alert_group_alarmed_call_others_morethanone_03",
+      "source": "Heads up everyone! Some boys are missing! We're deep in the brown stuff, and it's no fucking chocolate!",
+      "before": "يرأس الجميع! بعض الأولاد في عداد المفقودين! نحن منغمسون في المادة البنية، وهي ليست شوكولاتة لعينة!",
+      "after": "انتبهوا جميعًا! بعض رجالنا مفقودون! نحن غارقون في الخراء، لا في الشوكولاتة!",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_08_desert\\des_001_radiomessage_01",
+      "source": "Artyom! Heads up, Artyom! A sandstorm is brewing, come back immediately!",
+      "before": "أرتيوم! انتبه يا أرتيوم! عاصفة رملية تختمر، عد على الفور!",
+      "after": "أرتيوم! انتبه يا أرتيوم! عاصفة رملية تتشكل، عد فورًا!",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\forest_2\\danger\\losses_to_monsters_foreveralone_01",
+      "source": "Hold on! To late... Shit!...",
+      "before": "انتظر! متأخرا...تبا!...",
+      "after": "تماسك! فات الأوان... تبًا!...",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_1\\uber_alert\\uber_alert_02",
+      "source": "Heads up, boys!",
+      "before": "ارفعوا رؤوسكم يا أولاد!",
+      "after": "انتبهوا يا رجال!",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\forest_2\\danger\\reloading_01",
+      "source": "Cover me, guys! Reload!",
+      "before": "غطوني يا شباب! إعادة تلقيم!",
+      "after": "غطّوني يا رفاق! أعيد التلقيم!",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_3\\uber_alert\\uber_alert_enemy_animals_02",
+      "source": "Heads up guys, it's the fucking mutants!",
+      "before": "انتبهوا يا شباب، إنهم المتحولين اللعينين!",
+      "after": "انتبهوا يا رجال، إنها المسوخ اللعينة!",
+      "old_status": "draft"
+    },
+    {
+      "id": "m3_general_hint_93",
+      "source": "Packs of Watchmen are common in post-nuclear wastelands. They often send out scouts, so be careful: when you see one, there are probably many more nearby.",
+      "before": "تعد مجموعات الحراس شائعة في الأراضي القاحلة بعد النووية. غالبًا ما يرسلون الكشافة، لذا كن حذرًا: عندما ترى واحدًا، فمن المحتمل أن يكون هناك العديد من الأشخاص الآخرين في مكان قريب.",
+      "after": "تكثر قطعان وحوش الحراس في القفار بعد الحرب النووية. وغالبًا ما ترسل أفرادًا للاستطلاع، لذا احذر؛ فرؤيتك واحدًا منها تعني أن عددًا أكبر قد يكون قريبًا.",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_08_desert\\des_171_barondouble_talk_09_watertalk_05",
+      "source": "<ffx:wonder>The main lesson from this fiasco will be learned by the <ffx:disgust>cretins that let you pull this heist off, <ffx:smile_light>and a bowser is a miniscule price to pay if that makes them to <ffx:disgust>start treating the task of guarding the only source of <ffx:anger>fresh water in the area with due diligence!<ffx:neutral>",
+      "before": "<ffx:wonder>سيتم تعلم الدرس الرئيسي من هذا الفشل الذريع من قبل أغبياء<ffx:disgust>الذين يسمحون لك بإتمام هذه السرقة،<ffx:smile_light>والعربة هو سعر زهيد يجب دفعه إذا جعلهم ذلك يبدأون في<ffx:disgust>بمعالجة مهمة حراسة المصدر الوحيد للمياه العذبة<ffx:anger>في المنطقة مع العناية الواجبة!<ffx:neutral>",
+      "after": "<ffx:wonder>الدرس الأكبر من هذه الفضيحة سيتعلمه<ffx:disgust>الحمقى الذين سمحوا لك بتنفيذ السرقة.<ffx:smile_light>وصهريج ماء ثمن زهيد إن كان سيجعلهم<ffx:disgust>يأخذون حراسة المصدر الوحيد<ffx:anger>للمياه العذبة في المنطقة على محمل الجد!<ffx:neutral>",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_06_spring\\spr_002_level2_princealive_07_01",
+      "source": "<ffx:wonder>Take us, in  Metro... <ffx:anger_light>Alright, we haven't met the occupying forces yet, <ffx:smile_light>if we disregard that shirt I found on an antenna... (Cough)... <ffx:sadness_light>Katya and Krest never met them, either... <ffx:wonder_strong>But maybe they are still out there somewhere.<ffx:neutral>",
+      "before": "<ffx:wonder>خذنا، في المترو...<ffx:anger_light>حسنًا، لم نلتقي بقوات الاحتلال بعد،<ffx:smile_light>إذا تجاهلنا ذلك القميص الذي وجدته على الهوائي... (السعال)...<ffx:sadness_light>لم تقابلهم كاتيا وكريست أبدًا أيضًا...<ffx:wonder_strong>ولكن ربما لا يزالون هناك في مكان ما.<ffx:neutral>",
+      "after": "<ffx:wonder>لنأخذ حالنا في المترو مثلًا...<ffx:anger_light>حسنًا، لم نصادف قوات الاحتلال حتى الآن،<ffx:smile_light>إن استثنينا ذلك القميص الذي وجدته على الهوائي... (سعال)...<ffx:sadness_light>وكاتيا وكريست لم يصادفاها أيضًا...<ffx:wonder_strong>لكن ربما ما زالت هناك في مكان ما.<ffx:neutral>",
+      "old_status": "draft"
+    }
+  ]
+}

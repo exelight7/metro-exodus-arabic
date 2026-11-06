@@ -55,4 +55,7 @@ def normalize_terms(key,source,target):
             target=re.sub(r'زيادة(?=(?:[.!…\s]|<[^>]+>)*$)','حوّل',target)
         if re.search(r'\bbackup\b',source,re.I):target=target.replace('نسخة احتياطية','مساندة')
         if re.search(r'break a leg',source,re.I):target=target.replace('كسر ساق','بالتوفيق').replace('اكسر ساقك','بالتوفيق')
-    return formal_terms(key,source,target)
+    target=formal_terms(key,source,target)
+    if re.search(r'\bGiul\b',source,re.I):
+        target=re.sub(r'(?<![\u0621-\u064a])جيول(?![\u0621-\u064a])',names['GIUL'],target)
+    return target

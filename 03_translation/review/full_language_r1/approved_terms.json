@@ -1,0 +1,60 @@
+{
+  "policy": "مصطلحات هذه الجولة بعد مراجعة السياق؛ لا استبدال أعمى خارج المعنى المحدد. الإنجليزية مرجع البيانات والوسوم والأرقام؛ الروسية قرينة للسياق فقط.",
+  "terms": {
+    "Medkit": "حقيبة إسعافات أولية",
+    "Medkits": "حقائب إسعافات أولية",
+    "STALKER profession": "المستكشف",
+    "Volga": "الفولغا",
+    "Yamantau": "يامانتو",
+    "Tsar Fish": "السمكة القيصر",
+    "Fish cult short name": "السمكة",
+    "Water Tsar": "قيصر الماء",
+    "Nosalis": "نوساليس",
+    "Child of the Forest": "ابن الغابة",
+    "Tribal person": "أحد أفراد القبيلة",
+    "Bandit": "قاطع الطريق",
+    "Captain land army rank": "النقيب",
+    "Captain ship or Sam DLC character": "القبطان",
+    "nightvision goggles equipment": "منظار الرؤية الليلية",
+    "Crossbow": "النشاب",
+    "Crossbow bolts": "أسهم النشاب",
+    "receiver firearm context": "بيت المغلاق",
+    "receiver radio context": "المستقبل اللاسلكي",
+    "Munai-bailer": "موناي بايلر",
+    "Gatling weapon name": "جاتلينغ",
+    "Stallion weapon name": "الفحل",
+    "heretic cult slur": "زنديق",
+    "heathen cult slur": "وثني",
+    "technology": "التقنية",
+    "save slot": "خانة الحفظ",
+    "Photo Mode": "وضع التصوير",
+    "level gameplay area": "مرحلة",
+    "bream freshwater species": "سمك الأبراميس",
+    "Ark project": "الفلك",
+    "Dark Ones": "المظلمون",
+    "drifter": "المتجوّل",
+    "Ranger title": "الحارس",
+    "Master bear nickname": "سيد الغابة",
+    "Brethren of the Coast": "إخوة الساحل",
+    "Codex of the Children of the Forest": "الميثاق",
+    "Cat nickname": "القط",
+    "Lance Corporal": "وكيل العريف",
+    "radioprotector": "دواء الوقاية من الإشعاع"
+  },
+  "research": [
+    {
+      "term": "bream",
+      "reference": "https://www.fao.org/4/69608e/69608e.pdf",
+      "title": "FAO Fisheries Synopsis 36 — Biological data on Abramis brama",
+      "scope": "يؤكد هوية bream النهري باسم Abramis brama؛ لا يثبت اسمًا عربيًا فصيحًا. اختير أبراميس بوصفه تعريبًا للاسم العلمي، وليس ادعاء وجود اسم عربي معتمد من FAO. الروسية подлещик تدعم هوية النوع."
+    }
+  ],
+  "publication_request": {
+    "requested_by_user": true,
+    "repository": "https://github.com/exelight7/metro-exodus-arabic",
+    "condition": "أذن المستخدم بإنهاء خفيف ونشر المشروع كاملًا دون انتظار اكتمال المراجعة اليدوية؛ يعلن العدد الفعلي بوضوح.",
+    "prerelease": false,
+    "replace_existing_tags_or_assets": false,
+    "game_launch": false
+  }
+}

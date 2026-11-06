@@ -1,0 +1,240 @@
+{
+  "start": 2135,
+  "end": 2225,
+  "decisions": {
+    "2137": {
+      "decision": "change",
+      "target": "سام؟! أهذا أنت؟! شكرًا لمساعدتك في العثور على آنا. أريدك الآن أن تجرّها إلى هنا بلا تهاون، فقد حان الوقت لأُدخل بعض العقل إلى رأس تلك الشقية!",
+      "reason": "تصحيح extreme prejudice بمعنى الحزم والتهديد الأبوي لا التحيز، وآنا مؤنثة."
+    },
+    "2138": {
+      "decision": "change",
+      "target": "وستيبان يستدعي التأديب هو أيضًا! يحاول إدخال مدنيين إلى القطار... لقد جُنّ الجميع هنا!",
+      "reason": "asking for some إغضاب ميلر واستدعاء العقوبة؛ on board على القطار لا السفينة."
+    },
+    "2139": {
+      "decision": "change",
+      "target": "<ffx:smile_light>أرتيوم، أشعر بتحسن الآن، حقًا...",
+      "reason": "إصلاح التوكيد الحواري المبتور."
+    },
+    "2140": {
+      "decision": "change",
+      "target": "<ffx:smile_light>عد إلى القطار وساعد ستيبان على إقناع أبي...",
+      "reason": "head back العودة إلى الفريق لا السير إلى الوراء."
+    },
+    "2143": {
+      "decision": "change",
+      "target": "<ffx:smile>شكرًا يا أرتيوم! سنتولى الأمر الآن... <ffx:wonder>عد إلى أورورا. <ffx:smile_light>ستيبان يحاول إقناع العقيد بأخذ كاتيا وناستيا معنا، <ffx:wide_smile_light>لكن العقيد يعارض بشدة. <ffx:neutral>",
+      "reason": "putting up a fight يعارض الطلب، لا يتقاتل جسديًا."
+    },
+    "2144": {
+      "decision": "change",
+      "target": "<ffx:wonder>هلّا ساعدته؟ <ffx:sadness>سنكون أوغادًا حقًا إن تركناهما هنا... <ffx:neutral>",
+      "reason": "توحيد مثنى كاتيا وابنتها وصياغة الطلب."
+    },
+    "2145": {
+      "decision": "change",
+      "target": "<ffx:wonder>أرتيوم، هل ستذهب إلى الميناء؟ <ffx:wonder_light>سأحلّ محل أليوشا في الحراسة الآن، فلا أستطيع مرافقتك... <ffx:neutral>",
+      "reason": "relieve تبديل نوبة الحراسة لا إراحة جسدية مجردة."
+    },
+    "2147": {
+      "decision": "change",
+      "target": "<ffx:smile_light>لذا من الرائع أن كاتيا ممرضة! <ffx:wonder>فهذا سيسهّل كثيرًا إقناع أبي بأن يأخذهما معنا... <ffx:neutral>",
+      "reason": "مرافقة الأم وابنتها للفريق، لا أخذهما مع الأب وحده."
+    },
+    "2149": {
+      "decision": "change",
+      "target": "<ffx:wonder>ثم إنه لا يريد تركهما هنا أصلًا، <ffx:smile_light>أرى ذلك بوضوح... <ffx:disgust_light>لكنه مهووس بقوات الاحتلال تلك، <ffx:wonder>ولا يستطيع التفكير في شيء سواها.",
+      "reason": "hung up هوس بالفكرة، لا معلق عليها، والمقصود امرأتان."
+    },
+    "2150": {
+      "decision": "change",
+      "target": "<ffx:sadness>أشفق عليه بصراحة... <ffx:wonder_light>إن لم نجد جيوشًا أجنبية، <ffx:disgust_light>فهذا يعني أن كل السنوات التي أمضاها في حماية المترو ذهبت هدرًا... <ffx:anger_light>تخيّل وقع تلك الصدمة! ومع ذلك، <ffx:sadness>أفضل ألّا نجدها... <ffx:sadness_light>",
+      "reason": "المتحدثة آنا مؤنثة؛ استعادة مفعول نجدها الناقص وصياغة الصدمة النفسية."
+    },
+    "2154": {
+      "decision": "change",
+      "target": "<ffx:smile_light>هذا مثير للإعجاب، بعد الأهوال التي حكاها لنا ديوك... <ffx:neutral>",
+      "reason": "إزالة حرف الجر المعلق بعد الجملة."
+    },
+    "2156": {
+      "decision": "change",
+      "target": "<ffx:wonder>مرحبًا أرتيوم، تفقدنا المكان. <ffx:smile>وأفزعنا «المحتلين»... المحليين وطردناهم، <ffx:wide_smile_light>إن كنت تفهم قصدي... <ffx:neutral>",
+      "reason": "تصحيح إسناد الفعل للجماعة مع حفظ المزاح عن الوحوش المحتلة."
+    },
+    "2158": {
+      "decision": "change",
+      "target": "حسنًا، أتعلم، <ffx:smile>لطالما كان طيارو القوات الجوية عنيدين!",
+      "reason": "jocks هنا الطيارون في مزحة عن المسوخ المجنحة، لا مشغلو الأسطوانات."
+    },
+    "2162": {
+      "decision": "change",
+      "target": "<ffx:wonder>إنها ممرضة، فلم لا تدعها تفحص جرحك؟ <ffx:smile>ستكون ذريعة ممتازة للتعرف إليها! <ffx:smile_light>",
+      "reason": "opener مدخل للتعارف العاطفي وlook at الفحص الطبي."
+    },
+    "2163": {
+      "decision": "change",
+      "target": "<ffx:sadness>آه... لا أمل، ستيبان يحوم حولها بسحره الرجولي... <ffx:smile_light>لا فرصة لي!",
+      "reason": "No dice لا أمل؛ all over her تقرّب لا سيطرة، مع حفظ نبرة المزاح."
+    },
+    "2167": {
+      "decision": "change",
+      "target": "<ffx:sadness>لا أحد هناك... <ffx:wonder>لم أرَ بشرًا عاديين على الأقل، لكن المسوخ موجودة بالتأكيد، <ffx:fear_light>لذا توخَّ الحذر. <ffx:neutral>",
+      "reason": "take care احذر على نفسك، لا اعتنِ بالمسوخ."
+    },
+    "2168": {
+      "decision": "needs_context",
+      "reason": "Scourge لقب أرتيوم ودوره في محو Dark Ones؛ ننتظر توحيد الجذر للاسم الخاص للمخلوقات قبل صياغة اللقب، فالهدف الحالي آفة الظلام يضيع اسم الجماعة."
+    },
+    "2169": {
+      "decision": "change",
+      "target": "<ffx:smile_light>اذهب واقضِ عليهم جميعًا يا أرتيوم! <ffx:smile>فليأملوا أن يكونوا سريعين بما يكفي للهرب! <ffx:smile_light>",
+      "reason": "استعادة المفعول والمخاطب والجمع في التحريض المازح."
+    },
+    "2171": {
+      "decision": "change",
+      "target": "<ffx:fear_light>نعم، افعل ذلك... <ffx:neutral>",
+      "reason": "تصحيح الأمر بدل المضارع الإخباري."
+    },
+    "2173": {
+      "decision": "change",
+      "target": "<ffx:wide_smile>نعم يا عمي أرتيوم، شكرًا لك! وزوجتك رائعة! <ffx:smile>طيبة وقوية جدًا! شكرًا يا عمتي آنا! <ffx:smile_light>",
+      "reason": "تصحيح نداء الطفلة للعمة وإبقاء محبتها المباشرة."
+    },
+    "2175": {
+      "decision": "change",
+      "target": "<ffx:smile>كلنا محظوظون بآنا، <ffx:wide_smile>فهي قناصة لا تخطئ! والآن <ffx:smile_strong>ليت أمك ترافقنا هي أيضًا، <ffx:smile>فمع مسعفة حقيقية لن يقف شيء في طريقنا! <ffx:smile_light>",
+      "reason": "deadeye بارعة الرماية لا ميتة؛ medic كاتيا المؤنثة."
+    },
+    "2180": {
+      "decision": "change",
+      "target": "<ffx:smile_light>إنهما لطيفتان جدًا... كاتيا وابنتها. <ffx:wonder>وستفيدنا خبرة كاتيا الطبية... <ffx:neutral>",
+      "reason": "تصحيح المثنى المؤنث وصياغة الخبرة."
+    },
+    "2182": {
+      "decision": "change",
+      "target": "<ffx:wonder>بالطبع... <ffx:wonder_light>",
+      "reason": "موافقة مهذبة لا استدراك حرفي."
+    },
+    "2183": {
+      "decision": "change",
+      "target": "<ffx:wonder>ماذا تعرفين عن قوات الاحتلال؟",
+      "reason": "ميلر يخاطب كاتيا المؤنثة."
+    },
+    "2184": {
+      "decision": "change",
+      "target": "<ffx:fear>ماذا؟ عفوًا، <ffx:wonder>لم أفهم تمامًا ما تقصده... <ffx:wonder_light>",
+      "reason": "كاتيا مؤنثة، وإصلاح معنى سؤالها عن المقصود."
+    },
+    "2185": {
+      "decision": "change",
+      "target": "<ffx:anger_light>أقصد المحتلين! <ffx:wonder>أين هم؟ <ffx:wonder_light>",
+      "reason": "ميلر يوضح لفظه، لا ينادي المحتلين."
+    },
+    "2188": {
+      "decision": "change",
+      "target": "<ffx:anger_light>هذا صحيح! إنهم يعتدون على <ffx:disgust_light>المتعصبين؛ يأخذون بعضهم رهائن ويطلبون فدية لإطلاق سراحهم، <ffx:fear>ويمثّلون بآخرين ويقتلونهم للتسلية... <ffx:sadness_light>",
+      "reason": "إصلاح الإضافة الناقصة والجملة وحفظ نوع الاعتداء."
+    },
+    "2192": {
+      "decision": "change",
+      "target": "<ffx:sadness>فهمت... <ffx:sadness_light>",
+      "reason": "I see إقرار بالفهم."
+    },
+    "2193": {
+      "decision": "change",
+      "target": "<ffx:smile_light>كاتيا، ناستيا، تفضلا بالشاي، لا تخجلا! <ffx:neutral>",
+      "reason": "صياغة دعوة الشاي الطبيعية."
+    },
+    "2197": {
+      "decision": "change",
+      "target": "<ffx:wonder>ومن كان ليدري أن <ffx:disgust>المتعصبين صاروا يسيطرون عليه؟ <ffx:sadness_light>",
+      "reason": "إصلاح متعصبي الناقصة ومعنى تغيّر حال المكان."
+    },
+    "2198": {
+      "decision": "change",
+      "target": "<ffx:sadness>ويقولون إن هذا المكان كان رائعًا فيما مضى... <ffx:sadness_light>",
+      "reason": "تصحيح إن بعد القول واستعادة الزمن الماضي المنقطع."
+    },
+    "2202": {
+      "decision": "change",
+      "target": "<ffx:wonder>مهلًا، لمَ أنت حزينة هكذا؟ <ffx:sadness_light>ألا يعجبك الشاي؟ <ffx:wonder_light>",
+      "reason": "المخاطبة ناستيا الطفلة المؤنثة."
+    },
+    "2203": {
+      "decision": "change",
+      "target": "<ffx:sadness>بلى، يعجبني...",
+      "reason": "إجابة ناستيا عن إعجابها بالشاي لا فعل مجهول."
+    },
+    "2204": {
+      "decision": "change",
+      "target": "<ffx:wonder>آه، حين هاجم الغرغول، <ffx:sadness_light>فقدت ناستيا دبّها الدمية. <ffx:wonder>حمله الوحش وطار به، ولا بد أنه ظنه حيًا... <ffx:wonder_light>",
+      "reason": "تحديد Teddy دب دمية لا اسم تيدي، والضمائر له."
+    },
+    "2205": {
+      "decision": "change",
+      "target": "<ffx:wonder>لا تقلقي، <ffx:smile>سنجد دبّك الدمية! <ffx:smile_light>",
+      "reason": "ناستيا مؤنثة وTeddy دميتها لا شخص اسمه تيدي."
+    },
+    "2206": {
+      "decision": "change",
+      "target": "<ffx:wonder>همم، نسميها شياطين في موسكو، <ffx:smile_light>وأنتم تسمونها غراغيل. <ffx:neutral>",
+      "reason": "حفظ اختلاف الاسم المحلي لنوع المتحول مع تصحيح الجمع."
+    },
+    "2207": {
+      "decision": "change",
+      "target": "<ffx:sadness>نعم... أتساءل من أين زحفت <ffx:wonder>هذه المخلوقات... <ffx:neutral>",
+      "reason": "إصلاح تركيب من المكرر والمبتور."
+    },
+    "2208": {
+      "decision": "change",
+      "target": "<ffx:wonder>حسنًا... الإشعاع... والأسلحة الكيميائية وما شابه... <ffx:sadness>لقد اختلّت الطبيعة... <ffx:neutral>",
+      "reason": "صياغة حوارية طبيعية لاضطراب الطبيعة."
+    },
+    "2211": {
+      "decision": "change",
+      "target": "<ffx:disgust>حمقى مساكين... <ffx:fear>يعيشون في الظلام، ثم يموتون هكذا وقد أنهكتهم الأمراض. <ffx:anger_light>وأنا ممرضة مؤهلة...",
+      "reason": "ridden with disease إنهـاك بالأمراض لا إصابة مفردة؛ nurse تدريب مهني."
+    },
+    "2212": {
+      "decision": "change",
+      "target": "<ffx:disgust>لكن سيلانتيوس رفض حتى فكرة أن أعالج أحدًا! وقال إن <ffx:disgust_strong>الله يسترد من ينتمون إليه...",
+      "reason": "wouldn’t hear of رفض، treating علاج، claims his own قبض أرواح بحسب دعوى الواعظ لا ادعاء الملكية الحرفي."
+    },
+    "2213": {
+      "decision": "change",
+      "target": "<ffx:anger>لا يهمه سوى إلقاء جثثهم لتلك السمكة حالما يموتون... <ffx:disgust>يقول إن ذلك طريقهم المضمون إلى الجنة...",
+      "reason": "السمكة مفردة؛ أجساد الموتى جثث وإصلاح إن بعد القول."
+    },
+    "2218": {
+      "decision": "change",
+      "target": "<ffx:smile_light>إنه وكر للمسوخ الشبيهة بالبشر، فلا يستطيع سيلانتيوس الوصول إليه هناك... <ffx:wonder_light>",
+      "reason": "get him الوصول لكريست والقبض عليه، لا إيصاله، وbeastmen نوع المسوخ."
+    },
+    "2219": {
+      "decision": "change",
+      "target": "<ffx:anger>وأراد أن يجبر أمي على الزواج منه! <ffx:wonder>لكنها رفضت. <ffx:disgust>إنه عجوز ومقزز! أف! <ffx:sadness_light>",
+      "reason": "المتحدثة ناستيا تتحدث عن أمها لا أم سيلانتيوس؛ old للإنسان عجوز."
+    },
+    "2220": {
+      "decision": "change",
+      "target": "<ffx:sadness>نعم... إنجيل تلك السمكة اللعينة لا يقول شيئًا عن الزواج، <ffx:sadness_strong>وقد حالفني الحظ فتمكنت من حماية ابنتي! <ffx:disgust_strong>ذلك المنحرف المجنون... إنه... <ffx:disgust_light>",
+      "reason": "تصحيح جنس كاتيا وcreep منحرف لا حيوان زاحف؛ حفظ التلميح دون إضافة واقعة."
+    },
+    "2221": {
+      "decision": "change",
+      "target": "<ffx:sadness>هل ستأخذوننا بعيدًا عن <ffx:sadness_strong>هنا؟ أرجوكم... <ffx:sadness_light>",
+      "reason": "طلب كاتيا من رفاق القطار بصياغة طبيعية."
+    },
+    "2222": {
+      "decision": "change",
+      "target": "<ffx:sadness_light>سنفعل بالطبع! <ffx:smile_light>لا تقلقي... <ffx:neutral>",
+      "reason": "المخاطبة كاتيا مؤنثة."
+    },
+    "2223": {
+      "decision": "change",
+      "target": "<ffx:wonder>أما زلت هنا يا أرتيوم؟ <ffx:sadness_light>عليك التوجه إلى الميناء قريبًا... <ffx:neutral>",
+      "reason": "port ميناء المهمة، لا منفذ، وما زلت منفصلة."
+    }
+  }
+}

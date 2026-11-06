@@ -1,0 +1,281 @@
+{
+  "start": 2045,
+  "end": 2135,
+  "decisions": {
+    "2047": {
+      "decision": "change",
+      "target": "<ffx:wonder>صحيح أنها قادرة على حماية نفسها، لكن... <ffx:sadness_light>لا أدري... لا أقصد <ffx:fear>إقلاقك، لكن عليك أن تحافظ على سلامتك أيضًا! <ffx:wonder_light>لا تته هناك، اتفقنا؟ <ffx:sadness_light>",
+      "reason": "تصحيح إسناد إقلاقك والفعل المجزوم والنبرة الأبوية."
+    },
+    "2048": {
+      "decision": "change",
+      "target": "<ffx:wonder>أي أخبار عن آنا؟ <ffx:sadness_light>فهمت...",
+      "reason": "I see إقرار بالفهم."
+    },
+    "2050": {
+      "decision": "change",
+      "target": "<ffx:wonder>أعدت بهذه السرعة؟ <ffx:smile_light>كيف تسير الأمور هناك؟ <ffx:sadness_light>فالملل يقتلنا هنا... <ffx:neutral>",
+      "reason": "إصلاح الاستفهام الاسمي المكسور ووصف الملل الطبيعي."
+    },
+    "2051": {
+      "decision": "change",
+      "target": "<ffx:smile_light>مرحبًا! هل حالفك الحظ هناك؟ <ffx:neutral>",
+      "reason": "صياغة السؤال العام بدل أي حظ الحرفية."
+    },
+    "2052": {
+      "decision": "change",
+      "target": "<ffx:smile>أهلًا بعودتك يا أرتيوم! <ffx:wonder>لكنني أراهن أنك ستنطلق مجددًا <ffx:smile>بعد دقيقة، هاها! <ffx:neutral>",
+      "reason": "run off مغادرة للمهام، لا هرب من خطر."
+    },
+    "2053": {
+      "decision": "change",
+      "target": "<ffx:wonder>مرحبًا أرتيوم، كيف الحال؟ <ffx:smile_light>منذ غادرت ونحن نحصّن الموقع، كما ترى... <ffx:neutral>",
+      "reason": "digging in التحصن والسياق مخاطب مفرد."
+    },
+    "2055": {
+      "decision": "change",
+      "target": "<ffx:smile_light>إذن يا سام، أخبرني كيف تبدو قواعد العدو الحقيقية، <ffx:wonder>كي نتعرف عليها إن رأيناها! <ffx:neutral>",
+      "reason": "إزالة حتى المكررة وإصلاح مرجع القواعد."
+    },
+    "2056": {
+      "decision": "change",
+      "target": "<ffx:wonder>حسنًا... أولًا، فيها روبوتات بشرية الشكل وضخمة، تغطيها النجوم والخطوط، وفي مؤخراتها مفاعلات نووية. <ffx:smile>والطعام رائع! شطائر لحم وبطاطس مقلية وحليب مخفوق... <ffx:smile_light>",
+      "reason": "إصلاح painted imagery ونوع shakes؛ صياغة ساخرة مفهومة بدل المخفوقات العامة."
+    },
+    "2058": {
+      "decision": "change",
+      "target": "<ffx:sadness>حسنًا، سأكون جادًا أنا أيضًا! <ffx:wonder>كيف لي بحق الجحيم أن أعرف شكلها الآن؟ <ffx:sadness_light>لم أرَ قاعدة منذ... كم؟ عشرين عامًا تقريبًا؟ <ffx:neutral>",
+      "reason": "المرجع القواعد مؤنث، مع حفظ تردد استرجاع المدة والسباب."
+    },
+    "2060": {
+      "decision": "change",
+      "target": "<ffx:anger_light>لا شيء من هذا هنا! <ffx:sadness_light>لم نرَ ما يشبه قاعدة ولو من بعيد! <ffx:smile_light>لكن إن وجدنا واحدة فسأذهب لأحيّيهم، إن <ffx:sadness_light>كنت لا أزال أتذكر كيف أتحدث الإنجليزية! <ffx:neutral>",
+      "reason": "إصلاح الضمائر والشرط وإزالة إذا المتكررة."
+    },
+    "2067": {
+      "decision": "change",
+      "target": "<ffx:smile_light>حسنًا... لن أعطّلك أكثر... <ffx:neutral>",
+      "reason": "won’t keep you تعبير توديع لا احتجاز."
+    },
+    "2070": {
+      "decision": "change",
+      "target": "<ffx:wonder>أرتيوم، مرّ على مكتبي حين تنتهي من حديثك مع الرجل العجوز، <ffx:smile>فلدي شيء لك. <ffx:neutral>",
+      "reason": "stop by زيارة المكتب، لا التوقف المكاني المجرد."
+    },
+    "2073": {
+      "decision": "change",
+      "target": "<ffx:wonder>ما رأيك في حقيبة الظهر؟ هل هي مريحة؟ أتستطيع التسلل وأنت تحملها؟ <ffx:wonder_light>",
+      "reason": "تصحيح how do you like والحركة خلسة بحقيبة."
+    },
+    "2074": {
+      "decision": "change",
+      "target": "<ffx:wonder>أجربت صنع حقائب إسعافات أولية؟ وماذا عن سكاكين الرمي؟ <ffx:smile_light>حاولت أن أسهّل الأمر عليك... <ffx:neutral>",
+      "reason": "توحيد medkits وthrowing knives اسم المعدة لا رمي السكاكين."
+    },
+    "2075": {
+      "decision": "change",
+      "target": "<ffx:wonder>إن وجدت ملحقات لأسلحتك، ككواتم الصوت وغيرها، <ffx:smile_light>فجرّب تركيبها باستخدام الحقيبة نفسها. ففيها <ffx:wonder_light>كل الأدوات اللازمة لذلك. <ffx:neutral>",
+      "reason": "pack الحقيبة المحمولة وmods ملحقات السلاح القابلة للتركيب."
+    },
+    "2076": {
+      "decision": "change",
+      "target": "<ffx:smile_light>أحضر لي الرجال بعض أسلحة أهل المنطقة... <ffx:disgust>إنها بائسة! الأفضل أن <ffx:smile_light>تفكك تلك الخردة فورًا وتستفيد من قطعها. <ffx:wonder_light>كلما جمعت قطعًا أكثر، زادت خياراتك... <ffx:neutral>",
+      "reason": "scrapping تفكيك السلاح للقطع، لا إلغاء هراء؛ والضمير للأسلحة."
+    },
+    "2078": {
+      "decision": "change",
+      "target": "ارحل أيها الزنديق النتن!",
+      "reason": "تصحيح همزة الوصل."
+    },
+    "2080": {
+      "decision": "change",
+      "target": "الله معنا أيها الإخوة! أطلقوا النار!",
+      "reason": "Fire أمر بإطلاق النار."
+    },
+    "2082": {
+      "decision": "change",
+      "target": "اغرب عن هنا ما دمت قادرًا، يا ابن الشيطان!",
+      "reason": "Piss off زجر بالرحيل وspawn ابن في السباب لا تفرخ."
+    },
+    "2084": {
+      "decision": "change",
+      "target": "اللهم نجّ روحي! أطلقوا النار! أطلقوا النار!",
+      "reason": "استعادة صيغة الدعاء وأمر إطلاق النار."
+    },
+    "2085": {
+      "decision": "change",
+      "target": "<ffx:wonder>اسمع يا سام، لا تأخذ كلامه بجدية زائدة! <ffx:sadness_light>أنت ترى بنفسك كم أربكه كل هذا... <ffx:neutral>",
+      "reason": "overwhelmed هنا أثر الصدمة وكثرة المستجدات لا تعب بدني."
+    },
+    "2086": {
+      "decision": "change",
+      "target": "أرتيوم! لا تقترب من الجسر، سيطلقون النار عليك. لقد حصّنوه جيدًا...",
+      "reason": "صياغة التحذير وتحصين الموقع الطبيعية."
+    },
+    "2087": {
+      "decision": "change",
+      "target": "<ffx:fear>أرتيوم، اصمد، <ffx:anger>نحن قادمون لإنقاذك! <ffx:neutral>",
+      "reason": "hold on طلب الصمود؛ إصلاح الفاصلة المكررة."
+    },
+    "2088": {
+      "decision": "change",
+      "target": "<ffx:wonder>آنا؟ ما بك؟ آنا! <ffx:neutral>",
+      "reason": "سؤال عن حال المصابة لا وجود خطأ."
+    },
+    "2089": {
+      "decision": "change",
+      "target": "<ffx:disgust>آه... تبًا... <ffx:disgust_light>",
+      "reason": "السباب لا يستهدف آنا أو مخاطبًا بعينه."
+    },
+    "2090": {
+      "decision": "change",
+      "target": "<ffx:fear>أين تشعرين بالألم؟ <ffx:wonder>أتسمعينني يا آنا؟ <ffx:wonder_light>",
+      "reason": "استعادة معنى موضع الألم والمخاطبة المؤنثة."
+    },
+    "2091": {
+      "decision": "change",
+      "target": "<ffx:wonder>أرتيوم؟ أعثرت على ابنتي؟",
+      "reason": "صياغة الاستفهام عن إتمام البحث."
+    },
+    "2093": {
+      "decision": "change",
+      "target": "<ffx:wonder>سيصل دامير وسام قريبًا، ففتشوا كل شبر. <ffx:anger_light>إن لم تعثروا على آنا خلال نصف ساعة، <ffx:sadness>فوسّعوا نطاق البحث! <ffx:sadness_light>",
+      "reason": "توحيد الجمع في تعليمات فريق البحث دون حرفية الحجر."
+    },
+    "2095": {
+      "decision": "change",
+      "target": "<ffx:wonder_light>أرتيوم... أنا بطبعي <ffx:smile_light>لا أؤذي ذبابة، وأنت تعرفني... <ffx:anger_light>لكن من الأفضل أن تنطلق الآن!",
+      "reason": "إصلاح generally وربط التهديد الضمني بتعجيل البحث."
+    },
+    "2097": {
+      "decision": "change",
+      "target": "<ffx:wonder>سمعتك تناديني! (سعال) <ffx:wonder_light>",
+      "reason": "آنا سمعت صوته فعلًا، لا سمعت خبر اتصاله."
+    },
+    "2098": {
+      "decision": "change",
+      "target": "<ffx:smile>كان المكان رائعًا جدًا... (سعال) <ffx:wonder_light>",
+      "reason": "تصحيح إرشاد الأداء إلى سعال طبيعي غير معرّف."
+    },
+    "2101": {
+      "decision": "change",
+      "target": "<ffx:disgust>(سعال) <ffx:disgust_light>",
+      "reason": "صيغة إرشاد الأداء الطبيعية دون تعريف الحدث."
+    },
+    "2102": {
+      "decision": "change",
+      "target": "<ffx:disgust>(سعال) <ffx:disgust_light>",
+      "reason": "صيغة إرشاد الأداء الطبيعية دون تعريف الحدث."
+    },
+    "2103": {
+      "decision": "change",
+      "target": "<ffx:disgust>(سعال) <ffx:disgust_light>",
+      "reason": "صيغة إرشاد الأداء الطبيعية دون تعريف الحدث."
+    },
+    "2104": {
+      "decision": "change",
+      "target": "<ffx:disgust>(سعال) <ffx:disgust_light>",
+      "reason": "صيغة إرشاد الأداء الطبيعية دون تعريف الحدث."
+    },
+    "2105": {
+      "decision": "change",
+      "target": "<ffx:disgust>(سعال) <ffx:disgust_light>",
+      "reason": "صيغة إرشاد الأداء الطبيعية دون تعريف الحدث."
+    },
+    "2106": {
+      "decision": "change",
+      "target": "<ffx:wonder_strong>علينا إخبار الآخرين <ffx:smile_light>بأننا وجدناها يا سام! <ffx:neutral>",
+      "reason": "استعادة ضمير آنا المحذوف وإصلاح موضع العبارة."
+    },
+    "2107": {
+      "decision": "change",
+      "target": "يا رفاق! (سعال)",
+      "reason": "تصحيح إرشاد الأداء إلى سعال."
+    },
+    "2108": {
+      "decision": "change",
+      "target": "<ffx:disgust_light>لا تخبروا أبي، فسوف... (سعال)",
+      "reason": "آنا تخاطب أرتيوم وسام ودامير معًا."
+    },
+    "2109": {
+      "decision": "change",
+      "target": "<ffx:sadness>فقط لا تزعجوه بهذا...",
+      "reason": "استمرار خطاب آنا لرجال الفريق وإصلاح الترقيم."
+    },
+    "2114": {
+      "decision": "change",
+      "target": "<ffx:sadness>ثم... إنني زرت قواعد أمريكية فعلًا... <ffx:disgust_light>وهي مختلفة تمامًا، كما تعلمين. <ffx:neutral>",
+      "reason": "سام يخاطب آنا مؤنثة."
+    },
+    "2116": {
+      "decision": "change",
+      "target": "<ffx:wonder>أتشعرين بالغثيان؟<ffx:neutral>",
+      "reason": "المخاطبة آنا مؤنثة."
+    },
+    "2117": {
+      "decision": "change",
+      "target": "[Cough] - لا...",
+      "reason": "ترجمة nah بدل نقل صوتها وحفظ رمز الأداء الأصلي."
+    },
+    "2119": {
+      "decision": "change",
+      "target": "<ffx:disgust>لم أفعل سوى استنشاق بعض هذه القذارة...",
+      "reason": "shit مواد وأبخرة سامة في موضع الحدث، لا هراء كلام."
+    },
+    "2121": {
+      "decision": "change",
+      "target": "<ffx:smile>شكرًا يا حبيبي...",
+      "reason": "آنا تخاطب زوجها أرتيوم المذكر."
+    },
+    "2123": {
+      "decision": "change",
+      "target": "<ffx:wonder>أترى البراميل؟ <ffx:disgust>فيها مواد كيميائية من نوع ما...<ffx:neutral>",
+      "reason": "المواد في البراميل لا مجرد وجودها بالمكان."
+    },
+    "2124": {
+      "decision": "change",
+      "target": "<ffx:disgust>هذا المكان إما مستودع أو مكب نفايات...<ffx:neutral>",
+      "reason": "إصلاح الجملة الاسمية دون إضافة وظيفة."
+    },
+    "2125": {
+      "decision": "change",
+      "target": "<ffx:wonder>ولعل أهل المنطقة وضعوا القميص هناك ليكون علامة على هذا المكان.<ffx:neutral>",
+      "reason": "mark the spot تحديد الموقع، لا الاحتفال به."
+    },
+    "2126": {
+      "decision": "change",
+      "target": "<ffx:sadness_light>حسنًا، حسنًا... إذن... <ffx:wonder>أرتيوم، هلّا حملناها الآن؟<ffx:neutral>",
+      "reason": "pick up حمل المصابة؛ رفض آنا اللاحق يؤكد المقصود."
+    },
+    "2127": {
+      "decision": "change",
+      "target": "<ffx:anger>كلا، مستحيل! أستطيع...<ffx:neutral>",
+      "reason": "No way in hell رفض مؤكد، لا انعدام مفر من الجحيم."
+    },
+    "2128": {
+      "decision": "change",
+      "target": "<ffx:sadness_light>أستطيع المشي دون مشكلة.<ffx:neutral>",
+      "reason": "صياغة احتجاج المصابة الطبيعية."
+    },
+    "2129": {
+      "decision": "change",
+      "target": "<ffx:wonder_light>سأستريح قليلًا ثم أنطلق...<ffx:neutral>",
+      "reason": "get going تنطلق للمشي، لا تبدأ فعلًا غير مذكور."
+    },
+    "2130": {
+      "decision": "change",
+      "target": "<ffx:wonder>لا بد أن الرجل العجوز يكاد يجن الآن وهو يظن أن <ffx:smile_light>ابنته الغالية أُصيبت أو ما شابه!<ffx:neutral>",
+      "reason": "seven sorts of crazy مبالغة، لا سبعة أنواع مرضية؛ precious غالية عاطفيًا."
+    },
+    "2131": {
+      "decision": "change",
+      "target": "<ffx:sadness>أبي، أنا آنا... تعطلت بطارية جهازي اللاسلكي بعدما بللتها...",
+      "reason": "تحديد المتكلمة وتأثر البطارية بالماء لا نفادها المستقل."
+    },
+    "2134": {
+      "decision": "change",
+      "target": "ستُعاقبين بالحجز حالما تعودين، أيتها الشابة!",
+      "reason": "تهديد تأديبي مازح من الأب لابنته لا اعتقال جنائي؛ تصحيح المؤنث."
+    }
+  }
+}

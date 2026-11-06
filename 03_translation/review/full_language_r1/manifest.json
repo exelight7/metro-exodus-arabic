@@ -1,0 +1,25 @@
+{
+  "revision": "full_language_r1",
+  "date": "2026-11-05",
+  "baseline_sha256": "29817b149846882ceccfb0f3924eb00d0feeaca764ef87bd5e7ecca2d414f0e2",
+  "total_rows": 38221,
+  "scope": "All primary rows plus supplemental/active auxiliary resources. Distinguish per-line semantic review from automated checks.",
+  "partitions": {
+    "root": {
+      "rows": 6362,
+      "chars": 757366
+    },
+    "combat": {
+      "rows": 18190,
+      "chars": 1312220
+    },
+    "early": {
+      "rows": 7189,
+      "chars": 1334274
+    },
+    "late": {
+      "rows": 6480,
+      "chars": 909201
+    }
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "start": 3080,
+  "end": 3180,
+  "decisions": {
+    "3080": {
+      "decision": "change",
+      "target": "حسنًا. <ffx:wonder>ظهر زنديق في أثناء الموعظة فعلًا! كما جاء في النبوءة تمامًا! <ffx:fear>قرعوا الجرس، فركب <ffx:wonder_light>رجالنا القوارب وهرعوا إلى هناك. <ffx:smile>لكن الزنديق ركض بسرعة لا تلحق بها رصاصة! هاها... <ffx:neutral>",
+      "reason": "توحيد الزنديق وإصلاح الإضافة والنبوة وصياغة مبالغة الهرب؛ حفظ فرع الفرار."
+    },
+    "3081": {
+      "decision": "change",
+      "target": "<ffx:sadness>أما الجثث فلم... ذلك <ffx:anger>الزنديق ذبح البسطاء الذين لم يمسكوا سلاحًا في حياتهم! <ffx:disgust>قتلهم حيث كانوا... <ffx:fear>إنه وحش. وحش، لا إنسان... <ffx:neutral>",
+      "reason": "حفظ التردد المتعمد عن الجثث مع إصلاح البنية ومعنى massacred المدنيين."
+    },
+    "3082": {
+      "decision": "change",
+      "target": "<ffx:anger>وفوق ذلك، هربت كاتيا وابنتها الساحرة وسط الفوضى! <ffx:fear>ويشاع أن بعضهم رأوها مع الزنادقة... <ffx:neutral>",
+      "reason": "witch spawn ابنة كاتيا موصوفة بالساحرة في حقد الحراس، لا ساحرة تملكها."
+    },
+    "3085": {
+      "decision": "change",
+      "target": "<ffx:wonder>من يدري... <ffx:anger>إنهم زنادقة، فلتلتهمهم السمكة القيصر! <ffx:fear_light>",
+      "reason": "توحيد اللقب."
+    },
+    "3087": {
+      "decision": "change",
+      "target": "<ffx:fear_light>بعون الله سنصمد... <ffx:neutral>",
+      "reason": "persevere صمود أمام هجوم لا مثابرة مهنية."
+    },
+    "3088": {
+      "decision": "change",
+      "target": "<ffx:anger_light>ونثأر لإخوتنا <ffx:disgust>بالقضاء على هذه الوحوش المتعطشة للدماء... <ffx:neutral>",
+      "reason": "إصلاح عطف الفعل على سنصمد بدل مصدر معلق."
+    },
+    "3089": {
+      "decision": "change",
+      "target": "<ffx:sadness_strong>يا إلهي، لقد أذنبت... <ffx:sadness_light>",
+      "reason": "sinned إثم ديني لا خطأ عام فقط."
+    },
+    "3091": {
+      "decision": "change",
+      "target": "<ffx:sadness_strong>أتعلم... لقد عاد سيمون... <ffx:sadness_light>",
+      "reason": "إصلاح الجملة الفعلية الناقصة."
+    },
+    "3092": {
+      "decision": "change",
+      "target": "<ffx:wonder>عاد؟ لكنه وكيريل نذرا القضاء على الشياطين كلها! <ffx:sadness>لا يعود المرء ببساطة بعد نذر كهذا! <ffx:neutral>",
+      "reason": "vowed نذر ديني وشرح معنى الامتناع عن الرجوع بلا إنجاز التكفير."
+    },
+    "3093": {
+      "decision": "change",
+      "target": "<ffx:anger_light>اسأل من شئت! <ffx:sadness>أسرهما وثنيون، لكن زنديقًا من الوافدين الجدد أطلق سراحهما! <ffx:neutral>",
+      "reason": "سيمون وكيريل مثنى، وتصحيح صياغة الأسر."
+    },
+    "3095": {
+      "decision": "change",
+      "target": "<ffx:anger>كلا، لم يجبن! <ffx:wonder>عاد وأثار ضجة في الكنيسة حتى نال ما أراد... <ffx:fear_light>والآن سنصلي لخلاص ذلك الزنديق بدلًا من سيمون، <ffx:wonder>أفهمت؟ <ffx:wonder_light>",
+      "reason": "حسم الإحالة إلى اتهام الجبن السابق وتوحيد زنديق وإزالة الفاصلة الزائدة."
+    },
+    "3096": {
+      "decision": "change",
+      "target": "<ffx:fear>يا إلهي... من أجل زنديق؟ <ffx:wonder_light>لكن ذلك سيرضي الله... سيمون هذا... <ffx:wonder>ماذا بعد؟ <ffx:wonder_light>",
+      "reason": "توحيد سيمون بدل سمعان وإصلاح الاستدراك والتردد."
+    },
+    "3098": {
+      "decision": "change",
+      "target": "<ffx:sadness>آه، مشيئة الرب... <ffx:wonder>إنه قديس حقيقي... <ffx:fear>يواجه الموت ثانية ليخلّص روح زنديق... <ffx:sadness_strong>بارك الله فيه... <ffx:neutral>",
+      "reason": "توحيد زنديق مع حفظ نذر سيمون وتضحيته في هذا الفرع."
+    },
+    "3100": {
+      "decision": "change",
+      "target": "<ffx:wonder_light>هو من سيتولى الصلاة؛ <ffx:fear_light>فالأب سيلانتيوس نفسه أعفاه من خطاياه... <ffx:neutral>",
+      "reason": "wiped slate clean إسقاط الذنوب/التكفير لا مسح سجل مادي."
+    },
+    "3101": {
+      "decision": "change",
+      "target": "<ffx:sadness>نعم... ليس الناس سواء... ليخلّص الله روح سيمون... <ffx:sadness_light>",
+      "reason": "توحيد اسم سيمون وصياغة اختلاف طبائع الناس ودعاء خلاص الروح."
+    },
+    "3106": {
+      "decision": "change",
+      "target": "<ffx:fear>هذا ما يخيفني... لا أحتاج إلا إلى قتل شيطان واحد، لكن الوثنيين... <ffx:neutral>",
+      "reason": "get one demon تحقيق نذر قتل شيطان لا الحصول عليه حيًا."
+    },
+    "3108": {
+      "decision": "change",
+      "target": "<ffx:sadness_light>صحيح... لتكن مشيئته... <ffx:neutral>",
+      "reason": "صيغة الدعاء الطقسي المعتمدة."
+    },
+    "3109": {
+      "decision": "change",
+      "target": "<ffx:fear>كلّفني الأب سيلانتيوس بقتل شيطان قبل الأحد المقدس تكفيرًا عن خطاياي... <ffx:fear_light>",
+      "reason": "penance تكليف للتكفير لا إعطاء كفارة مادية، والشيطان كائن يُقتل."
+    },
+    "3111": {
+      "decision": "change",
+      "target": "<ffx:sadness_strong>تجرأت على ذمّ السمكة القيصر... <ffx:sadness_light>",
+      "reason": "توحيد اللقب وصياغة ذم المعبود."
+    },
+    "3112": {
+      "decision": "change",
+      "target": "<ffx:wonder_strong>كيف فعلت ذلك، بالله عليك؟ <ffx:wonder_light>",
+      "reason": "in Lord’s name تعجب واستنكار لا طريقة أداء الفعل باسم الرب."
+    },
+    "3113": {
+      "decision": "change",
+      "target": "<ffx:sadness>كنت ثملًا، كما تعلم... <ffx:sadness_strong>قلت إننا كنا نصطاد هنا أسماك سلور أكبر منها... <ffx:sadness_light>",
+      "reason": "قال المتحدث لا شخص آخر؛ كانت لديهم أسماك أكبر في سياق الصيد؛ حفظ مقارنة الحجم."
+    },
+    "3114": {
+      "decision": "change",
+      "target": "<ffx:disgust>كفى! <ffx:fear>وإلا لاقينا المصير نفسه كلانا، بمباركة الله... <ffx:fear_light>",
+      "reason": "إزالة أو وإلا المكررة وصياغة التهديد المذعور."
+    },
+    "3117": {
+      "decision": "change",
+      "target": "<ffx:anger>أحدكم! ألا من أحد؟ هيه! <ffx:neutral>",
+      "reason": "نداء طلب المساعدة لا تحية لشخص مجهول."
+    },
+    "3123": {
+      "decision": "change",
+      "target": "<ffx:wonder>هلّا فككت ذلك التشابك إذن؟ <ffx:neutral>",
+      "reason": "untangle إزالة تشابك المادة، دون تخمين نوعها الغائب."
+    },
+    "3124": {
+      "decision": "change",
+      "target": "<ffx:smile>فعلت ذلك منذ وقت طويل! اسحب! <ffx:neutral>",
+      "reason": "Pull أمر اسحب لا يحذب الخاطئة."
+    },
+    "3126": {
+      "decision": "change",
+      "target": "<ffx:wonder>ما المشكلة... آه، ها هي! <ffx:smile>أصبح كل شيء سليمًا الآن! <ffx:neutral>",
+      "reason": "what gives سؤال عن المشكلة لا ما الذي يعطي."
+    },
+    "3127": {
+      "decision": "change",
+      "target": "<ffx:anger>لا، ما زال لا يتزحزح! <ffx:neutral>",
+      "reason": "تصحيح إحالة الشيء الغائب وفصل ما زال."
+    },
+    "3129": {
+      "decision": "change",
+      "target": "<ffx:disgust>كفى! كفّ عن مزاحك! <ffx:neutral>",
+      "reason": "صياغة الزجر الطبيعية بدل النكات الخاصة بك."
+    },
+    "3144": {
+      "decision": "change",
+      "target": "<ffx:wonder>أتعلم، كنت أفكر... ماذا يريد هؤلاء الزنادقة هنا؟ <ffx:neutral>",
+      "reason": "توحيد heretics الزنادقة."
+    },
+    "3147": {
+      "decision": "change",
+      "target": "<ffx:smile_light>آه يا أخي... الكل يبحث عن حياة أفضل... <ffx:wonder>وأين تكون؟ <ffx:neutral>",
+      "reason": "مرجع الحياة مؤنث والسؤال تمهيد للمقولة التالية."
+    },
+    "3149": {
+      "decision": "change",
+      "target": "<ffx:smile>حيث لا نكون نحن! <ffx:smile_light>",
+      "reason": "مقولة عن جمال المكان البعيد لا تركيب أين نحن لسنا."
+    },
+    "3152": {
+      "decision": "change",
+      "target": "<ffx:anger>اشرح كلامك جيدًا إذن... <ffx:wonder>لماذا تكون الحياة أفضل حيث يعيش الزنادقة؟ <ffx:wonder_light>",
+      "reason": "where heretics live مكان معيشتهم لا تفضيل بقائهم أحياء."
+    },
+    "3153": {
+      "decision": "change",
+      "target": "<ffx:anger>وما جدوى الشرح لك؟ <ffx:disgust_light>الزم مكانك وراقب ما حولك، <ffx:fear>فلعل الزنادقة هنا بالفعل! <ffx:fear_light>",
+      "reason": "أمر بمراقبة الحراسة لا إخبار عن الوقوف، وتوحيد الزنادقة."
+    },
+    "3155": {
+      "decision": "change",
+      "target": "<ffx:anger_strong>في كل مكان! انظر حولك، <ffx:disgust>فعيناك لا تزالان شابتين! واصرخ إن رأيت شيئًا! <ffx:wonder>أفهمت؟ <ffx:wonder_light>",
+      "reason": "young eyes قوة إبصار الشاب لا صغر حجم العينين، وGot that فهم لا حيازة."
+    },
+    "3157": {
+      "decision": "change",
+      "target": "<ffx:disgust_light>وما الذي يصعب فهمه... <ffx:wonder>لكن حقًا، لماذا تكون الحياة أفضل حيث يعيش الزنادقة؟ ومن يطيب له العيش هناك؟ <ffx:sadness>لا أفهم... <ffx:sadness_light>",
+      "reason": "get فهم لا حصول وإصلاح السؤال المتعمد السذاجة."
+    },
+    "3160": {
+      "decision": "change",
+      "target": "<ffx:sadness>لا أستطيع... صاحب النظارة لم يعد، <ffx:sadness_strong>ليخلّص الله روحه... <ffx:fear_light>وهو لم يذهب لقتل شيطان حتى...",
+      "reason": "Four-eyes لقب رجل يضع نظارة، مفرد؛ حفظ فرع عدم عودته دون إحياء ميت."
+    },
+    "3161": {
+      "decision": "change",
+      "target": "<ffx:wonder_light>لا تقلق هكذا... <ffx:smile_light>حتى صاحب النظارة عاد حيًا! <ffx:neutral>",
+      "reason": "Four-eyes رجل مفرد وعاد حيًا لا عاد إلى الحياة بعد الموت؛ الفرع البديل محفوظ."
+    },
+    "3163": {
+      "decision": "change",
+      "target": "<ffx:wonder>هو أيضًا؟ لا بد أن العالم <ffx:anger_light>جُنّ إن صار الزنادقة ينقذون المؤمنين الحقيقيين هكذا... <ffx:disgust>أما حديث الشيطان فكفّ عنه! <ffx:neutral>",
+      "reason": "إصلاح جملة العالم جُنّ وcut out الكف عن موضوع لا قطع شيء."
+    },
+    "3164": {
+      "decision": "change",
+      "target": "<ffx:anger>حسنًا، أتعلم شيئًا؟!.. <ffx:neutral>",
+      "reason": "استبدال اللهجة المصرية بعربية فصحى حوارية."
+    },
+    "3171": {
+      "decision": "change",
+      "target": "<ffx:anger>ابدأ بالصلاة، فسينزل بك القصاص قريبًا، <ffx:disgust>ثم بكل من استسلم لغوايات الشيطان! <ffx:disgust_light>",
+      "reason": "dealt justice إنزال العقوبة بحسب تهديد المتعصب لا تحقيق عدالة على شخص."
+    },
+    "3172": {
+      "decision": "change",
+      "target": "<ffx:wonder>لكن... انتظر لحظة... <ffx:anger_light>أنت زنديق بالتأكيد، أليس كذلك؟ <ffx:sadness>لأنه، كما تعلم... إن <ffx:wonder_strong>أخطأتُ في ذلك، فقد يضيع خلاص روحك! <ffx:wonder_light>",
+      "reason": "توحيد زنديق وإصلاح الجملة الشرطية المبتورة، وحفظ إسناد الخطر لروح المخاطب كما الإنجليزية."
+    },
+    "3173": {
+      "decision": "change",
+      "target": "<ffx:sadness>تبدو زنديقًا فعلًا... لكن الأب سيلانتيوس يعلمنا أننا نعرفهم بأفعالهم... <ffx:wonder_light>وأنت... لا أدري...",
+      "reason": "توحيد زنديق وتحسين الربط في تردد المتعصب."
+    },
+    "3175": {
+      "decision": "change",
+      "target": "<ffx:fear>آه... قلبي... أرأيت؟ <ffx:wonder>أرأيت ما يفعله الإيمان الحق؟ <ffx:smile>تغلبت على غوايتك، وما زلت <ffx:wide_smile>صامدًا! ها ها! يا شيطان، لا سلطان لك عليّ! <ffx:smile>ولا على أي مؤمن حقيقي! <ffx:smile_light>",
+      "reason": "إصلاح الاستفهام وعبارة الصمود بدل الوقوف المعلق دون تغيير معتقده."
+    }
+  }
+}

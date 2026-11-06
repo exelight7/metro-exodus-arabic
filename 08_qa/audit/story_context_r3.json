@@ -1,0 +1,407 @@
+{
+  "revision": "story_context_r3",
+  "rows_scanned": 38221,
+  "contexts_manually_corrected": 56,
+  "previous_revision": "story_context_r2",
+  "all_other_rows_preserved": true,
+  "full_manual_game_review": false,
+  "original_sha256": "3b8f91d73c3cf2edf557fe13b1bee146f69a110c29a0698e3052b91c41cd9b3e",
+  "target_sha256": "86b98c9722c3945464c63313591bd997035e98ab70d268f68c99ceef5fb0c76f",
+  "game_launched": false,
+  "installed": false,
+  "published": false,
+  "changes": [
+    {
+      "id": "voices\\universal_m3\\factions\\merc_1\\uber_alert\\uber_alert_startle_05",
+      "source": "You piece of shit!",
+      "before": "يا قطعة من القرف!",
+      "after": "أيها الحقير!",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_09_summer\\sum_001_6_dancereact_01_03",
+      "source": "<ffx:smile>Come on, guys! Give it your all!<ffx:neutral>",
+      "before": "<ffx:smile>هيا يا شباب! أعطها كل ما لديك!<ffx:neutral>",
+      "after": "<ffx:smile>هيا يا رفاق! ابذلوا أقصى ما عندكم!<ffx:neutral>",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_1\\dog\\dog_founddeaddog_foreveralone_01",
+      "source": "What a fucking piece of shit, killing dogs! I'll make you my bitch for this...",
+      "before": "يا لها من قطعة من القرف اللعين، قتل الكلاب! سأجعلك عاهرة من أجل هذا...",
+      "after": "أيها الوغد اللعين، أتقتل الكلاب؟! سأذلك جزاء ما فعلت...",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_06_bridge\\bri_026_gasstation_bandits_talk_01_09",
+      "source": "<ffx:anger_light>As a matter of fact I have! <ffx:disgust_light>That bastard Baldy dared me to do it once, and I was drunk... <ffx:wonder_light>",
+      "before": "<ffx:anger_light>في واقع الأمر لدي!<ffx:disgust_light>ذلك الوغد بالدي تجرأني على فعل ذلك مرة واحدة، وكنت في حالة سكر...<ffx:wonder_light>",
+      "after": "<ffx:anger_light>بل فعلت، في الحقيقة!<ffx:disgust_light>ذلك الوغد الأصلع تحداني مرة أن أفعلها، وكنت ثملًا...<ffx:wonder_light>",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_02_dead_moscow\\dmc_016_damdissave_action_10",
+      "source": "<ffx:anger_strong>You fucking piece of shit!<ffx:neutral>",
+      "before": "<ffx:anger_strong>أنت قطعة من الخراء!<ffx:neutral>",
+      "after": "<ffx:anger_strong>أيها الحقير اللعين!<ffx:neutral>",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\merc_2\\stunned\\stunned_found_foreveralone_01",
+      "source": "Still breathing... All right, now it's up to me to find the bastard that knocked him out...",
+      "before": "لا يزال يتنفس... حسنًا، الآن الأمر متروك لي للعثور على اللقيط الذي أطاح به...",
+      "after": "ما زال يتنفس... حسنًا، عليّ الآن العثور على الوغد الذي أفقده الوعي...",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_3\\uber_alert\\uber_alert_single_threat_notfound_02",
+      "source": "Hey! Where is that piece of shit? What the fuck, how many times do I have to find the bitch?",
+      "before": "يا! أين تلك القطعة من القرف؟ ما هذا بحق الجحيم، كم مرة يجب أن أجد العاهرة؟",
+      "after": "مهلًا! أين ذلك الحقير؟ تبًا، كم مرة عليّ العثور على ذلك الوغد؟",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_05_winter\\win_000_annanews_discussion_02_01_04",
+      "source": "<ffx:anger_light>The Corporal sold them way too hard, that bastard... <ffx:disgust_light>\"Get them while they last!\" He even gave me a book as a free extra... <ffx:wonder_light>\"Quotations from Chairman...\" <ffx:wonder>Do you know this writer - Mao? <ffx:wonder_light>",
+      "before": "<ffx:anger_light>لقد باعها العريف بصعوبة بالغة، ذلك الوغد...<ffx:disgust_light>\"احصل عليها طالما أنها باقية!\" حتى أنه أعطاني كتابًا كإضافة مجانية...<ffx:wonder_light>\"اقتباسات من الرئيس...\"<ffx:wonder>هل تعرف هذا الكاتب - ماو؟<ffx:wonder_light>",
+      "after": "<ffx:anger_light>ذلك الوغد، العريف، بالغ في ترويجها لي...<ffx:disgust_light>«اشترها قبل أن تنفد!» بل أهداني كتابًا معها...<ffx:wonder_light>«اقتباسات من الرئيس...»<ffx:wonder>أتعرف هذا الكاتب، ماو؟<ffx:wonder_light>",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_02_dead_moscow\\dmc_017_5_truthouthere_stations_london_01",
+      "source": "...I'm telling you, the he's full of shit, that guy! Came all the way from Glasgow?! All alone, on foot? What tale is he going to tell next? Maybe, he can walk on water, too? You do you, but I don't want anything to do with him or his bullshit!",
+      "before": "...أنا أقول لك، إنه مليء بالقذارة، ذلك الرجل! جاء على طول الطريق من غلاسكو؟! وحيدا سيرا على الأقدام؟ ما هي الحكاية التي سيرويها بعد ذلك؟ ربما يستطيع المشي على الماء أيضاً؟ أنت تفعل ذلك، لكني لا أريد أن أفعل أي شيء معه أو بهراءه!",
+      "after": "...أقول لك، ذلك الرجل كذاب! قطع كل تلك المسافة من غلاسكو؟! وحده، سيرًا على الأقدام؟ أي حكاية سيختلق بعدها؟ ربما يستطيع المشي على الماء أيضًا! افعل ما تشاء، لكنني لا أريد أي علاقة به أو بأكاذيبه!",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_dlc2\\dlc2_220_07_sam_captain_partyallnight_02_03",
+      "source": "Yes! We need that! Come on!",
+      "before": "نعم! نحن بحاجة لذلك! تعال!",
+      "after": "نعم! هذا ما نحتاجه! هيا!",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\cannibal_1\\stunned\\stunned_found_foreveralone_01",
+      "source": "Damn, he's still alive... Maybe, just a little piece?  No,, no, the doctor will tell me of... I have to find that bastard...",
+      "before": "اللعنة، إنه لا يزال على قيد الحياة... ربما مجرد قطعة صغيرة؟  لا، لا، الطبيب سيخبرني عن... يجب أن أجد ذلك الوغد...",
+      "after": "تبًا، ما زال حيًا... ربما آخذ قطعة صغيرة فحسب؟ لا، لا، سيوبخني الطبيب... عليّ العثور على ذلك الوغد...",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_3\\uber_alert\\uber_alert_search_07",
+      "source": "Get ready to have your ass fucking ripped, you yellow piece of shit!",
+      "before": "استعد لتمزيق مؤخرتك أيها القطعة الصفراء من القرف!",
+      "after": "استعد لأمزقك، أيها الحقير الجبان!",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_2\\uber_alert\\uber_alert_search_06",
+      "source": "Well, motherfucker... Prepare your ass - I'm gonna find you soon and give you some!",
+      "before": "حسنًا أيها الوغد... جهز مؤخرتك - سأجدك قريبًا وأعطيك بعضًا منه!",
+      "after": "حسنًا أيها الوغد... استعد، سأعثر عليك قريبًا وألقنك درسًا!",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_1\\dog\\dog_founddeaddogalert_02",
+      "source": "Shit hit the fan, boys! Some bitch killed the dog!",
+      "before": "القرف ضرب المروحة، الأولاد! بعض العاهرة قتلت الكلب!",
+      "after": "وقعنا في مصيبة يا رجال! أحد الأوغاد قتل الكلب!",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_06_bridge\\bri_000_narration_06_a",
+      "source": "<tab>It was difficult, but I managed to get the railcar. The mutants were all over the Tsar Fish temple. Looks like the locals offered human sacrifices to the Tsar Fish here. Terrible... I'm glad I won't have to come back here. Anyway, now that I have the railcar, it's time to get that carriage.<br><br>",
+      "before": "<tab>كان الأمر صعبًا، لكنني تمكنت من الحصول على عربة السكة الحديد. كانت المسوخات في جميع أنحاء معبد القيصر للأسماك. يبدو أن السكان المحليين قدموا تضحيات بشرية لسمكة القيصر هنا. فظيع... أنا سعيد لأنني لن أضطر إلى العودة إلى هنا. على أية حال، الآن بعد أن حصلت على عربة السكة الحديد، فقد حان الوقت للحصول على تلك العربة.<br><br>",
+      "after": "<tab>كان الأمر صعبًا، لكنني حصلت على عربة السكة الحديد. كانت المسوخ تملأ معبد سمكة القيصر. يبدو أن السكان كانوا يقدمون هنا قرابين بشرية لسمكة القيصر. أمر مروّع... يسرني أنني لن أضطر إلى العودة. على أي حال، وقد حصلت على عربة السكة الحديد، حان وقت إحضار عربة الركاب.<br><br>",
+      "old_status": "draft"
+    },
+    {
+      "id": "m3_loader_diary_valley_07",
+      "source": "<tab>To reach the Dam, I had to cross a poisoned swamp, where the \"pirates\" had set up a veritable fortress to defend the Valley from the advancing mutants. I must give credit where credit is due, these people had courage to spare. They proudly stood in the way of implacable threat dead-set on destroying their tiny world... Just like our Order defending the Metro, losing people and ground, backing up ever further into the tunnels with every passing year, fully understanding the futility of our struggle but still refusing to surrender.<br><br>",
+      "before": "<tab>للوصول إلى السد، كان علي عبور مستنقع مسموم، حيث أقام \"القراصنة\" حصنًا حقيقيًا للدفاع عن الوادي من المتحولين المتقدمين. يجب أن أعطي الفضل حيث يستحق الفضل، هؤلاء الناس لديهم الشجاعة لتجنيبهم. لقد وقفوا بفخر في طريق التهديد العنيد العازمين على تدمير عالمهم الصغير... تمامًا مثل نظامنا الذي يدافع عن المترو، ويخسر الناس والأرض، ويتراجعون أكثر فأكثر في الأنفاق مع مرور كل عام، مدركين تمامًا عدم جدوى كفاحنا ولكنهم ما زالوا يرفضون الاستسلام.<br><br>",
+      "after": "<tab>للوصول إلى السد، اضطررت إلى عبور مستنقع سام، أقام فيه «القراصنة» حصنًا حقيقيًا لصد المسوخ الزاحفة نحو الوادي. والحق يقال، لم تنقص هؤلاء الشجاعة. وقفوا بشموخ في وجه خطر لا يرحم، مصمم على تدمير عالمهم الصغير... تمامًا كتنظيمنا وهو يدافع عن المترو؛ نفقد الرجال والأرض، ونتراجع عامًا بعد عام إلى أعماق الأنفاق، مدركين عبث صراعنا، ومع ذلك نرفض الاستسلام.<br><br>",
+      "old_status": "draft"
+    },
+    {
+      "id": "dlc1_000_narration_text_loadscreen_02_beforekarma",
+      "source": "<tab>When a system crumbles, you can seldom precisely point out the case of its demise. Here, it was obvious for all to see. Reserves of \"green stuff\" ran out, and no matter how hard the stalkers and Colonel Khlebnikov’s people were looking for more, there was none to be found.<br><br><tab>Judging by Kirill’s story, at that moment OSKOM really had no choice but to conserve what little reserves they still had left and stop issuing the radioprotector to all but the personnel most critical for evacuation effort. Judging by my experience, that was not going to make them a lot of friends.<br><br>",
+      "before": "<tab>عندما ينهار نظام ما، نادرًا ما يمكنك الإشارة بدقة إلى حالة زواله. وهنا كان الأمر واضحًا ليراه الجميع. نفدت احتياطيات \"المادة الخضراء\"، وبغض النظر عن مدى صعوبة الملاحقين وأفراد العقيد كليبنيكوف في البحث عن المزيد، لم يتم العثور على أي شيء.<br><br><tab>استنادًا إلى قصة كيريل، لم يكن أمام أوسكوم في تلك اللحظة خيار سوى الحفاظ على الاحتياطيات القليلة المتبقية لديهم والتوقف عن إصدار العقار الواقي من الإشعاع للجميع باستثناء الأفراد الأكثر أهمية لجهود الإخلاء. وبالحكم من خلال تجربتي، فإن ذلك لن يجعل منهم الكثير من الأصدقاء.<br><br>",
+      "after": "<tab>حين ينهار نظام، قلّما يمكن تحديد سبب سقوطه بدقة. لكن السبب هنا كان واضحًا للجميع: نفدت مخزونات «المادة الخضراء». ومهما بذل الجوالون ورجال العقيد خليبنيكوف من جهد للعثور على المزيد، لم يجدوا شيئًا.<br><br><tab>بحسب رواية كيريل، لم يكن أمام أوسكوم حينها سوى الاقتصاد فيما بقي من مخزونها القليل، وقصر توزيع العقار الواقي من الإشعاع على الأفراد الأهم لعملية الإخلاء. ومن واقع تجربتي، لم يكن قرار كهذا ليكسبهم محبة الناس.<br><br>",
+      "old_status": "draft"
+    },
+    {
+      "id": "m3_suit_upg_helm_empty_desc",
+      "source": "A mandatory piece of equipment every Spartan wears, the helmet provides adequate ballistic protection and, which is very important during the sorties to the Surface, makes provisions for quick and convenient usage of a gas mask. ",
+      "before": "توفر الخوذة، وهي قطعة إلزامية من المعدات التي يرتديها كل سبارتان، حماية باليستية كافية، وهو أمر مهم جدًا أثناء الطلعات الجوية على السطح، وتوفر أحكامًا للاستخدام السريع والمريح لقناع الغاز.",
+      "after": "الخوذة قطعة أساسية يرتديها كل إسبرطي؛ فهي توفر حماية مناسبة من الرصاص، وتتيح ارتداء قناع الغاز بسرعة وسهولة، وهو أمر بالغ الأهمية أثناء الخروج إلى السطح.",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\merc_1\\danger\\attacking_enemy_02",
+      "source": "Die, you piece of shit!",
+      "before": "يموت، أنت قطعة من القرف!",
+      "after": "مت، أيها الحقير!",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_ending\\end_03_donations_01_08",
+      "source": "Hold on, man! After this guy is done, I'll give you a whole bunch of blood! And then, we will swim in the ocean together...",
+      "before": "انتظر يا رجل! بعد أن ينتهي هذا الرجل، سأعطيك مجموعة كاملة من الدماء! وبعد ذلك، سوف نسبح في المحيط معًا...",
+      "after": "تماسك يا صديقي! ما إن ينتهي هذا الرجل حتى أتبرع لك بكمية كبيرة من الدم! ثم سنسبح في المحيط معًا...",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_dlc2\\dlc2_100_taleoftwobrothers_brother1_samconversation_01_04_04",
+      "source": "Piece of shit, just like that brother of mine...",
+      "before": "قطعة من القرف، تماما مثل ذلك أخي.",
+      "after": "وغد، مثل أخي ذاك تمامًا...",
+      "old_status": "draft"
+    },
+    {
+      "id": "m3_dlc01_general_hint_9",
+      "source": "Not all stalkers came back form the bunker. Their equipment may still be usable.",
+      "before": "لم يعود جميع الملاحقين من المخبأ. ربما لا تزال معداتهم قابلة للاستخدام.",
+      "after": "لم يعد جميع الجوالين من المخبأ. ربما لا تزال معداتهم صالحة للاستخدام.",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_06_bridge\\bri_099_audiolog_bandits_01_12",
+      "source": "Ah, who the fuck wants a broken piece of shit... Fuck it!",
+      "before": "آه، من يريد قطعة مكسورة من الخراء...اللعنة عليه!",
+      "after": "آه، من يريد هذه الخردة المعطلة أصلًا؟ تبًا لها!",
+      "old_status": "draft"
+    },
+    {
+      "id": "m3_dia_moster_dog_intro",
+      "source": "<tab>The common dogs seem to be no match for the messed-up world of the Surface, but they manage to survive despite being surrounded by mutants and human enemies, so they definitely are a threat to be considered. Especially when you consider their keen senses and ability to easily alert their masters to your presence...<br><br>",
+      "before": "<tab>يبدو أن الكلاب الشائعة لا تتناسب مع عالم السطح الفوضوي، لكنها تمكنت من البقاء على قيد الحياة على الرغم من كونها محاطة بالمسوخ والأعداء البشريين، لذا فهي بالتأكيد تشكل تهديدًا يجب أخذه في الاعتبار. خاصة عندما تفكر في حواسهم الشديدة وقدرتهم على تنبيه أسيادهم بسهولة إلى وجودك...<br><br>",
+      "after": "<tab>قد تبدو الكلاب العادية أضعف من أن تصمد في عالم السطح المشوّه، لكنها تنجو رغم ما يحيط بها من مسوخ وأعداء بشر. لذلك لا ينبغي الاستهانة بخطرها، ولا سيما حواسها الحادة وقدرتها على تنبيه أصحابها إلى وجودك بسهولة...<br><br>",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_1\\uber_alert\\uber_alert_single_approaching_threat_03",
+      "source": "I'll be cutting one piece of shit up pretty soon now...",
+      "before": "سأقطع قطعة واحدة من الخراء قريبًا جدًا الآن ...",
+      "after": "قريبًا سأقطّع ذلك الوغد إربًا...",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_3\\alert\\alert_search_foundnothing_uni_04",
+      "source": "Fuck... Where is this piece of shit?.. There definitely was something here...",
+      "before": "اللعنة... أين هذه القطعة من القرف؟.. كان هناك بالتأكيد شيء هنا...",
+      "after": "تبًا... أين ذلك الحقير؟.. لا بد أن شيئًا كان هنا...",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_06_bridge\\bri_011_carbriefing_13",
+      "source": "<ffx:anger_light>No way I'm letting you go! <ffx:fear>It will take us both until morning to finish the repairs, <ffx:sadness>and I can't handle it by myself in time! <ffx:neutral>",
+      "before": "<ffx:anger_light>مستحيل أن أتركك تذهب!<ffx:fear>سيستغرق الأمر منا حتى الصباح لإنهاء الإصلاحات، ولا أستطيع أنا و<ffx:sadness>التعامل مع الأمر بنفسي في الوقت المناسب!<ffx:neutral>",
+      "after": "<ffx:anger_light>لن أدعك تذهب أبدًا!<ffx:fear>حتى لو عملنا معًا، فلن ننهي الإصلاحات قبل الصباح،<ffx:sadness>ولن أستطيع إنجازها وحدي في الوقت المطلوب!<ffx:neutral>",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_1\\humanimal\\chained_humanimal_alert_calmdown_03",
+      "source": "The fucking ugly piece of shit raised hell over nothing again... ",
+      "before": "تلك القطعة القبيحة اللعينة أثارت الجحيم على لا شيء مرة أخرى...",
+      "after": "ذلك المسخ القبيح اللعين أثار ضجة على لا شيء مجددًا...",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_13_dead_city\\nvs_099_phonetalk_01_millercomment_02",
+      "source": "And then their stores ran dry - but the radiation was still there... And that was it...",
+      "before": "وبعد ذلك جفت مخازنهم - لكن الإشعاع كان لا يزال موجودًا... وانتهى الأمر...",
+      "after": "ثم نفد مخزونهم، بينما ظل الإشعاع على حاله... وهنا كانت النهاية...",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_06_bridge\\bri_099_audiolog_bandits_01_09",
+      "source": "Shut the fuck up you piece of shit!",
+      "before": "اصمت يا قطعة القرف!",
+      "after": "اخرس أيها الحقير!",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\forest_1\\uber_alert\\uber_alert_group_search_waitforsearchcomplete_05",
+      "source": "Come on, drifter, face it! You can't hide forever!",
+      "before": "هيا أيها التائه، واجه الأمر! لا يمكنك الاختباء إلى الأبد!",
+      "after": "هيا أيها الجوال، تقبّل الحقيقة! لن تستطيع الاختباء إلى الأبد!",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_08_desert\\des_170_1_saultalk_02_react_shots_05_03",
+      "source": "<ffx:disgust>You piece of shit! You've done it! <ffx:neutral>",
+      "before": "<ffx:disgust>أنت قطعة من القرف! لقد فعلت ذلك!<ffx:neutral>",
+      "after": "<ffx:disgust>أيها الحقير! لقد فعلتها!<ffx:neutral>",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_1\\free\\free_unsafe_07",
+      "source": "I just can't take this sitting around any longer... We're like some greenhorn gang, this is bullshit...",
+      "before": "لم يعد بإمكاني تحمل هذا الجلوس لفترة أطول... نحن مثل عصابة ذات قرون خضراء، هذا هراء...",
+      "after": "لم أعد أحتمل هذا القعود... نتصرف كعصابة من المبتدئين، وهذا هراء...",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_dlc2\\dlc2_064_firedepot_bandit_talk_humanimal_01_14",
+      "source": "Why did you growl?! There's nobody here! You fucking with me?! I'll whack your ass, you fuckface! Piece of shit...",
+      "before": "لماذا تذمرت؟! لا يوجد أحد هنا! هل تمزح معي؟! سوف أضرب مؤخرتك، أيها الوجه اللعين! قطعة من القرف...",
+      "after": "لماذا زمجرت؟! لا أحد هنا! أتعبث معي؟! سأضربك أيها القبيح اللعين! أيها الوغد...",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_05_winter\\win_010_sam_alyosha_20",
+      "source": "<ffx:sadness>Sam... The war was really on back then. <ffx:disgust>Your missiles had only just fallen on us... <ffx:sadness_strong>Just like ours on your home... So forget <ffx:anger_light>that shit about the HQ. <ffx:sadness_light>You're a Spartan, one of us! That's it.<ffx:neutral>",
+      "before": "<ffx:sadness>سام... كانت الحرب قائمة بالفعل في ذلك الوقت.<ffx:disgust>لقد سقطت صواريخك علينا للتو...<ffx:sadness_strong>تمامًا مثل صواريخنا في منزلك... لذا انسَ<ffx:anger_light>هذا الهراء المتعلق بالمقر الرئيسي.<ffx:sadness_light>أنت متقشف، واحد منا! هذا كل شيء.<ffx:neutral>",
+      "after": "<ffx:sadness>سام... كانت الحرب دائرة فعلًا آنذاك.<ffx:disgust>كانت صواريخكم قد سقطت علينا للتو...<ffx:sadness_strong>تمامًا كما سقطت صواريخنا على وطنك... لذا انسَ<ffx:anger_light>ذلك الهراء عن القيادة.<ffx:sadness_light>أنت إسبرطي، واحد منا! وانتهى الأمر.<ffx:neutral>",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_dlc1\\dlc1_73_3_crowdunrest_01_06",
+      "source": "Do we have to wait for another week? Come on!",
+      "before": "هل علينا أن ننتظر أسبوعًا آخر؟ تعال!",
+      "after": "أعلينا الانتظار أسبوعًا آخر؟ هذا غير معقول!",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_12_valley\\val_005_07_olgaextrachat_01_21",
+      "source": "<ffx:wonder_light>The one I had the most trouble with was the Admiral... <ffx:anger_light>He was Roman’s right-hand man, <ffx:sadness>wouldn’t leave the lumber mill no matter what, kept saying we must defend it if we don’t want the mutants to eat the whole valley...<ffx:neutral>",
+      "before": "<ffx:wonder_light>أكثر مشكلة واجهتها هو الأدميرال...<ffx:anger_light>لقد كان اليد اليمنى لرومان،<ffx:sadness>لم يترك مصنع الأخشاب مهما كان الأمر، ظل يقول إنه يجب علينا الدفاع عنه إذا كنا لا نريد أن يأكل المتحولون الوادي بأكمله...<ffx:neutral>",
+      "after": "<ffx:wonder_light>أكثر من أتعبني كان الأدميرال...<ffx:anger_light>كان ذراع رومان اليمنى،<ffx:sadness>ورفض مغادرة المنشرة مهما حدث. ظل يقول إن علينا الدفاع عنها إن لم نرد للمسوخ أن تلتهم الوادي كله...<ffx:neutral>",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_08_desert\\des_060_castleship_bandits_talk_03_01",
+      "source": "<ffx:wonder>Look, won't that piece of shit fall on us?<ffx:neutral>",
+      "before": "<ffx:wonder>انظر، ألن تقع هذه القطعة من القذارة علينا؟<ffx:neutral>",
+      "after": "<ffx:wonder>انظر، ألا يمكن أن تسقط هذه الخردة علينا؟<ffx:neutral>",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_3\\uber_alert\\uber_alert_enemynear_03",
+      "source": "Fucking piece of shit!",
+      "before": "قطعة سخيف من القرف!",
+      "after": "أيها الحقير اللعين!",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_3\\alert\\alert_search_foundnothing_uni_aff_01",
+      "source": "Yeah... There definitely is some piece of shit sneaking around...",
+      "before": "نعم...بالتأكيد هناك قطعة من الخراء تتسلل...",
+      "after": "نعم... لا بد أن وغدًا يتسلل في الجوار...",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_3\\uber_alert\\uber_alert_single_nocoveravailable_04",
+      "source": "You bitch... Come on, show your mug...",
+      "before": "أيتها العاهرة... هيا أظهري قدبك...",
+      "after": "أيها الوغد... هيا، أظهر وجهك...",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_12_autumn\\aut_003_briefing_01_08",
+      "source": "<ffx:wonder>The legend says, irradiated zones are highlighted in shades of green, while purple highlights indicate errors. Today, though, I found some small print... <ffx:sadness>The thing is, radiation levels way outside of normal operational range of the scanner are also marked as errors... <ffx:anger_light>Simply put, the radiation there may well be completely off the scale. <ffx:sadness>We're about five hundred klicks from Novosibirsk, and radiation outside is almost as high as back in Moscow...<ffx:neutral>",
+      "before": "<ffx:wonder>تقول الأسطورة أنه يتم تمييز المناطق المشععة بظلال من اللون الأخضر، بينما تشير المناطق المميزة باللون الأرجواني إلى وجود أخطاء. ومع ذلك، وجدت اليوم بعض التفاصيل الصغيرة...<ffx:sadness>الأمر هو أن مستويات الإشعاع التي تقع خارج نطاق التشغيل العادي للماسح الضوئي تم تصنيفها أيضًا على أنها أخطاء...<ffx:anger_light>ببساطة، قد يكون الإشعاع هناك خارج النطاق تمامًا.<ffx:sadness>نحن على بعد حوالي خمسمائة نقرة من نوفوسيبيرسك، والإشعاع في الخارج مرتفع تقريبًا كما هو الحال في موسكو...<ffx:neutral>",
+      "after": "<ffx:wonder>يوضح مفتاح الخريطة أن المناطق الملوثة بالإشعاع مميزة بدرجات الأخضر، وأن الأرجواني يدل على خطأ في القراءة. لكنني لاحظت اليوم ملاحظة بخط صغير...<ffx:sadness>مستويات الإشعاع التي تتجاوز نطاق قياس الماسح تُسجل أيضًا على أنها أخطاء...<ffx:anger_light>أي إن الإشعاع هناك قد يفوق قدرة الجهاز على القياس تمامًا.<ffx:sadness>نحن على بعد نحو خمسمائة كيلومتر من نوفوسيبيرسك، والإشعاع في الخارج يكاد يبلغ مستواه في موسكو...<ffx:neutral>",
+      "old_status": "draft"
+    },
+    {
+      "id": "m3_loader_diary_story_06_04_bandits_good_one",
+      "source": "<tab>My opinion of the fanatics notwithstanding, only a complete and utter bastard could have left them in the hands of the bandits... Naturally, the bandits would keep terrorizing the locals afterwards. They might even be torturing some new victims at this very moment, but at least I saved somebody... Simply because I could not have done otherwise.<br><br>",
+      "before": "<tab>على الرغم من رأيي في المتعصبين، لم يكن من الممكن أن يتركهم إلا لقيط كامل ومطلق في أيدي قطاع الطرق... وبطبيعة الحال، سيستمر قطاع الطرق في ترويع السكان المحليين بعد ذلك. ربما يقومون بتعذيب بعض الضحايا الجدد في هذه اللحظة بالذات، لكنني على الأقل أنقذت شخصًا ما... ببساطة لأنه لم يكن بإمكاني فعل خلاف ذلك.<br><br>",
+      "after": "<tab>مهما كان رأيي في المتعصبين، فلا يتركهم في أيدي قطاع الطرق إلا وغد عديم الرحمة... سيواصل قطاع الطرق بالطبع ترويع السكان. ولعلهم يعذبون ضحايا جددًا في هذه اللحظة، لكنني أنقذت بعض الناس على الأقل... ببساطة لأنني لم أستطع أن أتصرف بغير ذلك.<br><br>",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_3\\uber_alert\\uber_alert_group_searchorder_03",
+      "source": "Boys, this bitch thinks we're some kind of dumbasses who can't find his ass if he hides! We gotta find him and teach him about respect!",
+      "before": "أيها الأولاد، هذه العاهرة تعتقد أننا نوع من الحمقى الذين لا يستطيعون العثور على مؤخرته إذا اختبأ! يجب أن نجده ونعلمه الاحترام!",
+      "after": "يا رجال، يظن ذلك الوغد أننا حمقى لن نجده إن اختبأ! علينا العثور عليه وتلقينه الاحترام!",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_08_desert\\des_059_insideoilrig_nobschat_02_04",
+      "source": "<ffx:wonder>Well, I bet Dusty went and tried mugging them... <ffx:anger>And the bastard had it coming on him anyways, <ffx:disgust>gave me that scar! <ffx:neutral>",
+      "before": "<ffx:wonder>حسنًا، أراهن أن داستي ذهب وحاول سرقتهم...<ffx:anger>وقد أصابه اللقيط على أي حال،<ffx:disgust>أعطاني تلك الندبة!<ffx:neutral>",
+      "after": "<ffx:wonder>حسنًا، أراهن أن داستي حاول سلبهم...<ffx:anger>وذلك الوغد نال ما يستحقه على أي حال؛<ffx:disgust>فهو من ترك فيّ هذه الندبة!<ffx:neutral>",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\merc_1\\wounded\\wounded_combat_02",
+      "source": "Aaaaagh! You, piece of shit! Take this!",
+      "before": "ااااه! أنت، قطعة من القرف! خذ هذا!",
+      "after": "آآآه! أيها الحقير! خذ هذه!",
+      "old_status": "draft"
+    },
+    {
+      "id": "m3_loader_diary_story_06_04_bandits_good_both",
+      "source": "<tab>My opinion of the fanatics notwithstanding, only a complete and utter bastard could have left them in the hands of the bandits... Naturally, the bandits would keep terrorizing the locals afterwards. But, at the very least, two of their hangouts would no longer be a menace to anyone for some time, and the people that had been captured by the creeps returned home that day. These things ought to mean something...<br><br>",
+      "before": "<tab>على الرغم من رأيي في المتعصبين، لم يكن من الممكن أن يتركهم إلا لقيط كامل ومطلق في أيدي قطاع الطرق... وبطبيعة الحال، سيستمر قطاع الطرق في ترويع السكان المحليين بعد ذلك. ولكن، على أقل تقدير، لن يشكل اثنان من أماكن الاستراحة الخاصة بهم تهديدًا لأي شخص لبعض الوقت، وعاد الأشخاص الذين تم أسرهم بواسطة الزحف إلى منازلهم في ذلك اليوم. يجب أن تعني هذه الأشياء شيئًا ما...<br><br>",
+      "after": "<tab>مهما كان رأيي في المتعصبين، فلا يتركهم في أيدي قطاع الطرق إلا وغد عديم الرحمة... سيواصل قطاع الطرق بالطبع ترويع السكان، لكن وكرين من أوكارهم على الأقل لن يشكلا خطرًا على أحد مدة من الزمن. وعاد الذين أسرهم أولئك الأوغاد إلى بيوتهم في ذلك اليوم. لا بد أن يكون لهذا بعض المعنى...<br><br>",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_09_summer\\sum_001_7_2_tabletalk_02_65",
+      "source": "Thanks... <ffx:wonder>In any case, someone might have ignored the order, <ffx:sadness_light>instead, they moored quietly somewhere...<ffx:neutral>",
+      "before": "شكرًا...<ffx:wonder>على أية حال، ربما يكون شخص ما قد تجاهل الأمر، وبدلاً من ذلك، رست<ffx:sadness_light>بهدوء في مكان ما...<ffx:neutral>",
+      "after": "شكرًا...<ffx:wonder>على أي حال، ربما تجاهل أحدهم الأمر<ffx:sadness_light>ورسا بسفينته بهدوء في مكان ما...<ffx:neutral>",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_1\\car\\carattack_07",
+      "source": "Come on, out of the car already, you bitch!",
+      "before": "هيا، اخرج من السيارة بالفعل، أيتها العاهرة!",
+      "after": "هيا، اخرج من السيارة أيها الوغد!",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_12_valley\\val_000_narration_04",
+      "source": "<tab>In the forest I got caught in a trap set by the locals... They are a weird bunch, look like overgrown kids too immersed in a game or something... I guess, the War caught them in the local camp, but they managed to survive, despite the attacks from bandits and mutants. Had a giant bear not chased them away, they'd probably have ruined my day completely...<br><br>",
+      "before": "<tab>في الغابة، وقعت في فخ نصبه السكان المحليون... إنهم مجموعة غريبة، يبدون مثل أطفال بالغين منغمسين في لعبة أو شيء من هذا القبيل... أعتقد أن الحرب قد ألقت القبض عليهم في المعسكر المحلي، لكنهم تمكنوا من البقاء على قيد الحياة، على الرغم من هجمات قطاع الطرق والمتحولين. لو لم يطردهم الدب العملاق بعيدًا، لكانوا على الأرجح قد أفسدوا يومي تمامًا...<br><br>",
+      "after": "<tab>في الغابة، وقعت في فخ نصبه أهل المنطقة... إنهم جماعة غريبة، كأطفال كبروا ولم يخرجوا من لعبة استغرقتهم... أظن أن الحرب اندلعت وهم في المخيم المحلي، لكنهم استطاعوا النجاة رغم هجمات قطاع الطرق والمسوخ. ولولا دب عملاق طردهم، لربما انتهى يومي نهاية سيئة حقًا...<br><br>",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_08_desert\\des_203_snipertape_15",
+      "source": "The Baron somehow managed to assemble quite a force! The train guys are in for an ass kicking! Should tell the boys to pick me up when they go back to celebrate the victory...",
+      "before": "تمكن البارون بطريقة ما من تجميع قوة كبيرة! رجال القطار مستعدون لركل الحمار! يجب أن أقول للأولاد أن يصطحبوني عندما يعودون للاحتفال بالنصر...",
+      "after": "جمع البارون قوة لا يستهان بها! سيلقّن رجال القطار درسًا قاسيًا! عليّ أن أطلب من الرجال اصطحابي حين يعودون للاحتفال بالنصر...",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_dlc2\\dlc2_045_dock_boatguards_samtakestime_01_03",
+      "source": "Come on, at least give her a test run!",
+      "before": "هيا، على الأقل أعطها اختبارًا!",
+      "after": "هيا، جرّب قيادتها على الأقل!",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_dlc2\\dlc2_003_50_captain_bandits_01_17",
+      "source": "Why are you hiding, you piece of shit? Come out!",
+      "before": "لماذا تختبئ يا قطعة القرف؟ يخرج!",
+      "after": "لماذا تختبئ أيها الحقير؟ اخرج!",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_3\\uber_alert\\uber_alert_group_search_waitforsearchcomplete_08",
+      "source": "Come out, you piece of shit! Let's talk fucking business, hahaha!",
+      "before": "اخرج يا قطعة من القرف! دعونا نتحدث عن العمل اللعين، هاهاها!",
+      "after": "اخرج أيها الحقير! لنتحدث بجدية، هاهاها!",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\m3_08_desert\\des_022_barontalkfinal_02_07",
+      "source": "<ffx:sadness>No, guys... Giul will handle it. <ffx:smile_light>My place is with you... <ffx:smile>After all, I'm more Spartan, than Kazakh... <ffx:neutral>",
+      "before": "<ffx:sadness>لا يا رفاق... غيول سوف يتعامل مع الأمر.<ffx:smile_light>مكاني معك...<ffx:smile>بعد كل شيء، أنا متقشف أكثر من الكازاخي...<ffx:neutral>",
+      "after": "<ffx:sadness>لا يا رفاق... ستتكفل غيول بالأمر.<ffx:smile_light>مكاني معكم...<ffx:smile>ففي النهاية، انتمائي إلى الإسبرطيين أقوى من انتمائي إلى أصولي الكازاخية...<ffx:neutral>",
+      "old_status": "draft"
+    },
+    {
+      "id": "voices\\universal_m3\\factions\\bandit_3\\light_alert\\light_alert_waiting_for_searchcomplete_04",
+      "source": "What piece of shit could even be there, I wonder...",
+      "before": "أتساءل أي قطعة من القرف يمكن أن تكون هناك؟",
+      "after": "أتساءل أي وغد قد يكون هناك...",
+      "old_status": "draft"
+    }
+  ]
+}

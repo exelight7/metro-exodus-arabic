@@ -151,3 +151,37 @@
 - Source commit cd505aae10b24a504e750e7c998633fcf9df10b4 on main, annotated v0.1.0-beta.1. GitHub connector used for repository/profile/readback; existing scoped Git Credential Manager authentication used for Git and Releases because connector has no release-asset upload tool. Credentials remained in memory/child-only Git environment and were neither persisted nor printed.
 - Created a draft, uploaded/verified all seven assets, then published as a public prerelease. Windows EXE43075872bytes,sha256 e8f23bc3f45984582d0c09781f68a06ce0791167ab0de2009192251edb21bee8;AppImage119773688bytes,sha25602f071edda49cadb64f0b92cce7e088e70cdc9b772e2129cb71184c672188b68. Other assets:source ZIP,INSTALLATION_AR.md,QA.json,build-metadata.json,SHA256SUMS.txt. Existing tested binaries unchanged.
 - Public unauthenticated API confirms published/prerelease,tag-to-commit and seven uploaded sizes/SHA256 digests. Actual public guide download matches local hash. URL:https://github.com/exelight7/metro-exodus-arabic/releases/tag/v0.1.0-beta.1. Receipts:00_admin/github_release_receipt.json;08_qa/audit/github_publication_preflight.json,github_publication_verified.json. No game execution or live installation. Do not rewrite the published tag/assets; future changes receive a new tag.
+
+## D-029 — Full project and 4A dialogue tooling — 2026-11-04
+
+- D-029 / v0.2.0-beta.2 منشور بإذن المستخدم الجديد برفع كل مصادر المشروع وإنشاء Skill وأدوات حوارات 4A. المصدر العام e20aebcae486dc5b9940674026c7163fecbbc9dd، و455 ملفًا في فهرس البصمات، و9 مرفقات متحققة بتنزيل ZIP المشروع وSkill عامة. أبق التاقات والمرفقات المنشورة دون تعديل؛ beta.1 محفوظ، وbeta.2 يوحد بايتات الملفات القديمة مع ZIP. أدوات foura-dialogue تفك تعمية أسماء XOR وضغط LZ4 وترميز LNG وتعيد الحزم منفصلة؛22 اختبارًا و15 ملف Exodus حقيقيًا. VFX1/2 اختبارات اصطناعية فقط؛ QuickLZ وVFI/UPK غير منفذين. recover_project.py يستعيد بيئة جديدة من نسخة متوافقة للقراءة فقط، وrebuild_text.py يقرأ الهدف الحالي من CSV دون إعادة ذاكرة المسودات؛ أعاد حمولة final_review_r1 مطابقة بالبايت. originals/backups/private receipts غير منشورة، ولا تشغيل أو تعديل للعبة. المثبتان والحزمة ثابتان؛ اكتمال المراجعة اليدوية ولون المتحدث البرتقالي ما زالا مفتوحين. لا تعد بناء أو نشر التاق نفسه مجددًا.
+
+Release: https://github.com/exelight7/metro-exodus-arabic/releases/tag/v0.2.0-beta.2
+Public verification: 08_qa/audit/github_publication_verified_v0.2.0-beta.2.json; full_project_download_verified.json. Original v0.1.0-beta.1 and v0.2.0-beta.1 tags/assets preserved. GitHub receive-pack returned transient 500/502 errors; exact reviewed Git blobs/tree/commit were uploaded through authenticated Git Data API with SHA assertions and a non-force branch update.
+
+## D-030 — spelling_full_r1 — 2026-11-04
+
+- D-030 / spelling_full_r1: جدول التحرير المحلي أحدث من الإصدار المنشور final_review_r1؛ صححت42خانة بعد فحص38221خانة، مع حفظ المعرّفات والمصادر والحالات والوسوم، وتحقق38223سلسلة مع حفظ38181سلسلة و11أصلًا غير نصي. احفظ تحديث RULES في arabic_spelling.py وspelling_full_context.json؛ لا تبدل إلتيرو أو الإنترنت أو إنقاذ بقواعد همزات عمياء. النسخة النهائية المرشحة في 07_patch/phases/100_spelling_full_r1_verified، و09_release/spelling_full_r1؛ لم تثبت أو تنشر، والحمولة المثبتة والمنشورة وإصلاح التحميل محفوظة. مجلد100_spelling_full_r1 الأول وسيط سابق للمراجعة السياقية الأخيرة، فلا تستخدمه. الحالات draft لم ترفع إلى reviewed لمجرد تصحيح الإملاء. لا تدع اكتمال مراجعة كل الجمل يدويًا.
+
+## D-031 — Story and world context review — 2026-11-04
+
+- D-031 / story_context_r1: جدول التحرير أحدث من spelling_full_r1؛74تصحيحًا سياقيًا يدويًا محفوظة في story_context_r1.json ومحمّلة آخر contextual في formal_terms.py. احفظمرجع STORY_STYLE_AR.md، وميّز Order التنظيم عن أمر الفعل، وCome in اللاسلكي عن دعوة الدخول، وAt once فورًا عن في آن واحد. احفظ فرعي مذكرة قاطع الطريق وعدم قلب النفي، ومعتقدات الشخصيات في وقت الحدث دون إضافة حقائق لاحقة. لا تعمم الاستبدال على النص كله. فحص38221خانة و38223سلسلة:74تغييرًا مقابل spelling_full_r1، و38149سلسلة و11أصلًا غير نصي محفوظة. الحزمة النهائية في100_story_context_r1_verified و09_release/story_context_r1؛مجلد100_story_context_r1 وسيط أقدم. لم تثبت أو تنشر، ولا تشغيل للعبة؛المراجعة اليدوية لكل الحوارات واللون البرتقالي المستقل لم ينجزا.
+
+References: https://www.deepsilver.com/games/metro-exodus and /story-so-far; individual English game strings remain the dialogue authority.
+
+## D-032 — Story-context review 2 — 2026-11-04
+
+- D-032 / story_context_r2:83تصحيحًا سياقيًا إضافيًا و37موضعًا لتوحيد جيول إلى غيول المعتمد، بإجمالي120تغييرًا مقابلstory_context_r1. احفظ story_context_r2.json آخر contextual في formal_terms.py. توحيد الاسم في translation_terms.py مقيد بمصدر يذكرGiul ويستثني الشكر/القانوني؛story_names_r2.json إيصال أسماء فقط، فلا تحمله كتجاوز كامل للجمل. الحالات لم ترفع إلىreviewed لتوحيد الاسم وحده. احفظ تأنيث غيول، ودامير/ساول/ديوك بالأسماء المعتمدة، وميّز for order شعار أوسكوم النظام عنSpartan Order التنظيم. لا تخلط حزن الناجي وانهياره بانكشاف أمره، أوwent south باتجاه جغرافي. فحص38221خانة و38223سلسلة حفظ38103سلسلة و11أصلًا غير نصي والجولة السابقة74خانة كاملة. الحزمة المرشحة100_story_context_r2_verified و09_release/story_context_r2، ولم تثبت أو تنشر؛المراجعة اليدوية الشاملة لم تكتمل، ولا تشغيل للعبة.
+
+## D-033 — Contextual review 3 — 2026-11-04
+
+- D-033 / story_context_r3:56تصحيحًا جديدًا في story_context_r3.json وآخرcontextual فيformal_terms.py. احفظ تمييزSpartan الانتماء إلى الإسبرطيين عن التقشف، وlegend مفتاح الخريطة عن الأسطورة، وklicks كيلومترات عن النقرات. الجوالون مهنة في عالم اللعبة لا مطاردون؛استعمالها في سياقات محددة لا استبدال شامل لكلstalker. احفظ اختلاف نوعي المذكراتgood_one/good_both، والتهديدات والتشجيع بحسب المتكلم. فحص38221خانة و38223سلسلة حفظ38167سلسلة و11أصلًا غير نصي و157تصحيحًا يدويًا للجولتين السابقتين. الحزمة الصحيحة100_story_context_r3_final و09_release/story_context_r3، أما100_story_context_r3_verified فبناء وسيط أقدم. محلي غير مثبت أو منشور، ولا تشغيل للعبة؛لا تدع اكتمال التدقيق اليدوي لكل اللعبة.
+
+## D-034 — Contextual review 4 — 2026-11-04
+
+- D-034 / story_context_r4:62تصحيحًا جديدًا فيstory_context_r4.json وآخرcontextual فيformal_terms.py. ميّزHold on الصمود/التشبث/الانتظار بحسب الحدث، وlook out for Anna رعايتها لا البحث عنها، وHeads up تنبيه لا رفع الرؤوس حرفيًا، وon the double الإسراع، وstock المخزون عند الحديث عن المؤن والعقار لا الأسهم. Radioprotector عقار لا جهاز، وtorch مصباح في سياق الشحن، وWatchmen وحوش لا أشخاص. لا تعمم هذه الاستبدالات بلا سياق. فحص38221خانة و38223سلسلة:62تغييرًا،38161سلسلة و11أصلًا غير نصي والجولات السابقة213خانة محفوظة. المرشح100_story_context_r4_verified و09_release/story_context_r4،لم يثبت أو ينشر؛لا تشغيل للعبة ولا ادعاء اكتمال مراجعتها يدويًا.
+
+
+## D-035 — full_language_r1 / 2026-11-06
+
+طلب المستخدم إنهاء خفيف ونشر المشروع كاملًا بدل انتظار المراجعة الشاملة. ثُبتت التغطية عند 23,500 سجل، مع 12,618 تعديلًا و14,721 خارج تغطية الجولة و4 مواضع ملتبسة. راجع القرارات المحفوظة ولا تفترض اكتمال التدقيق. تحفظ full_language_r1_context.json النتائج آخر correct_spelling حتى لا تعيدها طبقات المسودات. الحزمة الجديدة مستقلة، بلا تشغيل أو تثبيت على اللعبة الحية. يتضمن v1.0.0 مثبتين جديدين ونشرًا مستقرًا مصرحًا به؛ لا يعني ذلك حل اللون البرتقالي أو حركة الكتابة RTL.

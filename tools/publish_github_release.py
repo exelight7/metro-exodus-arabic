@@ -77,12 +77,14 @@ def publish():
     branch=g.git('branch','--show-current');assert branch=='main'
     g.git('fetch','origin','main');assert g.git('rev-parse','HEAD')==g.git('rev-parse','origin/main'), 'Remote branch changed; review before publishing'
     g.git('config','user.name','exelight7');g.git('config','user.email','183371784+exelight7@users.noreply.github.com')
+    full_source=bool(manifest.get('full_source',TAG.startswith('v0.2.0-beta.')))
+    stable=bool(manifest.get('stable',False))
     roots=['README.md','.gitignore','CHANGELOG.md','installer','translations','docs','assets']
-    if TAG.startswith('v0.2.0-beta.'):roots+=['.gitattributes','LICENSE','AGENTS.md','project.json','requirements-project.txt','03_translation','04_fonts','05_media','08_qa','project_seed','tools','skills']
+    if full_source:roots+=['.gitattributes','LICENSE','AGENTS.md','project.json','requirements-project.txt','03_translation','04_fonts','05_media','08_qa','project_seed','tools','skills']
     g.git('add','--',*roots)
     # Re-read old tracked files after disabling newline conversion. Git's cached
     # stat information otherwise leaves pre-existing normalized blobs unchanged.
-    if TAG.startswith('v0.2.0-beta.'):
+    if full_source:
         g.git('add','--renormalize','--',*roots)
         tree={}
         for record in g.git('ls-files','--stage','-z').split('\0'):
@@ -97,14 +99,14 @@ def publish():
     allowed=tuple(n+'/' for n in roots if (CHECKOUT/n).is_dir())
     assert all(n in roots or n.startswith(allowed) for n in staged)
     assert not any(n.lower().endswith(('.exe','.vfs0','.vfx','.appimage','.dll','.pyd')) for n in staged)
-    title='Publish full authoring project and 4A dialogue Skill/toolkit' if TAG.startswith('v0.2.0-beta.') else 'Publish Arabic patch sources and Windows/Proton installer beta'
+    title='Publish reviewed Arabic localization and complete project '+TAG if stable else 'Publish full authoring project and 4A dialogue Skill/toolkit' if full_source else 'Publish Arabic patch sources and Windows/Proton installer beta'
     g.git('commit','-m',title)
     commit=g.git('rev-parse','HEAD');print('Publishing source commit',commit,flush=True)
     g.git('push','origin','main')
     g.git('tag','-a',TAG,'-m',title)
     g.git('push','origin','refs/tags/'+TAG)
     body=(RELEASE/'RELEASE_NOTES_AR.md').read_text(encoding='utf-8')
-    release=g.api('/repos/'+REPO+'/releases',dict(tag_name=TAG,target_commitish=commit,name='تعريب Metro Exodus — '+TAG,body=body,draft=True,prerelease=True,make_latest='false'))
+    release=g.api('/repos/'+REPO+'/releases',dict(tag_name=TAG,target_commitish=commit,name='تعريب Metro Exodus — '+TAG,body=body,draft=True,prerelease=not stable,make_latest='false'))
     receipt=dict(repository=REPO,tag=TAG,commit=commit,release_id=release['id'],url=release['html_url'],draft=True,assets=[])
     receipt_path=ROOT/'00_admin'/('github_release_receipt.json' if TAG=='v0.1.0-beta.1' else 'github_release_receipt_'+TAG+'.json');receipt_path.write_text(json.dumps(receipt,ensure_ascii=False,indent=2),encoding='utf-8')
     for name in manifest['assets']:
@@ -113,8 +115,8 @@ def publish():
         receipt_path.write_text(json.dumps(receipt,ensure_ascii=False,indent=2),encoding='utf-8')
         print('Verified asset',name,flush=True)
     # All content and assets exist and have matching server hashes before publication.
-    result=g.api('/repos/'+REPO+'/releases/'+str(release['id']),dict(draft=False,prerelease=True,make_latest='false'),method='PATCH')
-    assert not result['draft'] and result['prerelease'] and len(result['assets'])==len(manifest['assets'])
+    result=g.api('/repos/'+REPO+'/releases/'+str(release['id']),dict(draft=False,prerelease=not stable,make_latest='true' if stable else 'false'),method='PATCH')
+    assert not result['draft'] and result['prerelease']==(not stable) and len(result['assets'])==len(manifest['assets'])
     receipt.update(draft=False,published_at=result['published_at'],published=True)
     receipt['url']=result['html_url']
     receipt['assets']=[{k:a[k] for k in ['id','name','size','digest','browser_download_url']} for a in result['assets']]
@@ -123,7 +125,7 @@ def publish():
 
 if __name__=='__main__':
     if hasattr(sys.stdout,'reconfigure'):sys.stdout.reconfigure(encoding='utf-8')
-    parser=argparse.ArgumentParser(description=__doc__);parser.add_argument('--publish',action='store_true');parser.add_argument('--tag',default=TAG,choices=['v0.1.0-beta.1','v0.2.0-beta.1','v0.2.0-beta.2']);args=parser.parse_args()
+    parser=argparse.ArgumentParser(description=__doc__);parser.add_argument('--publish',action='store_true');parser.add_argument('--tag',default=TAG,choices=['v0.1.0-beta.1','v0.2.0-beta.1','v0.2.0-beta.2','v1.0.0']);args=parser.parse_args()
     TAG=args.tag;RELEASE=ROOT/'09_release'/TAG
     if args.publish:publish()
     else:info()

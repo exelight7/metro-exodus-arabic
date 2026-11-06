@@ -1,0 +1,291 @@
+{
+  "start": 2590,
+  "end": 2680,
+  "decisions": {
+    "2590": {
+      "decision": "change",
+      "target": "<ffx:disgust_light>يصعب التنبؤ بتصرفات المتعصبين، وهذا ما يجعلهم خطرين... <ffx:neutral>",
+      "reason": "unpredictable يصعب توقع سلوكهم، لا هم عاجزون عن التنبؤ."
+    },
+    "2592": {
+      "decision": "change",
+      "target": "<ffx:disgust_light>أحم... كفى! <ffx:anger_light>",
+      "reason": "صياغة انزعاج آنا من عودة السعال دون نقل Ahum الأجنبي."
+    },
+    "2596": {
+      "decision": "change",
+      "target": "<ffx:wonder_light>أبي يزداد قلقًا... <ffx:neutral>",
+      "reason": "Father والد آنا ميلر، لا لقب الأب الكهنوتي."
+    },
+    "2598": {
+      "decision": "change",
+      "target": "خلت مراكب الشحن، حان وقت السيطرة على غرفة قيادة زورق القطر!",
+      "reason": "bridge غرفة قيادة المركب لا جسر القاطرة البرية."
+    },
+    "2599": {
+      "decision": "change",
+      "target": "أطلقوا النار، لقد كشفوه!",
+      "reason": "الأمر لفريق التغطية كله."
+    },
+    "2600": {
+      "decision": "change",
+      "target": "أرتيوم، لقد رأوك... أستهدفهم الآن...",
+      "reason": "on them تتصدى للأعداء بالنيران لا تنضم إليهم."
+    },
+    "2601": {
+      "decision": "change",
+      "target": "سقط واحد...",
+      "reason": "down سقوط عدو مقتول لا أسفل مكاني."
+    },
+    "2602": {
+      "decision": "change",
+      "target": "سقط واحد!",
+      "reason": "down سقوط عدو مقتول لا أسفل مكاني."
+    },
+    "2603": {
+      "decision": "change",
+      "target": "أصبته!",
+      "reason": "تأكيد إصابة العدو لا الحصول عليه."
+    },
+    "2606": {
+      "decision": "change",
+      "target": "اهدأ، لقد أصبته.",
+      "reason": "تأكيد إصابة العدو لا حيازته."
+    },
+    "2607": {
+      "decision": "change",
+      "target": "قلّ عددهم واحدًا.",
+      "reason": "إخبار مختصر بسقوط عدو لا طرح حسابي معزول."
+    },
+    "2608": {
+      "decision": "change",
+      "target": "سقط واحد...",
+      "reason": "down سقوط عدو مقتول لا أسفل مكاني."
+    },
+    "2610": {
+      "decision": "change",
+      "target": "ها! في عينه مباشرة!",
+      "reason": "right through إخبار عن موضع الإصابة لا الحق."
+    },
+    "2612": {
+      "decision": "change",
+      "target": "إصابة موفقة!",
+      "reason": "ثناء على طلقة لا اقتراح فكرة."
+    },
+    "2613": {
+      "decision": "change",
+      "target": "نحن مسيطرون على الوضع!",
+      "reason": "We got this تشجيع وثقة بالمواجهة لا حيازة شيء."
+    },
+    "2615": {
+      "decision": "change",
+      "target": "قضيت عليه!",
+      "reason": "إخبار بالتخلص من العدو لا أمر بإخراجه."
+    },
+    "2616": {
+      "decision": "change",
+      "target": "إصابة!",
+      "reason": "hit إصابة بالرصاصة لا ضربة يدوية مفترضة."
+    },
+    "2617": {
+      "decision": "change",
+      "target": "أصبت واحدًا!",
+      "reason": "مرجع العدو مذكر، واستعادة فعل الإصابة."
+    },
+    "2618": {
+      "decision": "change",
+      "target": "انبطح!",
+      "reason": "Get down في إطلاق النار احتماء لا النزول من مكان."
+    },
+    "2621": {
+      "decision": "change",
+      "target": "أصبت واحدًا...",
+      "reason": "إخبار عن طلقة أصابت عدوًا لا أمر لمخاطب."
+    },
+    "2622": {
+      "decision": "change",
+      "target": "سقط هذا أيضًا...",
+      "reason": "down سقوط العدو لا موقعه في الأسفل."
+    },
+    "2623": {
+      "decision": "change",
+      "target": "ادخل حين أشغلهم بنيراني!",
+      "reason": "pin them تثبيت العدو بنيران قمعه لا تثبيته ماديًا."
+    },
+    "2624": {
+      "decision": "change",
+      "target": "<ffx:wonder>حسنًا يا أرتيوم، سنفحص المحرك ونجهز كل شيء للرحلة. <ffx:smile_light>أنهِ ما تبقى لديك من أمور... فلن <ffx:smile>نعود بعد أن نغادر، هاها! <ffx:smile_light>",
+      "reason": "إصلاح حرف الجر المعلق ومعنى نقطة اللاعودة."
+    },
+    "2626": {
+      "decision": "change",
+      "target": "<ffx:smile_light>إذن، أمستعد للإبحار يا أرتيوم؟ <ffx:wonder>إن بقي لديك ما تفعله، فافعله الآن، فالأمور <ffx:smile>ستزدحم قريبًا... هاها! <ffx:smile_light>",
+      "reason": "استعادة فاعل busy العام بدل مذكر مجهول."
+    },
+    "2627": {
+      "decision": "change",
+      "target": "<ffx:smile>رائع! إلى الأمام بأقصى سرعة! <ffx:smile_light>",
+      "reason": "أمر الإبحار بأقصى سرعة."
+    },
+    "2628": {
+      "decision": "change",
+      "target": "<ffx:smile>مرحى! إلى مواقعكم وارفعوا المرساة! <ffx:neutral>",
+      "reason": "man فعل شغل المواقع وweigh anchor رفع المرساة، لا رجل ووزن."
+    },
+    "2629": {
+      "decision": "change",
+      "target": "<ffx:wonder_light>سنقطع نحو نصف المسافة، ثم ننتظر بين القصب حتى الرابعة تقريبًا. <ffx:sadness_light>نريد الوصول في الصباح الباكر، <ffx:wonder_light>حين يبلغ الضباب أشدّه ويكونون جميعًا <ffx:smile_light>نعسى بعد صلاة الصباح...",
+      "reason": "تصحيح جمع النعاس وتوقيت الخطة دون تغيير الساعة؛ prayer صباحية للطائفة."
+    },
+    "2631": {
+      "decision": "change",
+      "target": "<ffx:smile>إن لم تكونوا مستعدين، فقد فات الأوان! <ffx:smile_light>لا وقت لدينا لنضيعه! <ffx:neutral>",
+      "reason": "مطابقة جمع الفريق في الرد على readiness."
+    },
+    "2632": {
+      "decision": "change",
+      "target": "<ffx:smile>حظًا موفقًا يا رجال! <ffx:smile_light>أتمنى لكم رياحًا مواتية ومياهًا هادئة! وأنت يا أرتيوم، <ffx:fear_light>توخَّ الحذر هناك! <ffx:wonder_light>",
+      "reason": "fair winds رياح مواتية لا عادلة وwatch it توخ الحذر."
+    },
+    "2633": {
+      "decision": "change",
+      "target": "<ffx:sadness_light>نعم، سنحتاج إلى الحظ فعلًا... <ffx:smile_light>رياح مواتية...",
+      "reason": "توحيد التحية البحرية وصياغة الاستدراك."
+    },
+    "2634": {
+      "decision": "change",
+      "target": "تبًا، لقّنّاهم درسًا! طاخ! وسقطوا، لم يعرفوا حتى ما الذي أصابهم!",
+      "reason": "التفاخر بقتل التجار لا بقائهم في الأسفل؛ صوت طلقة عربي."
+    },
+    "2636": {
+      "decision": "change",
+      "target": "نعم يا ديوك، أحسنت أنت وأرتيوم! أطلقتما النار على تجار أبرياء... تستحقان الأوسمة، وربما وسامين لكل منكما!",
+      "reason": "تصحيح المثنى وصياغة السخرية مع حفظ احتمال وسامين لكل فرد."
+    },
+    "2638": {
+      "decision": "change",
+      "target": "اهدؤوا! إننا نحن!",
+      "reason": "تعريف القادمين بهويتهم لا مجرد الوجود هنا."
+    },
+    "2641": {
+      "decision": "change",
+      "target": "لا نحتاج إلى بضائعك. أما زورق القطر... فيمكنك استعادته عند الجسر إن أحسنت التصرف. أفهمت؟!",
+      "reason": "play cards right حسن التصرف وcollect استعادة، مع استعادة التهديد الشرطي."
+    },
+    "2644": {
+      "decision": "change",
+      "target": "اتخذت القرار الصحيح. من اللطيف التحدث إلى رجل عاقل هذه المرة. اذهب الآن...",
+      "reason": "for a change هذه المرة خلافًا لسابق التعامل، لا من أجل تغيير مبهم."
+    },
+    "2649": {
+      "decision": "change",
+      "target": "<ffx:anger_light>حسنًا، لا يعجبني الأمر أنا أيضًا، <ffx:sadness_light>لكن علينا تفقده...<ffx:neutral>",
+      "reason": "إصلاح المفعول الناقص."
+    },
+    "2650": {
+      "decision": "change",
+      "target": "<ffx:sadness>حسنًا، هيا... <ffx:smile>سأثأر لك إن أُكلت، ها ها! <ffx:neutral>",
+      "reason": "avenge you الانتقام له لا الانتقام منه؛ حفظ المزاح."
+    },
+    "2651": {
+      "decision": "change",
+      "target": "<ffx:smile_light>نعم، بالتأكيد... لكن لا تصب <ffx:wide_smile_light>مؤخرتي بالرصاص، أيها الملاك المنتقم! <ffx:neutral>",
+      "reason": "استعادة مفعول مؤخرتي المحذوف."
+    },
+    "2653": {
+      "decision": "change",
+      "target": "<ffx:smile_light>هذا رائع! <ffx:wonder_light>لنعد قبل أن يعود ذلك الشيء... <ffx:neutral>",
+      "reason": "إصلاح عودة التهديد الغائب بدل ضمير مخاطب يعود."
+    },
+    "2656": {
+      "decision": "change",
+      "target": "اسمع... <ffx:wonder_light>يمكنك أن تستريح في الأعلى حتى حلول الظلام... <ffx:smile_light>سأنتظرك هنا في الأسفل... <ffx:neutral>",
+      "reason": "حفظ مقابلة الأعلى والأسفل في مواقع الفريق."
+    },
+    "2657": {
+      "decision": "change",
+      "target": "<ffx:smile_light>اتبعني، لكن صه! <ffx:neutral>",
+      "reason": "أرتيوم مخاطب مفرد."
+    },
+    "2660": {
+      "decision": "change",
+      "target": "<ffx:smile_light>سألهيهم، وأنت اصعد إلى القارب! <ffx:neutral>",
+      "reason": "get on الصعود إلى القارب لا المضي العام."
+    },
+    "2662": {
+      "decision": "change",
+      "target": "أرتيوم، ديوك... تتحرك أورورا بهدوء إلى موقعها، وسنكون مستعدين للتحرك عند إشارتكما.",
+      "reason": "تأنيث القاطرة وتثنية المخاطبين."
+    },
+    "2663": {
+      "decision": "change",
+      "target": "مفهوم يا سيدي... نتولى الأمر. حوّل...",
+      "reason": "Roger مفهوم وover حوّل لا روجر وانتهاء الاتصال."
+    },
+    "2664": {
+      "decision": "change",
+      "target": "<ffx:anger_light>يا من على الشاطئ، أمسكوا الحبل! <ffx:neutral>",
+      "reason": "line حبل إرساء القارب وcatch التقاطه، لا التزام خط."
+    },
+    "2666": {
+      "decision": "change",
+      "target": "<ffx:wonder>يا بحار، ماذا حلّ بمركب الشحن؟ <ffx:smile>ماذا ستبيع الآن؟ هاها! <ffx:smile_light>",
+      "reason": "barge مركب شحن نهري لا مركبة برية."
+    },
+    "2668": {
+      "decision": "change",
+      "target": "<ffx:wonder>أعندك غطاء مشمّع يا خفيف الظل؟ <ffx:neutral>",
+      "reason": "tarp غطاء مشمع للإصلاح وfunny man سخرية لا رجل مضحك."
+    },
+    "2669": {
+      "decision": "change",
+      "target": "<ffx:sadness>اصطدمنا بأخشاب طافية عند المنعطف فمزّقت الجانب كله، واضطررنا إلى الجنوح بمركب الشحن إلى الشاطئ. <ffx:neutral>",
+      "reason": "الفاعل الأخشاب التي مزقت البدن، وrun ashore جنوح القارب لا تشغيله."
+    },
+    "2670": {
+      "decision": "change",
+      "target": "<ffx:fear>يا للهول! ماذا ستفعل الآن؟ <ffx:neutral>",
+      "reason": "Holy shit تعجب لا قرف مقدس."
+    },
+    "2671": {
+      "decision": "change",
+      "target": "<ffx:anger_light>ما علينا فعله! سنسدّ <ffx:sadness_light>التسرّب مؤقتًا.",
+      "reason": "plug the leak سد التسرب، لا توصيل."
+    },
+    "2672": {
+      "decision": "change",
+      "target": "<ffx:wonder>أليس عندك غطاء مشمّع؟ <ffx:anger_light>فهي لا تنبت على الأشجار، كما تعلم!",
+      "reason": "توحيد tarp وضمير جمع الأغطية؛ حفظ التعبير الساخر الطبيعي."
+    },
+    "2673": {
+      "decision": "change",
+      "target": "<ffx:disgust_light>واو، احذروا، خفيف الظل متألق اليوم! <ffx:smile_light>اترك كل شيء وابحث عن نادٍ كوميدي، ستجني ثروة! <ffx:neutral>",
+      "reason": "on fire تألق السخرية وmake killing جني مال وفير لا قتل."
+    },
+    "2674": {
+      "decision": "change",
+      "target": "<ffx:sadness>في بدن مركبنا فتحة بحجم بوابة سد، والحمولة كلها لكم. <ffx:wonder_light>يمكننا إنزالها هناك. سنعود سالمين إلى ديارنا، وأنتم <ffx:smile_light>احملوها ما بقي من الطريق...",
+      "reason": "إصلاح ضمائر الحمولة الناقصة وحفظ تهديد تحميلهم نقلها."
+    },
+    "2676": {
+      "decision": "change",
+      "target": "<ffx:anger_light>وألواحًا أيضًا! أحضروا كل ما لديكم من ألواح بمقاس اثنين في أربعة... <ffx:wonder>وبعض العوارض كذلك! <ffx:sadness_light>سأذهب معكم بنفسي... <ffx:smile_light>أروني ما لديكم، وسأخصم ثمنه من سعر الحمولة لاحقًا... <ffx:neutral>",
+      "reason": "two-by-fours مقاس ألواح النجارة، لا قطعتان؛ حفظ الأبعاد دون افتراض وحدة غير مذكورة."
+    },
+    "2677": {
+      "decision": "change",
+      "target": "<ffx:sadness_light>حسنًا، سأحضر الغطاء المشمّع...",
+      "reason": "توحيد tarp الخاص بإصلاح البدن."
+    },
+    "2678": {
+      "decision": "change",
+      "target": "<ffx:wonder_light>وأنت يا شورا، اذهب إلى السقيفة. <ffx:sadness_light>ثمة أخشاب إلى يسار الباب...",
+      "reason": "Shura اسم شخص شورا لا شورى المؤسسية."
+    },
+    "2679": {
+      "decision": "change",
+      "target": "<ffx:smile_light>مفهوم!",
+      "reason": "Got that إقرار بفهم الأمر لا الحصول على شيء."
+    }
+  }
+}
